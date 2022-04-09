@@ -1,0 +1,28 @@
+@import "./css-reset.css";
+
+:root {
+    --white-100: #FFFFFF;
+    --dark-900: #09090A;
+    --dark-600: #808090;
+    --green-400: #00FF47;
+    --green-white-100: #C3EFC0;
+}
+/* my own classes */
+.flex {
+    display: flex;
+}
+.flex-column {
+    flex-direction: column;
+}
+.flex-row {
+    flex-direction: row;
+}
+.justify-content-center {
+    justify-content: center;
+}
+.align-items-center {
+    align-items: center;
+}
+.justify-content-between {
+    justify-content: space-between;
+}
