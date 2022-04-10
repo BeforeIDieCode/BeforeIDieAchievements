@@ -1,0 +1,32 @@
+.nav {
+    padding: 40px 40px 0 40px;
+}
+.nav-title {
+    font-size: 1.8rem;
+    color: var(--green-400);
+}
+.navbar-nav {
+    margin-left: 140px;
+    column-gap: 25px;
+}
+.nav-item {
+    color: var(--dark-600);
+}
+.nav-item.active {
+    color: var(--green-white-100);
+    position: relative;
+}
+.nav-item.active::before {
+    content: '';
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 50%;
+    left: -30px;
+    background: var(--green-400);
+    border-radius: 5px;
+    transform: rotate(45deg) translateY(-70%);
+}
+.nav-link {
+    color: inherit;
+}
