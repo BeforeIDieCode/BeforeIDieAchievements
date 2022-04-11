@@ -7,6 +7,7 @@ const Header = () => {
   return (
     <header className={`${styles.header} flex justify-content-center`}>
         <ContainerCard>
+          <div className={styles["blur-circle-shape"]}></div>
           <Nav />
         </ContainerCard>
     </header>
