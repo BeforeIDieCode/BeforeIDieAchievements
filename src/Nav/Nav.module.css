@@ -1,5 +1,6 @@
 .nav {
     padding: 40px 40px 0 40px;
+    z-index: 2;
 }
 .nav-title {
     font-size: 1.8rem;

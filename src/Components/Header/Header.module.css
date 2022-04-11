@@ -2,6 +2,7 @@
     position: relative;
     background: var(--dark-900);
     height: 100vh;
+    overflow-x: hidden;
 }
 .blur-circle-shape {
     position: absolute;

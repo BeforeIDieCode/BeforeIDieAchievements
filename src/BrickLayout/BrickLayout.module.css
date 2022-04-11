@@ -1,0 +1,39 @@
+.brick-layout { 
+    position: absolute;
+    width: 60%;
+    height: 720px;
+    top: 0;
+    right: -150px;
+	display: flex;
+    column-gap: 15px;
+    overflow: hidden;
+}
+.brick-layout::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--dark-900);
+    opacity: .5;
+}
+.brick-column {
+    width: 100%;
+    height: 100%;
+}
+.brick-column:first-child img:first-child {
+    margin-top: -220px;
+}
+.brick-column:nth-child(2) img:first-child {
+    margin-top: -130px;
+}
+.brick-column:nth-child(2) img:nth-child(2) {
+    height: 400px;
+}
+.brick-column:nth-child(3) img:first-child {
+    margin-top: -240px;
+}
+.brick-column img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
