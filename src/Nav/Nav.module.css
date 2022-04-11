@@ -30,3 +30,7 @@
 .nav-link {
     color: inherit;
 }
+.navbar-buttons {
+    margin-left: auto;
+    column-gap: 20px;
+}
