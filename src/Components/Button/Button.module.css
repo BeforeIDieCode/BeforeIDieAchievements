@@ -5,7 +5,6 @@
 }
 .button.matrix {
     background-color: var(--green-400);
-    font-weight: 900;
     transition: .4s;
 }
 .button.matrix:hover {
