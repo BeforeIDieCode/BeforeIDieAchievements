@@ -2,9 +2,9 @@
 import styles from "./Header.module.css"
 
 // import other components
-import ContainerCard from './../../ContainerCard/ContainerCard';
-import Nav from "../../Nav/Nav"
-import BrickLayout from "../../BrickLayout/BrickLayout";
+import ContainerCard from '../ContainerCard/ContainerCard';
+import Nav from "../Nav/Nav"
+import BrickLayout from "../BrickLayout/BrickLayout";
 
 // Header component
 const Header = () => {
