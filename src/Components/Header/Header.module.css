@@ -12,5 +12,5 @@
     height: 250px;
     background: var(--green-400);
     z-index: 0;
-    filter: blur(210px);
+    filter: blur(250px);
 }
