@@ -1,0 +1,17 @@
+.header-box {
+    padding: 20px 40px;
+    row-gap: 15px;
+    text-align: center;
+}
+.header-box h1 {
+    color: var(--white-100);
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+.header-box h3 {
+    color: var(--dark-600);
+    font-size: 1.1rem;
+}
+.header-box.active-border-right {
+    border-right: 1px solid var(--green-white-100);
+}

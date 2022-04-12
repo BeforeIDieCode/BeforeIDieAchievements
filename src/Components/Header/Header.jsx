@@ -10,6 +10,7 @@ import Button from "../Button/Button";
 // import something from react packages
 import { SearchNormal1 } from "iconsax-react";
 import { Setting4 } from "iconsax-react";
+import HeaderBox from "../HeaderBox/HeaderBox";
 
 // Header component
 const Header = () => {
@@ -31,6 +32,12 @@ const Header = () => {
               <button className={`${styles["search-btn"]} flex justify-content-center align-items-center`}>
                 <Setting4 size="20" color="var(--dark-900)"/>
               </button>
+            </div>
+            <div className={`${styles["header-wrap-boxes"]} flex`}>
+              <HeaderBox number="900k+" title="Artist" />
+              <HeaderBox number="100k+" title="Wallpapers" />
+              <HeaderBox number="632k+" title="Art" />
+              <HeaderBox number="372k+" title="Auction" border_right={false} />
             </div>
           </div>
         </ContainerCard>
