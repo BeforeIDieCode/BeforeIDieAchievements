@@ -1,8 +1,8 @@
 .header {
     position: relative;
     background: var(--dark-900);
-    height: 100vh;
-    overflow-x: hidden;
+    height: 720px;
+    overflow: hidden;
 }
 .blur-circle-shape {
     position: absolute;

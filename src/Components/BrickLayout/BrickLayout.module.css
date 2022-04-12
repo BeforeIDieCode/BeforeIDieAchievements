@@ -1,7 +1,7 @@
 .brick-layout { 
     position: absolute;
     width: 60%;
-    height: 720px;
+    height: 100%;
     top: 0;
     right: -150px;
 	display: flex;
