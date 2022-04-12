@@ -5,6 +5,11 @@ import styles from "./Header.module.css"
 import ContainerCard from '../ContainerCard/ContainerCard';
 import Nav from "../Nav/Nav"
 import BrickLayout from "../BrickLayout/BrickLayout";
+import Button from "../Button/Button";
+
+// import something from react packages
+import { SearchNormal1 } from "iconsax-react";
+import { Setting4 } from "iconsax-react";
 
 // Header component
 const Header = () => {
@@ -20,6 +25,13 @@ const Header = () => {
               Artists make The Arts better <br />
               The Arts design the <span>world</span> better
             </h1>
+            <div className={`${styles["search-bar"]} flex align-items-center`}>
+              <SearchNormal1 size="30" color="var(--white-100)"/>
+              <input type="text" className={styles["search-input"]} placeholder="Search who can change the world" />
+              <button className={`${styles["search-btn"]} flex justify-content-center align-items-center`}>
+                <Setting4 size="20" color="var(--dark-900)"/>
+              </button>
+            </div>
           </div>
         </ContainerCard>
     </header>
