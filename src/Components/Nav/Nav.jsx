@@ -2,7 +2,7 @@
 import styles from "./Nav.module.css"
 
 // import other components
-import Button from "../Button/Button"
+import Button from "../Elements/Button/Button"
 
 // Nav component
 const Nav = () => {
