@@ -14,7 +14,7 @@ const HeaderBoxes = ({ titles_numbers }) => (
             <HeaderBox 
                 key={title_number.id}
                 title={title_number.title} 
-                number={`${title_number.number}k+`} 
+                number={title_number.number}
                 border_right={idx === titles_numbers.length-1 ? false : true}
             />
         ))}
