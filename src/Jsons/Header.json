@@ -1,0 +1,31 @@
+{
+    "informations": [
+        {
+            "title": "artist",
+            "number": 900
+        },
+        {
+            "title": "wallpaper",
+            "number": 124
+        },
+        {
+            "title": "art",
+            "number": 635
+        },
+        {
+            "title": "auction",
+            "number": 372
+        }
+    ],
+    "images_src": [
+        "img/dummy_image/1.jpg",
+        "img/dummy_image/2.jpg",
+        "img/dummy_image/3.jpg",
+        "img/dummy_image/4.jpg",
+        "img/dummy_image/5.jpg",
+        "img/dummy_image/6.jpg",
+        "img/dummy_image/7.jpg",
+        "img/dummy_image/8.jpg",
+        "img/dummy_image/9.jpg"
+    ]
+}
