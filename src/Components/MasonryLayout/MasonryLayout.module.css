@@ -1,0 +1,11 @@
+.my-masonry-grid {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: -30px;
+    width: auto;
+    padding: 50px;
+}
+.my-masonry-grid_column {
+    padding-left: 30px;
+}
