@@ -1,6 +1,5 @@
 .header {
     position: relative;
-    background: var(--dark-900);
     height: 720px;
     overflow: hidden;
 }

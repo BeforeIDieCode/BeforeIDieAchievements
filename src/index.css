@@ -7,6 +7,11 @@
     --green-400: #00FF47;
     --green-white-100: #C3EFC0;
 }
+
+body {
+    background: var(--dark-900);
+}
+
 /* my own classes */
 .flex {
     display: flex;
