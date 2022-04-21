@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Gallery Template Using React ✨🎊
+I'm currently learning and working ReactJs and this is my first React project.as you know It's a Gallery Template with a nice and beautiful design. You can clone it and use it as your project or connect a api to it 🤔🔥 if it has any problem or bug please tell me in Issues to fix that problem 😴🤝
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Preview
+I deploy this Gallery on [Netlify](https://chimerical-cendol-b65002.netlify.app/) so you can see online this Gallery on the [Netlify](https://chimerical-cendol-b65002.netlify.app/) or see the below preview 😉🖼
+![Gallery Desktop](https://user-images.githubusercontent.com/89915857/164554768-0c553069-068e-4b3b-b6be-3c383a76d0cf.png)
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# 📍 Instalation steps ⚙
+    clon this repo with this command: git clone https://github.com/Banana021s/Gallery-Template.git
+    go to the directory and enter: npm i
+    when all packages are completely installed enter: npm start
+# Mansonry Layout
+I use [react-masonry-css](https://github.com/paulcollett/react-masonry-css) for the Masonry Layout But if you don't like use this react package you can check [how you can implemente the masonry layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Masonry_Layout) with pure css
+# sort images ⛓
+![Screenshot 2022-04-22 020909](https://user-images.githubusercontent.com/89915857/164556569-59c8aaeb-4b06-426b-a81b-56a331ed374f.png)
+there is a dropdown that you can use it for sort the images 😉💣
+<br>
+Let's see all the features 🧐🎈
+# Features   
+- nice dark theme and design 🔥🎨✨
+- sort the images 🧮
+- responsive 📲
+- masonry layout ⛓🖼
