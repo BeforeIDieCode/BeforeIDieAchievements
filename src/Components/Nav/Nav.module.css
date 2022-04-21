@@ -35,3 +35,22 @@
     margin-left: auto;
     column-gap: 20px;
 }
+.navbar-responsive-menu {
+    display: none !important;
+}
+@media screen and (max-width: 1100px) {
+    .d-none-1100 {
+        display: none ;
+    }
+    .navbar-responsive-menu {
+        display: block !important;
+    }
+    .navbar-nav {
+        margin-left: 90px;
+    }
+}
+@media screen and (max-width: 960px) {
+    .navbar-nav {
+        display: none !important;
+    }
+}

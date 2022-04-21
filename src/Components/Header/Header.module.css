@@ -102,3 +102,27 @@
     background-size: cover;
     z-index: -1;
 }
+@media screen and (max-width: 840px) {
+    .headings-header {
+        align-items: center;
+        margin-left: 0;
+    }
+    .heading-header-title {
+        margin-left: -120px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .heading-header-title {
+        margin-left: -50px;
+    }
+    .heading-header-second-title {
+        font-size: 2rem;
+    }
+    .search-bar {
+        width: 500px;
+    }
+    .search-btn {
+        width: 40px;
+        height: 30px;
+    }
+}

@@ -15,3 +15,8 @@
 .header-box.active-border-right {
     border-right: 1px solid var(--green-white-100);
 }
+@media screen and (max-width: 700px) {
+    .header-box {
+        padding: 20px 25px;
+    }
+}
