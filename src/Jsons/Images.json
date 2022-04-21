@@ -1,142 +1,142 @@
 {
-    "all_images": [
-        {
-            "id": "wallpaper 1",
-            "src": "img/wallpapers/1.jpg",
-            "user": {
-                "src": "img/profile/1.jpg",
-                "name": "Arash",
-                "job": "Designer"
-            }
-        },
-        {
-            "id": "wallpaper 2",
-            "src": "img/wallpapers/2.jfif",
-            "user": {
-                "src": "img/profile/2.png",
-                "name": "Farbod",
-                "job": "Scientist"
-            }
-        },
-        {
-            "id": "wallpaper 3",
-            "src": "img/wallpapers/3.jpg",
-            "user": {
-                "src": "img/profile/1.jpg",
-                "name": "Anne",
-                "job": "Graphic Designer"
-            }
-        },
-        {
-            "id": "wallpaper 4",
-            "src": "img/wallpapers/4.jpg",
-            "user": {
-                "src": "img/profile/4.jpg",
-                "name": "James",
-                "job": "editor"
-            }
-        },
-        {
-            "id": "wallpaper 5",
-            "src": "img/wallpapers/5.jpg",
-            "user": {
-                "src": "img/profile/5.jpg",
-                "name": "Mary",
-                "job": "Developer"
-            }
-        },
-        {
-            "id": "wallpaper 6",
-            "src": "img/wallpapers/6.jpg",
-            "user": {
-                "src": "img/profile/3.png",
-                "name": "Patricia",
-                "job": "Front-End"
-            }
-        },
-        {
-            "id": "wallpaper 7",
-            "src": "img/wallpapers/7.png",
-            "user": {
-                "src": "img/profile/4.jpg",
-                "name": "Jennifer",
-                "job": "Front-End"
-            }
-        },
-        {
-            "id": "wallpaper 8",
-            "src": "img/wallpapers/8.jfif",
-            "user": {
-                "src": "img/profile/1.jpg",
-                "name": "Richard",
-                "job": "Product Designer"
-            }
-        },
-        {
-            "id": "wallpaper 9",
-            "src": "img/wallpapers/9.jpg",
-            "user": {
-                "src": "img/profile/2.png",
-                "name": "Joseph",
-                "job": "Designer"
-            }
-        },
-        {
-            "id": "wallpaper 10",
-            "src": "img/wallpapers/10.jfif",
-            "user": {
-                "src": "img/profile/4.jpg",
-                "name": "Charles",
-                "job": "Designer"
-            }
-        },
-        {
-            "id": "wallpaper 11",
-            "src": "img/wallpapers/11.jfif",
-            "user": {
-                "src": "img/profile/2.png",
-                "name": "Joshua",
-                "job": "Developer"
-            }
-        },
-        {
-            "id": "wallpaper 12",
-            "src": "img/wallpapers/12.jpg",
-            "user": {
-                "src": "img/profile/5.jpg",
-                "name": "Jacob",
-                "job": "Ui/Ux Designer"
-            }
-        },
-        {
-            "id": "wallpaper 13",
-            "src": "img/wallpapers/13.jpg",
-            "user": {
-                "src": "img/profile/2.png",
-                "name": "Larry",
-                "job": "photographer"
-            }
-        },
-        {
-            "id": "wallpaper 14",
-            "src": "img/wallpapers/14.jpg",
-            "user": {
-                "src": "img/profile/4.jpg",
-                "name": "Eric",
-                "job": "Editor"
-            }
-        },
-        {
-            "id": "wallpaper 15",
-            "src": "img/wallpapers/15.jpg",
-            "user": {
-                "src": "img/profile/5.jpg",
-                "name": "Justin",
-                "job": "Designer"
-            }
-        }
-    ],
     "categories": {
+        "all": [
+            {
+                "id": "wallpaper 1",
+                "src": "img/wallpapers/1.jpg",
+                "user": {
+                    "src": "img/profile/1.jpg",
+                    "name": "Arash",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 2",
+                "src": "img/wallpapers/2.jfif",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Farbod",
+                    "job": "Scientist"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/3.jpg",
+                "user": {
+                    "src": "img/profile/1.jpg",
+                    "name": "Anne",
+                    "job": "Graphic Designer"
+                }
+            },
+            {
+                "id": "wallpaper 4",
+                "src": "img/wallpapers/4.jpg",
+                "user": {
+                    "src": "img/profile/4.jpg",
+                    "name": "James",
+                    "job": "editor"
+                }
+            },
+            {
+                "id": "wallpaper 5",
+                "src": "img/wallpapers/5.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Mary",
+                    "job": "Developer"
+                }
+            },
+            {
+                "id": "wallpaper 6",
+                "src": "img/wallpapers/6.jpg",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Patricia",
+                    "job": "Front-End"
+                }
+            },
+            {
+                "id": "wallpaper 7",
+                "src": "img/wallpapers/7.png",
+                "user": {
+                    "src": "img/profile/4.jpg",
+                    "name": "Jennifer",
+                    "job": "Front-End"
+                }
+            },
+            {
+                "id": "wallpaper 8",
+                "src": "img/wallpapers/8.jfif",
+                "user": {
+                    "src": "img/profile/1.jpg",
+                    "name": "Richard",
+                    "job": "Product Designer"
+                }
+            },
+            {
+                "id": "wallpaper 9",
+                "src": "img/wallpapers/9.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Joseph",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 10",
+                "src": "img/wallpapers/10.jfif",
+                "user": {
+                    "src": "img/profile/4.jpg",
+                    "name": "Charles",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 11",
+                "src": "img/wallpapers/11.jfif",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Joshua",
+                    "job": "Developer"
+                }
+            },
+            {
+                "id": "wallpaper 12",
+                "src": "img/wallpapers/12.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Jacob",
+                    "job": "Ui/Ux Designer"
+                }
+            },
+            {
+                "id": "wallpaper 13",
+                "src": "img/wallpapers/13.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Larry",
+                    "job": "photographer"
+                }
+            },
+            {
+                "id": "wallpaper 14",
+                "src": "img/wallpapers/14.jpg",
+                "user": {
+                    "src": "img/profile/4.jpg",
+                    "name": "Eric",
+                    "job": "Editor"
+                }
+            },
+            {
+                "id": "wallpaper 15",
+                "src": "img/wallpapers/15.jpg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
+            }
+        ],
         "space": [
             {
                 "id": "wallpaper 1",

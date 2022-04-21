@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 // import styles of this component
 import styles from "./App.module.css"
 
@@ -12,6 +14,7 @@ import images from "./Jsons/Images.json"
 
 // App component
 const App = () => {
+  // dropdown items
   const ddItems = [
     {
       id: 1,
@@ -20,7 +23,7 @@ const App = () => {
     },
     {
       id: 2,
-      title: "Top Images",
+      title: "Topic Images",
       active: false
     },
     {
@@ -40,6 +43,18 @@ const App = () => {
     }
   ]
 
+  const [categoryImage, setCategoryImage] = useState(images.categories.all)
+
+  const takeDdTitle = (ddTitle) => {
+    setCategoryImage(() => {
+      let categoryChoose = Object.keys(images.categories).filter(item => {
+        const titleSplited = ddTitle.toLowerCase().split(" ")[0]
+        return item.toLowerCase().includes(titleSplited)
+      })
+      return [ ...images.categories[categoryChoose] ]
+    })
+  }
+
   return (
     <>
         <Header />
@@ -47,9 +62,9 @@ const App = () => {
           <ContainerCard>
               <div className={`${styles["gallery-setting"]} flex justify-content-between align-items-center`}>
                 <h1>All images</h1>
-                <Dropdown title="All Images" items={ddItems} />
+                <Dropdown title="All Images" items={ddItems} liftingDdTextUp={takeDdTitle} />
               </div>
-              <MasonryLayout images={images.all_images} />
+              <MasonryLayout images={categoryImage} />
           </ContainerCard>
         </div>
     </>

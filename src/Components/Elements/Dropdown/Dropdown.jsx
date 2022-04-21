@@ -11,13 +11,15 @@ import { PropTypes } from 'prop-types';
 import Button from "../Button/Button"
 
 // Dropdown Component
-const Dropdown = ({ items, title }) => {
+const Dropdown = ({ items, title, liftingDdTextUp }) => {
   const [ ddTitle, setDdTitle ] = useState(title)
   const [ddItemsState, setDdItem] = useState(items)
 
   const ddItem = (ddId, ev) => {
+    const ddTitle = ev.target.innerHTML
     activeDropDownItem(ddId)
-    setDdTitle(ev.target.innerHTML)
+    setDdTitle(ddTitle)
+    liftingDdTextUp && liftingDdTextUp(ddTitle)
   }
     
   const activeDropDownItem = (dropdownItemId) => {
@@ -52,7 +54,8 @@ const Dropdown = ({ items, title }) => {
 // validate dropdown component props
 Dropdown.propTypes  = {
   items: PropTypes.array,
-  title: PropTypes.string
+  title: PropTypes.string,
+  liftingDdTextUp: PropTypes.func
 }
 
 export default Dropdown
