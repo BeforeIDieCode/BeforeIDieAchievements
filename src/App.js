@@ -19,17 +19,12 @@ const App = () => {
     },
     {
       id: 2,
-      title: "fantesy",
+      title: "Top Images",
       active: false
     },
     {
       id: 3,
-      title: "an",
-      active: false
-    },
-    {
-      id: 4,
-      title: "boo",
+      title: "Fantesy Images",
       active: false
     }
   ]

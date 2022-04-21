@@ -5,10 +5,10 @@ import styles from "./Dropdown.module.css"
 
 // import other react pkg to use
 import { ArrowUp3 } from "iconsax-react"
+import { PropTypes } from 'prop-types';
 
 // import other component to use
 import Button from "../Button/Button"
-
 
 // Dropdown Component
 const Dropdown = ({ items, title }) => {
@@ -47,6 +47,12 @@ const Dropdown = ({ items, title }) => {
       </ul>
     </div>
   )
+}
+
+// validate dropdown component props
+Dropdown.propTypes  = {
+  items: PropTypes.array,
+  title: PropTypes.string
 }
 
 export default Dropdown
