@@ -8,7 +8,7 @@ import Masonry from "react-masonry-css"
 import MasonryBox from './MasonryBox/MasonryBox';
 
 // MasonryLayout Component
-const MasonryLayout = () => {
+const MasonryLayout = ({ images }) => {
   const breakpointColumnsObj = {
     default: 4,
     1100: 3,
@@ -22,15 +22,15 @@ const MasonryLayout = () => {
       className={styles["my-masonry-grid"]}
       columnClassName={styles["my-masonry-grid_column"]}
     >
-      <MasonryBox />
-
-      <MasonryBox />
-
-      <MasonryBox />
-
-      <MasonryBox />
-
-      <MasonryBox />
+      {images.map(item => (
+        <MasonryBox 
+          key={item.id} 
+          wallSrc={item.src} 
+          userProf={item.user.src} 
+          userName={item.user.name} 
+          userJob={item.user.job} 
+        />
+      ))}
     </Masonry>
   )
 }

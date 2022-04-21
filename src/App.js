@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 // import styles of this component
 import styles from "./App.module.css"
 
@@ -8,6 +6,9 @@ import Header from './Components/Header/Header';
 import MasonryLayout from './Components/MasonryLayout/MasonryLayout';
 import ContainerCard from './Components/ContainerCard/ContainerCard';
 import Dropdown from './Components/Elements/Dropdown/Dropdown';
+
+// import json files 
+import images from "./Jsons/Images.json"
 
 // App component
 const App = () => {
@@ -24,7 +25,17 @@ const App = () => {
     },
     {
       id: 3,
-      title: "Fantesy Images",
+      title: "Nature Images",
+      active: false
+    },
+    {
+      id: 4,
+      title: "NFT Images",
+      active: false
+    },
+    {
+      id: 5,
+      title: "Space Images",
       active: false
     }
   ]
@@ -38,7 +49,7 @@ const App = () => {
                 <h1>All images</h1>
                 <Dropdown title="All Images" items={ddItems} />
               </div>
-              <MasonryLayout />
+              <MasonryLayout images={images.all_images} />
           </ContainerCard>
         </div>
     </>

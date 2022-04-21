@@ -33,6 +33,7 @@
 .my-masnry-user-prof img {
     width: 100%;
     height: 100%;
+    object-fit: cover;
     border-radius: 10px;
 }
 .my-masnry-user-prof-desc {
