@@ -39,3 +39,9 @@
     visibility: visible;
     opacity: 1;
 }
+.dropdown-arrow-icon {
+    transition: .6s;
+}
+.dropdown:hover .dropdown-arrow-icon {
+    transform: rotate(180deg);
+}

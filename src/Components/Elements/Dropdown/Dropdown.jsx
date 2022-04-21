@@ -35,7 +35,9 @@ const Dropdown = ({ items, title, liftingDdTextUp }) => {
     <div className={styles["dropdown"]}>
       <Button theme="transparent" className="flex align-items-center">
         { ddTitle }
-        <ArrowUp3 color="var(--green-400)" />
+        <span className={styles["dropdown-arrow-icon"]}>
+          <ArrowUp3 color="var(--green-400)" />
+        </span>
       </Button>
       <ul className={styles["dropdown-menu"]}>
         {ddItemsState.map(item => (
