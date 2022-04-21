@@ -5,9 +5,9 @@ import styles from "./Button.module.css"
 import PropTypes from 'prop-types'
 
 // Button component
-const Button = ({ children, theme, onClick }) => (
-    <button 
-        className={`${styles.button} ${styles[theme]}`}
+const Button = ({ children, theme, onClick, className }) => (
+    <button
+        className={`${styles.button} ${styles[theme]} ${className}`}
         onClick={onClick}
     >
         {children}
@@ -17,7 +17,8 @@ const Button = ({ children, theme, onClick }) => (
 Button.propTypes = {
     children: PropTypes.node.isRequired,
     theme: PropTypes.string.isRequired,
-    onClick: PropTypes.func
+    onClick: PropTypes.func,
+    className: PropTypes.string
 }
 
 export default Button
