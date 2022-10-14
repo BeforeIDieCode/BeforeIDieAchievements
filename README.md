@@ -10,7 +10,7 @@ I deploy this Gallery on [Netlify](https://chimerical-cendol-b65002.netlify.app/
     go to the directory and enter: npm i
     when all packages are completely installed enter: npm start
 # Mansonry Layout
-I use [react-masonry-css](https://github.com/paulcollett/react-masonry-css) for the Masonry Layout But if you don't like use this react package you can check [how you can implemente the masonry layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Masonry_Layout) with pure css
+I use [react-masonry-css](https://github.com/paulcollett/react-masonry-css) for the Masonry Layout But if you don't like use this react package you can check [how can you implement the masonry layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Masonry_Layout) with pure css
 # sort images ⛓
 ![Screenshot 2022-04-22 020909](https://user-images.githubusercontent.com/89915857/164556569-59c8aaeb-4b06-426b-a81b-56a331ed374f.png)
 there is a dropdown that you can use it for sort the images 😉💣
