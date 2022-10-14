@@ -5,7 +5,7 @@ I'm currently learning and working ReactJs and this is my first React project.as
 I deploy this Gallery on [Netlify](https://chimerical-cendol-b65002.netlify.app/) so you can see online this Gallery on the [Netlify](https://chimerical-cendol-b65002.netlify.app/) or see the below preview 😉🖼
 ![Gallery Desktop](https://user-images.githubusercontent.com/89915857/164554768-0c553069-068e-4b3b-b6be-3c383a76d0cf.png)
 
-# 📍 Instalation steps ⚙
+# 📍 Installation steps ⚙
     clon this repo with this command: git clone https://github.com/Banana021s/Gallery-Template.git
     go to the directory and enter: npm i
     when all packages are completely installed enter: npm start
