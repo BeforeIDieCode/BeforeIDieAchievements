@@ -7,9 +7,9 @@ import styles from "./App.module.css"
 import Header from './Components/Header/Header';
 import MasonryLayout from './Components/MasonryLayout/MasonryLayout';
 import ContainerCard from './Components/ContainerCard/ContainerCard';
-import Dropdown from './Components/Elements/Dropdown/Dropdown';
 
-// import json files 
+
+// import json files
 import images from "./Jsons/Images.json"
 
 // App component
@@ -61,8 +61,6 @@ const App = () => {
         <div className="flex justify-content-center" style={{ marginTop: "50px", padding: '50px' }}>
           <ContainerCard>
               <div className={`${styles["gallery-setting"]} flex justify-content-between align-items-center`}>
-                <h1>All images</h1>
-                <Dropdown title="All Images" items={ddItems} liftingDdTextUp={takeDdTitle} />
               </div>
               <MasonryLayout images={categoryImage} />
           </ContainerCard>

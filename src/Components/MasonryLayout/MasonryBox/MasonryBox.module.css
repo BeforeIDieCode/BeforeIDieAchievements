@@ -4,6 +4,7 @@
     display: flex;
     border-radius: 10px;
     overflow: hidden;
+
 }
 .my-masnry-description {
     position: absolute;
@@ -17,6 +18,7 @@
     opacity: 0;
     visibility: hidden;
     transition: .7s;
+    background-color: rgba(255, 255, 255, 0.3);
 }
 .my-masnry-user-box {
     width: 100%;
@@ -25,10 +27,11 @@
     column-gap: 20px;
     margin-bottom: -80px;
     transition: .5s;
+
 }
 .my-masnry-user-prof {
-    width: 45px;
-    height: 45px;
+    width: 150px;
+    height: 150px;
 }
 .my-masnry-user-prof img {
     width: 100%;
@@ -38,8 +41,10 @@
 }
 .my-masnry-user-prof-desc {
     row-gap: 10px;
-    font-size: 0.8rem;
+    font-size: 1.5rem;
     text-transform: capitalize;
+    font-weight: bold;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
 }
 .my-masnry-user-prof-desc h1 {
     color: var(--green-400);
