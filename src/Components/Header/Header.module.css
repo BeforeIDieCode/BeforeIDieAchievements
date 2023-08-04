@@ -48,7 +48,7 @@
     border-radius: 4px;
 }
 .heading-header-second-title {
-    color: var(--green-white-100);
+    color: #004AAD;
     font-size: 2.3rem;
     margin-top: 30px;
     font-weight: bolder;
@@ -67,7 +67,7 @@
     background-image: url(/public/img/search/search.png);
     background-size: contain;
     background-position: center;
-    background-repeat: no-repeat;   
+    background-repeat: no-repeat;
 }
 .search-input {
     width: 100%;
