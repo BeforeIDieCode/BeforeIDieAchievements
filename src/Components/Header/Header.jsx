@@ -24,7 +24,7 @@ const Header = () => {
         <div className={`${styles["headings-header"]} flex justify-content-center flex-column `}>
 
           <h1 className={styles["heading-header-second-title"]}>
-            <span style={{ color: 'red', fontWeight: 'bold' }}>
+            <span style={{ color: 'blue', fontWeight: 'bold' }}>
               {/* Style will be inherited from the parent element */}
               <Typewriter
                 words={['Eat', 'Sleep', 'Code', 'Repeat!']}
