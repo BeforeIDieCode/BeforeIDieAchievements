@@ -4,13 +4,12 @@
     cursor: pointer;
 }
 .button.matrix {
-    background-color: var(--green-400);
-    transition: .4s;
+    background-color: #006DFF;
+    transition: .5s;
 }
 .button.matrix:hover {
-    filter: brightness(0.8);
+    filter: brightness(1);
 }
-.button.transparent {
-    background-color: transparent;
-    color: var(--white-100);
-}
+.button:hover {
+    background-color: #FEEA3A;
+  }
