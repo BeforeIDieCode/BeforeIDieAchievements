@@ -1,17 +1,17 @@
 .header {
     position: relative;
-    height: 850px;
-    overflow: hidden;
+    height: 1000px;
 }
 
 .blur-circle-shape {
     position: absolute;
     top: -125px;
     left: -125px;
+    border-bottom: 500px;
     border-radius: 100%;
     width: 861px;
     height: 351px;
-    background: var(--green-400);
+    background: yellow;
     z-index: 0;
     filter: blur(250px);
 }
@@ -42,7 +42,7 @@
 
 .heading-header-title::after {
     content: '';
-    position: absolute;
+    position: relative;
     top: 50%;
     left: -28px;
     transform: translateY(-50%) rotate(45deg);
@@ -56,91 +56,11 @@
 .heading-header-second-title {
     color: #004AAD;
     font-size: 2.3rem;
-    margin-top: 30px;
+    margin-top: 0; /* Updated */
     font-weight: bolder;
     line-height: 50px;
 }
 
 .heading-header-second-title span {
     color: var(--white-100);
-}
-
-.search-bar {
-    position: relative;
-    width: 600px;
-    height: 60px;
-    margin-top: 30px;
-    padding: 0 8px 0 20px;
-    column-gap: 20px;
-    background-image: url(/public/img/search/search.png);
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.search-input {
-    width: 100%;
-    height: 100%;
-    background-color: transparent;
-    outline: none;
-    border: none;
-    font-size: 1.1rem;
-    color: var(--white-100);
-}
-
-.search-input::placeholder {
-    color: var(--dark-600);
-}
-
-.search-btn {
-    position: relative;
-    width: 50px;
-    height: 40px;
-    border-radius: 0;
-    background-color: transparent;
-    cursor: pointer;
-}
-
-.search-btn::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url(/public/img/search/SearchButton.png);
-    background-color: transparent;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    z-index: -1;
-}
-
-@media screen and (max-width: 840px) {
-    .headings-header {
-        align-items: center;
-        margin-left: 0;
-    }
-
-    .heading-header-title {
-        margin-left: -120px;
-    }
-}
-
-@media screen and (max-width: 700px) {
-    .heading-header-title {
-        margin-left: -50px;
-    }
-
-    .heading-header-second-title {
-        font-size: 2rem;
-    }
-
-    .search-bar {
-        width: 500px;
-    }
-
-    .search-btn {
-        width: 40px;
-        height: 30px;
-    }
 }

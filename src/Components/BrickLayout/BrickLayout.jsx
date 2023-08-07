@@ -2,6 +2,8 @@ import styles from "./BrickLayout.module.css"
 
 const BrickLayout = () => {
   return (
+  <div>
+  <div className={styles["blur-circle-shape-two"]}></div>
     <div className={styles["brick-layout"]}>
       <div className={styles["brick-column"]}>
         <img src="img/dummy_image/1.jpg" alt="" />
@@ -19,6 +21,7 @@ const BrickLayout = () => {
         <img src="img/dummy_image/9.jpg" alt="" />
       </div>
     </div>
+  </div>
   )
 }
 

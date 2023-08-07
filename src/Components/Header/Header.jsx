@@ -18,6 +18,7 @@ const Header = () => {
         <div className={styles["blur-circle-shape"]}></div>
         <Nav />
         <BrickLayout />
+        <div className={styles["blur-circle-shape-two"]}></div>
         <div className={`${styles["headings-header"]} flex justify-content-center flex-column`}>
           <h1 className={styles["heading-header-second-title"]}>
             <p className="text_open-source-project" style={{ fontSize: '55px' }}>
@@ -26,15 +27,21 @@ const Header = () => {
                   color: '#006DFF',
                   fontWeight: 'bolder',
                   textDecoration: 'underline',
-                  textDecorationColor: '#FEEA3A'
+                  textDecorationColor: '#FEEA3A',
+                  fontSize: '125px',
                 }}
               >
-                An Open Source Project
+                An Open
+                <br />
+                <br />
+                Source
+                <br />
+                <br />
+                Project
               </span>{" "}
               <br />
               <br />
               <span style={{ color: '#006DFF', fontWeight: 'bold' }}>
-                {/* Style will be inherited from the parent element */}
                 <Typewriter
                   words={[
                     'to plant seeds 🌱 of inspiration.',
