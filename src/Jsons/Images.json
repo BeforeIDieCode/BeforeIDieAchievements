@@ -3,11 +3,11 @@
         "all": [
             {
                 "id": "wallpaper 1",
-                "src": "img/wallpapers/1.jpg",
+                "src": "img/wallpapers/tango.jpg",
                 "user": {
-                    "src": "img/profile/1.jpg",
-                    "name": "Arash",
-                    "job": "Designer"
+                    "src": "img/profile/Alexander_Clemens.png",
+                    "name": "Alexander Clemens",
+                    "location": "Santa Rosa de Cabal, Colombia🇨🇴"
                 }
             },
             {

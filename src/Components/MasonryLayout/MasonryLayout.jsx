@@ -23,13 +23,18 @@ const MasonryLayout = ({ images }) => {
       columnClassName={styles["my-masonry-grid_column"]}
     >
       {images.map(item => (
-        <MasonryBox 
-          key={item.id} 
-          wallSrc={item.src} 
-          userProf={item.user.src} 
-          userName={item.user.name} 
-          userJob={item.user.job} 
-        />
+        <MasonryBox
+  key={item.id}
+  wallSrc={item.src}
+  userProf={item.user.src}
+  userName={item.user.name}
+  userJob={item.user.location}
+  onClick={() => {
+    // Do something when the user clicks on the link
+  }}
+/>
+
+
       ))}
     </Masonry>
   )
