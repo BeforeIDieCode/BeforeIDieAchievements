@@ -5,7 +5,9 @@
     border-radius: 10px;
     overflow: hidden;
 }
-
+.my-masonry img:hover {
+    border: 7px solid #004AAD;
+  }
   .enlargedPhoto {
     position: fixed;
     top: 0;
