@@ -25,10 +25,10 @@ const MasonryLayout = ({ images }) => {
       {images.map(item => (
         <MasonryBox
           key={item.id}
-          wallSrc={item.src}
-          userProf={item.user.src}
-          userName={item.user.name}
-          userJob={item.user.location}
+          wallSrc={item.image}
+          userProf={item.avatar}
+          userName={item.name}
+          userJob={item.location}
         />
       ))}
     </Masonry>
