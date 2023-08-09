@@ -4,9 +4,13 @@
     display: flex;
     border-radius: 10px;
     overflow: hidden;
+  }
 
-}
-.my-masnry-description {
+  .clickable {
+    cursor: pointer;
+  }
+
+  .my-masnry-description {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -19,43 +23,54 @@
     visibility: hidden;
     transition: .7s;
     background-color: rgba(255, 255, 255, 0.3);
-}
-.my-masnry-user-box {
+  }
+
+  .my-masnry-user-box {
     width: 100%;
     padding: 0 20px;
     margin-bottom: 20px;
     column-gap: 20px;
     margin-bottom: -80px;
     transition: .5s;
+  }
 
-}
-.my-masnry-user-prof {
+  .my-masnry-user-prof {
     width: 150px;
     height: 150px;
-}
-.my-masnry-user-prof img {
+  }
+
+  .my-masnry-user-prof img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 10px;
-}
-.my-masnry-user-prof-desc {
+  }
+
+  .my-masnry-user-prof img:hover {
+    border: 5px solid rgb(254, 234, 58);
+  }
+
+  .my-masnry-user-prof-desc {
     row-gap: 10px;
     font-size: 1.5rem;
     text-transform: capitalize;
     font-weight: bold;
     text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
-}
-.my-masnry-user-prof-desc h1 {
+  }
+
+  .my-masnry-user-prof-desc h1 {
     color: var(--green-400);
-}
-.my-masnry-user-prof-desc h3 {
+  }
+
+  .my-masnry-user-prof-desc h3 {
     color: var(--dark-600);
-}
-.my-masonry:hover .my-masnry-description {
+  }
+
+  .my-masonry:hover .my-masnry-description {
     visibility: visible;
     opacity: 1;
-}
-.my-masonry:hover .my-masnry-user-box {
+  }
+
+  .my-masonry:hover .my-masnry-user-box {
     margin-bottom: 15px;
-}
+  }
