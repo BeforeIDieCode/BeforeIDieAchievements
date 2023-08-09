@@ -2,21 +2,36 @@
     padding: 40px 40px 0 40px;
     z-index: 2;
 }
+.github-link {
+    color: black;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font: bolder;
+  }
+
+.github-link:hover {
+    color: #006DFF
+}
 .nav-title {
     font-size: 1.8rem;
     color: var(--green-400);
 }
+
 .navbar-nav {
     margin-left: 140px;
     column-gap: 25px;
 }
+
 .nav-item {
     color: var(--dark-600);
 }
+
 .nav-item.active {
     color: var(--green-white-100);
     position: relative;
 }
+
 .nav-item.active::before {
     content: '';
     position: absolute;
@@ -28,9 +43,11 @@
     border-radius: 5px;
     transform: rotate(45deg) translateY(-70%);
 }
+
 .nav-link {
     color: inherit;
 }
+
 .navbar-buttons {
     margin-left: auto;
     column-gap: 20px;
@@ -39,17 +56,21 @@
 .navbar-responsive-menu {
     display: none !important;
 }
+
 @media screen and (max-width: 1100px) {
     .d-none-1100 {
-        display: none ;
+        display: none;
     }
+
     .navbar-responsive-menu {
         display: block !important;
     }
+
     .navbar-nav {
         margin-left: 90px;
     }
 }
+
 @media screen and (max-width: 960px) {
     .navbar-nav {
         display: none !important;
