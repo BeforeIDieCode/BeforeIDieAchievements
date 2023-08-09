@@ -1,14 +1,16 @@
+/* MasonryBox.module.css */
 .my-masonry {
     position: relative;
     margin-bottom: 30px;
     display: flex;
     border-radius: 10px;
     overflow: hidden;
-}
-.my-masonry img:hover {
-    border: 7px solid #004AAD;
-    cursor: pointer;
   }
+
+  .my-masonry img:hover {
+    border: 7px solid #004AAD;
+  }
+
   .enlargedPhoto {
     position: fixed;
     top: 0;
@@ -31,8 +33,24 @@
     color: white;
     font-size: 18px;
     margin-top: 20px;
+    padding: 30px;
+    background: linear-gradient(to right, #006dff, rgb(254, 234, 58));
+    float: right;
+    width: 20%; /* adjust the width as needed */
+    margin-left: 50px; /* adjust the margin as needed */
+  }
+  .enlargedPhotoTextBox {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
     text-align: center;
   }
+
   .clickable {
     cursor: pointer;
   }

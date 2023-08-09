@@ -29,6 +29,7 @@ const MasonryLayout = ({ images }) => {
           userName={item.name}
           userJob={item.location}
           githubUrl={item.GitHub}
+          userText={item.text}
         />
       ))}
     </Masonry>

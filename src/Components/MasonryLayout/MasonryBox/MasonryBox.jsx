@@ -1,3 +1,4 @@
+// MasonryBox.js
 import React, { useState } from 'react';
 import styles from './MasonryBox.module.css';
 import { PropTypes } from 'prop-types';
@@ -11,12 +12,16 @@ const MasonryBox = ({ wallSrc, userProf, userName, userJob, githubUrl, userText 
 
   const [isEnlarged, setIsEnlarged] = useState(false);
   const [isUserTextVisible, setIsUserTextVisible] = useState(true);
+  const [isTextVisible, setIsTextVisible] = useState(false);
 
   const toggleEnlarged = () => {
     setIsEnlarged(!isEnlarged);
     setIsUserTextVisible(!isUserTextVisible);
   };
 
+  const toggleText = () => {
+    setIsTextVisible(!isTextVisible);
+  };
 
   return (
     <div className={styles["my-masonry"]}>
@@ -24,7 +29,12 @@ const MasonryBox = ({ wallSrc, userProf, userName, userJob, githubUrl, userText 
       {isEnlarged && (
         <div className={styles.enlargedPhoto} onClick={toggleEnlarged}>
           <img src={wallSrc} alt="" className={styles.enlargedPhotoImage} />
-          <div className={styles.enlargedPhotoText}>{userText}</div>
+          <div className={styles.enlargedPhotoText} onClick={toggleText}>{userText}</div>
+          {isTextVisible && (
+            <div className={styles.enlargedPhotoTextBox}>
+              <p>{userText}</p>
+            </div>
+          )}
         </div>
       )}
       {isUserTextVisible && (
