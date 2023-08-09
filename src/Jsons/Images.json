@@ -1,23 +1,26 @@
 [
     {
-      "id": "wallpaper 1",
-      "image": "img/wallpapers/tango.jpg",
-      "avatar": "img/profile/Alexander_Clemens.png",
-      "name": "Alexander Clemens",
-      "location": "Santa Rosa de Cabal, Colombia🇨🇴"
+        "id": "wallpaper 1",
+        "image": "img/wallpapers/tango.jpg",
+        "avatar": "img/profile/Alexander_Clemens.png",
+        "name": "Alexander Clemens",
+        "location": "Santa Rosa de Cabal, Colombia🇨🇴",
+        "GitHub": "https://github.com/XanderRubio"
     },
     {
-      "id": "wallpaper 2",
-      "image": "img/wallpapers/tango.jpg",
-      "avatar": "img/profile/Alexander_Clemens.png",
-      "name": "Alexander Clemens",
-      "location": "Santa Rosa de Cabal, Colombia🇨🇴"
+        "id": "wallpaper 1",
+        "image": "img/wallpapers/tango.jpg",
+        "avatar": "img/profile/Alexander_Clemens.png",
+        "name": "Alexander Clemens",
+        "location": "Santa Rosa de Cabal, Colombia🇨🇴",
+        "GitHub": "https://github.com/XanderRubio"
     },
     {
-      "id": "wallpaper 3",
-      "image": "img/wallpapers/tango.jpg",
-      "avatar": "img/profile/Alexander_Clemens.png",
-      "name": "Alexander Clemens",
-      "location": "Santa Rosa de Cabal, Colombia🇨🇴"
+        "id": "wallpaper 1",
+        "image": "img/wallpapers/tango.jpg",
+        "avatar": "img/profile/Alexander_Clemens.png",
+        "name": "Alexander Clemens",
+        "location": "Santa Rosa de Cabal, Colombia🇨🇴",
+        "GitHub": "https://github.com/XanderRubio"
     }
-  ]
+]
