@@ -24,17 +24,12 @@ const MasonryLayout = ({ images }) => {
     >
       {images.map(item => (
         <MasonryBox
-  key={item.id}
-  wallSrc={item.src}
-  userProf={item.user.src}
-  userName={item.user.name}
-  userJob={item.user.location}
-  onClick={() => {
-    // Do something when the user clicks on the link
-  }}
-/>
-
-
+          key={item.id}
+          wallSrc={item.src}
+          userProf={item.user.src}
+          userName={item.user.name}
+          userJob={item.user.location}
+        />
       ))}
     </Masonry>
   )

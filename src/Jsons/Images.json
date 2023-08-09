@@ -16,7 +16,7 @@
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Farbod",
-                    "job": "Scientist"
+                    "location": "Scientist"
                 }
             },
             {
@@ -25,7 +25,7 @@
                 "user": {
                     "src": "img/profile/1.jpg",
                     "name": "Anne",
-                    "job": "Graphic Designer"
+                    "location": "Graphic Designer"
                 }
             },
             {
@@ -34,7 +34,7 @@
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "James",
-                    "job": "editor"
+                    "location": "editor"
                 }
             },
             {
@@ -43,7 +43,7 @@
                 "user": {
                     "src": "img/profile/5.jpg",
                     "name": "Mary",
-                    "job": "Developer"
+                    "location": "Developer"
                 }
             },
             {
@@ -52,7 +52,7 @@
                 "user": {
                     "src": "img/profile/3.png",
                     "name": "Patricia",
-                    "job": "Front-End"
+                    "location": "Front-End"
                 }
             },
             {
@@ -61,7 +61,7 @@
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Jennifer",
-                    "job": "Front-End"
+                    "location": "Front-End"
                 }
             },
             {
@@ -70,7 +70,7 @@
                 "user": {
                     "src": "img/profile/1.jpg",
                     "name": "Richard",
-                    "job": "Product Designer"
+                    "location": "Product Designer"
                 }
             },
             {
@@ -79,7 +79,7 @@
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Joseph",
-                    "job": "Designer"
+                    "location": "Designer"
                 }
             },
             {
@@ -88,7 +88,7 @@
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Charles",
-                    "job": "Designer"
+                    "location": "Designer"
                 }
             },
             {
@@ -97,7 +97,7 @@
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Joshua",
-                    "job": "Developer"
+                    "location": "Developer"
                 }
             },
             {
@@ -106,7 +106,7 @@
                 "user": {
                     "src": "img/profile/5.jpg",
                     "name": "Jacob",
-                    "job": "Ui/Ux Designer"
+                    "location": "Ui/Ux Designer"
                 }
             },
             {
@@ -115,7 +115,7 @@
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Larry",
-                    "job": "photographer"
+                    "location": "photographer"
                 }
             },
             {
@@ -124,7 +124,7 @@
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Eric",
-                    "job": "Editor"
+                    "location": "Editor"
                 }
             },
             {
@@ -133,7 +133,7 @@
                 "user": {
                     "src": "img/profile/5.jpg",
                     "name": "Justin",
-                    "job": "Designer"
+                    "location": "Designer"
                 }
             }
         ],
@@ -144,7 +144,7 @@
                 "user": {
                     "src": "img/profile/3.png",
                     "name": "Patricia",
-                    "job": "Front-End"
+                    "location": "Front-End"
                 }
             },
             {
@@ -153,7 +153,7 @@
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Jennifer",
-                    "job": "Front-End"
+                    "location": "Front-End"
                 }
             }
         ],
@@ -164,7 +164,7 @@
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Farbod",
-                    "job": "Scientist"
+                    "location": "Scientist"
                 }
             },
             {
@@ -173,7 +173,7 @@
                 "user": {
                     "src": "img/profile/1.jpg",
                     "name": "Anne",
-                    "job": "Graphic Designer"
+                    "location": "Graphic Designer"
                 }
             },
             {
@@ -182,7 +182,7 @@
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "James",
-                    "job": "editor"
+                    "location": "editor"
                 }
             },
             {
@@ -191,7 +191,7 @@
                 "user": {
                     "src": "img/profile/5.jpg",
                     "name": "Mary",
-                    "job": "Developer"
+                    "location": "Developer"
                 }
             },
             {
@@ -200,7 +200,7 @@
                 "user": {
                     "src": "img/profile/3.png",
                     "name": "Patricia",
-                    "job": "Front-End"
+                    "location": "Front-End"
                 }
             },
             {
@@ -209,7 +209,7 @@
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Jennifer",
-                    "job": "Front-End"
+                    "location": "Front-End"
                 }
             },
             {
@@ -218,7 +218,7 @@
                 "user": {
                     "src": "img/profile/1.jpg",
                     "name": "Richard",
-                    "job": "Product Designer"
+                    "location": "Product Designer"
                 }
             },
             {
@@ -227,7 +227,7 @@
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Joseph",
-                    "job": "Designer"
+                    "location": "Designer"
                 }
             }
         ],
@@ -238,7 +238,7 @@
                 "user": {
                     "src": "img/profile/5.jpg",
                     "name": "Jacob",
-                    "job": "Ui/Ux Designer"
+                    "location": "Ui/Ux Designer"
                 }
             },
             {
@@ -247,7 +247,7 @@
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Eric",
-                    "job": "Editor"
+                    "location": "Editor"
                 }
             },
             {
@@ -256,7 +256,7 @@
                 "user": {
                     "src": "img/profile/5.jpg",
                     "name": "Justin",
-                    "job": "Designer"
+                    "location": "Designer"
                 }
             }
         ],
@@ -267,7 +267,7 @@
                 "user": {
                     "src": "img/profile/1.jpg",
                     "name": "Richard",
-                    "job": "Product Designer"
+                    "location": "Product Designer"
                 }
             },
             {
@@ -276,7 +276,7 @@
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Joseph",
-                    "job": "Designer"
+                    "location": "Designer"
                 }
             },
             {
@@ -285,7 +285,7 @@
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Charles",
-                    "job": "Designer"
+                    "location": "Designer"
                 }
             }
         ]
