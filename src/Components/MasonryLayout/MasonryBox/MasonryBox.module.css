@@ -4,8 +4,32 @@
     display: flex;
     border-radius: 10px;
     overflow: hidden;
+}
+
+  .enlargedPhoto {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
   }
 
+  .enlargedPhotoImage {
+    max-width: 90%;
+    max-height: 90%;
+  }
+
+  .enlargedPhotoText {
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
+  }
   .clickable {
     cursor: pointer;
   }
