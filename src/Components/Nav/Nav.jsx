@@ -9,7 +9,7 @@ const Nav = () => {
 
       <div className={styles["navbar-buttons"]}>
         <Button theme="matrix">
-          <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements" style={{ color: 'black' }}>GitHub</a>
+          <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements" style={{ color: 'black' }} target="_blank">GitHub</a>
         </Button>
       </div>
 
@@ -17,4 +17,4 @@ const Nav = () => {
   );
 }
 
-export default Nav;
+export default Nav
