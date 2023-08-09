@@ -9,12 +9,14 @@ const Nav = () => {
 
       <div className={styles["navbar-buttons"]}>
         <Button theme="matrix">
-          <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements" style={{ color: 'black' }} target="_blank">GitHub</a>
+          <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements" style={{ color: 'black', display: 'flex', alignItems: 'center' }} target="_blank">
+          <img src="./img/GitHub Logo.png" alt="GitHub Logo" className={styles["github-logo"]} style={{ width: '40px', height: '40px' }} />
+            GitHub
+          </a>
         </Button>
       </div>
-
     </nav>
   );
 }
 
-export default Nav
+export default Nav;

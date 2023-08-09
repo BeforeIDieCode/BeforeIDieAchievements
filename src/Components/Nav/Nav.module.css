@@ -34,8 +34,8 @@
 .navbar-buttons {
     margin-left: auto;
     column-gap: 20px;
-    font-size: 35px;
 }
+
 .navbar-responsive-menu {
     display: none !important;
 }
