@@ -14,8 +14,9 @@ const MasonryBox = ({ wallSrc, userProf, userName, userJob, githubUrl, userText 
 
   const toggleEnlarged = () => {
     setIsEnlarged(!isEnlarged);
-    setIsUserTextVisible(!isEnlarged);
+    setIsUserTextVisible(!isUserTextVisible);
   };
+
 
   return (
     <div className={styles["my-masonry"]}>
