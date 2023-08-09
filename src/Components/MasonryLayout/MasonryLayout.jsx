@@ -10,10 +10,9 @@ import MasonryBox from './MasonryBox/MasonryBox';
 // MasonryLayout Component
 const MasonryLayout = ({ images }) => {
   const breakpointColumnsObj = {
-    default: 4,
-    1100: 3,
-    700: 2,
-    500: 1
+    default: 3,
+    1100: 2,
+    700: 1
   };
 
   return (
