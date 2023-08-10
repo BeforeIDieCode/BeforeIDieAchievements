@@ -3,7 +3,7 @@ import styles from "./App.module.css";
 import Header from './Components/Header/Header';
 import MasonryLayout from './Components/MasonryLayout/MasonryLayout';
 import ContainerCard from './Components/ContainerCard/ContainerCard';
-import images from "./Jsons/Images.json";
+import images from "./Jsons/Contributors.json";
 
 const App = () => {
   const [categoryImage, setCategoryImage] = useState(images);
