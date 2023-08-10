@@ -15,13 +15,16 @@ const MasonryLayout = ({ images }) => {
     700: 1
   };
 
+  // Shuffle the images array
+  const shuffledImages = images.sort(() => Math.random() - 0.5);
+
   return (
     <Masonry
       breakpointCols={breakpointColumnsObj}
       className={styles["my-masonry-grid"]}
       columnClassName={styles["my-masonry-grid_column"]}
     >
-      {images.map(item => (
+      {shuffledImages.map(item => (
         <MasonryBox
           key={item.id}
           wallSrc={item.image}
