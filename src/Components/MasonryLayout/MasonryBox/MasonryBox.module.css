@@ -1,128 +1,142 @@
 /* MasonryBox.module.css */
+
 .my-masonry {
-    position: relative;
-    margin-bottom: 30px;
-    display: flex;
-    border-radius: 10px;
-    overflow: hidden;
-  }
+  position: relative;
+  margin-bottom: 30px;
+  display: flex;
+  border-radius: 10px;
+  overflow: hidden;
+}
 
-  .my-masonry img:hover {
-    border: 7px solid #004AAD;
-  }
+.my-masonry img:hover {
+  border: 7px solid #004AAD;
+}
 
-  .enlargedPhoto {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: rgba(0, 0, 0, 0.8);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 999;
-  }
+.enlargedPhoto {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
 
-  .enlargedPhotoImage {
-    max-width: 90%;
-    max-height: 90%;
-  }
+.enlargedPhotoImage {
+  max-width: 90%;
+  max-height: 90%;
+}
 
-  .enlargedPhotoText {
-    color: black;
-    font-size: 18px;
-    margin-top: 20px;
-    padding: 30px;
-    background: linear-gradient(to right, #006dff, rgb(254, 234, 58));
-    float: right;
-    width: 20%; /* adjust the width as needed */
-    margin-left: 50px; /* adjust the margin as needed */
-    text-align: center; /* add this property to center the text */
-  }
-  .enlargedPhotoTextBox {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    padding: 10px;
-    background-color: black;
-    color: white;
-    font-size: 18px;
-    text-align: center;
-  }
+.enlargedPhotoText {
+  color: black;
+  font-size: 18px;
+  margin-top: 20px;
+  padding: 30px;
+  background: linear-gradient(to right, #006dff, rgb(254, 234, 58));
+  float: right;
+  width: 20%;
+  /* adjust the width as needed */
+  margin-left: 50px;
+  /* adjust the margin as needed */
+  text-align: center;
+  /* add this property to center the text */
 
-  .clickable {
-    cursor: pointer;
-  }
+}
 
-  .my-masnry-description {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 150px;
-    background: linear-gradient(to top, rgb(9, 9, 10, 0.8), transparent 100%);
-    align-items: flex-end;
-    justify-content: center;
-    opacity: 0;
-    visibility: hidden;
-    transition: .7s;
-    background-color: rgba(255, 255, 255, 0.3);
-  }
+.enlargedPhotoTextBox {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
 
-  .my-masnry-user-box {
-    width: 100%;
-    padding: 0 20px;
-    margin-bottom: 20px;
-    column-gap: 20px;
-    margin-bottom: -80px;
-    transition: .5s;
-  }
+.clickable {
+  cursor: pointer;
+}
 
-  .my-masnry-user-prof {
-    width: 150px;
-    height: 150px;
-  }
+.my-masnry-description {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 150px;
+  background: linear-gradient(to top, rgb(9, 9, 10, 0.8), transparent 100%);
+  align-items: flex-end;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: .7s;
+  background-color: rgba(255, 255, 255, 0.3);
+}
 
-  .my-masnry-user-prof img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    border-radius: 10px;
-  }
+.my-masnry-user-box {
+  width: 100%;
+  padding: 0 20px;
+  margin-bottom: 20px;
+  column-gap: 20px;
+  margin-bottom: -80px;
+  transition: .5s;
+}
 
-  .my-masnry-user-prof img:hover {
-    border: 5px solid rgb(254, 234, 58);
-  }
+.my-masnry-user-prof {
+  width: 150px;
+  height: 150px;
+}
 
-  .my-masnry-user-prof-desc {
-    row-gap: 10px;
-    font-size: 1.5rem;
-    text-transform: capitalize;
-    font-weight: bold;
-    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
-  }
+.my-masnry-user-prof img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
 
-  .my-masnry-user-prof-desc h1 {
-    color: var(--green-400);
-  }
+.my-masnry-user-prof img:hover {
+  border: 5px solid rgb(254, 234, 58);
+}
 
-  .my-masnry-user-prof-desc h3 {
-    color: var(--dark-600);
-  }
+.my-masnry-user-prof-desc {
+  row-gap: 10px;
+  font-size: 1.5rem;
+  text-transform: capitalize;
+  font-weight: bold;
 
-  .my-masonry:hover .my-masnry-description {
-    visibility: visible;
-    opacity: 1;
-  }
+}
 
-  .my-masonry:hover .my-masnry-user-box {
-    margin-bottom: 15px;
-  }
-  .boldText {
-    font-weight: bolder;
-    font-size: 25px; /* Adjust the font size as desired */
-    text-align: center;
+.my-masnry-user-prof-desc h1 {
+  color: var(--green-400);
+  text-shadow: -1px -1px 5px #FEEA3A, 1px -1px 5px #FEEA3A, -1px 1px 5px #FEEA3A, 1px 1px 5px #FEEA3A;
+}
 
-  }
+
+.my-masnry-user-prof-desc h3 {
+  color: #FEEA3A;
+  text-shadow: -1px -1px 5px #004AAD, 1px -1px 5px #004AAD, -1px 1px 5px #004AAD, 1px 1px 5px #004AAD;
+}
+
+
+.my-masonry:hover .my-masnry-description {
+  visibility: visible;
+  opacity: 1;
+}
+
+.my-masonry:hover .my-masnry-user-box {
+  margin-bottom: 15px;
+}
+
+
+.boldText {
+  font-weight: bolder;
+  font-size: 25px;
+  /* Adjust the font size as desired */
+  text-align: center;
+
+
+}

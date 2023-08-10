@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import styles from './MasonryBox.module.css';
 import { PropTypes } from 'prop-types';
 
+
 const MasonryBox = ({ wallSrc, userProf, userName, userJob, githubUrl, userText }) => {
   const handleUserProfClick = () => {
     if (githubUrl) {
