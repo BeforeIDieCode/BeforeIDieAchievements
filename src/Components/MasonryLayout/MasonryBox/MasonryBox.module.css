@@ -38,6 +38,7 @@
     float: right;
     width: 20%; /* adjust the width as needed */
     margin-left: 50px; /* adjust the margin as needed */
+    text-align: center; /* add this property to center the text */
   }
   .enlargedPhotoTextBox {
     position: absolute;
@@ -118,4 +119,10 @@
 
   .my-masonry:hover .my-masnry-user-box {
     margin-bottom: 15px;
+  }
+  .boldText {
+    font-weight: bolder;
+    font-size: 25px; /* Adjust the font size as desired */
+    text-align: center;
+
   }

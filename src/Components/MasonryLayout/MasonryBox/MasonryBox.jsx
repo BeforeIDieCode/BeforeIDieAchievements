@@ -1,4 +1,3 @@
-// MasonryBox.js
 import React, { useState } from 'react';
 import styles from './MasonryBox.module.css';
 import { PropTypes } from 'prop-types';
@@ -23,16 +22,24 @@ const MasonryBox = ({ wallSrc, userProf, userName, userJob, githubUrl, userText 
     setIsTextVisible(!isTextVisible);
   };
 
+  const presetText = (
+    <span className={styles.boldText}>
+      Before I Die <br />
+      💭 🌎 🎨 🎓 ❤️ 🌲 🏠 ✈️ 🏆 <br /> 💵 🤝 🌃 📚 🎸 🚴 🌟 🏰 🚀
+      <br />
+    </span>
+  );
+
   return (
     <div className={styles["my-masonry"]}>
       <img src={wallSrc} style={{ width: "100%" }} alt="" onClick={toggleEnlarged} />
       {isEnlarged && (
         <div className={styles.enlargedPhoto} onClick={toggleEnlarged}>
           <img src={wallSrc} alt="" className={styles.enlargedPhotoImage} />
-          <div className={styles.enlargedPhotoText} onClick={toggleText}>{userText}</div>
+          <div className={styles.enlargedPhotoText} onClick={toggleText}>{presetText} {userText}</div> {/* Add preset text here */}
           {isTextVisible && (
             <div className={styles.enlargedPhotoTextBox}>
-              <p>{userText}</p>
+              <p>{presetText} {userText}</p> {/* Add preset text here */}
             </div>
           )}
         </div>
@@ -46,7 +53,7 @@ const MasonryBox = ({ wallSrc, userProf, userName, userJob, githubUrl, userText 
               </a>
             </div>
             <div className={`${styles["my-masnry-user-prof-desc"]} flex flex-column`}>
-              <h1>{userName}</h1>
+              <h1>{userName}</h1> {/* Add preset text here */}
               <h3>{userJob}</h3>
             </div>
           </div>
