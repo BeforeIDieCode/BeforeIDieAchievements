@@ -11,11 +11,10 @@ Visit the [repository](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
 https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a8425d90-5f3e-4ee6-8499-2cf50643573c
 
 
-## Step 2. Create a new table
-The portfolio examples are enclosed between two comments:
-
-- `<! -- ⭐ PORTFOLIO START ⭐ -- >`
-- `<! -- ⭐ PORTFOLIO END ⭐ -- >`
+## Step 2. Clone, open, install and start
+Clone this repo with this command: git clone https://github.com/Banana021s/Gallery-Template.git
+go to the directory and enter: npm i
+when all packages are completely installed enter: npm start
 
 ![portfolio-comments.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538444320/u2D5Yjfpv.png)
 

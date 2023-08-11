@@ -8,11 +8,11 @@
 
 # BeforeIDieAchievements
 
-🌟 Welcome to BeforeIDieAchievements, an open source project that helps developers make their first pull request and contribute to open source projects.
+🌟 Welcome to BeforeIDieAchievements, an open source project that helps developers make their first pull request and contribute to open source projects. View the [live Link](https://before-i-die-achievements.vercel.app/).
 
 ## 🚀🎯 What is BeforeIDieAchievements?
 
-BeforeIDieAchievements is a platform for documenting your life goals. Developers can contribute by sharing what they want to do before they die with an image of their own and text to descibe what they want and are planning on doing before they die.
+BeforeIDieAchievements is a platform for documenting your life goals. Developers can contribute by sharing what they want to do before they die with an image of their own and text to describe what they want and are planning on doing before they die.
 
 ## 💡🔗 How to Contribute
 - Fork the repository
