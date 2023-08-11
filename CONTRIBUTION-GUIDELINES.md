@@ -11,11 +11,11 @@ Visit the [repository](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
 https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a8425d90-5f3e-4ee6-8499-2cf50643573c
 
 
-## Step 2. Create a new table
+## Step 2. Clone, open, install and start
 The portfolio examples are enclosed between two comments:
+![Cloning The Fork](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/36c45dbd-1fb6-4b92-98d5-59da41cd851c)
 
-- `<! -- ⭐ PORTFOLIO START ⭐ -- >`
-- `<! -- ⭐ PORTFOLIO END ⭐ -- >`
+
 
 ![portfolio-comments.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538444320/u2D5Yjfpv.png)
 
