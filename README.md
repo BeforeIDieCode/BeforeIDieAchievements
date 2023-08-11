@@ -3,6 +3,38 @@
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=social&color=004AAD" alt="Star Badge"/>
  <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/fork" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
+# BeforeIDieAchievements
+
+🌟 Welcome to BeforeIDieAchievements, an open source project that helps developers make their first pull request and contribute to open source projects.
+
+## 🚀🎯 What is BeforeIDieAchievements?
+
+BeforeIDieAchievements is a platform for documenting your life goals. Developers can contribute by sharing what they want to do before they die with an image of their own and text to descibe what they want and are planning on doing before they die.
+
+## 💡🔗 How to Contribute
+- Fork the repository
+- Clone the repository to your local machine
+- Create a new branch
+- Make your changes and commit them
+- Push your changes to your forked repository
+- Create a pull request
+
+## Getting Started
+
+To get started with BeforeIDieAchievements, simply fork the repository and start contributing! We welcome all first-time contributors and are happy to help you make your first pull request.
+
+## 🎉 License
+BeforeIDieAchievements is licensed under the MIT License. See the LICENSE file for more information.
+
+## Contributors
+We would like to thank all the contributors who have helped make BeforeIDieAchievements possible. Check out the CONTRIBUTORS file to see a list of all the amazing people who have contributed to this project.
+
+## Contact
+If you have any questions or feedback about BeforeIDieAchievements, please feel free to contact us. We would love to hear from you!
+
+Thank you for your interest in BeforeIDieAchievements. We hope you enjoy contributing to this project, documenting your life goals and starring this repository!
+
+
 
 
 Share your life goals and aspirations with others.
