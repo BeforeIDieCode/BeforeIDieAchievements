@@ -12,9 +12,10 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a8425d
 
 
 ## Step 2. Clone, open, install and start
-Clone this repo with this command: git clone https://github.com/Banana021s/Gallery-Template.git
-go to the directory and enter: npm i
-when all packages are completely installed enter: npm start
+The portfolio examples are enclosed between two comments:
+![Cloning The Fork](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/36c45dbd-1fb6-4b92-98d5-59da41cd851c)
+
+
 
 ![portfolio-comments.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538444320/u2D5Yjfpv.png)
 
