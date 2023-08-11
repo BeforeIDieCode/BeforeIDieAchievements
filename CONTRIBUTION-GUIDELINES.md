@@ -7,7 +7,8 @@
 ## Step 1. Fork this repository
 Visit the [repository](https://github.com/BeforeIDieCode/BeforeIDieAchievements) on Github and click on the Fork button. This will create a copy in your account.
 
-![fork-project](https://user-images.githubusercontent.com/62628408/164759147-84c9baa0-503e-4163-a352-6132de3b916c.png)
+
+https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a8425d90-5f3e-4ee6-8499-2cf50643573c
 
 
 ## Step 2. Create a new table
