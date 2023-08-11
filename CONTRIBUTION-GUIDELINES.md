@@ -80,4 +80,4 @@ I hope you have a lot of fun while contributing to this project, if you drew ins
 # Contributing
 
 We love pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://github.com/Evavic44/portfolio-ideas/blob/main/CODE_OF_CONDUCT.md).
+agree to abide by the [Code Of Conduct](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CODE_OF_CONDUCT.md).
