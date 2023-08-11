@@ -1,3 +1,6 @@
+<img src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/2d903a3b-50dc-409b-a64f-975142ee2b65" width="1000">
+
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=social&color=004AAD" alt="Star Badge"/>
