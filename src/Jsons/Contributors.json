@@ -4,7 +4,7 @@
         "image": "img/bid_image/Alexander_Clemens.png",
         "avatar": "img/avatar/Alexander_Clemens.png",
         "name": "Alexander Clemens",
-        "location": "Santa Rosa de Cabal, Colombia🇨🇴",
+        "location": "Santa Rosa de Cabal, Colombia 🇨🇴",
         "GitHub": "https://github.com/XanderRubio",
         "text": "Becoming a professional tango dancer and competing in Buenos Aires🇦🇷. Donating to the CORE Foundation for spinal cord injury rehabilitation in Orlando, Florida. Marrying my best friend and growing our life together. Starting and raising a family. Seeing Earth from space. Visiting the Baseball Hall of Fame with my father in Cooperstown, New York. Getting baptized in Mirror Lake, Alaska. Walking the Great Wall of China from start to finish."
     },
@@ -13,7 +13,7 @@
         "image": "img/bid_image/Diogo_Ferreira_Cavalcanti.jpg",
         "avatar": "img/avatar/Diogo_Ferreira_Cavalcanti.jpg",
         "name": "Diogo Ferreira Cavalcanti",
-        "location": "Recife, Brazil🇧🇷",
+        "location": "Recife, Brazil 🇧🇷",
         "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
         "text": "One of the things I want to do before I die is to travel to all seven continents. It's a dream that I have always had, and I believe that it will be an incredible experience to explore the diverse cultures, cuisines, and landscapes of each continent. From the majestic Amazon rainforest in South America to the stunning Great Barrier Reef in Australia, each continent offers unique and awe-inspiring experiences that I would love to witness. Traveling to all seven continents will also foster personal growth, broaden my perspective, and enhance my adaptability. It's a goal that will bring a sense of fulfillment and pride, and I am excited to embark on this remarkable journey."
     },
@@ -22,7 +22,7 @@
         "image": "img/bid_image/Jasmien_Laning.png",
         "avatar": "img/avatar/Jasmien_Laning.jpg",
         "name": "Jasmien Laning",
-        "location": "Pietersburg, South Africa🇿🇦",
+        "location": "Pietersburg, South Africa 🇿🇦",
         "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
         "text": "As an adventurous backpacker, I have long dreamt of hiking Mount Kilimanjaro. The mental and physical challenge, breathtaking landscapes, and sense of accomplishment upon reaching the summit at almost 6,000 meters make it a bucket list item I aspire to conquer. The support of porters, guides, and fellow climbers adds to the allure of this incredible journey."
     },
@@ -31,7 +31,7 @@
         "image": "img/bid_image/月井 葵.jpg",
         "avatar": "img/avatar/月井 葵.jpg",
         "name": "月井 葵",
-        "location": "Hiroshima, Japan🇯🇵",
+        "location": "Hiroshima, Japan 🇯🇵",
         "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
         "text": "I believe that Antarctica is a stunning destination that boasts incredible wildlife, majestic glaciers, and breathtaking natural beauty. I have always dreamed of visiting this remote and extreme environment on Earth, as it would be the ultimate adventure for me and provide a once-in-a-lifetime experience. Adding Antarctica to my bucket list inspires me to appreciate and protect the fragile magic of our planet."
     },
@@ -39,9 +39,27 @@
         "id": "Irakli Ignatiev",
         "image": "img/bid_image/Irakli_Ignatiev.png",
         "avatar": "img/avatar/Irakli_Ignatiev.jpg",
-        "name": "Jasmien Laning",
-        "location": "Yekaterinburg, Russia🇷🇺",
+        "name": "Irakli Ignatiev",
+        "location": "Yekaterinburg, Russia 🇷🇺",
         "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
         "text": "Playing guitar has always been my lifelong dream. The sound of the strings and the way a gifted musician can evoke emotions has always fascinated me. I want to learn to play guitar to express myself through my own lyrics and chord progressions, and keep myself connected to my passions. Making music is such a human act, and I don't want to miss out on the experience of learning an instrument. With practice and dedication, I know I could turn this dream into a reality and play my favorite songs from start to finish."
+    },
+    {
+        "id": "Ibrahim Shah",
+        "image": "img/bid_image/Ibrahim_Shah.jpg",
+        "avatar": "img/avatar/Ibrahim_Shah.jpg",
+        "name": "Ibrahim Shah",
+        "location": "Sheikhupura, Pakistan 🇵🇰",
+        "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
+        "text": "I'm enchanted by London's historic pubs, iconic landmarks, and royalty. Seeing the Crown Jewels and experiencing the Changing of the Guard at Buckingham Palace would be unforgettable. Recreating a classic red British phone booth photo is on my bucket list. London is calling my name!"
+    },
+    {
+        "id": "Maya Kaur",
+        "image": "img/bid_image/Maya_Kaur.jpg",
+        "avatar": "img/avatar/Maya_Kaur.jpg",
+        "name": "Maya Kaur",
+        "location": "Bangalore, India 🇮🇳",
+        "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
+        "text": "French pastries have enchanted me for as long as I can remember. My lifelong passion is to master the art of pâtisserie in Paris, recreating little pieces of the city in my own kitchen. Making time to appreciate life's sweet pleasures means so much to me."
     }
 ]
