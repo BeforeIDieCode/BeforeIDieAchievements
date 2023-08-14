@@ -37,7 +37,13 @@ If you have any questions or feedback about BeforeIDieAchievements, please feel 
 
 Thank you for your interest in BeforeIDieAchievements. We hope you enjoy contributing to this project, documenting your life goals and starring this repository!
 
+## Code Stack
+The project is built using the following technologies and framework:
 
+
+| React        | HTML5        | CSS3         |
+|--------------|--------------|--------------|
+| ![React Logo](https://github.com/ConwayCJ/devmoji/assets/94498167/2431cf81-adb5-4d7e-aa81-093152436547) |  ![HTML5 Logo](https://github.com/ConwayCJ/devmoji/assets/94498167/fb60bde2-1934-4c0e-98ac-c703b0abea22) | ![CSS3 Logo](https://github.com/ConwayCJ/devmoji/assets/94498167/e3822ed0-d622-44d6-a05f-e2caed910073) |
 
 
 Share your life goals and aspirations with others.

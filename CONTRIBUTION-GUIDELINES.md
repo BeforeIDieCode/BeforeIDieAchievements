@@ -155,3 +155,77 @@ I hope you have a lot of fun while contributing to this project, if you drew ins
 
 We love pull requests from everyone. By participating in this project, you
 agree to abide by the [Code Of Conduct](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CODE_OF_CONDUCT.md).
+
+# Committing & pushing changes
+
+<ol>
+   <li>Before continuing these steps, make sure your changes meet the requirements of our <a href="/style_guidelines.md">style guidelines</a></li>
+   <li>Add the changed Data.tsx file in your terminal</li>
+   <li>Commit your changes with the message "add prompt your prompt here"</li>
+   <li>Push your changes to the branch you created earlier when doing the `git checkout` command</li>
+   <li>See below for an example</li>
+</ol>
+
+- Example add/commit/push workflow:
+
+  If you're in the devmoji directory in your terminal:
+  ```javascript
+    git add src/assets/Data.tsx
+    git commit -m "Add prompt star trek"
+    git push -u origin your-branch-name
+  ```
+
+# Submit your changes for review
+
+- If you go to your GitHub repository, you'll see a `Compare & pull request` button. Click on that button.
+
+![9](https://github.com/ConwayCJ/devmoji/assets/94498167/55840d64-e494-42ea-b0b5-6d53f556ad98)
+
+
+- You should now see a new screen to create a pull request.
+<hr/>
+
+<ol>
+  <li>Check that your message matches the description of your commit message: `add prompt your-prompt-here`</li>
+  <li>Click the "create pull request" button.</li>
+</ol>
+
+<img width="800" src="https://github.com/ConwayCJ/devmoji/assets/94498167/25eb1d98-7f6e-46d9-b38b-7fe46d62a62d" alt="clone this repository" />
+
+## Thats it!
+
+Upon seeing this screen, either your contribution will be accepted and merged into the main branch, or your contribution will receive feedback and changes will be requested.
+<ol>
+  <li> In the case changes are requested, follow the same workflow to request and update your pull request.</li>
+  <li> If no changes have been requested, it will be merged into the production branch.</li>
+</ol>
+
+## Thank you for contributing!
+
+If the deployment is successful, there will be an option on the screen below to view a "preview" of your contribution before it goes to production!
+
+![6](https://github.com/ConwayCJ/devmoji/assets/94498167/239e14fc-cafe-4a46-9ceb-70c0570baa60)
+
+
+# Whats next? + Credits
+
+- Congrats! You just completed the standard fork -> clone -> edit -> pull request workflow that you'll often encounter as a contributor!
+
+- Please star this repository and share with someone you know who might enjoy contributing!
+
+## Roadmap
+
+1. &#x2611; Implement the core functionality of the project.
+2. &#x2611; Set up a GitHub repository and make it open source.
+3. &#x2611; Create a detailed README file with instructions on how to contribute.
+4. &#x2611; Add a "Credits" section for contributors' socials.
+5. &#x2611; Style the project.
+6. &#x2B55; Improve styling:
+   -  Change gradients on each page to something more distinct
+   -  Transition colors instead of a direct swap
+   -  Make getting a correct prompt more clear (replace X\O and bg color change)
+
+7. &#x2B55; Enhance user experience by implementing features such as:
+   - Tracking the number of prompts users have answered correctly & displaying unique win page.
+   - Track progress using login/DB or local storage
+
