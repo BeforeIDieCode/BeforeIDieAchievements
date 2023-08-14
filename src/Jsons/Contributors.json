@@ -1,8 +1,8 @@
 [
     {
         "id": "Alexander Clemens",
-        "image": "img/bid_image/Alexander_Clemens.png",
-        "avatar": "img/avatar/Alexander_Clemens.png",
+        "image": "img/bid_image/Alexander_Clemens.jpg",
+        "avatar": "img/avatar/Alexander_Clemens.jpg",
         "name": "Alexander Clemens",
         "location": "Santa Rosa de Cabal, Colombia 🇨🇴",
         "GitHub": "https://github.com/XanderRubio",
@@ -19,7 +19,7 @@
     },
     {
         "id": "Jasmien Laning",
-        "image": "img/bid_image/Jasmien_Laning.png",
+        "image": "img/bid_image/Jasmien_Laning.jpg",
         "avatar": "img/avatar/Jasmien_Laning.jpg",
         "name": "Jasmien Laning",
         "location": "Pietersburg, South Africa 🇿🇦",
@@ -37,7 +37,7 @@
     },
     {
         "id": "Irakli Ignatiev",
-        "image": "img/bid_image/Irakli_Ignatiev.png",
+        "image": "img/bid_image/Irakli_Ignatiev.jpg",
         "avatar": "img/avatar/Irakli_Ignatiev.jpg",
         "name": "Irakli Ignatiev",
         "location": "Yekaterinburg, Russia 🇷🇺",
@@ -63,3 +63,4 @@
         "text": "French pastries have enchanted me for as long as I can remember. My lifelong passion is to master the art of pâtisserie in Paris, recreating little pieces of the city in my own kitchen. Making time to appreciate life's sweet pleasures means so much to me."
     }
 ]
+

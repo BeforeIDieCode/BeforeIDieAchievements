@@ -20,49 +20,49 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a8425d
 
 ![portfolio-comments.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538444320/u2D5Yjfpv.png)
 
-To add a portfolio, you can either create a new table or copy an already existing table at the bottom of the list and edit it, your choice.
+[video] https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/5f7b9b7d-9770-4289-b68a-08abc7cd3b05
 
-> **Warning**
->
-> DISCLAIMER: ⚠️Portfolios should be added at bottom of the list.
 
-## Step 3. Add Portfolio Details
-In the new table, start each column with a `|` symbol followed by the column content:
+## Step 3. PASTE your JSON file
 
-### ⚡ Author Name
-Start a new line below the latest portfolio and add the author or creator of the portfolio website, like so: `| Jemima Abu`
-
-![author-name.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538578159/kX0S0PKsB.png)
-
-### ⚡Screenshot
-Take a screenshot of the homepage of the portfolio website, drag it and drop it into the screenshot column. Please before adding the screenshot, use services like [tinypng.com](https://tinypng.com) or [compressor.io](https://compressor.io) to optimize the image sizes.
-
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650495714252/NSLTPxLxe.gif" width="800px">
-
-### ⚡Live URL
-Add the live link to the portfolio website. PS: Omit the `https://` protocol on the link text.
-Example:
+* Paste the following JSON Code in src/Jsons/Contributors.json
+* Scorll to the bottom of the list and add a "," to the last JSON contributor before pasting your JSON code
 
 ```
-[victoreke.com](https://victoreke.com)
+{
+    "id": "YOUR_NAME",
+    "image": "img/bid_image/YOUR_NAME.jpg",
+    "avatar": "img/avatar/YOUR_NAME.jpg",
+    "name": "YOUR_NAME",
+    "location": "YOUR_CITY_COUNTRY_AND_FLAG",
+    "GitHub": "GITHUB_PROFILE_URL",
+    "text": "PASTE_WHAT_YOU_WANT_TO_DO_BEFORE_YOU_DIE"
+}
 ```
-<!-- ![live-url.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498090936/9SxKjCC54.gif) -->
+🛑PASTE YOUR CODE ABOVE AND BE SURE TO ADD "," BEFORE TO THE PREVIOUS CONTRIBUTORS JSON CODE🛑
 
-### ⚡Repo
-If the portfolio is available on GitHub, post the repository link, if not, just write **"None"**
+![Adding the JSON Template](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/65557bcb-a46e-4d1b-b458-2d6efd6743ad)
 
-`[GitHub](https://github.com/jemimaabu/portfolio)`
+## Step 4. FILL OUT your JSON info
+To fill out the given JSON code, follow these instructions:
+1. Replace "YOUR_NAME" with your actual name in all occurrences.
+2. Replace "YOUR_CITY_COUNTRY_AND_FLAG" with your city, country, and flag <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Flag.png" alt="White Flag" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Flag.png" alt="Black Flag" width="25" height="25" />emoji.
+3. Replace "GITHUB_PROFILE_URL" with the URL of your GitHub profile.
+4. Replace "PASTE_WHAT_YOU_WANT_TO_DO_BEFORE_YOU_DIE" with a text describing what you want to do before you die.
+* This is your time to think and reflect on what YOU want to do before you die and share it here. This text will descibe the image you upoad in the bid_image folder. Please limit your text to 130 words.
+```
+{
+  "id": "Juan Perez",
+  "image": "img/bid_image/Juan_Perez.jpg",
+  "avatar": "img/avatar/Juan_Perez.jpg",
+  "name": "Juan Perez",
+  "location": "Santiago, Chile 🇨🇱",
+  "GitHub": "https://github.com/juanperez",
+  "text": "I want to climb the Villarrica volcano before I die"
+}
+```
 
-![repository.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498457473/89BPbVRg0.png)
-
-### ⚡Tech Stack
-The next and final thing to add is the tech stack of the portfolio website. You can use [wappalyzer](https://wappalyzer.com), or any other service to detect the stack.
-
-E.g `HTML, CSS, JavaScript`
-
-## Step 4. Preview and create a PR
-Now we are done adding all the portfolio information, preview the portfolio added and make sure it corresponds with the table, then raise a pull request.
-
+## Step 4. FILL OUT your JSON info
 ## Need more help? 🤔
 If you need any adittional guide or help with any issues, feel free to contact me on [twitter](https://twitter.com/victorekea) and I'll answer ASAP. That's a promise 🤝🏽😊
 
