@@ -24,7 +24,26 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a8425d
 [video] https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/5f7b9b7d-9770-4289-b68a-08abc7cd3b05
 
 
-## Step 3. PASTE your JSON file
+## Step 3. Create a new branch
+
+Change to the repository directory on your computer (if you are not already there):
+
+```
+cd
+```
+
+Now create a branch using the `git switch` command:
+
+```
+git switch -c your-new-branch-name
+```
+
+For example:
+
+```
+git switch -c add-Xander-Clemens
+```
+## Step 4. PASTE your JSON file
 
 * Paste the following JSON Code in src/Jsons/Contributors.json
 * Scorll to the bottom of the list and add a "," to the last JSON contributor before pasting your JSON code
@@ -44,7 +63,7 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a8425d
 
 ![Adding the JSON Template](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/65557bcb-a46e-4d1b-b458-2d6efd6743ad)
 
-## Step 4. FILL OUT your JSON info
+## Step 5. FILL OUT your JSON info
 To fill out the given JSON code, follow these instructions:
 1. Replace "YOUR_NAME" with your actual name in all occurrences.
 2. Replace "YOUR_CITY_COUNTRY_AND_FLAG" with your city, country, and flag <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Flag.png" alt="White Flag" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Flag.png" alt="Black Flag" width="25" height="25" />emoji.
@@ -68,7 +87,9 @@ To fill out the given JSON code, follow these instructions:
 
 - You can add a different image if you like but make sure it is a jpeg image and that it is 450*450 pixels and following the name structure above.
 ![Saving Your GitHub Avatar](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/03b1c574-9dc9-452c-97c6-0987e0440697)
+
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Once saved, drag your image into the public/img/avatar folder. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
+
 ![Uploading Your Avatar img](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a0c08dcd-3a8b-4e87-96d0-06b277308499)
 
 
@@ -79,7 +100,48 @@ To fill out the given JSON code, follow these instructions:
 - You can playaround with how your image size effects on the photo gallery and adjust accordinally.
 
 It can be helpful to find high quality images on website for example like [UnSplash](https://unsplash.com/)  or use an AI Generative Images tool and addaionally editing your images on tools like [Canva](https://www.canva.com/) are also great to make your imagery great and meangingul to you.
+![Adding the BID Image](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/aaa18f26-cd3a-41f3-92c0-a90d7c5dd274)
 
+
+## Step 8. Git Add, Commit and Push
+Add your new changes to the branch you created using the `git add` command:
+
+```
+git add .
+```
+
+Now commit those changes using the `git commit` command:
+
+```
+git commit -m "Add your-name to Before I Die"
+```
+
+replacing `your-name` with your name.
+
+
+Push your changes using the command `git push`:
+
+```
+git push origin your-branch-name
+```
+
+replacing `your-branch-name` with the name of the branch you created earlier.
+
+## Step 9. Submit your changes for review
+
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+
+Now submit the pull request.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
+Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+
+
+<details>
+<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
 ## Need more help? 🤔
 If you need any adittional help with any issues, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alexanderclemens/) or find my contact details on my [website](https://www.xanderclemens.com/).
 
