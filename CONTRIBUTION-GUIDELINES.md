@@ -131,24 +131,22 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: center;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: center;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
 
-<details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
 ## Need more help? 🤔
 If you need any adittional help with any issues, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alexanderclemens/) or find my contact details on my [website](https://www.xanderclemens.com/).
 
 
 
 <hr>
-I hope you have a lot of fun while contributing to this project, if you drew inspiration from your time reasearching for yourself what you want to do before you die star this repo and share it with others to get them to contribute on idenitftying what it is "I want to do before I die"  on this repo. I sincerely hope you build an amazing portfolio website that will blow the recruiter or visitor's mind. Goodluck. ⚡
+I hope you have a lot of fun while contributing to this project, if you drew inspiration from your time reasearching for yourself what you want to do before you die star this repo and share it with others to get them to contribute on idenitftying what it is "I want to do before I die"  on this repo.
 
 <hr>
 <img src="https://user-images.githubusercontent.com/62628408/163662723-96f828c7-a971-473a-83a0-33d23a0f7efe.png" alt="portfolio ideas comic">
