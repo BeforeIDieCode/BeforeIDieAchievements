@@ -13,18 +13,42 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a8425d
 
 
 ## Step 2. Clone, open, install and start <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+
+Open a terminal and run the following git command:
+
+`git clone url-you-just-copied`
+where url-you-just-copied is replaced with the url to this repository (your fork of this project). See the previous steps to obtain the url.
+
 ![Git Clone](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/4545703b-5803-4f60-96d1-b00b8f3f18a1)
+Then go to the directory where the project is saved and run<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Running%20Medium-Dark%20Skin%20Tone.png" alt="Man Running Medium-Dark Skin Tone" width="25" height="25" />the following command:
+
+`npm i` to install the dependencies to be able to run the React Development Server.
+
 ![npm i](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/645f3bad-701d-42ff-ba8d-c0753d272687)
+
+Next run the following command to then begin and run the React ⚛️ Development Server:
+
+`npm start`
+
+![npm start](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/4cb46b1c-8a37-4359-ab60-54bce1c44c92)
+
+When running successfully your terminal will look like this below <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />
+
 ![Complied Successfully](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/20378a7b-9da0-4373-aeeb-f4affa4a6615)
+
+Now open a web browser and go to localhost: 3000 if not directed there from running the `npm start` command.
+
 ![localhost3000](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/b4d739ce-d89d-4383-8faf-883625951182)
 
 
 ## Step 3. Create a new branch <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Christmas%20Tree.png" alt="Christmas Tree" width="25" height="25" />
 
+Open the cloned repository in a code editor tool such as Visual Studio Code, or any other code editor of your choice. The following steps demonstrate the process using Visual Studio Code, but the same workflow applies to other code editors or using GitHub Codespaces.
+
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd
+cd BeforeIDieAchievements
 ```
 
 Now create a branch using the command:
