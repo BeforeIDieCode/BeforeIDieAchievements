@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Contribution Guidelines</h1>
-  This documentation contains a set of guidelines to help you during the contribution process of this project.
+  This documentation contains a set of guidelines to help you during the contribution process of this project. This open source project was built using the React framework and the development server will need to be started in order to view the project on your local machine.
 </div>
 <br>
 
@@ -12,9 +12,10 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a8425d
 
 
 ## Step 2. Clone, open, install and start
-The portfolio examples are enclosed between two comments:
-![Cloning The Fork](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/36c45dbd-1fb6-4b92-98d5-59da41cd851c)
-
+![Git Clone](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/4545703b-5803-4f60-96d1-b00b8f3f18a1)
+![npm i](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/645f3bad-701d-42ff-ba8d-c0753d272687)
+![Complied Successfully](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/20378a7b-9da0-4373-aeeb-f4affa4a6615)
+![localhost3000](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/b4d739ce-d89d-4383-8faf-883625951182)
 
 
 ![portfolio-comments.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538444320/u2D5Yjfpv.png)
