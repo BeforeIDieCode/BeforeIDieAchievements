@@ -41,9 +41,11 @@ Thank you for your interest in BeforeIDieAchievements. We hope you enjoy contrib
 The project is built using the following technologies and framework:
 
 
-| React        | HTML5        | CSS3         |
-|--------------|--------------|--------------|
-| ![React Logo](https://github.com/ConwayCJ/devmoji/assets/94498167/2431cf81-adb5-4d7e-aa81-093152436547) |  ![HTML5 Logo](https://github.com/ConwayCJ/devmoji/assets/94498167/fb60bde2-1934-4c0e-98ac-c703b0abea22) | ![CSS3 Logo](https://github.com/ConwayCJ/devmoji/assets/94498167/e3822ed0-d622-44d6-a05f-e2caed910073) |
+| React        | HTML5        | CSS3         | JavaScript   |
+|--------------|--------------|--------------|--------------|
+| ![React](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/b681fe95-b7e3-47cd-8a41-20db2f79a66a)
+ |![HTML](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/8f07a06b-4077-4a17-8e48-5947d3563d9c) |![CSS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/6f0b848d-3a51-448c-b064-a66befeda493) |![Javascript](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/9ae42a50-e3b9-4a64-b6a0-9727754f9ba6) |
+
 
 
 Share your life goals and aspirations with others.
@@ -56,3 +58,18 @@ Write a short text explaining your life goal.
 Connect with others who share similar aspirations.
 Use the power of community to achieve your dreams.
 Before I Die Code: a platform for documenting your life goals.
+## Roadmap
+
+1. &#x2611; Implement the core functionality of the project.
+2. &#x2611; Set up a GitHub repository and make it open source.
+3. &#x2611; Create a detailed README file with instructions on how to contribute.
+4. &#x2611; Add a "Credits" section for contributors' socials.
+5. &#x2611; Style the project.
+6. &#x2B55; Improve styling:
+   -  Change gradients on each page to something more distinct
+   -  Transition colors instead of a direct swap
+   -  Make getting a correct prompt more clear (replace X\O and bg color change)
+
+7. &#x2B55; Enhance user experience by implementing features such as:
+   - Tracking the number of prompts users have answered correctly & displaying unique win page.
+   - Track progress using login/DB or local storage
