@@ -2,16 +2,17 @@
   <h1>Contribution Guidelines</h1>
   This documentation contains a set of guidelines to help you during the contribution process of this project. This open source project was built using the React framework and the development server will need to be started in order to view the project on your local machine.
 </div>
-<br>
 
-## Step 1. Fork this repository
+---
+
+## Step 1. Fork this repository <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Fork%20and%20Knife%20with%20Plate.png" alt="Fork and Knife with Plate" width="25" height="25" />
 Visit the [repository](https://github.com/BeforeIDieCode/BeforeIDieAchievements) on Github and click on the Fork button. This will create a copy in your account.
 
 
 https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a8425d90-5f3e-4ee6-8499-2cf50643573c
 
 
-## Step 2. Clone, open, install and start
+## Step 2. Clone, open, install and start <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
 ![Git Clone](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/4545703b-5803-4f60-96d1-b00b8f3f18a1)
 ![npm i](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/645f3bad-701d-42ff-ba8d-c0753d272687)
 ![Complied Successfully](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/20378a7b-9da0-4373-aeeb-f4affa4a6615)
@@ -39,7 +40,7 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a8425d
     "text": "PASTE_WHAT_YOU_WANT_TO_DO_BEFORE_YOU_DIE"
 }
 ```
-🛑PASTE YOUR CODE ABOVE AND BE SURE TO ADD "," BEFORE TO THE PREVIOUS CONTRIBUTORS JSON CODE🛑
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />PASTE YOUR CODE ABOVE AND BE SURE TO ADD "," BEFORE TO THE PREVIOUS CONTRIBUTORS JSON CODE<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
 ![Adding the JSON Template](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/65557bcb-a46e-4d1b-b458-2d6efd6743ad)
 
@@ -62,19 +63,30 @@ To fill out the given JSON code, follow these instructions:
 }
 ```
 
-## Step 4. FILL OUT your JSON info
+## Step 6. ADD YOUR GitHub Profile Image
+- Go to your GitHub profile and then save the image of your avatar by formatting it <YOUR_NAME>.jpg. Please replace <YOUR_NAME> with your name.
+
+- You can add a different image if you like but make sure it is a jpeg image and that it is 450*450 pixels and following the name structure above.
+![Saving Your GitHub Avatar](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/03b1c574-9dc9-452c-97c6-0987e0440697)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Once saved, drag your image into the public/img/avatar folder. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
+![Uploading Your Avatar img](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a0c08dcd-3a8b-4e87-96d0-06b277308499)
+
+
+## Step 7. ADD YOUR BID (Before I Die) Image <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" />
+- Find or create an image that represents what you want to do before you die. It can be a collage if you like or a one item. Take time to refelect and make it meaningful to yourself as your investing in yourself by taking the time to contribute to this open source project and your life of defining what is meangingul and importatn to you.
+- The image should be should be formatted at least 500*500 pixels.
+- Add your image to the folder public/img/bid_image
+- You can playaround with how your image size effects on the photo gallery and adjust accordinally.
+
+It can be helpful to find high quality images on website for example like [UnSplash](https://unsplash.com/)  or use an AI Generative Images tool and addaionally editing your images on tools like [Canva](https://www.canva.com/) are also great to make your imagery great and meangingul to you.
+
 ## Need more help? 🤔
-If you need any adittional guide or help with any issues, feel free to contact me on [twitter](https://twitter.com/victorekea) and I'll answer ASAP. That's a promise 🤝🏽😊
+If you need any adittional help with any issues, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alexanderclemens/) or find my contact details on my [website](https://www.xanderclemens.com/).
 
-## Sponsor
-Wanna buy me a coffee, I'll sincerely appreciate it. Here's the link below.
 
-<a href="https://www.buymeacoffee.com/evavic44">
- <img width="150px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/127788747-8850d386-fc61-4fff-b18f-8c5ee597be34.png">
-</a>
 
 <hr>
-I hope you have a lot of fun while contributing to this project, if you drew inspiration from any portfolio on this repo, consider starring this project or sending the creator a thank you message. I sincerely hope you build an amazing portfolio website that will blow the recruiter or visitor's mind. Goodluck. ⚡
+I hope you have a lot of fun while contributing to this project, if you drew inspiration from your time reasearching for yourself what you want to do before you die star this repo and share it with others to get them to contribute on idenitftying what it is "I want to do before I die"  on this repo. I sincerely hope you build an amazing portfolio website that will blow the recruiter or visitor's mind. Goodluck. ⚡
 
 <hr>
 <img src="https://user-images.githubusercontent.com/62628408/163662723-96f828c7-a971-473a-83a0-33d23a0f7efe.png" alt="portfolio ideas comic">
