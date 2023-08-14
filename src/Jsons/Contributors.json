@@ -61,6 +61,14 @@
         "location": "Bangalore, India 🇮🇳",
         "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
         "text": "French pastries have enchanted me for as long as I can remember. My lifelong passion is to master the art of pâtisserie in Paris, recreating little pieces of the city in my own kitchen. Making time to appreciate life's sweet pleasures means so much to me."
-    }
+    },
+    {
+        "id": "Chen Mei-Ling",
+        "image": "img/bid_image/Chen_Mei-Ling.jpg",
+        "avatar": "img/avatar/Chen_Mei-Ling.jpg",
+        "name": "Chen Mei-Ling",
+        "location": "Taipei, Taiwan 🇹🇼",
+        "GitHub": "https://github.com/chenmeiling",
+        "text": "I want to hike to the top of Yushan before I die"
+      }
 ]
-
