@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Contribution Guidelines</h1>
-  This documentation contains a set of guidelines to help you during the contribution process of this project. This open source project was built using the React framework and the development server will need to be started in order to view the project on your local machine.
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" />Contribution Guidelines<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" /></h1>
+  This documentation contains a set of guidelines to help you during the contribution process of this project. This open<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />source project was built using the React framework and the development server will need to be started in order to view the project on your local machine.
 </div>
 
 ---
@@ -78,23 +78,23 @@ To fill out the given JSON code, follow these instructions:
 ```
 
 ## Step 6. ADD YOUR GitHub Profile Image <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" />
-- Go to your GitHub profile and then save the image of your avatar by formatting it <YOUR_NAME>.jpg. Please replace <YOUR_NAME> with your name.
+- Go to your GitHub profile and then save the image of your avatar by formatting it <YOUR_NAME>.jpg. Please replace `<YOUR_NAME>` with your name.
 
-- You can add a different image if you like but make sure it is a jpeg image and that it is 450*450 pixels and following the name structure above.
+- You can add a different image if you like but make sure it is a jpeg image and that it is `450*450` pixels and following the name structure above.
 ![Saving Your GitHub Avatar](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/03b1c574-9dc9-452c-97c6-0987e0440697)
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Once saved, drag your image into the public/img/avatar folder. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Once saved, drag your image into the `public/img/avatar folder`. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
 
 ![Uploading Your Avatar img](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a0c08dcd-3a8b-4e87-96d0-06b277308499)
 
 
 ## Step 7. ADD YOUR BID (Before I Die) Image <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" />
-- Find or create an image that represents what you want to do before you die. It can be a collage if you like or a one item. Take time to refelect and make it meaningful to yourself as your investing in yourself by taking the time to contribute to this open source project and your life of defining what is meangingul and importatn to you.
-- The image should be should be formatted at least 500*500 pixels.
-- Add your image to the folder public/img/bid_image
-- You can playaround with how your image size effects on the photo gallery and adjust accordinally.
+- Find or create an image that represents what you want to do before you die. It can be a collage or a single item. Take time to reflect and make it meaningful to yourself as you are investing in yourself by contributing to this open-source project and defining what is meaningful and important to you.
+- The image should be formatted at least `500*500` pixels.
+- Add your image to the folder `public/img/bid_image`.
+- You can play around with how your image size affects the photo gallery and adjust accordingly.
+It can be helpful to find high-quality images on websites like [UnSplash](https://unsplash.com/) or use AI Generative Images tools. Additionally, editing your images on tools like [Canva](https://www.canva.com/) can make your imagery great and meaningful to you.
 
-It can be helpful to find high quality images on website for example like [UnSplash](https://unsplash.com/)  or use an AI Generative Images tool and addaionally editing your images on tools like [Canva](https://www.canva.com/) are also great to make your imagery great and meangingul to you.
 ![Adding the BID Image](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/aaa18f26-cd3a-41f3-92c0-a90d7c5dd274)
 
 
@@ -120,14 +120,14 @@ Push your changes using the command `git push`:
 git push origin your-branch-name
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+Replacing `your-branch-name` with the name of the branch you created earlier.
 
 <ol>
    <li>Before continuing these steps, make sure your changes meet the requirements of our <a href="/style_guidelines.md">style guidelines</a></li>
    <li>Add the an avatar image, bid(Before I Die) image and all your JSON text has been entered correctly an is displaying correctly on your React development server </li>
    <li>Commit your changes with the message "add prompt your prompt here"</li>
    <li>Push your changes to the branch you created earlier when doing the `git checkout` command</li>
-   <li>See below for an example</li>
+   <li>See below for an example<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /></li>
 </ol>
 
 ### Example add/commit/push workflow:
@@ -151,15 +151,15 @@ Now submit the pull request by clicking on the `Create pull request` button. Be 
 ![Submit A Pull Request](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/e1cbee74-e2e2-4904-948f-77e6b0c73a8e)
 
 
-If the deployment is successful, there will be an option on the screen below to view a "preview" of your contribution before it goes to production!
+If the deployment is successful, there will be an option on the screen below to view a "preview" of your contribution before it goes to production!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
 
 ![Uploading After Creating Pull Request](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/271bda42-25d8-416d-ad81-9b4fbd9fa545)
 Upon seeing this screen, either your contribution will be accepted and merged into the main branch, or your contribution will receive feedback and changes will be requested.
-I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="25" height="25" />
 
 <ol>
   <li> In the case changes are requested, follow the same workflow to request and update your pull request.</li>
-  <li> If no changes have been requested, it will be merged into the production branch.</li>
+  <li> If no changes have been requested, it will be merged into the production branch.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /></li>
 </ol>
 
 ## Need more help? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Facepalming.png" alt="Person Facepalming" width="25" height="25" />
@@ -176,4 +176,4 @@ I hope you have a lot of fun while contributing to this project, if you drew ins
 # Contributing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Factory%20Worker.png" alt="Woman Factory Worker" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Factory%20Worker.png" alt="Factory Worker" width="25" height="25" />
 
 We love <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Heart%20Suit.png" alt="Heart Suit" width="25" height="25" /> pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CODE_OF_CONDUCT.md). Please continue to add this project be looking at the RoadMap of this project in addiion creating issues to enhance this project further with features. 
+agree to abide by the [Code Of Conduct](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CODE_OF_CONDUCT.md). Please continue to add this project be looking at the RoadMap of this project in addiion creating issues to enhance this project further with features.
