@@ -43,8 +43,7 @@ The project is built using the following technologies and framework:
 
 | React        | HTML5        | CSS3         | JavaScript   |
 |--------------|--------------|--------------|--------------|
-| ![React](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/b681fe95-b7e3-47cd-8a41-20db2f79a66a)
- |![HTML](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/8f07a06b-4077-4a17-8e48-5947d3563d9c) |![CSS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/6f0b848d-3a51-448c-b064-a66befeda493) |![Javascript](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/9ae42a50-e3b9-4a64-b6a0-9727754f9ba6) |
+| ![React](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/b681fe95-b7e3-47cd-8a41-20db2f79a66a) |![HTML](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/8f07a06b-4077-4a17-8e48-5947d3563d9c) |![CSS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/6f0b848d-3a51-448c-b064-a66befeda493) |![Javascript](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/9ae42a50-e3b9-4a64-b6a0-9727754f9ba6) |
 
 
 
