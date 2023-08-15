@@ -122,8 +122,53 @@ It can be helpful to find high-quality images on websites like [UnSplash](https:
 
 ![Adding the BID Image](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/aaa18f26-cd3a-41f3-92c0-a90d7c5dd274)
 
+## Step 8. ADD to the CONTRIBUTORS.md file
 
-## Step 8. Git Add, Commit and Push <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />
+Copy the code below, then paste it into the <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md">CONTRIBUTORS</a> file of this repo. Be sure to paste it below another contributors end column. And then proceed to edit with your own information.
+
+```html
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/GITHUB_ACCOUNT">
+    <img
+      src="YOUR_GITHUB_AVATAR_LINK"
+      width="100px"
+    />
+    <br />
+    <sub>YOUR_NAME</sub>
+  </a>
+</td>
+<!-- End of column -->
+```
+
+<br>
+
+### A few things to change:
+
+- Replace the link with your own profile link
+  `<a href="your GitHub profile link here"></a>`
+
+- Right click on your github profile image and copy the image link and paste inside the `img` tag. Leave the `width="100px"` property
+
+```html
+<img src="YOUR_GITHUB_AVATAR_LINK" width="100px" />
+```
+
+Just go to your GitHub profile page to get your profile image and link.
+
+<img src="https://user-images.githubusercontent.com/62628408/147896530-f94c17f7-f064-4e8d-8bc1-af2c1f63559d.png" width="100%" alt="profile_page">
+
+- Replace the sub tag with your own name.
+
+```html
+<sub>Your Name</sub>
+```
+
+Then save your changes.
+
+<br>
+
+## Step 9. Git Add, Commit and Push <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />
 Add your new changes to the branch you created using the `git add` command:
 
 ```javascript
@@ -165,7 +210,7 @@ Replacing `your-branch-name` with the name of the branch you created earlier.
   ```
 
 
-## Step 9. Submit your changes for review <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" />
+## Step 10. Submit your changes for review <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" />
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
