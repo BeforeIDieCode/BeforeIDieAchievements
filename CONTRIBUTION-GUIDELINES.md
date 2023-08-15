@@ -148,10 +148,10 @@ git push origin your-branch-name
 Replacing `your-branch-name` with the name of the branch you created earlier.
 
 <ol>
-   <li>Before continuing these steps, make sure your changes meet the requirements of our <a href="/style_guidelines.md">style guidelines</a></li>
-   <li>Add the an avatar image, bid(Before I Die) image and all your JSON text has been entered correctly an is displaying correctly on your React development server </li>
-   <li>Commit your changes with the message "add prompt your prompt here"</li>
-   <li>Push your changes to the branch you created earlier when doing the `git checkout` command</li>
+   <li>Before continuing these steps, make sure your changes meet the requirements from the previous steps<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Walking%20Light%20Skin%20Tone.png" alt="Man Walking Light Skin Tone" width="25" height="25" /></a></li>
+   <li>Ensure you have added the avatar image, bid(Before I Die) image and all your JSON text has been entered correctly an is displaying correctly on your React development server <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /></li>
+   <li>Commit your changes with the message "add prompt your prompt here" <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /></li>
+   <li>Push your changes to the branch you created earlier when doing the `git checkout` command <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Box%20with%20Check.png" alt="Check Box with Check" width="25" height="25" /></li>
    <li>See below for an example<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /></li>
 </ol>
 
