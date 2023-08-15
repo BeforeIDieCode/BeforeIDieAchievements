@@ -88,7 +88,7 @@ To fill out the given JSON code, follow these instructions:
 2. Replace "YOUR_CITY_COUNTRY_AND_FLAG" with your city, country, and flag <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Flag.png" alt="White Flag" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Flag.png" alt="Black Flag" width="25" height="25" />emoji.
 3. Replace "GITHUB_PROFILE_URL" with the URL of your GitHub profile.
 4. Replace "PASTE_WHAT_YOU_WANT_TO_DO_BEFORE_YOU_DIE" with a text describing what you want to do before you die.
-* This is your time to think and reflect on what YOU want to do before you die and share it here. This text will descibe the image you upoad in the bid_image folder. Please limit your text to 130 words.
+* This is your time to think <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> and reflect on what YOU want to do before you die and share it here. This text will describe the image you upload in the bid_image folder. Please limit your text to 130 words.
 ```
 {
   "id": "Juan Perez",
@@ -105,6 +105,7 @@ To fill out the given JSON code, follow these instructions:
 - Go to your GitHub profile and then save the image of your avatar by formatting it <YOUR_NAME>.jpg. Please replace `<YOUR_NAME>` with your name.
 
 - You can add a different image if you like but make sure it is a jpeg image and that it is `450*450` pixels and following the name structure above.
+
 ![Saving Your GitHub Avatar](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/03b1c574-9dc9-452c-97c6-0987e0440697)
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Once saved, drag your image into the `public/img/avatar folder`. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
@@ -194,10 +195,10 @@ If you need any additional help with any issues, feel free to contact me on [Lin
 
 - Please star <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> this repository and share with someone you know who might enjoy contributing!
 
-I hope you have a lot of fun while contributing to this project, if you drew inspiration from your time reasearching for yourself what you want to do before you die star this repo and share it with others to get them to contribute on idenitftying what it is "I want to do before I die"  on this repo.
+I hope you have a lot of fun while contributing to this project, if you drew inspiration from your time researching for yourself what you want to do before you die star this repo and share it with others to get them to contribute on identifying what it is "I want to do before I die"  on this repo.
 
 
 # Contributing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Factory%20Worker.png" alt="Woman Factory Worker" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Factory%20Worker.png" alt="Factory Worker" width="25" height="25" />
 
 We love <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Heart%20Suit.png" alt="Heart Suit" width="25" height="25" /> pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CODE_OF_CONDUCT.md). Please continue to add this project be looking at the RoadMap of this project in addiion creating issues to enhance this project further with features.
+agree to abide by the [Code Of Conduct](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CODE_OF_CONDUCT.md). Please continue to add this project be looking at the RoadMap <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" /> of this project in addition creating issues to enhance this project further with features.
