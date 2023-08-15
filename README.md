@@ -17,7 +17,7 @@ BeforeIDieAchievements is a platform to assist developers in getting involved in
 ## 💡🔗 How to Contribute
 Thank you for your interest in contributing to our open source project! We welcome contributions from software engineers like you. Here's how you can get started:
 1. Check the [CONTRIBUTION_GUIDELINES](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md): This file contains instructions on how to contribute to the project. It provides details on the specific requirements for adding your "Before I Die" image and text to our photo gallery<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" />. Make sure to follow these guidelines to ensure your contribution is accepted<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="25" height="25" />.
-2. Enhance the project: Take a look at the [open issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues) and [ROADMAP]() for the project. These are areas where you can contribute and make a difference. Choose an issue or task that aligns with your skills and interests. You can start by commenting on the issue to express your interest in working on it.
+2. Enhance the project: Take a look at the [open issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues) and [ROADMAP](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/ROADMAP.md) for the project. These are areas where you can contribute and make a difference. Choose an issue or task that aligns with your skills and interests. You can start by commenting on the issue to express your interest in working on it.
 3. Create your own issue: If you have ideas of your own <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" /> to enhance the project, don't hesitate to create your own issue. Describe your idea and the improvements you would like to make. This allows others to collaborate with you and provide feedback. Together, we can continually sharpen and improve our skills.
 4. Submit your contribution: Once you have made your changes or additions, submit your contribution following the guidelines provided in the [CONTRIBUTION_GUIDELINES](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md).
 
@@ -32,7 +32,7 @@ To get started with BeforeIDieAchievements, simply fork <img src="https://raw.gi
 BeforeIDieAchievements is licensed under the MIT License. See the [LICENSE](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/LICENSE) file for more information.
 
 ## Contributors
-We would like to thank all the contributors who have helped make BeforeIDieAchievements possible. Check out the CONTRIBUTORS file to see a list of all the amazing people who have contributed to this project.
+We would like to thank all the contributors who have helped make BeforeIDieAchievements possible. Check out the [CONTRIBUTORS]() file to see a list of all the amazing people who have contributed to this project.
 
 ## Contact
 If you have any questions or feedback about BeforeIDieAchievements, please feel free to contact us. We would love to hear from you!
@@ -46,5 +46,3 @@ The project is built using the following technologies and framework:
 | [React](https://reactjs.org/) | [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Vercel](https://vercel.com/) |
 |--------------|--------------|--------------|--------------|----------|
 | ![React](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/b681fe95-b7e3-47cd-8a41-20db2f79a66a) |![HTML](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/8f07a06b-4077-4a17-8e48-5947d3563d9c) |![CSS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/6f0b848d-3a51-448c-b064-a66befeda493) |![Javascript](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/9ae42a50-e3b9-4a64-b6a0-9727754f9ba6) | ![Vercel Logo](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/ede31c78-f092-4ffd-946b-4f6fda32885e) |
-
-

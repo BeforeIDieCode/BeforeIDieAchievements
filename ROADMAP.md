@@ -1,6 +1,11 @@
 # Road Map <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" alt="Automobile" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Auto%20Rickshaw.png" alt="Auto Rickshaw" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bus.png" alt="Bus" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" />
 
-The following are a list of ideas to get started and thinking about how to continue to grow and build upon this project.
+The goals <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" /> and focus of this project are:
+1. To teach developers how to contribute to an open source project.
+2. To encourage contributors to take time to reflect on what is important to them in their life and define that.
+3. To use knowledge, skills, and teamwork to continue to build and evolve this project into a repository project from an organization that assists with creating an open source project to facilitate learning during the development and building phase of an open source project to help with keeping developers skills sharpe<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Kitchen%20Knife.png" alt="Kitchen Knife" width="25" height="25" />.
+
+The following are a list of ideas to get started and thinking <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" alt="Owl" width="25" height="25" /> about how to continue to grow and build upon this project.
 
 
 - Ensure responsive screen adaptation to make the Before I Die Code show up well on mobile and other screen sizes.
