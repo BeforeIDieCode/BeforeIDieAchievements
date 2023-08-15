@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=social&color=004AAD" alt="Star Badge"/>
 <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/fork" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<img src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/412593b1-cd26-4f9c-864b-4a35e1d455fc width="1000">
+
+https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/69f2cac2-e8cb-4d6c-9ffd-5588c6aebb73
 
 # BeforeIDieAchievements
 
