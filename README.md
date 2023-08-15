@@ -41,9 +41,9 @@ Thank you for your interest in BeforeIDieAchievements. We hope you enjoy contrib
 The project is built using the following technologies and framework:
 
 
-| React        | HTML5        | CSS3         | JavaScript   |
-|--------------|--------------|--------------|--------------|
-| ![React](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/b681fe95-b7e3-47cd-8a41-20db2f79a66a) |![HTML](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/8f07a06b-4077-4a17-8e48-5947d3563d9c) |![CSS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/6f0b848d-3a51-448c-b064-a66befeda493) |![Javascript](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/9ae42a50-e3b9-4a64-b6a0-9727754f9ba6) |
+| [React](https://reactjs.org/) | [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Vercel](https://vercel.com/) |
+|--------------|--------------|--------------|--------------|----------|
+| ![React](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/b681fe95-b7e3-47cd-8a41-20db2f79a66a) |![HTML](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/8f07a06b-4077-4a17-8e48-5947d3563d9c) |![CSS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/6f0b848d-3a51-448c-b064-a66befeda493) |![Javascript](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/9ae42a50-e3b9-4a64-b6a0-9727754f9ba6) | ![Vercel Logo](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/ede31c78-f092-4ffd-946b-4f6fda32885e) |
 
 
 
