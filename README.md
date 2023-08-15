@@ -32,7 +32,7 @@ To get started with BeforeIDieAchievements, simply fork <img src="https://raw.gi
 BeforeIDieAchievements is licensed under the MIT License. See the [LICENSE](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/LICENSE) file for more information.
 
 ## Contributors
-We would like to thank all the contributors who have helped make BeforeIDieAchievements possible. Check out the [CONTRIBUTORS]() file to see a list of all the amazing people who have contributed to this project.
+We would like to thank all the contributors who have helped make BeforeIDieAchievements possible. Check out the [CONTRIBUTORS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md) file to see a list of all the amazing people who have contributed to this project.
 
 ## Contact
 If you have any questions or feedback about BeforeIDieAchievements, please feel free to contact us. We would love to hear from you!
