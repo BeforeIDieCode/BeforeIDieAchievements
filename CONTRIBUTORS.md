@@ -28,5 +28,13 @@
       </a>
     </td>
     <!-- End of column-3 -->
+    <!-- Start of column-4 -->
+    <td align="center">
+      <a href="https://github.com/Tarikul-Islam-Anik">
+        <img src="https://avatars.githubusercontent.com/u/29859619?v=4" width="100px"> <br/>
+        <sub>Tarikul Islam Anik</sub>
+      </a>
+    </td>
+    <!-- End of column-4 -->
   </tr>
 </table>
