@@ -17,6 +17,7 @@ The following are a list of ideas to get started and thinking <img src="https://
 - Once enough user data has been received, add Python code and libraries to extract data to display the most common or unique activities individuals want to do before they die.
 - Enhance the user interface by changing the font of the Before I Die text that displays when clicking on a contributor's Before I Die image.
 - Enhance the dummy images that show up when first visiting the website and have them change every time from a large library of images (could be from other previous contributors) to select from that represent unique and meaningful activities to complete before dying.
+- Translate the README file and additional codumentation for this repository in other languages. A model of similar work can be seen from the [first-contributions repository](https://github.com/firstcontributions/first-contributions)
 - Add a clickable page on the website that documents how to create a pull request and contribute to open source projects. This can be documented and YouTube links added to communicate well how to do this process.
 - Add AI and other new technologies into this project from our community of contributors to test and also enhance the project with creative ideas.
 - Create a feature that allows users to set reminders or notifications for their goals. This could help users stay on track and motivated to achieve their goals.
