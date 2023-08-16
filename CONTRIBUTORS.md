@@ -36,5 +36,17 @@
       </a>
     </td>
     <!-- End of column-4 -->
+    <!-- Start of column -->
+    <td align="center">
+      <a href="https://github.com/69966969">
+        <img
+          src="https://avatars.githubusercontent.com/u/131755129?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Artis Lotko</sub>
+      </a>
+    </td>
+    <!-- End of column -->
   </tr>
 </table>

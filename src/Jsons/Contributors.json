@@ -70,5 +70,14 @@
         "location": "Taipei, Taiwan 🇹🇼",
         "GitHub": "https://github.com/chenmeiling",
         "text": "I want to hike to the top of Yushan before I die"
-      }
+    },
+    {
+        "id": "Artis Lotko",
+        "image": "img/bid_image/Artis_Lotko.jpg",
+        "avatar": "img/avatar/Artis_Lotko.jpg",
+        "name": "Artis Lotko",
+        "location": "Latvia, Riga, 🇱🇻",
+        "GitHub": "https://github.com/69966969",
+        "text": "To emigrate to New Zealand"
+    }
 ]
