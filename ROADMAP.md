@@ -35,3 +35,15 @@ Integrate with wearable devices like smart watches to track progress on fitness/
 - Build browser extension to capture goals/ideas and share quickly with BeforeIDie.
 - Add multimedia options - videos, audio, images to augment text goals.
 - Analyze data to identify trends and correlations between demographics, interests etc. and goals.
+<br>
+#### Review the CONTRIBUTION_GUIDELINE to make sure that it covers and answers the following:
+- Technologies used
+- How to report bugs
+- How to propose new features
+- How to open a pull request
+- How to claim an issue or task
+ Environment set up
+- Style guide/code conventions
+- Link to a discussion forum or how people can ask for help
+- Project architecture (nice to have)
+- Known issues
