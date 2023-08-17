@@ -48,5 +48,17 @@
       </a>
     </td>
     <!-- End of column -->
+    <!-- Start of column -->
+    <td align="center">
+      <a href="https://github.com/Agoews">
+        <img
+          src="https://avatars.githubusercontent.com/u/113994972?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>George Halterman</sub>
+      </a>
+    </td>
+    <!-- End of column -->
   </tr>
 </table>
