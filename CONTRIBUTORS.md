@@ -60,5 +60,17 @@
       </a>
     </td>
     <!-- End of column -->
+    <!-- Start of column -->
+    <td align="center">
+      <a href="https://github.com/addielb">
+        <img
+          src="https://avatars.githubusercontent.com/u/111605723?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Addie Lopshire-Bratt</sub>
+      </a>
+    </td>
+    <!-- End of column -->
   </tr>
 </table>
