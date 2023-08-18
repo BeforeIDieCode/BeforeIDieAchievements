@@ -88,5 +88,14 @@
         "location": "California, USA 🇺🇸",
         "GitHub": "https://github.com/Agoews",
         "text": "To do every 4 star hike in Yosemite and live in the Eastern Sierras."
+    },
+    {
+        "id": "Addie Lopshire-Bratt",
+        "image": "img/bid_image/Addie_Lopshire-Bratt.jpg",
+        "avatar": "img/avatar/Addie_Lopshire-Bratt.jpg",
+        "name": "Addie Lopshire-Bratt",
+        "location": "Denver, USA 🇺🇸",
+        "GitHub": "https://github.com/addielb",
+        "text": "To live in Amsterdam and spend my free time exploring the Netherlands."
     }
 ]
