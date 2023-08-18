@@ -35,6 +35,7 @@ Integrate with wearable devices like smart watches to track progress on fitness/
 - Build browser extension to capture goals/ideas and share quickly with BeforeIDie.
 - Add multimedia options - videos, audio, images to augment text goals.
 - Analyze data to identify trends and correlations between demographics, interests etc. and goals.
+- using the Python for analyzing the data of contributors' locations in your open-source project and creating a high-quality UI design map to display their locations, you can use the Python library called ["Leafmap"](https://leafmap.org/).
 <br>
 #### Review the CONTRIBUTION_GUIDELINE to make sure that it covers and answers the following:
 - Technologies used
