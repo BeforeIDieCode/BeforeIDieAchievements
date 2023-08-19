@@ -1,6 +1,6 @@
 Sitting with hospice patients in Altamonte Springs, Florida, in their final moments profoundly changed my perspective on life when I was 23. During my training, we did an exercise where we wrote our bucket lists and shared them aloud. As we went around the room, I realized that whether you’re 25 or 95, we all have dreams we long to fulfill before our time is up.
 
-![Bucket List](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h284lf06pe59asp9ndap.png align="left")
+<img width="963" alt="Alexander Clemens Bucketlist back in 2017" src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/1d7100ba-ef80-493e-8a4f-1fbce67a949c">
 
 My bucket list from 2017 and when I was a volunteer at Hospice of the Comforter in Altamonte Springs, Florida.
 
@@ -16,7 +16,8 @@ I traveled across all continents, my phone in hand, [collecting these stories](h
 
 This experience showed me the power of reflecting deeply on the question: What matters most? It binds our shared humanity. We all want to love, create, connect, explore, and leave a positive mark on this world.
 
-![The Before I Die Wall](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cs37hporsixtpm2pgeku.jpg align="left")
+![Before I Die Wall](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/9a413f04-5bcc-43b3-ad4e-84e51776d6f0)
+<img width="1439" alt="RoadMap" src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/ad7351b9-7731-4946-b1ba-bec100638730">
 
 Photo by Megan Bucknall on Unsplash
 
@@ -87,7 +88,7 @@ The beginning of this project I can credit the GitHub user [Arash](https://githu
 
 Most of my research and additions of specific code blocks came from using [Perplexity.ai](http://Perplexity.ai), an AI-powered search engine and information discovery tool. For example, this led me to configure and utilize the code block in my MasonryLayout.jsx component (located in the src/Components/MasonryLayout/MasonryLayout.jsx of the project) for randomizing the contributor’s images every time a user views or refreshes the webpage.
 
-%[https://youtu.be/XbAL3ajad3c]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XbAL3ajad3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### The React.jsx code that I used for this component
 
@@ -145,11 +146,11 @@ export default MasonryLayout
 * When returning the layout, I passed in the breakpoint columns I defined, styling classes, and the mapped MasonryBox components. This renders the responsive image mosaic grid displaying the shuffled image items in Masonry Box components.
 
 
-Additional assistance and recourse came from studying other open source projects and developers repositories. For example, while searching GitHub, I found the frontend developer, open source developer & technical writer @[Victor Eke ](@Eke) . Of the many open source projects that he has assisted with and created, I used his repository [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas) to get ideas on the structure of documentation and, in additionally, reading his blog article [“How my open source project got 1000 stars on GitHub in 4 months”](https://eke.hashnode.dev/how-my-open-source-project-got-1000-stars-on-github-in-4-months) on what he did to surpass the 1,000 stars on his open source project. I also studied one of the most popular stared [first-contributions repositories](https://github.com/firstcontributions/first-contributions) (which has over 37,000 stars) for the excellent structure of the documentation. And lastly, to add more visual interest to the documentation found throughout the Before I Die Code, I used the [Animated Fluent Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) open source project by [Tarikul Islam Anik](https://github.com/Tarikul-Islam-Anik).
+Additional assistance and recourse came from studying other open source projects and developers repositories. For example, while searching GitHub, I found the frontend developer, open source developer & technical writer [Victor Eke](https://github.com/Evavic44). Of the many open source projects that he has assisted with and created, I used his repository [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas) to get ideas on the structure of documentation and, in additionally, reading his blog article [“How my open source project got 1000 stars on GitHub in 4 months”](https://eke.hashnode.dev/how-my-open-source-project-got-1000-stars-on-github-in-4-months) on what he did to surpass the 1,000 stars on his open source project. I also studied one of the most popular stared [first-contributions repositories](https://github.com/firstcontributions/first-contributions) (which has over 37,000 stars) for the excellent structure of the documentation. And lastly, to add more visual interest to the documentation found throughout the Before I Die Code, I used the [Animated Fluent Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) open source project by [Tarikul Islam Anik](https://github.com/Tarikul-Islam-Anik).
 
 The project is built with the React framework structured with a public and src directory. The folder structure from this project opened in my Visual Studio Code.
 
-![Before I Die Code file structure](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/37jdxlfuv5a2bapx4u1m.png align="left")
+<img width="341" alt="Before I Die Code file structure" src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/546e0722-e2c8-4f19-995f-8269b6d35bc4">
 
 Before I Die Code file structure
 
@@ -216,13 +217,3 @@ Please share your thoughts and feedback! Check out the project, star ⭐️ the 
 * [YOUTUBE 🎥](https://www.youtube.com/channel/UCocfFCNHRhCT27RnHLPRcSw)
 
 * [WEBSITE 🌐](https://www.xanderclemens.com/)
-
-
-
-<img width="341" alt="Before I Die Code file structure" src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/546e0722-e2c8-4f19-995f-8269b6d35bc4">
-
-<img width="963" alt="Alexander Clemens Bucketlist back in 2017" src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/1d7100ba-ef80-493e-8a4f-1fbce67a949c">
-
-
-![Before I Die Wall](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/9a413f04-5bcc-43b3-ad4e-84e51776d6f0)
-<img width="1439" alt="RoadMap" src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/ad7351b9-7731-4946-b1ba-bec100638730">
