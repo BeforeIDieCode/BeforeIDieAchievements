@@ -1,3 +1,6 @@
+/// Add photo of Before I Die Wall
+/// Add Title
+
 Sitting with hospice patients in Altamonte Springs, Florida, in their final moments profoundly changed my perspective on life when I was 23. During my training, we did an exercise where we wrote our bucket lists and shared them aloud. As we went around the room, I realized that whether you’re 25 or 95, we all have dreams we long to fulfill before our time is up.
 
 <img width="963" alt="Alexander Clemens Bucketlist back in 2017" src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/1d7100ba-ef80-493e-8a4f-1fbce67a949c">
@@ -6,6 +9,7 @@ My bucket list from 2017 and when I was a volunteer at Hospice of the Comforter 
 
 In those quiet spaces holding the hands of the dying, I witnessed the stirring of long-forgotten hopes and regrets over paths not taken. It became clear just how precious each moment is and how crucial it is to live deliberately.
 
+////////Add Image of hospice care hands
 ![Comforting hands at a hospice care unit](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzn79g9kzt9ntiamrno6.png align="left")
 
 Comforting hands at a hospice care unit.
@@ -16,8 +20,6 @@ I traveled across all continents, my phone in hand, [collecting these stories](h
 
 This experience showed me the power of reflecting deeply on the question: What matters most? It binds our shared humanity. We all want to love, create, connect, explore, and leave a positive mark on this world.
 
-![Before I Die Wall](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/9a413f04-5bcc-43b3-ad4e-84e51776d6f0)
-<img width="1439" alt="RoadMap" src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/ad7351b9-7731-4946-b1ba-bec100638730">
 
 Photo by Megan Bucknall on Unsplash
 
@@ -27,12 +29,14 @@ I’m thrilled to share Before I Die Code — an open-source project that helps 
 
 ➡️ [BEFORE I DIE GitHub Repo](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
 
-%[https://youtu.be/xiszqfD_W6U]
+#### Video Explaining Before I Die Code ⬇️
+[![Alt text](https://img.youtube.com/vi/xiszqfD_W6U/0.jpg)](https://www.youtube.com/watch?v=xiszqfD_W6U)
 
 ### Share Your Aspirations Through Open Source
 
 The idea behind Before I Die Code is simple but powerful: developers share an image and text describing what they want to accomplish in life before they die.
 
+/////// Add image
 ![My sharing of what I want to accomplish before I die from the open source project Before I Die Code💻](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5rcdcx9ucorxz8g967nk.png align="left")
 
 My sharing of what I want to accomplish before I die from the open source project Before I Die Code💻
@@ -88,7 +92,8 @@ The beginning of this project I can credit the GitHub user [Arash](https://githu
 
 Most of my research and additions of specific code blocks came from using [Perplexity.ai](http://Perplexity.ai), an AI-powered search engine and information discovery tool. For example, this led me to configure and utilize the code block in my MasonryLayout.jsx component (located in the src/Components/MasonryLayout/MasonryLayout.jsx of the project) for randomizing the contributor’s images every time a user views or refreshes the webpage.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XbAL3ajad3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+#### Video of the image shuffling ⬇️
+[![Alt text](https://img.youtube.com/vi/XbAL3ajad3c/0.jpg)](https://www.youtube.com/watch?v=XbAL3ajad3c)
 
 ### The React.jsx code that I used for this component
 
@@ -183,6 +188,8 @@ Before I Die Code file structure
 
 This segues perfectly into the current ideas that I have described in the [ROADMAP.md](http://ROADMAP.md) of this project and how this project can continue to grow with the community. Individuals can add their existing skills and apply new skills to enhance this project further. Technology will constantly change, but the human desire to accomplish meaningful life moments before we die will always exist. My first goal is to have 100 people contribute to the project by sharing their Before I Die contributions. From reading the roadmap, you will find many ideas to get an idea of how the project can be improved upon with new tech stacks, incorporating AI or additionally incorporating an API, adapting the project for responsiveness depending on screen size, enhancing the UI, using Python to analyze what individuals want to do before they die, and continually making this project the main open-source project that new developers can contribute to learn and develop the workflow to contribute to open-source projects.
 
+
+///// Add image 
 ![Current ROADMAP.MD for Before I Die Code as of August 17, 2023](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/csptpv5nrsg2dxw4kk9b.png align="left")
 
 Current [ROADMAP.MD](http://ROADMAP.MD) for Before I Die Code as of August 17, 2023
