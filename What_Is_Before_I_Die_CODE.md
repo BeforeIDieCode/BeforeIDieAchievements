@@ -216,3 +216,13 @@ Please share your thoughts and feedback! Check out the project, star ⭐️ the 
 * [YOUTUBE 🎥](https://www.youtube.com/channel/UCocfFCNHRhCT27RnHLPRcSw)
 
 * [WEBSITE 🌐](https://www.xanderclemens.com/)
+
+
+
+<img width="341" alt="Before I Die Code file structure" src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/546e0722-e2c8-4f19-995f-8269b6d35bc4">
+
+<img width="963" alt="Alexander Clemens Bucketlist back in 2017" src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/1d7100ba-ef80-493e-8a4f-1fbce67a949c">
+
+
+![Before I Die Wall](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/9a413f04-5bcc-43b3-ad4e-84e51776d6f0)
+<img width="1439" alt="RoadMap" src="https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/ad7351b9-7731-4946-b1ba-bec100638730">
