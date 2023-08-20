@@ -1,5 +1,6 @@
-/// Add photo of Before I Die Wall
-/// Add Title
+# Discover Your Life Goals and Make Your First Open Source Contribution with Before I Die Code
+
+![6](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/100642d0-7f08-4d10-ad7d-70d128506f5e)
 
 Sitting with hospice patients in Altamonte Springs, Florida, in their final moments profoundly changed my perspective on life when I was 23. During my training, we did an exercise where we wrote our bucket lists and shared them aloud. As we went around the room, I realized that whether you’re 25 or 95, we all have dreams we long to fulfill before our time is up.
 
@@ -189,7 +190,7 @@ Before I Die Code file structure
 This segues perfectly into the current ideas that I have described in the [ROADMAP.md](http://ROADMAP.md) of this project and how this project can continue to grow with the community. Individuals can add their existing skills and apply new skills to enhance this project further. Technology will constantly change, but the human desire to accomplish meaningful life moments before we die will always exist. My first goal is to have 100 people contribute to the project by sharing their Before I Die contributions. From reading the roadmap, you will find many ideas to get an idea of how the project can be improved upon with new tech stacks, incorporating AI or additionally incorporating an API, adapting the project for responsiveness depending on screen size, enhancing the UI, using Python to analyze what individuals want to do before they die, and continually making this project the main open-source project that new developers can contribute to learn and develop the workflow to contribute to open-source projects.
 
 
-///// Add image 
+///// Add image
 ![Current ROADMAP.MD for Before I Die Code as of August 17, 2023](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/csptpv5nrsg2dxw4kk9b.png align="left")
 
 Current [ROADMAP.MD](http://ROADMAP.MD) for Before I Die Code as of August 17, 2023
