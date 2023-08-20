@@ -72,5 +72,17 @@
       </a>
     </td>
     <!-- End of column -->
+     <!-- Start of column -->
+      <td align="center">
+      <a href="https://github.com/Sahilll15">
+        <img
+          src="https://avatars.githubusercontent.com/u/109215419?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Sahil Chalke</sub>
+      </a>
+    </td>
+      <!-- End of column -->
   </tr>
 </table>
