@@ -5,7 +5,7 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/69f2ca
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=social&color=004AAD" alt="Star Badge"/>
-<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/fork" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a> [![Hits](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements.svg?style=flat&label=Visitors&color=014BAD&labelColor=FCE93B)](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements/)
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/fork" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a> [![Hits](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements.svg?style=flat&label=Visitors&color=014BAD&labelColor=FCE93B)](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements/) 
 
 # BeforeIDieAchievements
 
