@@ -4,6 +4,7 @@ import Header from './Components/Header/Header';
 import MasonryLayout from './Components/MasonryLayout/MasonryLayout';
 import ContainerCard from './Components/ContainerCard/ContainerCard';
 import images from "./Jsons/Contributors.json";
+import Footer from "./Components/Footer/Footer";
 
 const App = () => {
   const [categoryImage, setCategoryImage] = useState(images);
@@ -21,6 +22,7 @@ const App = () => {
           <MasonryLayout images={categoryImage} />
         </ContainerCard>
       </div>
+      <Footer />
     </>
   );
 };
