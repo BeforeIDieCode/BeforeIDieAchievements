@@ -90,6 +90,15 @@
         "text": "To do every 4 star hike in Yosemite and live in the Eastern Sierras."
     },
     {
+        "id": "Kenneth Quiggins",
+        "image": "img/bid_image/Kenneth_Quiggins.jpg",
+        "avatar": "img/avatar/Kenneth_Quiggins.jpg",
+        "name": "Kenneth Quiggins",
+        "location": "Louisville, Kentucky, USA, 🇺🇸",
+        "GitHub": "https://github.com/KQuiggins",
+        "text": "To become a Software Developer and work remotely from anywhere in the world, so I can provide a good life for my family."
+    },
+    {
         "id": "Addie Lopshire-Bratt",
         "image": "img/bid_image/Addie_Lopshire-Bratt.jpg",
         "avatar": "img/avatar/Addie_Lopshire-Bratt.jpg",
@@ -108,21 +117,21 @@
         "text": "Looking forward to an  week of relaxation in the beautiful Maldives! 🏝️✈️"
     },
     {
-      "id": "Cs Yong",
-      "image": "img/bid_image/CS_Yong.jpg",
-      "avatar": "img/avatar/CS_Yong.png",
-      "name": "Cs Yong",
-      "location": "Sarawak, Malaysia 🇲🇾",
-      "GitHub": "https://github.com/lefty93",
-      "text": "I want to retire in New Zealand with my love."
+        "id": "Cs Yong",
+        "image": "img/bid_image/CS_Yong.jpg",
+        "avatar": "img/avatar/CS_Yong.png",
+        "name": "Cs Yong",
+        "location": "Sarawak, Malaysia 🇲🇾",
+        "GitHub": "https://github.com/lefty93",
+        "text": "I want to retire in New Zealand with my love."
     },
-  {
+    {
         "id": "Alandis Ayupov",
         "image": "img/bid_image/Alandis_Ayupov.jpg",
         "avatar": "img/avatar/Alandis_Ayupov.jpg",
         "name": "Alandis Ayupov",
         "location": "Edison, USA 🇺🇸",
         "GitHub": "https://github.com/AlandisAyupov",
-        "text": "I want to play a game of airsoft.
+        "text": "I want to play a game of airsoft."
     }
 ]
