@@ -10,7 +10,7 @@ const Footer = () => {
         <span className={styles["emoji"]} role='img' aria-label='heart'>
           💙
         </span>{" "}
-        by the &nbsp;
+        by the{" "}
         <a
           className={styles["footer-message-link"]}
           href='https://github.com/BeforeIDieCode/BeforeIDieAchievements.git'>
