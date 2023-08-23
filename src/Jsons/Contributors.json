@@ -88,5 +88,14 @@
         "location": "California, USA, 🇺🇸",
         "GitHub": "https://github.com/Agoews",
         "text": "To do every 4 star hike in Yosemite and live in the Eastern Sierras."
+    },
+    {
+        "id": "Kenneth Quiggins",
+        "image": "img/bid_image/Kenneth_Quiggins.jpg",
+        "avatar": "img/avatar/Kenneth_Quiggins.jpg",
+        "name": "Kenneth Quiggins",
+        "location": "Louisville, Kentucky, USA, 🇺🇸",
+        "GitHub": "https://github.com/KQuiggins",
+        "text": "To become a Software Developer and work remotely from anywhere in the world, so I can provide a good life for my family."
     }
 ]

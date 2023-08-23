@@ -60,5 +60,17 @@
       </a>
     </td>
     <!-- End of column -->
+    <!-- Start of column -->
+      <td align="center">
+        <a href="https://github.com/KQuiggins">
+          <img
+            src="https://avatars.githubusercontent.com/u/76880191?v=4"
+            width="100px"
+          />
+          <br />
+          <sub>Kenneth Quiggins</sub>
+        </a>
+      </td>
+      <!-- End of column -->
   </tr>
 </table>
