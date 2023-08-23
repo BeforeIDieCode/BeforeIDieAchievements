@@ -84,6 +84,18 @@
       </a>
     </td>
       <!-- End of column -->
+     <!-- Start of column -->
+      <td align="center">
+      <a href="https://github.com/lefty93">
+        <img
+          src="https://avatars.githubusercontent.com/u/67009773?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>CS Yong</sub>
+      </a>
+    </td>
+      <!-- End of column -->
     <!-- Start of column -->
     <td align="center">
       <a href="https://github.com/AlandisAyupov">
