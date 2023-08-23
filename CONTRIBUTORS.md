@@ -72,5 +72,53 @@
         </a>
       </td>
       <!-- End of column -->
+    <!-- Start of column -->  
+    <td align="center">
+      <a href="https://github.com/addielb">
+        <img
+          src="https://avatars.githubusercontent.com/u/111605723?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Addie Lopshire-Bratt</sub>
+      </a>
+    </td>
+    <!-- End of column -->
+     <!-- Start of column -->
+      <td align="center">
+      <a href="https://github.com/Sahilll15">
+        <img
+          src="https://avatars.githubusercontent.com/u/109215419?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Sahil Chalke</sub>
+      </a>
+    </td>
+      <!-- End of column -->
+     <!-- Start of column -->
+      <td align="center">
+      <a href="https://github.com/lefty93">
+        <img
+          src="https://avatars.githubusercontent.com/u/67009773?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>CS Yong</sub>
+      </a>
+    </td>
+      <!-- End of column -->
+    <!-- Start of column -->
+    <td align="center">
+      <a href="https://github.com/AlandisAyupov">
+        <img
+          src="https://avatars.githubusercontent.com/u/100100917?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Alandis Ayupov</sub>
+      </a>
+    </td>
+    <!-- End of column -->
   </tr>
 </table>
