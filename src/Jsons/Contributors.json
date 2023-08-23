@@ -133,5 +133,14 @@
         "location": "Edison, USA 🇺🇸",
         "GitHub": "https://github.com/AlandisAyupov",
         "text": "I want to play a game of airsoft."
+    },
+    {
+        "id": "João Guilherme Camarota",
+        "image": "img/bid_image/Joao_Camarota.jpg",
+        "avatar": "img/avatar/Joao_Camarota.jpg",
+        "name": "João Guilherme Camarota",
+        "location": "Goiânia, Brazil 🇧🇷",
+        "GitHub": "https://github.com/Camarota-234",
+        "text": "I need to go skydiving before I die."
     }
 ]
