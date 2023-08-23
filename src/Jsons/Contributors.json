@@ -82,8 +82,8 @@
     },
     {
         "id": "George Halterman",
-        "image": "img/bid_image/George_Halterman.jpeg",
-        "avatar": "img/avatar/George_Halterman.jpeg",
+        "image": "img/bid_image/George_Halterman.jpg",
+        "avatar": "img/avatar/George_Halterman.jpg",
         "name": "George Halterman",
         "location": "California, USA 🇺🇸",
         "GitHub": "https://github.com/Agoews",
@@ -109,8 +109,8 @@
     },
     {
         "id": "Sahil Chalke",
-        "image": "img/bid_image/Sahil_Chalke.jpeg",
-        "avatar": "img/avatar/Sahil_Chalke.png",
+        "image": "img/bid_image/Sahil_Chalke.jpg",
+        "avatar": "img/avatar/Sahil_Chalke.jpg",
         "name": "Sahil Chalke",
         "location": "Mumbai, India 🇮🇳 ",
         "GitHub": "https://github.com/Sahilll15",
@@ -119,7 +119,7 @@
     {
         "id": "Cs Yong",
         "image": "img/bid_image/CS_Yong.jpg",
-        "avatar": "img/avatar/CS_Yong.png",
+        "avatar": "img/avatar/CS_Yong.jpg",
         "name": "Cs Yong",
         "location": "Sarawak, Malaysia 🇲🇾",
         "GitHub": "https://github.com/lefty93",
