@@ -72,7 +72,7 @@
         </a>
       </td>
       <!-- End of column -->
-    <!-- Start of column -->  
+    <!-- Start of column -->
     <td align="center">
       <a href="https://github.com/addielb">
         <img
@@ -120,5 +120,18 @@
       </a>
     </td>
     <!-- End of column -->
+    <!-- Start of column -->
+    <td align="center">
+      <a href="https://github.com/Camarota-234">
+        <img
+          src="https://avatars.githubusercontent.com/u/133423115?s=400&v=4"
+          width="100px"
+        />
+        <br />
+        <sub>João Guilherme Camarota</sub>
+      </a>
+    </td>
+    <!-- End of column -->
+
   </tr>
 </table>
