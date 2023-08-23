@@ -38,6 +38,7 @@ Integrate with wearable devices like smart watches to track progress on fitness/
 - using the Python for analyzing the data of contributors' locations in your open-source project and creating a high-quality UI design map to display their locations, you can use the Python library called ["Leafmap"](https://leafmap.org/).
 - Adding users ability to contribute by verifying identity using the OAuth token to authenticate to Google, LinkedIn, Github. OAuth is an open standard for authorization that allows third-party applications to access user data from various services such as Google, LinkedIn, and GitHub without requiring the user to share their login credentials. OAuth provides a secure and standardized way for users to grant access to their data to third-party applications.
 <br>
+
 #### Review the CONTRIBUTION_GUIDELINE to make sure that it covers and answers the following:
 - Technologies used
 - How to report bugs
