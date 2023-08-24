@@ -148,5 +148,18 @@
       </a>
     </td>
     <!-- End of column-5 -->
+    <!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/luc881">
+    <img
+      src="https://avatars.githubusercontent.com/u/106575656?v=4"
+      width="100px"
+      alt="Luciano Juarez"
+    />
+    <br />
+    <sub>Luciano Juarez</sub>
+  </a>
+</td>
+<!-- End of column -->
   </tr>
 </table>
