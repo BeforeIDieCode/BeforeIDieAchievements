@@ -9,12 +9,13 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/69f2ca
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=social&color=004AAD" alt="Star Badge"/>
 <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/fork" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
+[![Hits](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements.svg?style=flat&label=Visitors&color=014BAD&labelColor=FCE93B)](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements/)
+
 [![issues closed](https://img.shields.io/github/issues-closed/py-pdf/fpdf2)](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues)
 [![PRs closed](https://img.shields.io/github/issues-pr-closed/py-pdf/fpdf2)](https://github.com/BeforeIDieCode/BeforeIDieAchievements/pulls)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-
-[![Hits](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements.svg?style=flat&label=Visitors&color=014BAD&labelColor=FCE93B)](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements/)
+→ come look at our [good first issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 </center>
 # BeforeIDieAchievements
