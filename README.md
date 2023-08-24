@@ -18,6 +18,7 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/69f2ca
 → come look at our [good first issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 </center>
+
 # BeforeIDieAchievements
 
 🌟 Welcome to BeforeIDieAchievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, an open source project that helps developers make their first pull request and contribute to open source projects. View the [live Link](https://before-i-die-achievements.vercel.app/).
