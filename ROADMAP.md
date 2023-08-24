@@ -11,7 +11,7 @@ The following are a list of ideas to get started and thinking <img src="https://
 - Ensure responsive screen adaptation to make the Before I Die Code show up well on mobile and other screen sizes.
 - Add React Native code to this project so that it can be used on mobile.
 - Add a Maps page that pinpoints users to the location they identified in the JSON file.
-- Add a clickable contribution page that displays all members who have contributed to the project.
+- ~~Add a clickable contribution page that displays all members who have contributed to the project.~~
 - Add the ability for contributors to list other social media platforms for contact information and have that displayed when you click on the Before I Die Image.
 - Before clicking on a contributor's avatar to direct the viewer to the user's profile, add a small GitHub image that will be displayed over the avatar image to let the user know where they will be taken when clicked.
 - Once enough user data has been received, add Python code and libraries to extract data to display the most common or unique activities individuals want to do before they die.
