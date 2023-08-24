@@ -11,6 +11,12 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/69f2ca
 
 [![Hits](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements.svg?style=flat&label=Visitors&color=014BAD&labelColor=FCE93B)](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements/)
 
+[![issues closed](https://img.shields.io/github/issues-closed/BeforeIDieCode/BeforeIDieAchievements)](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues)
+[![PRs closed](https://img.shields.io/github/issues-pr-closed/BeforeIDieCode/BeforeIDieAchievements)](https://github.com/BeforeIDieCode/BeforeIDieAchievements/pulls)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
+→ come look at our [good first issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
 </center>
 # BeforeIDieAchievements
 
