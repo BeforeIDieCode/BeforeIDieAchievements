@@ -19,7 +19,7 @@ time, mark, audio, video, button, input {
 	font: inherit;
 	vertical-align: baseline;
     box-sizing: border-box;
-	font-family: 'Poppins', sans-serif !important;
+	font-family: 'Poppins', sans-serif ;
 }
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {

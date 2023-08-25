@@ -1,4 +1,6 @@
 /* MasonryBox.module.css */
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,700&display=swap');
 
 .my-masonry {
   position: relative;
@@ -33,6 +35,7 @@
 .enlargedPhotoText {
   color: black;
   font-size: 18px;
+  font-family: "Fira Code", monospace;
   padding: 20px;
   background: linear-gradient(to right, #006dff, rgb(254, 234, 58));
   max-width: 50%;
@@ -162,6 +165,7 @@
 .boldText {
   font-weight: bolder;
   font-size: 25px;
+  font-family: "EB Garamond", serif;
   /* Adjust the font size as desired */
   text-align: center;
 }
