@@ -19,6 +19,17 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/69f2ca
 
 </center>
 
+_Read this in [other languages](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Translations.md)_
+
+<center>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Hindi/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/French/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Spanish/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Mandarin_Chinese/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Arabic/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/sa.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Arabic/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/ae.svg" width="40"></a>
+</center>
+
 # BeforeIDieAchievements
 
 🌟 Welcome to BeforeIDieAchievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, an open source project that helps developers make their first pull request and contribute to open source projects. View the [live Link](https://before-i-die-achievements.vercel.app/).
