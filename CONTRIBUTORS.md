@@ -148,7 +148,7 @@
       </a>
     </td>
     <!-- End of column-5 -->
-    <!-- Start of column -->
+    <!-- Start of column-6 -->
 <td align="center">
   <a href="https://github.com/luc881">
     <img
@@ -160,6 +160,18 @@
     <sub>Luciano Juarez</sub>
   </a>
 </td>
-<!-- End of column -->
+<!-- End of column-6 -->
+    <!-- Start of column-7 -->
+    <td align="center">
+      <a href="https://github.com/ccelest1">
+        <img
+          src="https://avatars.githubusercontent.com/u/79764816?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Tyler Celestin</sub>
+      </a>
+    </td>
+    <!-- End of column-7 -->
   </tr>
 </table>
