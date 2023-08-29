@@ -20,6 +20,9 @@ const BrickLayout = () => {
         <img src="img/dummy_image/8.jpg" alt="" />
         <img src="img/dummy_image/9.jpg" alt="" />
       </div>
+      <div className={styles["brick-column"]}>
+        <img src="img/dummy_image/10.jpg" alt="" />
+      </div>
     </div>
   </div>
   )

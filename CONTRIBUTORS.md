@@ -48,5 +48,15 @@
       </a>
     </td>
     <!-- End of column -->
+    <td align="center">
+      <a href="https://github.com/ccelest1">
+        <img
+          src="https://avatars.githubusercontent.com/u/79764816?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Craig Celestin</sub>
+      </a>
+    </td>
   </tr>
 </table>
