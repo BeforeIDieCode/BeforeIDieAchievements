@@ -9,7 +9,7 @@
 }
 
 .my-masonry img:hover {
-  border: 7px solid #004AAD;
+  border: 7px solid #004aad;
 }
 
 .enlargedPhoto {
@@ -26,24 +26,40 @@
 }
 
 .enlargedPhotoImage {
-  max-width: 90%;
-  max-height: 90%;
+  max-width: 50%;
+  max-height: 50%;
 }
 
 .enlargedPhotoText {
   color: black;
   font-size: 18px;
-  margin-top: 20px;
-  padding: 30px;
+  padding: 20px;
   background: linear-gradient(to right, #006dff, rgb(254, 234, 58));
-  float: right;
-  width: 20%;
+  max-width: 50%;
+  width: auto;
   /* adjust the width as needed */
   margin-left: 50px;
   /* adjust the margin as needed */
   text-align: center;
   /* add this property to center the text */
+}
 
+@media (max-width: 640px) {
+  /* When screen & mobile size less than 640px */
+  .enlargedPhoto {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .enlargedPhotoImage {
+    width: auto;
+    height: auto;
+  }
+
+  .enlargedPhotoText {
+    margin: 0;
+    max-width: 100%;
+  }
 }
 
 .enlargedPhotoTextBox {
@@ -73,7 +89,7 @@
   justify-content: center;
   opacity: 0;
   visibility: hidden;
-  transition: .7s;
+  transition: 0.7s;
   background-color: rgba(255, 255, 255, 0.3);
 }
 
@@ -83,7 +99,7 @@
   margin-bottom: 20px;
   column-gap: 20px;
   margin-bottom: -80px;
-  transition: .5s;
+  transition: 0.5s;
 }
 
 .my-masnry-user-prof {
@@ -107,20 +123,19 @@
   font-size: 1.5rem;
   text-transform: capitalize;
   font-weight: bold;
-
 }
 
 .my-masnry-user-prof-desc h1 {
   color: var(--green-400);
-  text-shadow: -1px -1px 5px #FEEA3A, 1px -1px 5px #FEEA3A, -1px 1px 5px #FEEA3A, 1px 1px 5px #FEEA3A;
+  text-shadow: -1px -1px 5px #feea3a, 1px -1px 5px #feea3a, -1px 1px 5px #feea3a,
+    1px 1px 5px #feea3a;
 }
-
 
 .my-masnry-user-prof-desc h3 {
-  color: #FEEA3A;
-  text-shadow: -1px -1px 5px #004AAD, 1px -1px 5px #004AAD, -1px 1px 5px #004AAD, 1px 1px 5px #004AAD;
+  color: #feea3a;
+  text-shadow: -1px -1px 5px #004aad, 1px -1px 5px #004aad, -1px 1px 5px #004aad,
+    1px 1px 5px #004aad;
 }
-
 
 .my-masonry:hover .my-masnry-description {
   visibility: visible;
@@ -131,12 +146,22 @@
   margin-bottom: 15px;
 }
 
+@media (max-width: 640px) {
+  .my-masnry-description {
+    height: auto;
+  }
+  .my-masnry-user-prof {
+    width: 100px;
+    height: 100px;
+  }
+  .my-masnry-user-prof-desc {
+    font-size: 1rem;
+  }
+}
 
 .boldText {
   font-weight: bolder;
   font-size: 25px;
   /* Adjust the font size as desired */
   text-align: center;
-
-
 }
