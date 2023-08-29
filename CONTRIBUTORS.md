@@ -55,7 +55,7 @@
           width="100px"
         />
         <br />
-        <sub>Craig Celestin</sub>
+        <sub>Tyler Celestin</sub>
       </a>
     </td>
   </tr>
