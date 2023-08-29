@@ -11,7 +11,7 @@ The following are a list of ideas to get started and thinking <img src="https://
 - Ensure responsive screen adaptation to make the Before I Die Code show up well on mobile and other screen sizes.
 - Add React Native code to this project so that it can be used on mobile.
 - Add a Maps page that pinpoints users to the location they identified in the JSON file.
-- Add a clickable contribution page that displays all members who have contributed to the project.
+- ~~Add a clickable contribution page that displays all members who have contributed to the project.~~
 - Add the ability for contributors to list other social media platforms for contact information and have that displayed when you click on the Before I Die Image.
 - Before clicking on a contributor's avatar to direct the viewer to the user's profile, add a small GitHub image that will be displayed over the avatar image to let the user know where they will be taken when clicked.
 - Once enough user data has been received, add Python code and libraries to extract data to display the most common or unique activities individuals want to do before they die.
@@ -35,7 +35,10 @@ Integrate with wearable devices like smart watches to track progress on fitness/
 - Build browser extension to capture goals/ideas and share quickly with BeforeIDie.
 - Add multimedia options - videos, audio, images to augment text goals.
 - Analyze data to identify trends and correlations between demographics, interests etc. and goals.
+- using the Python for analyzing the data of contributors' locations in your open-source project and creating a high-quality UI design map to display their locations, you can use the Python library called ["Leafmap"](https://leafmap.org/).
+- Adding users ability to contribute by verifying identity using the OAuth token to authenticate to Google, LinkedIn, Github. OAuth is an open standard for authorization that allows third-party applications to access user data from various services such as Google, LinkedIn, and GitHub without requiring the user to share their login credentials. OAuth provides a secure and standardized way for users to grant access to their data to third-party applications.
 <br>
+
 #### Review the CONTRIBUTION_GUIDELINE to make sure that it covers and answers the following:
 - Technologies used
 - How to report bugs

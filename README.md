@@ -2,11 +2,33 @@
 
 https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/69f2cac2-e8cb-4d6c-9ffd-5588c6aebb73
 
+<center>
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=social&color=004AAD" alt="Star Badge"/>
 <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/fork" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
+[![Hits](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements.svg?style=flat&label=Visitors&color=014BAD&labelColor=FCE93B)](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements/)
+
+[![issues closed](https://img.shields.io/github/issues-closed/BeforeIDieCode/BeforeIDieAchievements)](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues)
+[![PRs closed](https://img.shields.io/github/issues-pr-closed/BeforeIDieCode/BeforeIDieAchievements)](https://github.com/BeforeIDieCode/BeforeIDieAchievements/pulls)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
+→ come look at our [good first issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
+</center>
+
+_Read this in [other languages](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Translations.md)_
+
+<center>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Hindi/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/French/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Spanish/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Mandarin_Chinese/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Arabic/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/sa.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Arabic/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/ae.svg" width="40"></a>
+</center>
 
 # BeforeIDieAchievements
 
@@ -14,7 +36,7 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/69f2ca
 
 ## 🚀🎯 What is BeforeIDieAchievements?
 
-BeforeIDieAchievements is a platform to assist developers in getting involved in an open-source project and documenting their life goals<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />. Developers can share their aspirations with an image <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> and text <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pen.png" alt="Pen" width="25" height="25" /> describing what they want to accomplish before they die. Share your life goals and aspirations with others, reflect on what truly matters to you in life, and connect with like-minded individuals. Leverage the power of community to achieve your dreams<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />. Before I Die Code is a platform for documenting your life goals, learning how to contribute to an open source project and is `A GREAT BEGINNER FRIENDLY PROJECT`.
+BeforeIDieAchievements is a platform to assist developers in getting involved in an open-source project and documenting their life goals<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />. Developers can share their aspirations with an image <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> and text <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pen.png" alt="Pen" width="25" height="25" /> describing what they want to accomplish before they die. Share your life goals and aspirations with others, reflect on what truly matters to you in life, and connect with like-minded individuals. Leverage the power of community to achieve your dreams<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />. Before I Die Code is a platform for documenting your life goals, learning how to contribute to an open source project and is `A GREAT BEGINNER FRIENDLY PROJECT`. You can learn more about this project from this [MEDIUM](https://xanderclemens.medium.com/discover-your-life-goals-and-make-your-first-open-source-contribution-with-before-i-die-code-aea8e1130d96) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> article or visiting the [about.md](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/about.md) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="25" height="25" /> file.
 
 ## 💡🔗 How to Contribute
 
@@ -26,7 +48,7 @@ Thank you for your interest in contributing to our open source project! We welco
 4. Submit your contribution: Once you have made your changes or additions, submit your contribution following the guidelines provided in the [CONTRIBUTION_GUIDELINES](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md).
 
 Remember, communication and collaboration are key in open source projects. Feel free to ask questions, seek clarification, or request assistance from the project maintainers or other contributors. We value your contributions and look forward to working with you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> to enhance this project<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" alt="Sun with Face" width="25" height="25" />.
-Happy contributing! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />👩‍💻👨‍💻<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Smiling Face with Halo" width="25" height="25" />
+Happy contributing! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Smiling Face with Halo" width="25" height="25" />.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" alt="Racing Car" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Square.png" alt="Green Square" width="25" height="25" />Getting Started
 

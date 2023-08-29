@@ -1,0 +1,46 @@
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-message {
+  margin: 0;
+}
+
+.footer-message-link {
+    color: #fff
+}
+
+.emoji {
+  display: inline-block;
+  font-size: 24px;
+}
+
+/* Heartbeat animation */
+@keyframes heartbeat {
+  0% {
+    transform: scale(1); /* Initial size */
+  }
+  25% {
+    transform: scale(1.3); /* Slightly larger */
+  }
+  50% {
+    transform: scale(1); /* Back to normal size */
+  }
+  75% {
+    transform: scale(1.3); /* Slightly larger */
+  }
+  100% {
+    transform: scale(1); /* Back to normal size */
+  }
+}
+
+.emoji:hover {
+  animation: heartbeat 1.5s infinite; /* Apply the heartbeat animation on hover */
+}
