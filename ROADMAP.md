@@ -37,8 +37,29 @@ Integrate with wearable devices like smart watches to track progress on fitness/
 - Analyze data to identify trends and correlations between demographics, interests etc. and goals.
 - using the Python for analyzing the data of contributors' locations in your open-source project and creating a high-quality UI design map to display their locations, you can use the Python library called ["Leafmap"](https://leafmap.org/).
 - Adding users ability to contribute by verifying identity using the OAuth token to authenticate to Google, LinkedIn, Github. OAuth is an open standard for authorization that allows third-party applications to access user data from various services such as Google, LinkedIn, and GitHub without requiring the user to share their login credentials. OAuth provides a secure and standardized way for users to grant access to their data to third-party applications.
+
+### Machine Learning and AI Ideas 
+- Build a machine learning model that analyzes people's "before I die" goals and categorizes them into different themes (e.g. travel, career, relationships, thrills, etc.). You could visualize the results in interesting ways.
+- Use natural language processing to generate word clouds from the text of people's submissions, highlighting the most common dreams and aspirations.
+- Create a chatbot that engages visitors in a conversation about their dreams and bucket list goals. The bot could provide encouraging responses and thought-provoking questions to spur reflection.
+- Implement image recognition on the uploaded photos to auto-tag them with relevant keywords and categories. This makes the images more findable and shareable.
+- Build a recommendation engine that suggests related or commonly paired goals to users as they submit theirs. This could help spark new ideas.
+- Analyze the location data attached to submissions to identify geographical trends and hotspots for certain goals. Create data visualizations on a map.
 <br>
 
+
+### Backend ideas
+- Build a REST API that handles CRUD operations on the goals/dreams data. This would allow creating, reading, updating and deleting goals via API instead of directly editing JSON.
+- Add user authentication so people can create accounts. Associate goals with user accounts rather than just having a collective pool of anonymous goals.
+- Allow uploading images to cloud storage like S3 instead of storing locally. The API could handle uploading images on goal creation.
+- Implement upvoting/reactions on goals. The API would need to handle storing reaction counts and which goals a user has reacted to.
+- Build more advanced search/filtering of goals, like by keywords, location, popularity, etc. The API can handle search logic.
+- Add ability to "favorite" or "save" goals you like. The API would store these associations per user.
+- Suggest similar or commonly associated goals through the API via machine learning models analyzing the data.
+- Create admin dashboard to moderate goals, block/ban users, pull analytics through the API.
+- Implement email/notification features, commenting, social connections between users via the API.
+- Use API to auto-generate the CONTRIBUTORS.md file listing contributors.
+- The key is to offload data management and complex logic to a serverless backend API. This improves extensibility, efficiency and sets the stage for more advanced features.
 #### Review the CONTRIBUTION_GUIDELINE to make sure that it covers and answers the following:
 - Technologies used
 - How to report bugs
