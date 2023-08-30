@@ -12,7 +12,7 @@ The following list comes from the feedback from contributor [Tyler Celestin](htt
 
 - [✅] dummy images weren't elucidated or even mentioned in the contribution-guidelines, but when i took a look at the code i deciphered it was the images above. The profile photo and the photo of what we want to achieve makes sense, but I wanted to really understand what i should put for the dummy and i decided to put where I am from and fit the aesthetic that I thought was so nice and calming. CREATED FOR ISSUE #45
 
-- [ ] I think you can be more clear about what people should post in terms of what they want to do before they die. A few of them I thought were incredibly meaningful, but there some of them I thought were out of place and jarring.
+- [✅] I think you can be more clear about what people should post in terms of what they want to do before they die. A few of them I thought were incredibly meaningful, but there some of them I thought were out of place and jarring. CREATED FOR ISSUE #47
 
 - [ ] Like you said in the contributing.md, it should be something significant and extrinsic separate from just the journey of software itself
 I saw this in the contributing.md and was wondering where this was and if needs to be changed Replace "YOUR_CITY_COUNTRY_AND_FLAG" with your city, country, and flag White Flag Chequered FlagBlack Flagemoji. I saw that instead of the emoji, it was the country abbreviated.
