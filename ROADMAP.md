@@ -10,18 +10,18 @@ The goals <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
 
 The following list comes from the feedback from contributor [Tyler Celestin](https://github.com/ccelest1)
 
-- [✅] dummy images weren't elucidated or even mentioned in the contribution-guidelines, but when i took a look at the code i deciphered it was the images above. The profile photo and the photo of what we want to achieve makes sense, but I wanted to really understand what i should put for the dummy and i decided to put where I am from and fit the aesthetic that I thought was so nice and calming. CREATED FOR ISSUE #45
+- [✅] dummy images weren't elucidated or even mentioned in the contribution-guidelines, but when i took a look at the code i deciphered it was the images above. The profile photo and the photo of what we want to achieve makes sense, but I wanted to really understand what i should put for the dummy and i decided to put where I am from and fit the aesthetic that I thought was so nice and calming. CREATED FOR [ISSUE #45](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/45)
 
-- [✅] I think you can be more clear about what people should post in terms of what they want to do before they die. A few of them I thought were incredibly meaningful, but there some of them I thought were out of place and jarring. CREATED FOR ISSUE #47
+- [✅] I think you can be more clear about what people should post in terms of what they want to do before they die. A few of them I thought were incredibly meaningful, but there some of them I thought were out of place and jarring. CREATED FOR [ISSUE #47](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/47)
 
-- [ ] Like you said in the contributing.md, it should be something significant and extrinsic separate from just the journey of software itself
-I saw this in the contributing.md and was wondering where this was and if needs to be changed Replace "YOUR_CITY_COUNTRY_AND_FLAG" with your city, country, and flag White Flag Chequered FlagBlack Flagemoji. I saw that instead of the emoji, it was the country abbreviated.
+- [✅] Like you said in the contributing.md, it should be something significant and extrinsic separate from just the journey of software itself
+I saw this in the contributing.md and was wondering where this was and if needs to be changed Replace "YOUR_CITY_COUNTRY_AND_FLAG" with your city, country, and flag White Flag Chequered FlagBlack Flagemoji. I saw that instead of the emoji, it was the country abbreviated. FIXED MANUALLY SEE [commit 32d45c5](https://github.com/BeforeIDieCode/BeforeIDieAchievements/commit/32d45c5519e515dfb431230f94162eac355d5016)
 
 - [ ] Additionally, while the design is good for the current number of contributors (1) the images will get distorted and it may do some good to have a slideshow for the dummy images as opposed to them being static so they are crowded together, (2) the same should apply for the bottom as well
 
-- [ ] The design currently is fine, but I'm wondering if theres a way that it can be updated/modernized without sacrificing its artistic integrity.
+- [✅] The design currently is fine, but I'm wondering if theres a way that it can be updated/modernized without sacrificing its artistic integrity.
 I also found the rainbow background of text, very distracting. It would be nice if either people can decide what color they can have for the background of text or if it can be changed to a more neutral but pleasing color.
-
+CREATED FOR [ISSUE #48](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues/48)
 - [ ] I also noticed that certain times, the photo dimension would result in info about users being cut off if perhaps your window was minimized or on different screens.
 
 - [ ] I'm just wondering if this gets bigger, how you will handle content moderation.
