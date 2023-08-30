@@ -10,7 +10,7 @@ The goals <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
 
 The following list comes from the feedback from contributor [Tyler Celestin](https://github.com/ccelest1)
 
-- [ ] dummy images weren't elucidated or even mentioned in the contribution-guidelines, but when i took a look at the code i deciphered it was the images above. The profile photo and the photo of what we want to achieve makes sense, but I wanted to really understand what i should put for the dummy and i decided to put where I am from and fit the aesthetic that I thought was so nice and calming.
+- [✅] dummy images weren't elucidated or even mentioned in the contribution-guidelines, but when i took a look at the code i deciphered it was the images above. The profile photo and the photo of what we want to achieve makes sense, but I wanted to really understand what i should put for the dummy and i decided to put where I am from and fit the aesthetic that I thought was so nice and calming. CREATED FOR ISSUE #45
 
 - [ ] I think you can be more clear about what people should post in terms of what they want to do before they die. A few of them I thought were incredibly meaningful, but there some of them I thought were out of place and jarring.
 
