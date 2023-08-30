@@ -12,6 +12,18 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/69f2ca
 [![Visitas](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements.svg?style=flat&label=Visitantes&color=014BAD&labelColor=FCE93B)](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements/)
 
 </center>
+
+_Leer en [otros idiomas](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Translations.md)_
+
+<p align="center">
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Hindi/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/French/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Mandarin_Chinese/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Arabic/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/sa.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Arabic/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/ae.svg" width="40"></a>
+</p>
+
 # BeforeIDieAchievements
 
 🌟 Bienvenido a BeforeIDieAchievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Mano saludando" width="25" height="25" />, un proyecto de código abierto que ayuda a los desarrolladores a hacer su primera solicitud de extracción (pull request) y contribuir a proyectos de código abierto. Ver el [enlace en vivo](https://before-i-die-achievements.vercel.app/).
