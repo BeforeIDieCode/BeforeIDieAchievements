@@ -49,7 +49,7 @@ const Header = () => {
               </span>{" "}
               <br />
               <br />
-              <span style={{ color: '#006DFF', fontWeight: 'bold' }}>
+              <span style={{ color: '#FFE439', fontWeight: 'bold' }}>
                 <Typewriter
                   words={[
                     'to plant seeds 🌱 of inspiration.',
