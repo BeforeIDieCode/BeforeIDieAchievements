@@ -102,3 +102,4 @@ Integrate with wearable devices like smart watches to track progress on fitness/
 - Link to a discussion forum or how people can ask for help
 - Project architecture (nice to have)
 - Known issues
+- Review this Dev.io article and create a new issue for enhancing the contribution guide [article](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)
