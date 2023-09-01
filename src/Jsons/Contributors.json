@@ -1,5 +1,5 @@
 [
-{
+  {
     "id": "Alexander Clemens",
     "image": "img/bid_image/Alexander_Clemens.jpg",
     "avatar": "img/avatar/Alexander_Clemens.jpg",
@@ -153,12 +153,21 @@
     "text": "I want to visit as many countries as possible before I die."
   },
   {
-        "id":"Tyler Celestin",
-        "image":"img/bid_image/Tyler_Celestin.jpg",
-        "avatar":"img/avatar/Tyler_Celestin.jpg",
-        "name":"Tyler Celestin",
-        "location":"Brooklyn, New York, USA 🇺🇸",
-        "GitHub":"https://github.com/ccelest1",
-        "text":"I sincerely appreciate great design and aesthetics. In that same vein, I would cherish the opportunity to travel to vistas that exhibit careful and detailed architecture that is synergistic with their cultural and environmental surroundings. One of those places is, of course, Japan, which is renowned for its talented engineers and attention to green practices. One of my dreams is to work in the field of design, or potentially civil engineering if possible."
-    }
+    "id": "Tyler Celestin",
+    "image": "img/bid_image/Tyler_Celestin.jpg",
+    "avatar": "img/avatar/Tyler_Celestin.jpg",
+    "name": "Tyler Celestin",
+    "location": "Brooklyn, New York, USA 🇺🇸",
+    "GitHub": "https://github.com/ccelest1",
+    "text": "I sincerely appreciate great design and aesthetics. In that same vein, I would cherish the opportunity to travel to vistas that exhibit careful and detailed architecture that is synergistic with their cultural and environmental surroundings. One of those places is, of course, Japan, which is renowned for its talented engineers and attention to green practices. One of my dreams is to work in the field of design, or potentially civil engineering if possible."
+  },
+  {
+    "id": "Negar Nasiri",
+    "image": "img/bid_image/Negar_Nasiri.jpg",
+    "avatar": "img/avatar/Negar_Nasiri.jpeg",
+    "name": "Negar Nasiri",
+    "location": "Lisbon, Portugal 🇵🇹",
+    "GitHub": "https://github.com/negar-75",
+    "text": "I've always dreamed of owning my own business, generating income, creating numerous job opportunities, and leaving a significant mark on the world."
+  }
 ]
