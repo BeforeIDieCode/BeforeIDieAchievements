@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import styles from "./MasonryBox.module.css";
 import { PropTypes } from "prop-types";
 
@@ -15,7 +15,7 @@ const MasonryBox = ({
       window.open(githubUrl, "_blank");
     }
   };
-
+  const [randomColor, setRandomColor] = useState();
   const [isEnlarged, setIsEnlarged] = useState(false);
   const [isUserTextVisible, setIsUserTextVisible] = useState(true);
   const [isTextVisible, setIsTextVisible] = useState(false);
@@ -28,7 +28,26 @@ const MasonryBox = ({
   const toggleText = () => {
     setIsTextVisible(!isTextVisible);
   };
+  useEffect(() => {
+    setRandomColor(() => {
+      const minBrightness = 80;
 
+      // Generate random RGB values with a minimum brightness
+      let red, green, blue;
+      do {
+        red = Math.floor(Math.random() * 256);
+        green = Math.floor(Math.random() * 256);
+        blue = Math.floor(Math.random() * 256);
+      } while (red + green + blue < minBrightness * 3);
+
+      // Convert RGB values to a hexadecimal color
+      const color = `#${red.toString(16)}${green.toString(16)}${blue.toString(
+        16
+      )}`;
+
+      return color;
+    });
+  }, [isEnlarged]);
   const presetText = (
     <span className={styles.boldText}>
       Before I Die... <br />
@@ -61,7 +80,7 @@ const MasonryBox = ({
               onClick={toggleText}
             >
               <h3>{presetText}</h3>
-              <p>{userText}</p>
+              <p style={{ color: randomColor }}>{userText}</p>
             </div>{" "}
           </div>
 
