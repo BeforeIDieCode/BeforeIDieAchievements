@@ -103,4 +103,5 @@ Integrate with wearable devices like smart watches to track progress on fitness/
 - Project architecture (nice to have)
 - Known issues
 - Review this Dev.io article and create a new issue for enhancing the contribution guide [article](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3)
-- addtional source for open source education for contributors [Open Source Contribution University](https://www.codetriage.com/university)
+- additional source for open source education for contributors [Open Source Contribution University](https://www.codetriage.com/university)
+-additional source for creating a pull request template [Dev.to article](https://dev.to/opensauced/how-to-create-a-good-pull-request-template-and-why-you-should-add-gifs-4i0l)
