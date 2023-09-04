@@ -187,5 +187,17 @@
       </a>
     </td>
   <!-- End of column-1 -->
+  <!-- Start of column-2 -->
+    <td align="center">
+      <a href="https://github.com/honeyjangra2309">
+        <img
+        src="https://avatars.githubusercontent.com/u/54791179?v=4"
+        width="100px"
+       />
+        <br />
+        <sub>Hanny Jangra</sub>
+      </a>
+    </td>
+  <!-- End of column-2 -->
  </tr>
 </table>
