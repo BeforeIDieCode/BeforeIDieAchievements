@@ -175,7 +175,7 @@
   <!-- End of column-7 -->
   </tr>
  <tr>
-  <!-- Start of column-8 -->
+  <!-- Start of column-1 -->
     <td align="center">
       <a href="https://github.com/negar-75">
         <img
@@ -186,8 +186,8 @@
         <sub>Negar Nasiri</sub>
       </a>
     </td>
-  <!-- End of column-8 -->
-  <!-- Start of column-9 -->
+  <!-- End of column-1 -->
+  <!-- Start of column-2 -->
     <td align="center">
       <a href="https://github.com/honeyjangra2309">
         <img
@@ -198,6 +198,6 @@
         <sub>Hanny Jangra</sub>
       </a>
     </td>
-  <!-- End of column-9 -->
+  <!-- End of column-2 -->
  </tr>
 </table>
