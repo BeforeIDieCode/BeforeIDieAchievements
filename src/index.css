@@ -8,13 +8,6 @@
     --green-white-100: #C3EFC0;
 }
 
-@font-face {
- 
-    font-family: "Chalk_3";
-    src: local("Chalk_3"),
-     url("./fonts/Chalk/Chalk-3.ttf") format("truetype");
-    
-}
 body {
     background: var(--dark-900);
 }
