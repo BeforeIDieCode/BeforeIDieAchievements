@@ -231,7 +231,7 @@
       width="100px"
     />
     <br />
-    <sub>YOUR_NAME</sub>
+    <sub>Ben Tracy</sub>
   </a>
 </td>
 <!-- End of column -->
