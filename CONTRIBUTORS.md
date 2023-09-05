@@ -199,5 +199,17 @@
       </a>
     </td>
   <!-- End of column-2 -->
+  <!-- Start of column -->
+    <td align="center">
+      <a href="https://github.com/SJLEE411">
+        <img
+          src="https://avatars.githubusercontent.com/u/130009892?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Sangjune Lee</sub>
+      </a>
+    </td>
+<!-- End of column -->
  </tr>
 </table>
