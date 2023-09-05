@@ -11,7 +11,6 @@ function useIPInfo() {
     axios
       .get("https://ipapi.co/json/")
       .then((response) => {
-        console.log(response);
         setIpInfo(response.data);
         setLoading(false);
       })
