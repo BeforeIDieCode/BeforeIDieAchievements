@@ -223,5 +223,17 @@
   </a>
 </td>
 <!-- End of column -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/BenTracyDotCom">
+    <img
+      src="https://avatars.githubusercontent.com/u/104698771?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>YOUR_NAME</sub>
+  </a>
+</td>
+<!-- End of column -->
  </tr>
 </table>

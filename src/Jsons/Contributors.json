@@ -196,5 +196,14 @@
     "location": "Gualeguay, Argentina 🇦🇷",
     "GitHub": "https://github.com/Tomas-Arrativel",
     "text": "I want to be a motocross champion in my country."
+  },
+  {
+    "id": "Ben Tracy",
+    "image": "img/bid_image/Ben_Tracy.jpg",
+    "avatar": "img/avatar/Ben_Tracy.jpg",
+    "name": "Ben Tracy",
+    "location": "Charlottesville, Virginia 🇺🇸",
+    "GitHub": "https://github.com/BenTracyDotCom",
+    "text": "I want to see and sleep under the Northern Lights before I die."
   }
 ]
