@@ -211,5 +211,17 @@
       </a>
     </td>
 <!-- End of column -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/Tomas-Arrativel">
+    <img
+      src="https://avatars.githubusercontent.com/u/104942523?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tomás Arrativel</sub>
+  </a>
+</td>
+<!-- End of column -->
  </tr>
 </table>
