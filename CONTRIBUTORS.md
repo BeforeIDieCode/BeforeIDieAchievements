@@ -161,7 +161,7 @@
   </a>
 </td>
 <!-- End of column-6 -->
-    <!-- Start of column-7 -->
+  <!-- Start of column-7 -->
     <td align="center">
       <a href="https://github.com/ccelest1">
         <img
@@ -172,6 +172,20 @@
         <sub>Tyler Celestin</sub>
       </a>
     </td>
-    <!-- End of column-7 -->
+  <!-- End of column-7 -->
   </tr>
+ <tr>
+  <!-- Start of column-1 -->
+    <td align="center">
+      <a href="https://github.com/negar-75">
+        <img
+        src="https://avatars.githubusercontent.com/u/113235504?v=4"
+        width="100px"
+       />
+        <br />
+        <sub>Negar Nasiri</sub>
+      </a>
+    </td>
+  <!-- End of column-1 -->
+ </tr>
 </table>
