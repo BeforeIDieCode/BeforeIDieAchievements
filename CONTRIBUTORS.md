@@ -187,5 +187,53 @@
       </a>
     </td>
   <!-- End of column-1 -->
+  <!-- Start of column-2 -->
+    <td align="center">
+      <a href="https://github.com/honeyjangra2309">
+        <img
+        src="https://avatars.githubusercontent.com/u/54791179?v=4"
+        width="100px"
+       />
+        <br />
+        <sub>Hanny Jangra</sub>
+      </a>
+    </td>
+  <!-- End of column-2 -->
+  <!-- Start of column -->
+    <td align="center">
+      <a href="https://github.com/SJLEE411">
+        <img
+          src="https://avatars.githubusercontent.com/u/130009892?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Sangjune Lee</sub>
+      </a>
+    </td>
+<!-- End of column -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/Tomas-Arrativel">
+    <img
+      src="https://avatars.githubusercontent.com/u/104942523?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tomás Arrativel</sub>
+  </a>
+</td>
+<!-- End of column -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/BenTracyDotCom">
+    <img
+      src="https://avatars.githubusercontent.com/u/104698771?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ben Tracy</sub>
+  </a>
+</td>
+<!-- End of column -->
  </tr>
 </table>

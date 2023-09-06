@@ -1,18 +1,18 @@
 // import styles of this component
-import styles from "./MasonryLayout.module.css";
+import styles from "./MasonryLayout.module.css"
 
 // import other react pkg to use
-import Masonry from "react-masonry-css";
+import Masonry from "react-masonry-css"
 
 // import other component to use
-import MasonryBox from "./MasonryBox/MasonryBox";
+import MasonryBox from './MasonryBox/MasonryBox';
 
 // MasonryLayout Component
 const MasonryLayout = ({ images }) => {
   const breakpointColumnsObj = {
     default: 3,
     1100: 2,
-    700: 1,
+    700: 1
   };
 
   // Shuffle the images array
@@ -24,7 +24,7 @@ const MasonryLayout = ({ images }) => {
       className={styles["my-masonry-grid"]}
       columnClassName={styles["my-masonry-grid_column"]}
     >
-      {shuffledImages.map((item) => (
+      {shuffledImages.map(item => (
         <MasonryBox
           key={item.id}
           wallSrc={item.image}
@@ -36,7 +36,7 @@ const MasonryLayout = ({ images }) => {
         />
       ))}
     </Masonry>
-  );
-};
+  )
+}
 
-export default MasonryLayout;
+export default MasonryLayout
