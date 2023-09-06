@@ -18,7 +18,7 @@ const App = () => {
       <Header onCategoryChange={handleCategoryChange} />
 
       <div
-        className=""
+        className="flex justify-content-center"
         style={{ marginTop: "50px", padding: "50px" }}
       >
         <ContainerCard>
