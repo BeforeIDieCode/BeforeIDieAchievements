@@ -2,12 +2,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,700&display=swap');
 
+
+
 .my-masonry {
   position: relative;
   margin-bottom: 30px;
   display: flex;
   border-radius: 10px;
   overflow: hidden;
+
 }
 
 .my-masonry img:hover {
@@ -25,28 +28,58 @@
   justify-content: center;
   align-items: center;
   z-index: 999;
+  padding: 0 30px;
+}
+
+.enlargedPhotoContainer {
+  display: flex;
+  background: url(https://raw.github.com/mmoustafa/Chalkboard/master/img/bg.png);
+  width: 80%;
+  height: 70%;
+  border-radius: 10px;
 }
 
 .enlargedPhotoImage {
-  max-width: 50%;
-  max-height: 50%;
+width: 50%;
+object-fit: cover;
+border-radius: 10px 0px 0px 10px
+  /* max-height: 50%;  */
 }
 
 .enlargedPhotoText {
-  color: black;
+  overflow-y: scroll;
+  color: azure;
   font-size: 18px;
   font-family: "Fira Code", monospace;
   padding: 20px;
-  background: linear-gradient(to right, #006dff, rgb(254, 234, 58));
+  /* background: url(https://raw.github.com/mmoustafa/Chalkboard/master/img/bg.png); */
   max-width: 50%;
   width: auto;
   /* adjust the width as needed */
-  margin-left: 50px;
+  margin-left: 0px;
   /* adjust the margin as needed */
-  text-align: center;
+  /* text-align: center; */
   /* add this property to center the text */
+  scrollbar-width: thin;
+  scrollbar-color: #888 #2f2e2e;
+}
+.enlargedPhotoText::-webkit-scrollbar {
+  width: 5px;
 }
 
+.enlargedPhotoText::-webkit-scrollbar-thumb {
+  background-color: #888;
+}
+
+.enlargedPhotoText::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+
+.enlargedPhotoText p{
+  line-height: normal;
+  max-height: 70%;
+  font-family: "Chalk_3", sans-serif;
+}
 @media (max-width: 640px) {
   /* When screen & mobile size less than 640px */
   .enlargedPhoto {
@@ -54,16 +87,29 @@
     flex-direction: column;
   }
 
+ .enlargedPhotoContainer{
+  display: flex;
+  flex-direction: column;
+    width: 100%;
+    height: 90%;
+  }
   .enlargedPhotoImage {
     width: auto;
-    height: auto;
+    height: 50%;
+    border-radius: 10px 10px 0 0;
   }
 
   .enlargedPhotoText {
     margin: 0;
     max-width: 100%;
+
   }
-}
+
+ }
+
+
+
+
 
 .enlargedPhotoTextBox {
   position: absolute;
@@ -160,12 +206,14 @@
   .my-masnry-user-prof-desc {
     font-size: 1rem;
   }
+
 }
 
 .boldText {
+  color: azure;
   font-weight: bolder;
-  font-size: 25px;
-  font-family: "EB Garamond", serif;
+  font-size: 30px;
+  font-family: "Chalk_3", sans-serif;
   /* Adjust the font size as desired */
   text-align: center;
 }
