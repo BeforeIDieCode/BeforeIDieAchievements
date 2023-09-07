@@ -33,7 +33,7 @@ _इसे [अन्य भाषाओं में](https://github.com/Before
 </p>
   
 
-# BeforeIDieAchievements (बिफोर आई डाई कोड अचीवमेंट्स)
+# BeforeIDieAchievements (बिफोर आई डाई अचीवमेंट्स)
 
   
 
