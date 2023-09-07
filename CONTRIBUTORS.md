@@ -235,5 +235,17 @@
   </a>
 </td>
 <!-- End of column -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/itzmidinesh">
+    <img
+      src="https://avatars.githubusercontent.com/u/5523347?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Dinesh Anbazhagan</sub>
+  </a>
+</td>
+<!-- End of column -->
  </tr>
 </table>
