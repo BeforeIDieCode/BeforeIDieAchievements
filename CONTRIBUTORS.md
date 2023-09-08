@@ -235,5 +235,17 @@
   </a>
 </td>
 <!-- End of column -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/vrun1208">
+    <img
+      src="https://avatars.githubusercontent.com/u/58364635?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Varun Patodia</sub>
+  </a>
+</td>
+<!-- End of column -->
  </tr>
 </table>

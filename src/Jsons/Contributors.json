@@ -205,5 +205,14 @@
     "location": "Charlottesville, Virginia, USA 🇺🇸",
     "GitHub": "https://github.com/BenTracyDotCom",
     "text": "I want to see and sleep under the Northern Lights."
-  }
+  },
+  {
+    "id": "Varun Patodia",
+    "image": "img/bid_image/varun_patodia.jpg",
+    "avatar": "img/avatar/varun_patodia.jpg",
+    "name": "Varun Patodia",
+    "location": "Bhopal, Madhaya Pradesh, India 🇮🇳",
+    "GitHub": "https://github.com/vrun4750",
+    "text": "I want to go trekking all the places in India before I die"
+}
 ]
