@@ -199,7 +199,7 @@
       </a>
     </td>
   <!-- End of column-2 -->
-  <!-- Start of column -->
+  <!-- Start of column-3 -->
     <td align="center">
       <a href="https://github.com/SJLEE411">
         <img
@@ -210,8 +210,8 @@
         <sub>Sangjune Lee</sub>
       </a>
     </td>
-<!-- End of column -->
-<!-- Start of column -->
+<!-- End of column-3 -->
+<!-- Start of column-4 -->
 <td align="center">
   <a href="https://github.com/Tomas-Arrativel">
     <img
@@ -222,8 +222,8 @@
     <sub>Tomás Arrativel</sub>
   </a>
 </td>
-<!-- End of column -->
-<!-- Start of column -->
+<!-- End of column-4 -->
+<!-- Start of column-5 -->
 <td align="center">
   <a href="https://github.com/BenTracyDotCom">
     <img
@@ -234,8 +234,8 @@
     <sub>Ben Tracy</sub>
   </a>
 </td>
-<!-- End of column -->
-<!-- Start of column -->
+<!-- End of column-5 -->
+<!-- Start of column-6 -->
 <td align="center">
   <a href="https://github.com/vrun1208">
     <img
@@ -246,6 +246,6 @@
     <sub>Varun Patodia</sub>
   </a>
 </td>
-<!-- End of column -->
+<!-- End of column-6 -->
  </tr>
 </table>
