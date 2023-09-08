@@ -106,3 +106,4 @@ Integrate with wearable devices like smart watches to track progress on fitness/
 - additional source for open source education for contributors [Open Source Contribution University](https://www.codetriage.com/university)
 - additional source for creating a pull request template [Dev.to article](https://dev.to/opensauced/how-to-create-a-good-pull-request-template-and-why-you-should-add-gifs-4i0l)
 - additional source for preparing for Hacktoberfest [Dev.tio article](https://dev.to/virtualcoffee/preptember-maintainer-powerups-4m1n)
+
