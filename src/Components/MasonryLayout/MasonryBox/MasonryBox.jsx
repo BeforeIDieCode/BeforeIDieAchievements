@@ -1,6 +1,10 @@
 import React, { useState, useEffect } from "react";
 import styles from "./MasonryBox.module.css";
 import { PropTypes } from "prop-types";
+import i18next from "i18next";
+import { useTranslation } from "react-i18next";
+import languages from "../../../translation/languages.json";
+import useIPInfo from "../../../hooks/useIPInfo";
 
 const MasonryBox = ({
   wallSrc,
@@ -19,7 +23,8 @@ const MasonryBox = ({
   const [isEnlarged, setIsEnlarged] = useState(false);
   const [isUserTextVisible, setIsUserTextVisible] = useState(true);
   const [isTextVisible, setIsTextVisible] = useState(false);
-
+  const { ipInfo, loading, error } = useIPInfo();
+  const { t } = useTranslation();
   const toggleEnlarged = () => {
     setIsEnlarged(!isEnlarged);
     setIsUserTextVisible(!isUserTextVisible);
@@ -50,11 +55,16 @@ const MasonryBox = ({
   }, [isEnlarged]);
   const presetText = (
     <span className={styles.boldText}>
-      Before I Die... <br />
-      {/* 💭 🌎 🎨 🎓 ❤️ 🌲 🏠 ✈️ 🏆 <br /> 💵 🤝 🌃 📚 🎸 🚴 🌟 🏰 🚀 */}
+      {t("BEFORE-I-DIE")}... <br />
       <br />
+
+
     </span>
   );
+  useEffect(() => {
+    // Change the language when the component mounts based on ipInfo
+    i18next.changeLanguage(languages[ipInfo?.country_code]);
+  }, [ipInfo]); // Empty dependency array to run this effect only once when the component mounts
 
   return (
     <div className={styles["my-masonry"]}>
