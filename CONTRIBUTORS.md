@@ -148,7 +148,121 @@
       </a>
     </td>
     <!-- End of column-5 -->
-    <!-- Start of column -->
+    <!-- Start of column-6 -->
+<td align="center">
+  <a href="https://github.com/luc881">
+    <img
+      src="https://avatars.githubusercontent.com/u/106575656?v=4"
+      width="100px"
+      alt="Luciano Juarez"
+    />
+    <br />
+    <sub>Luciano Juarez</sub>
+  </a>
+</td>
+<!-- End of column-6 -->
+  <!-- Start of column-7 -->
+    <td align="center">
+      <a href="https://github.com/ccelest1">
+        <img
+          src="https://avatars.githubusercontent.com/u/79764816?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Tyler Celestin</sub>
+      </a>
+    </td>
+  <!-- End of column-7 -->
+  </tr>
+ <tr>
+  <!-- Start of column-1 -->
+    <td align="center">
+      <a href="https://github.com/negar-75">
+        <img
+        src="https://avatars.githubusercontent.com/u/113235504?v=4"
+        width="100px"
+       />
+        <br />
+        <sub>Negar Nasiri</sub>
+      </a>
+    </td>
+  <!-- End of column-1 -->
+  <!-- Start of column-2 -->
+    <td align="center">
+      <a href="https://github.com/honeyjangra2309">
+        <img
+        src="https://avatars.githubusercontent.com/u/54791179?v=4"
+        width="100px"
+       />
+        <br />
+        <sub>Hanny Jangra</sub>
+      </a>
+    </td>
+  <!-- End of column-2 -->
+  <!-- Start of column-3 -->
+    <td align="center">
+      <a href="https://github.com/SJLEE411">
+        <img
+          src="https://avatars.githubusercontent.com/u/130009892?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Sangjune Lee</sub>
+      </a>
+    </td>
+<!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/Tomas-Arrativel">
+    <img
+      src="https://avatars.githubusercontent.com/u/104942523?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tomás Arrativel</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/BenTracyDotCom">
+    <img
+      src="https://avatars.githubusercontent.com/u/104698771?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ben Tracy</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
+<!-- Start of column-6 -->
+<td align="center">
+  <a href="https://github.com/vrun1208">
+    <img
+      src="https://avatars.githubusercontent.com/u/58364635?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Varun Patodia</sub>
+  </a>
+</td>
+<!-- End of column-6 -->
+<!-- End of column-7 -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/itzmidinesh">
+    <img
+      src="https://avatars.githubusercontent.com/u/5523347?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Dinesh Anbazhagan</sub>
+  </a>
+</td>
+<!-- End of column-7 -->
+  </tr>
+  <tr>
+   <!-- Start of column-1 -->
     <td align="center">
         <a href="https://github.com/EniacTNB">
             <img
@@ -159,6 +273,6 @@
             <sub>ENIACCC</sub>
         </a>
     </td>
-    <!-- End of column -->
-  </tr>
+    <!-- End of column-1 -->
+ </tr>
 </table>
