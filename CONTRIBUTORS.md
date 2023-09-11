@@ -259,6 +259,28 @@
     <sub>Dinesh Anbazhagan</sub>
   </a>
 </td>
-<!-- End of column-7 -->
+<!-- End of column-7 --<!-- Start of column 8 -->
+
+<td align="center">
+
+<a href="https://github.com/SimardeepSingh-zsh">
+
+<img
+
+src="https://avatars.githubusercontent.com/u/134756717?v=4"
+
+width="100px"
+
+/>
+
+<br />
+
+<sub>Simardeep Singh</sub>
+
+</a>
+
+</td>
+
+<!-- End of column 8-->>
  </tr>
 </table>
