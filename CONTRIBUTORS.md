@@ -247,7 +247,6 @@
   </a>
 </td>
 <!-- End of column-6 -->
-<!-- End of column-7 -->
 <!-- Start of column -->
 <td align="center">
   <a href="https://github.com/itzmidinesh">
@@ -274,7 +273,15 @@
         </a>
     </td>
     <!-- End of column-1 -->
-    <!-- Start of column -->
+    <!-- Start of column-2 -->
+    <td align="center">
+      <a href="https://github.com/SimardeepSingh-zsh">
+        <img src="https://avatars.githubusercontent.com/u/134756717?v=4" width="100px" alt="Arash"> <br/>
+        <sub>Simardeep Singh</sub>
+      </a>
+    </td>
+    <!-- End of column-2 -->
+    <!-- Start of column-3 -->
 <td align="center">
   <a href="https://github.com/lucasfirmo62">
     <img
@@ -285,6 +292,6 @@
     <sub>lucasfirmo62</sub>
   </a>
 </td>
-<!-- End of column -->
+<!-- End of column-3 -->
  </tr>
 </table>
