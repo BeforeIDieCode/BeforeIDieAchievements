@@ -274,5 +274,13 @@
         </a>
     </td>
     <!-- End of column-1 -->
+    <!-- Start of column-2 -->
+    <td align="center">
+      <a href="https://github.com/SimardeepSingh-zsh">
+        <img src="https://avatars.githubusercontent.com/u/134756717?v=4" width="100px" alt="Arash"> <br/>
+        <sub>Simardeep Singh</sub>
+      </a>
+    </td>
+    <!-- End of column-2 -->
  </tr>
 </table>
