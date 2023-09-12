@@ -1,146 +1,245 @@
 [
+  {
+    "id": "Alexander Clemens",
+    "image": "img/bid_image/Alexander_Clemens.jpg",
+    "avatar": "img/avatar/Alexander_Clemens.jpg",
+    "name": "Alexander Clemens",
+    "location": "Santa Rosa de Cabal, Colombia 🇨🇴",
+    "GitHub": "https://github.com/XanderRubio",
+    "text": "Becoming a professional tango dancer and competing in Buenos Aires🇦🇷. Donating to the CORE Foundation for spinal cord injury rehabilitation in Orlando, Florida. Marrying my best friend and growing our life together. Starting and raising a family. Seeing Earth from space. Visiting the Baseball Hall of Fame with my father in Cooperstown, New York. Getting baptized in Mirror Lake, Alaska. Walking the Great Wall of China from start to finish."
+  },
+  {
+    "id": "Diogo Ferreira Cavalcanti",
+    "image": "img/bid_image/Diogo_Ferreira_Cavalcanti.jpg",
+    "avatar": "img/avatar/Diogo_Ferreira_Cavalcanti.jpg",
+    "name": "Diogo Ferreira Cavalcanti",
+    "location": "Recife, Brazil 🇧🇷",
+    "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
+    "text": "One of the things I want to do before I die is to travel to all seven continents. It's a dream that I have always had, and I believe that it will be an incredible experience to explore the diverse cultures, cuisines, and landscapes of each continent. From the majestic Amazon rainforest in South America to the stunning Great Barrier Reef in Australia, each continent offers unique and awe-inspiring experiences that I would love to witness. Traveling to all seven continents will also foster personal growth, broaden my perspective, and enhance my adaptability. It's a goal that will bring a sense of fulfillment and pride, and I am excited to embark on this remarkable journey."
+  },
+  {
+    "id": "Jasmien Laning",
+    "image": "img/bid_image/Jasmien_Laning.jpg",
+    "avatar": "img/avatar/Jasmien_Laning.jpg",
+    "name": "Jasmien Laning",
+    "location": "Pietersburg, South Africa 🇿🇦",
+    "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
+    "text": "As an adventurous backpacker, I have long dreamt of hiking Mount Kilimanjaro. The mental and physical challenge, breathtaking landscapes, and sense of accomplishment upon reaching the summit at almost 6,000 meters make it a bucket list item I aspire to conquer. The support of porters, guides, and fellow climbers adds to the allure of this incredible journey."
+  },
+  {
+    "id": "月井 葵",
+    "image": "img/bid_image/月井 葵.jpg",
+    "avatar": "img/avatar/月井 葵.jpg",
+    "name": "月井 葵",
+    "location": "Hiroshima, Japan 🇯🇵",
+    "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
+    "text": "I believe that Antarctica is a stunning destination that boasts incredible wildlife, majestic glaciers, and breathtaking natural beauty. I have always dreamed of visiting this remote and extreme environment on Earth, as it would be the ultimate adventure for me and provide a once-in-a-lifetime experience. Adding Antarctica to my bucket list inspires me to appreciate and protect the fragile magic of our planet."
+  },
+  {
+    "id": "Irakli Ignatiev",
+    "image": "img/bid_image/Irakli_Ignatiev.jpg",
+    "avatar": "img/avatar/Irakli_Ignatiev.jpg",
+    "name": "Irakli Ignatiev",
+    "location": "Yekaterinburg, Russia 🇷🇺",
+    "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
+    "text": "Playing guitar has always been my lifelong dream. The sound of the strings and the way a gifted musician can evoke emotions has always fascinated me. I want to learn to play guitar to express myself through my own lyrics and chord progressions, and keep myself connected to my passions. Making music is such a human act, and I don't want to miss out on the experience of learning an instrument. With practice and dedication, I know I could turn this dream into a reality and play my favorite songs from start to finish."
+  },
+  {
+    "id": "Ibrahim Shah",
+    "image": "img/bid_image/Ibrahim_Shah.jpg",
+    "avatar": "img/avatar/Ibrahim_Shah.jpg",
+    "name": "Ibrahim Shah",
+    "location": "Sheikhupura, Pakistan 🇵🇰",
+    "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
+    "text": "I'm enchanted by London's historic pubs, iconic landmarks, and royalty. Seeing the Crown Jewels and experiencing the Changing of the Guard at Buckingham Palace would be unforgettable. Recreating a classic red British phone booth photo is on my bucket list. London is calling my name!"
+  },
+  {
+    "id": "Maya Kaur",
+    "image": "img/bid_image/Maya_Kaur.jpg",
+    "avatar": "img/avatar/Maya_Kaur.jpg",
+    "name": "Maya Kaur",
+    "location": "Bangalore, India 🇮🇳",
+    "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
+    "text": "French pastries have enchanted me for as long as I can remember. My lifelong passion is to master the art of pâtisserie in Paris, recreating little pieces of the city in my own kitchen. Making time to appreciate life's sweet pleasures means so much to me."
+  },
+  {
+    "id": "Chen Mei-Ling",
+    "image": "img/bid_image/Chen_Mei-Ling.jpg",
+    "avatar": "img/avatar/Chen_Mei-Ling.jpg",
+    "name": "Chen Mei-Ling",
+    "location": "Taipei, Taiwan 🇹🇼",
+    "GitHub": "https://github.com/chenmeiling",
+    "text": "I want to hike to the top of Yushan before I die."
+  },
+  {
+    "id": "Artis Lotko",
+    "image": "img/bid_image/Artis_Lotko.jpg",
+    "avatar": "img/avatar/Artis_Lotko.jpg",
+    "name": "Artis Lotko",
+    "location": "Riga, Latvia 🇱🇻",
+    "GitHub": "https://github.com/69966969",
+    "text": "To emigrate to New Zealand."
+  },
+  {
+    "id": "George Halterman",
+    "image": "img/bid_image/George_Halterman.jpg",
+    "avatar": "img/avatar/George_Halterman.jpg",
+    "name": "George Halterman",
+    "location": "California, USA 🇺🇸",
+    "GitHub": "https://github.com/Agoews",
+    "text": "To do every 4 star hike in Yosemite and live in the Eastern Sierras."
+  },
+  {
+    "id": "Kenneth Quiggins",
+    "image": "img/bid_image/Kenneth_Quiggins.jpg",
+    "avatar": "img/avatar/Kenneth_Quiggins.jpg",
+    "name": "Kenneth Quiggins",
+    "location": "Louisville, Kentucky, USA 🇺🇸",
+    "GitHub": "https://github.com/KQuiggins",
+    "text": "To become a Software Developer and work remotely from anywhere in the world, so I can provide a good life for my family."
+  },
+  {
+    "id": "Addie Lopshire-Bratt",
+    "image": "img/bid_image/Addie_Lopshire-Bratt.jpg",
+    "avatar": "img/avatar/Addie_Lopshire-Bratt.jpg",
+    "name": "Addie Lopshire-Bratt",
+    "location": "Denver, Colorado, USA 🇺🇸",
+    "GitHub": "https://github.com/addielb",
+    "text": "I want to live in Amsterdam and spend my free time exploring the Netherlands and Europe."
+  },
+  {
+    "id": "Sahil Chalke",
+    "image": "img/bid_image/Sahil_Chalke.jpg",
+    "avatar": "img/avatar/Sahil_Chalke.jpg",
+    "name": "Sahil Chalke",
+    "location": "Mumbai, India 🇮🇳 ",
+    "GitHub": "https://github.com/Sahilll15",
+    "text": "Looking forward to an  week of relaxation in the beautiful Maldives! 🏝️✈️"
+  },
+  {
+    "id": "Cs Yong",
+    "image": "img/bid_image/CS_Yong.jpg",
+    "avatar": "img/avatar/CS_Yong.jpg",
+    "name": "Cs Yong",
+    "location": "Sarawak, Malaysia 🇲🇾",
+    "GitHub": "https://github.com/lefty93",
+    "text": "I want to retire in New Zealand with my love."
+  },
+  {
+    "id": "Alandis Ayupov",
+    "image": "img/bid_image/Alandis_Ayupov.jpg",
+    "avatar": "img/avatar/Alandis_Ayupov.jpg",
+    "name": "Alandis Ayupov",
+    "location": "Edison, New Jersey, USA 🇺🇸",
+    "GitHub": "https://github.com/AlandisAyupov",
+    "text": "I want to play a game of airsoft."
+  },
+  {
+    "id": "João Guilherme Camarota",
+    "image": "img/bid_image/Joao_Camarota.jpg",
+    "avatar": "img/avatar/Joao_Camarota.jpg",
+    "name": "João Guilherme Camarota",
+    "location": "Goiânia, Brazil 🇧🇷",
+    "GitHub": "https://github.com/Camarota-234",
+    "text": "I need to go skydiving before I die."
+  },
+  {
+    "id": "Luciano Juarez",
+    "image": "img/bid_image/Luciano_Juarez.jpg",
+    "avatar": "img/avatar/Luciano_Juarez.jpg",
+    "name": "Luciano Juarez",
+    "location": "Puebla, Mexico 🇲🇽",
+    "GitHub": "https://github.com/luc881",
+    "text": "I want to visit as many countries as possible before I die."
+  },
+  {
+    "id": "Tyler Celestin",
+    "image": "img/bid_image/Tyler_Celestin.jpg",
+    "avatar": "img/avatar/Tyler_Celestin.jpg",
+    "name": "Tyler Celestin",
+    "location": "Brooklyn, New York, USA 🇺🇸",
+    "GitHub": "https://github.com/ccelest1",
+    "text": "I sincerely appreciate great design and aesthetics. In that same vein, I would cherish the opportunity to travel to vistas that exhibit careful and detailed architecture that is synergistic with their cultural and environmental surroundings. One of those places is, of course, Japan, which is renowned for its talented engineers and attention to green practices. One of my dreams is to work in the field of design, or potentially civil engineering if possible."
+  },
+  {
+    "id": "Negar Nasiri",
+    "image": "img/bid_image/Negar_Nasiri.jpg",
+    "avatar": "img/avatar/Negar_Nasiri.jpg",
+    "name": "Negar Nasiri",
+    "location": "Lisbon, Portugal 🇵🇹",
+    "GitHub": "https://github.com/negar-75",
+    "text": "I've always dreamed of owning my own business, generating income, creating numerous job opportunities, and leaving a significant mark on the world."
+  },
+  {
+    "id": "Hanny Jangra",
+    "image": "img/bid_image/Hanny_Jangra.jpg",
+    "avatar": "img/avatar/Hanny_Jangra.jpg",
+    "name": "Hanny Jangra",
+    "location": "Mahendergarh, Haryana, India 🇮🇳",
+    "GitHub": "https://github.com/honeyjangra2309",
+    "text": "I want to write a science fiction and a romantic novel before I die."
+  },
+  {
+    "id": "Sangjune Lee",
+    "image": "img/bid_image/Sangjune_Lee.jpg",
+    "avatar": "img/avatar/Sangjune_Lee.jpg",
+    "name": "Sangjune Lee",
+    "location": "Seoul, Korea 🇰🇷",
+    "GitHub": "https://github.com/SJLEE411",
+    "text": "I want to become an impactful person who can bring changes to this world."
+  },
+  {
+    "id": "Tomás Arrativel",
+    "image": "img/bid_image/Tomas_Arrativel.jpg",
+    "avatar": "img/avatar/Tomas_Arrativel.jpg",
+    "name": "Tomás Arrativel",
+    "location": "Gualeguay, Argentina 🇦🇷",
+    "GitHub": "https://github.com/Tomas-Arrativel",
+    "text": "I want to be a motocross champion in my country."
+  },
+  {
+    "id": "Ben Tracy",
+    "image": "img/bid_image/Ben_Tracy.jpg",
+    "avatar": "img/avatar/Ben_Tracy.jpeg",
+    "name": "Ben Tracy",
+    "location": "Charlottesville, Virginia, USA 🇺🇸",
+    "GitHub": "https://github.com/BenTracyDotCom",
+    "text": "I want to see and sleep under the Northern Lights."
+  },
+  {
+    "id": "Varun Patodia",
+    "image": "img/bid_image/varun_patodia.jpg",
+    "avatar": "img/avatar/varun_patodia.jpg",
+    "name": "Varun Patodia",
+    "location": "Bhopal, Madhaya Pradesh, India 🇮🇳",
+    "GitHub": "https://github.com/vrun4750",
+    "text": "I want to go trekking all the places in India before I die."
+  },
+  {
+    "id": "Dinesh Anbazhagan",
+    "image": "img/bid_image/Dinesh_Anbazhagan.jpg",
+    "avatar": "img/avatar/Dinesh_Anbazhagan.jpg",
+    "name": "Dinesh Anbazhagan",
+    "location": "Vellore, Tamil Nadu, India 🇮🇳",
+    "GitHub": "https://github.com/itzmidinesh",
+    "text": "I have always been fascinated by computers and technology. I want to become a software developer and feed my hunger for technology. If I can contribute something of significance to open source software, that is an added benifit I will take any day."
+  },
+  {
+    "id": "Zhang Zhao",
+    "image": "img/bid_image/Zhang_Zhao.jpeg",
+    "avatar": "img/avatar/Zhang_Zhao.jpeg",
+    "name": "Zhang Zhao",
+    "location": "Beijing,China 🇨🇳",
+    "GitHub": "https://github.com/EniacTNB",
+    "text": "1. Living by the water, with mountains and snow\n 2. Forgetting all worldly matters, leading a tranquil life and accompanied by family\n 3. Making a small contribution to improve people's lives in leisurely times"
+  },
     {
-        "id": "Alexander Clemens",
-        "image": "img/bid_image/Alexander_Clemens.jpg",
-        "avatar": "img/avatar/Alexander_Clemens.jpg",
-        "name": "Alexander Clemens",
-        "location": "Santa Rosa de Cabal, Colombia 🇨🇴",
-        "GitHub": "https://github.com/XanderRubio",
-        "text": "Becoming a professional tango dancer and competing in Buenos Aires🇦🇷. Donating to the CORE Foundation for spinal cord injury rehabilitation in Orlando, Florida. Marrying my best friend and growing our life together. Starting and raising a family. Seeing Earth from space. Visiting the Baseball Hall of Fame with my father in Cooperstown, New York. Getting baptized in Mirror Lake, Alaska. Walking the Great Wall of China from start to finish."
-    },
-    {
-        "id": "Diogo Ferreira Cavalcanti",
-        "image": "img/bid_image/Diogo_Ferreira_Cavalcanti.jpg",
-        "avatar": "img/avatar/Diogo_Ferreira_Cavalcanti.jpg",
-        "name": "Diogo Ferreira Cavalcanti",
-        "location": "Recife, Brazil 🇧🇷",
-        "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
-        "text": "One of the things I want to do before I die is to travel to all seven continents. It's a dream that I have always had, and I believe that it will be an incredible experience to explore the diverse cultures, cuisines, and landscapes of each continent. From the majestic Amazon rainforest in South America to the stunning Great Barrier Reef in Australia, each continent offers unique and awe-inspiring experiences that I would love to witness. Traveling to all seven continents will also foster personal growth, broaden my perspective, and enhance my adaptability. It's a goal that will bring a sense of fulfillment and pride, and I am excited to embark on this remarkable journey."
-    },
-    {
-        "id": "Jasmien Laning",
-        "image": "img/bid_image/Jasmien_Laning.jpg",
-        "avatar": "img/avatar/Jasmien_Laning.jpg",
-        "name": "Jasmien Laning",
-        "location": "Pietersburg, South Africa 🇿🇦",
-        "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
-        "text": "As an adventurous backpacker, I have long dreamt of hiking Mount Kilimanjaro. The mental and physical challenge, breathtaking landscapes, and sense of accomplishment upon reaching the summit at almost 6,000 meters make it a bucket list item I aspire to conquer. The support of porters, guides, and fellow climbers adds to the allure of this incredible journey."
-    },
-    {
-        "id": "月井 葵",
-        "image": "img/bid_image/月井 葵.jpg",
-        "avatar": "img/avatar/月井 葵.jpg",
-        "name": "月井 葵",
-        "location": "Hiroshima, Japan 🇯🇵",
-        "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
-        "text": "I believe that Antarctica is a stunning destination that boasts incredible wildlife, majestic glaciers, and breathtaking natural beauty. I have always dreamed of visiting this remote and extreme environment on Earth, as it would be the ultimate adventure for me and provide a once-in-a-lifetime experience. Adding Antarctica to my bucket list inspires me to appreciate and protect the fragile magic of our planet."
-    },
-    {
-        "id": "Irakli Ignatiev",
-        "image": "img/bid_image/Irakli_Ignatiev.jpg",
-        "avatar": "img/avatar/Irakli_Ignatiev.jpg",
-        "name": "Irakli Ignatiev",
-        "location": "Yekaterinburg, Russia 🇷🇺",
-        "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
-        "text": "Playing guitar has always been my lifelong dream. The sound of the strings and the way a gifted musician can evoke emotions has always fascinated me. I want to learn to play guitar to express myself through my own lyrics and chord progressions, and keep myself connected to my passions. Making music is such a human act, and I don't want to miss out on the experience of learning an instrument. With practice and dedication, I know I could turn this dream into a reality and play my favorite songs from start to finish."
-    },
-    {
-        "id": "Ibrahim Shah",
-        "image": "img/bid_image/Ibrahim_Shah.jpg",
-        "avatar": "img/avatar/Ibrahim_Shah.jpg",
-        "name": "Ibrahim Shah",
-        "location": "Sheikhupura, Pakistan 🇵🇰",
-        "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
-        "text": "I'm enchanted by London's historic pubs, iconic landmarks, and royalty. Seeing the Crown Jewels and experiencing the Changing of the Guard at Buckingham Palace would be unforgettable. Recreating a classic red British phone booth photo is on my bucket list. London is calling my name!"
-    },
-    {
-        "id": "Maya Kaur",
-        "image": "img/bid_image/Maya_Kaur.jpg",
-        "avatar": "img/avatar/Maya_Kaur.jpg",
-        "name": "Maya Kaur",
-        "location": "Bangalore, India 🇮🇳",
-        "GitHub": "https://github.com/BeforeIDieCode/BeforeIDieAchievements",
-        "text": "French pastries have enchanted me for as long as I can remember. My lifelong passion is to master the art of pâtisserie in Paris, recreating little pieces of the city in my own kitchen. Making time to appreciate life's sweet pleasures means so much to me."
-    },
-    {
-        "id": "Chen Mei-Ling",
-        "image": "img/bid_image/Chen_Mei-Ling.jpg",
-        "avatar": "img/avatar/Chen_Mei-Ling.jpg",
-        "name": "Chen Mei-Ling",
-        "location": "Taipei, Taiwan 🇹🇼",
-        "GitHub": "https://github.com/chenmeiling",
-        "text": "I want to hike to the top of Yushan before I die."
-    },
-    {
-        "id": "Artis Lotko",
-        "image": "img/bid_image/Artis_Lotko.jpg",
-        "avatar": "img/avatar/Artis_Lotko.jpg",
-        "name": "Artis Lotko",
-        "location": "Riga, Latvia 🇱🇻",
-        "GitHub": "https://github.com/69966969",
-        "text": "To emigrate to New Zealand."
-    },
-    {
-        "id": "George Halterman",
-        "image": "img/bid_image/George_Halterman.jpg",
-        "avatar": "img/avatar/George_Halterman.jpg",
-        "name": "George Halterman",
-        "location": "California, USA 🇺🇸",
-        "GitHub": "https://github.com/Agoews",
-        "text": "To do every 4 star hike in Yosemite and live in the Eastern Sierras."
-    },
-    {
-        "id": "Kenneth Quiggins",
-        "image": "img/bid_image/Kenneth_Quiggins.jpg",
-        "avatar": "img/avatar/Kenneth_Quiggins.jpg",
-        "name": "Kenneth Quiggins",
-        "location": "Louisville, Kentucky, USA, 🇺🇸",
-        "GitHub": "https://github.com/KQuiggins",
-        "text": "To become a Software Developer and work remotely from anywhere in the world, so I can provide a good life for my family."
-    },
-    {
-        "id": "Addie Lopshire-Bratt",
-        "image": "img/bid_image/Addie_Lopshire-Bratt.jpg",
-        "avatar": "img/avatar/Addie_Lopshire-Bratt.jpg",
-        "name": "Addie Lopshire-Bratt",
-        "location": "Denver, USA 🇺🇸",
-        "GitHub": "https://github.com/addielb",
-        "text": "I want to live in Amsterdam and spend my free time exploring the Netherlands and Europe."
-    },
-    {
-        "id": "Sahil Chalke",
-        "image": "img/bid_image/Sahil_Chalke.jpg",
-        "avatar": "img/avatar/Sahil_Chalke.jpg",
-        "name": "Sahil Chalke",
-        "location": "Mumbai, India 🇮🇳 ",
-        "GitHub": "https://github.com/Sahilll15",
-        "text": "Looking forward to an  week of relaxation in the beautiful Maldives! 🏝️✈️"
-    },
-    {
-        "id": "Cs Yong",
-        "image": "img/bid_image/CS_Yong.jpg",
-        "avatar": "img/avatar/CS_Yong.jpg",
-        "name": "Cs Yong",
-        "location": "Sarawak, Malaysia 🇲🇾",
-        "GitHub": "https://github.com/lefty93",
-        "text": "I want to retire in New Zealand with my love."
-    },
-    {
-        "id": "Alandis Ayupov",
-        "image": "img/bid_image/Alandis_Ayupov.jpg",
-        "avatar": "img/avatar/Alandis_Ayupov.jpg",
-        "name": "Alandis Ayupov",
-        "location": "Edison, USA 🇺🇸",
-        "GitHub": "https://github.com/AlandisAyupov",
-        "text": "I want to play a game of airsoft."
-    },
-    {
-        "id": "João Guilherme Camarota",
-        "image": "img/bid_image/Joao_Camarota.jpg",
-        "avatar": "img/avatar/Joao_Camarota.jpg",
-        "name": "João Guilherme Camarota",
-        "location": "Goiânia, Brazil 🇧🇷",
-        "GitHub": "https://github.com/Camarota-234",
-        "text": "I need to go skydiving before I die."
-    }
+    "id": "Lucas Firmo",
+    "image": "img/bid_image/Lucas_Firmo.jpg",
+    "avatar": "img/avatar/Lucas_Firmo.jpg",
+    "name": "Lucas Firmo",
+    "location": "Campo Mourão, Paraná, Brasil 🇧🇷",
+    "GitHub": "https://github.com/lucasfirmo62",
+    "text": "I like codes"
+  }
 ]
