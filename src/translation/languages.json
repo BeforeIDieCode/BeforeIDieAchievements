@@ -1,85 +1,85 @@
 {
-  "US": "en", // English
-  "GB": "en", // English
-  "CA": "en", // English
-  "AU": "en", // English
-  "FR": "fr", // French
-  "DE": "de", // German
-  "ES": "es", // Spanish
-  "IT": "it", // Italian
-  "PT": "pt", // Portuguese
-  "BR": "pt", // Portuguese
-  "NL": "nl", // Dutch
-  "BE": "nl", // Dutch
-  "SE": "sv", // Swedish
-  "NO": "no", // Norwegian
-  "DK": "da", // Danish
-  "FI": "fi", // Finnish
-  "RU": "ru", // Russian
-  "CN": "zh", // Chinese
-  "JP": "ja", // Japanese
-  "IN": "hi", // Hindi
-  "AR": "es", // Spanish
-  "MX": "es", // Spanish
-  "CO": "es", // Spanish
-  "CL": "es", // Spanish
-  "PE": "es", // Spanish
-  "KR": "ko", // Korean
-  "TW": "zh", // Chinese
-  "HK": "zh", // Chinese
-  "SG": "en", // English
-  "MY": "ms", // Malay
-  "ID": "id", // Indonesian
-  "PH": "tl", // Tagalog
-  "TH": "th", // Thai
-  "VN": "vi", // Vietnamese
-  "TR": "tr", // Turkish
-  "GR": "el", // Greek
-  "IL": "he", // Hebrew
-  "AE": "ar", // Arabic
-  "SA": "ar", // Arabic
-  "EG": "ar", // Arabic
-  "ZA": "af", // Afrikaans
-  "KE": "sw", // Swahili
-  "NG": "en", // English
-  "GH": "en", // English
-  "TZ": "sw", // Swahili
-  "UG": "sw", // Swahili
-  "PL": "pl", // Polish
-  "RO": "ro", // Romanian
-  "BG": "bg", // Bulgarian
-  "UA": "uk", // Ukrainian
-  "CZ": "cs", // Czech
-  "SK": "sk", // Slovak
-  "HU": "hu", // Hungarian
-  "SI": "sl", // Slovenian
-  "HR": "hr", // Croatian
-  "RS": "sr", // Serbian
-  "BA": "bs", // Bosnian
-  "ME": "sr", // Serbian
-  "MK": "mk", // Macedonian
-  "AL": "sq", // Albanian
-  "LT": "lt", // Lithuanian
-  "LV": "lv", // Latvian
-  "EE": "et", // Estonian
-  "IS": "is", // Icelandic
-  "IR": "fa", // Persian
-  "PK": "ur", // Urdu
-  "AF": "ps", // Pashto
-  "BD": "bn", // Bengali
-  "NP": "ne", // Nepali
-  "LK": "si", // Sinhalese
-  "MM": "my", // Burmese
-  "KH": "km", // Khmer
-  "LA": "lo", // Lao
-  "MN": "mn", // Mongolian
-  "BT": "dz", // Dzongkha
-  "KZ": "kk", // Kazakh
-  "UZ": "uz", // Uzbek
-  "KG": "ky", // Kyrgyz
-  "TJ": "tg", // Tajik
-  "TM": "tk", // Turkmen
-  "GE": "ka", // Georgian
-  "AM": "hy", // Armenian
-  "AZ": "az"  // Azerbaijani
+  "US": "en",
+  "GB": "en",
+  "CA": "en",
+  "AU": "en",
+  "FR": "fr",
+  "DE": "de",
+  "ES": "es",
+  "IT": "it",
+  "PT": "pt",
+  "BR": "pt",
+  "NL": "nl",
+  "BE": "nl",
+  "SE": "sv",
+  "NO": "no",
+  "DK": "da",
+  "FI": "fi",
+  "RU": "ru",
+  "CN": "zh",
+  "JP": "ja",
+  "IN": "hi",
+  "AR": "es",
+  "MX": "es",
+  "CO": "es",
+  "CL": "es",
+  "PE": "es",
+  "KR": "ko",
+  "TW": "zh",
+  "HK": "zh",
+  "SG": "en",
+  "MY": "ms",
+  "ID": "id",
+  "PH": "tl",
+  "TH": "th",
+  "VN": "vi",
+  "TR": "tr",
+  "GR": "el",
+  "IL": "he",
+  "AE": "ar",
+  "SA": "ar",
+  "EG": "ar",
+  "ZA": "af",
+  "KE": "sw",
+  "NG": "en",
+  "GH": "en",
+  "TZ": "sw",
+  "UG": "sw",
+  "PL": "pl",
+  "RO": "ro",
+  "BG": "bg",
+  "UA": "uk",
+  "CZ": "cs",
+  "SK": "sk",
+  "HU": "hu",
+  "SI": "sl",
+  "HR": "hr",
+  "RS": "sr",
+  "BA": "bs",
+  "ME": "sr",
+  "MK": "mk",
+  "AL": "sq",
+  "LT": "lt",
+  "LV": "lv",
+  "EE": "et",
+  "IS": "is",
+  "IR": "fa",
+  "PK": "ur",
+  "AF": "ps",
+  "BD": "bn",
+  "NP": "ne",
+  "LK": "si",
+  "MM": "my",
+  "KH": "km",
+  "LA": "lo",
+  "MN": "mn",
+  "BT": "dz",
+  "KZ": "kk",
+  "UZ": "uz",
+  "KG": "ky",
+  "TJ": "tg",
+  "TM": "tk",
+  "GE": "ka",
+  "AM": "hy",
+  "AZ": "az"
 }
