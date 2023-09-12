@@ -259,28 +259,28 @@
     <sub>Dinesh Anbazhagan</sub>
   </a>
 </td>
-<!-- End of column-7 --<!-- Start of column 8 -->
-
-<td align="center">
-
-<a href="https://github.com/SimardeepSingh-zsh">
-
-<img
-
-src="https://avatars.githubusercontent.com/u/134756717?v=4"
-
-width="100px"
-
-/>
-
-<br />
-
-<sub>Simardeep Singh</sub>
-
-</a>
-
-</td>
-
-<!-- End of column 8-->>
+<!-- End of column-7 -->
+  </tr>
+  <tr>
+   <!-- Start of column-1 -->
+    <td align="center">
+        <a href="https://github.com/EniacTNB">
+            <img
+            src="https://avatars.githubusercontent.com/u/41502629?v=4"
+            width="100px"
+            />
+            <br />
+            <sub>ENIACCC</sub>
+        </a>
+    </td>
+    <!-- End of column-1 -->
+    <!-- Start of column-2 -->
+    <td align="center">
+      <a href="https://github.com/SimardeepSingh-zsh">
+        <img src="https://avatars.githubusercontent.com/u/134756717?v=4" width="100px" alt="Arash"> <br/>
+        <sub>Simardeep Singh</sub>
+      </a>
+    </td>
+    <!-- End of column-2 -->
  </tr>
 </table>
