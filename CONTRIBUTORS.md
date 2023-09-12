@@ -247,7 +247,6 @@
   </a>
 </td>
 <!-- End of column-6 -->
-<!-- End of column-7 -->
 <!-- Start of column -->
 <td align="center">
   <a href="https://github.com/itzmidinesh">
@@ -282,5 +281,17 @@
       </a>
     </td>
     <!-- End of column-2 -->
+    <!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/lucasfirmo62">
+    <img
+      src="https://avatars.githubusercontent.com/u/58527718?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>lucasfirmo62</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
  </tr>
 </table>
