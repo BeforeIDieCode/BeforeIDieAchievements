@@ -60,7 +60,7 @@ BeforeIDieAchievements is licensed under the MIT License. See the [LICENSE](http
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Open%20Hands.png" alt="Open Hands" width="25" height="25" /> Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Mechanic.png" alt="Man Mechanic" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Superhero.png" alt="Woman Superhero" width="25" height="25" />
 
-We would like to thank all the contributors who have helped make BeforeIDieAchievements possible. Check out the [CONTRIBUTORS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md) file to see a list of all the amazing people who have contributed to this project.
+We would like to thank all the contributors who have helped make BeforeIDieAchievements possible. Check out the [CONTRIBUTORS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md) file to see a list of all the amazing people who have contributed to this project. Additionally, view the [THANK_YOU](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/THANK_YOU.md) videos for each one of our contributor's work being recognized. 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> Contact
 
