@@ -223,21 +223,15 @@
     "location": "Vellore, Tamil Nadu, India 🇮🇳",
     "GitHub": "https://github.com/itzmidinesh",
     "text": "I have always been fascinated by computers and technology. I want to become a software developer and feed my hunger for technology. If I can contribute something of significance to open source software, that is an added benifit I will take any day."
-  }
-  ,  {
-
+  },
+  {
     "id": "Simardeep Singh",
-    
-    "image": "img/bid_image/Simar.jpg",
-    
+    "image": "img/bid_image/BeforeSimarDies.jpg",
     "avatar": "img/avatar/Simar.jpg",
-    
     "name": "Simardeep Singh",
-    
-    "location": "Calgary,AB 🇨🇦",
-    
+    "location": "Calgary, Alberta, Canada 🇨🇦",
     "GitHub": "https://github.com/SimardeepSingh-zsh",
+    "text": "I want to release my own rap album before I die."
     
-    "text": "I want to release my own rap album before I die"
-    
-    }]
+    }
+]
