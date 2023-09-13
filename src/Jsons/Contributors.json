@@ -232,7 +232,6 @@
     "location": "Calgary, Alberta, Canada 🇨🇦",
     "GitHub": "https://github.com/SimardeepSingh-zsh",
     "text": "I want to release my own rap album before I die."
-
   },
   {
     "id": "Zhang Zhao",
@@ -243,7 +242,7 @@
     "GitHub": "https://github.com/EniacTNB",
     "text": "1. Living by the water, with mountains and snow\n 2. Forgetting all worldly matters, leading a tranquil life and accompanied by family\n 3. Making a small contribution to improve people's lives in leisurely times"
   },
-    {
+  {
     "id": "Lucas Firmo",
     "image": "img/bid_image/Lucas_Firmo.jpg",
     "avatar": "img/avatar/Lucas_Firmo.jpg",
@@ -251,5 +250,14 @@
     "location": "Campo Mourão, Paraná, Brasil 🇧🇷",
     "GitHub": "https://github.com/lucasfirmo62",
     "text": "I like codes"
+  },
+  {
+    "id": "Angel Soto",
+    "image": "img/bid_image/Angel_Soto.jpg",
+    "avatar": "img/avatar/Angel_Soto.jpg",
+    "name": "Angel Soto",
+    "location": "Brandon, Florida, USA 🇺🇸",
+    "GitHub": "https://github.com/Angeltheesoto",
+    "text": "I want to learn a new language, and travel the world."
   }
 ]

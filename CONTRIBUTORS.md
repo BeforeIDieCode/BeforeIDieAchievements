@@ -293,5 +293,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/Angeltheesoto">
+    <img
+      src="https://avatars.githubusercontent.com/u/100176750?s=400&u=ecea4f0d2a5aa0aded9c4ac59a3d39a3c6b04523&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Angel Soto</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
  </tr>
 </table>
