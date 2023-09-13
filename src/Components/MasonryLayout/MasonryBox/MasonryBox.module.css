@@ -40,10 +40,10 @@
 }
 
 .enlargedPhotoImage {
-width: 50%;
-object-fit: cover;
-border-radius: 10px 0px 0px 10px
-  /* max-height: 50%;  */
+  width: 50%;
+  object-fit: cover;
+  border-radius: 10px 0px 0px 10px
+    /* max-height: 50%;  */
 }
 
 .enlargedPhotoText {
@@ -57,12 +57,16 @@ border-radius: 10px 0px 0px 10px
   width: auto;
   /* adjust the width as needed */
   margin-left: 0px;
-  /* adjust the margin as needed */
-  /* text-align: center; */
-  /* add this property to center the text */
   scrollbar-width: thin;
   scrollbar-color: #888 #2f2e2e;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* Change this from 'center' to 'flex-start' */
+  align-items: center;
+  padding-top: 20px;
 }
+
 .enlargedPhotoText::-webkit-scrollbar {
   width: 5px;
 }
@@ -75,24 +79,33 @@ border-radius: 10px 0px 0px 10px
   background-color: #555;
 }
 
-.enlargedPhotoText p{
+.enlargedPhotoText p {
   line-height: normal;
   max-height: 70%;
   font-family: "Chalk_3", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* Change this from 'center' to 'flex-start' */
+  align-items: center;
+
 }
+
 @media (max-width: 640px) {
+
   /* When screen & mobile size less than 640px */
   .enlargedPhoto {
     display: flex;
     flex-direction: column;
   }
 
- .enlargedPhotoContainer{
-  display: flex;
-  flex-direction: column;
+  .enlargedPhotoContainer {
+    display: flex;
+    flex-direction: column;
     width: 100%;
     height: 90%;
   }
+
   .enlargedPhotoImage {
     width: auto;
     height: 50%;
@@ -102,10 +115,9 @@ border-radius: 10px 0px 0px 10px
   .enlargedPhotoText {
     margin: 0;
     max-width: 100%;
-
   }
 
- }
+}
 
 
 
@@ -199,10 +211,12 @@ border-radius: 10px 0px 0px 10px
   .my-masnry-description {
     height: auto;
   }
+
   .my-masnry-user-prof {
     width: 100px;
     height: 100px;
   }
+
   .my-masnry-user-prof-desc {
     font-size: 1rem;
   }
@@ -216,4 +230,5 @@ border-radius: 10px 0px 0px 10px
   font-family: "Chalk_3", sans-serif;
   /* Adjust the font size as desired */
   text-align: center;
+
 }
