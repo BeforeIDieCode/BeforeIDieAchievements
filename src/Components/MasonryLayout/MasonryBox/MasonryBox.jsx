@@ -65,6 +65,8 @@ const MasonryBox = ({
     // Change the language when the component mounts based on ipInfo
     i18next.changeLanguage(languages[ipInfo?.country_code]);
   }, [ipInfo]); // Empty dependency array to run this effect only once when the component mounts
+  const someThreshold = 50;
+  const textClass = userText && userText.length < someThreshold ? 'shortText' : 'longText';
 
   return (
     <div className={styles["my-masonry"]}>
@@ -86,23 +88,23 @@ const MasonryBox = ({
               className={styles.enlargedPhotoImage}
             />
             <div
-              className={styles.enlargedPhotoText}
-              onClick={toggleText}
-            >
-              <h3>{presetText}</h3>
-              <p style={{ color: randomColor }}>{userText}</p>
-            </div>{" "}
+  className={styles.enlargedPhotoText + ' ' + styles[textClass]}
+  onClick={toggleText}
+>
+  <h3>{presetText}</h3>
+  <p style={{ color: randomColor }}>{userText}</p>
+</div>{" "}
           </div>
 
           {/* Add preset text here */}
           {isTextVisible && (
-            <div className={styles.enlargedPhotoTextBox}>
-              <p>
-                {presetText} {userText}
-              </p>{" "}
-              {/* Add preset text here */}
-            </div>
-          )}
+  <div className={styles.enlargedPhotoTextBox + ' ' + styles[textClass]}>
+    <p>
+      {presetText} {userText}
+      {console.log(userText)}
+    </p>
+  </div>
+)}
         </div>
       )}
       {isUserTextVisible && (

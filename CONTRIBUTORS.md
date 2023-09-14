@@ -304,6 +304,17 @@
     <sub>Angel Soto</sub>
   </a>
 </td>
+
+<td align="center">
+  <a href="https://github.com/hritvikgupta">
+    <img
+      src=""
+      width="100px"
+    />
+    <br />
+    <sub>Hritvik Gupta</sub>
+  </a>
+</td>
 <!-- End of column-4 -->
  </tr>
 </table>

@@ -232,3 +232,13 @@
   text-align: center;
 
 }
+
+.shortText {
+  width: 100%;
+  text-align: center;
+}
+
+.longText {
+  text-align: left;
+}
+
