@@ -259,5 +259,14 @@
     "location": "Brandon, Florida, USA 🇺🇸",
     "GitHub": "https://github.com/Angeltheesoto",
     "text": "I want to learn a new language, and travel the world."
+  },
+  {
+    "id": "Shivam Gupta",
+    "image": "img/bid_image/Shivam_Gupta.jpg",
+    "avatar": "img/avatar/Shivam_Gupta.jpg",
+    "name": "Shivam Gupta",
+    "location": "New Delhi,India 🇮🇳",
+    "GitHub": "https://github.com/Guptaverse",
+    "text": "I want to help people as much as i possibly can."
   }
 ]

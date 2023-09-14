@@ -305,5 +305,17 @@
   </a>
 </td>
 <!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/guptaverse">
+    <img
+      src="https://avatars.githubusercontent.com/u/90851215?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Shivam Gupta</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
  </tr>
 </table>
