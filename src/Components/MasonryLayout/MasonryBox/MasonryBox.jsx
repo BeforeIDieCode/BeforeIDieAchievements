@@ -57,8 +57,6 @@ const MasonryBox = ({
     <span className={styles.boldText}>
       {t("BEFORE-I-DIE")}... <br />
       <br />
-
-
     </span>
   );
   useEffect(() => {
@@ -75,19 +73,14 @@ const MasonryBox = ({
         onClick={toggleEnlarged}
       />
       {isEnlarged && (
-        <div
-          className={styles.enlargedPhoto}
-          onClick={toggleEnlarged}
-        >
+        <div className={styles.enlargedPhoto} onClick={toggleEnlarged}>
           <div className={styles.enlargedPhotoContainer}>
-            <img
-              src={wallSrc}
-              alt=""
-              className={styles.enlargedPhotoImage}
-            />
+            <img src={wallSrc} alt="" className={styles.enlargedPhotoImage} />
             <div
               className={styles.enlargedPhotoText}
               onClick={toggleText}
+              // Adds 100% width if users text is 50 or less characters.
+              style={userText.length <= 50 ? { width: "100%" } : null}
             >
               <h3>{presetText}</h3>
               <p style={{ color: randomColor }}>{userText}</p>
@@ -117,11 +110,7 @@ const MasonryBox = ({
                 rel="noopener noreferrer"
                 onClick={handleUserProfClick}
               >
-                <img
-                  src={userProf}
-                  alt=""
-                  className={styles["clickable"]}
-                />
+                <img src={userProf} alt="" className={styles["clickable"]} />
               </a>
             </div>
             <div
