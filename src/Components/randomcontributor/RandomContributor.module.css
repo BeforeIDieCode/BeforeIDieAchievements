@@ -1,0 +1,39 @@
+.card-container{
+    padding:20px;
+    margin-left:100px;
+    z-index: 50;
+    background-color: rgb(28, 25, 25);
+    border-radius: 10px;
+    
+}
+
+.cards{
+    width:220px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin:10px;
+}
+.heading{
+    color:var(--green-400);
+    font-size: 18px;
+    text-align: center;
+}
+.image{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: contain;
+    
+}
+.name{
+    font-size: 14px;
+    margin-top:15px;
+    padding:10px;
+    color:var(--green-400);
+    text-align: center;
+    border: 1px solid var(--green-400);
+    
+
+}
