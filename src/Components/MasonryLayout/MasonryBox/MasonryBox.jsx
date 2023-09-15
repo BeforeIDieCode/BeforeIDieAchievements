@@ -6,6 +6,7 @@ import { useTranslation } from "react-i18next";
 import languages from "../../../translation/languages.json";
 import useIPInfo from "../../../hooks/useIPInfo";
 
+
 const MasonryBox = ({
   wallSrc,
   userProf,
@@ -90,10 +91,33 @@ const MasonryBox = ({
               onClick={toggleText}
             >
               <h3>{presetText}</h3>
-              <p style={{ color: randomColor }}>{userText}</p>
+              <div style={{ position: "relative" }}>
+                <p style={{ color: randomColor }}>{userText}</p>
+              </div>
+                <div style={{ display: "flex", flexDirection: "row", marginTop: "10px", justifyContent: "center", alignItems: "center", padding: "10px", gap: "15px"}}>
+                  <div className={styles["my-masnry-user-prof"]}>
+                    <a
+                      href={githubUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      onClick={handleUserProfClick}
+                    >
+                      <img
+                        src={userProf}
+                        alt=""
+                        className={styles["clickable"]}
+                      />
+                    </a>
+                  </div>
+                  <div
+                    className={`${styles["my-masnry-user-prof-desc"]} flex flex-column`}
+                  >
+                    <h1>{userName}</h1> {/* Add preset text here */}
+                    <h3>{userJob}</h3>
+                  </div>
+                </div>
             </div>{" "}
           </div>
-
           {/* Add preset text here */}
           {isTextVisible && (
             <div className={styles.enlargedPhotoTextBox}>
