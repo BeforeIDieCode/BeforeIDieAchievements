@@ -1,8 +1,6 @@
 /* MasonryBox.module.css */
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,700&display=swap');
-
-
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,700&display=swap");
 
 .my-masonry {
   position: relative;
@@ -10,7 +8,6 @@
   display: flex;
   border-radius: 10px;
   overflow: hidden;
-
 }
 
 .my-masonry img:hover {
@@ -42,8 +39,8 @@
 .enlargedPhotoImage {
   width: 50%;
   object-fit: cover;
-  border-radius: 10px 0px 0px 10px
-    /* max-height: 50%;  */
+  border-radius: 10px 0px 0px 10px;
+  /* max-height: 50%;  */
 }
 
 .enlargedPhotoText {
@@ -88,11 +85,9 @@
   justify-content: flex-start;
   /* Change this from 'center' to 'flex-start' */
   align-items: center;
-
 }
 
 @media (max-width: 640px) {
-
   /* When screen & mobile size less than 640px */
   .enlargedPhoto {
     display: flex;
@@ -116,12 +111,7 @@
     margin: 0;
     max-width: 100%;
   }
-
 }
-
-
-
-
 
 .enlargedPhotoTextBox {
   position: absolute;
@@ -220,7 +210,6 @@
   .my-masnry-user-prof-desc {
     font-size: 1rem;
   }
-
 }
 
 .boldText {
@@ -230,5 +219,4 @@
   font-family: "Chalk_3", sans-serif;
   /* Adjust the font size as desired */
   text-align: center;
-
 }
