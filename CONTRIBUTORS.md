@@ -289,7 +289,7 @@
       width="100px"
     />
     <br />
-    <sub>lucasfirmo62</sub>
+    <sub>Lucas Firmo</sub>
   </a>
 </td>
 <!-- End of column-3 -->
@@ -317,5 +317,17 @@
   </a>
 </td>
 <!-- End of column-5 -->
+<!-- Start of column-6 -->
+<td align="center">
+  <a href="https://github.com/MarcianoN">
+    <img
+      src="https://avatars.githubusercontent.com/u/58508529?s=400&u=ca20cce4235f3aa8688304aeb23d1ef4d7e7570e&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Marciano Ngasiman</sub>
+  </a>
+</td>
+<!-- End of column-6 -->
  </tr>
 </table>
