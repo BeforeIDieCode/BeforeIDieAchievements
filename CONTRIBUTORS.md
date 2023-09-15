@@ -289,7 +289,7 @@
       width="100px"
     />
     <br />
-    <sub>lucasfirmo62</sub>
+    <sub>Lucas Firmo</sub>
   </a>
 </td>
 <!-- End of column-3 -->
@@ -305,7 +305,31 @@
   </a>
 </td>
 <!-- End of column-4 -->
-<!-- Start of column -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/guptaverse">
+    <img
+      src="https://avatars.githubusercontent.com/u/90851215?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Shivam Gupta</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
+<!-- Start of column-6 -->
+<td align="center">
+  <a href="https://github.com/MarcianoN">
+    <img
+      src="https://avatars.githubusercontent.com/u/58508529?s=400&u=ca20cce4235f3aa8688304aeb23d1ef4d7e7570e&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Marciano Ngasiman</sub>
+  </a>
+</td>
+<!-- End of column-6 -->
+<!-- Start of column-7 -->
 <td align="center">
   <a href="https://github.com/RydKrm">
     <img
@@ -313,9 +337,9 @@
       width="100px"
     />
     <br />
-    <sub>YOUR_NAME</sub>
+    <sub>Riyad Karim</sub>
   </a>
 </td>
-<!-- End of column -->
+<!-- End of column-7 -->
  </tr>
 </table>
