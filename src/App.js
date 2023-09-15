@@ -1,10 +1,11 @@
 import { useState } from "react";
 import styles from "./App.module.css";
-import Header from './Components/Header/Header';
-import MasonryLayout from './Components/MasonryLayout/MasonryLayout';
-import ContainerCard from './Components/ContainerCard/ContainerCard';
+import Header from "./Components/Header/Header";
+import MasonryLayout from "./Components/MasonryLayout/MasonryLayout";
+import ContainerCard from "./Components/ContainerCard/ContainerCard";
 import images from "./Jsons/Contributors.json";
 import Footer from "./Components/Footer/Footer";
+import RandomContributors from "./Components/randomcontributor/RandomContributors";
 
 const App = () => {
   const [categoryImage, setCategoryImage] = useState(images);
@@ -15,10 +16,16 @@ const App = () => {
 
   return (
     <>
+      <RandomContributors />
       <Header onCategoryChange={handleCategoryChange} />
-      <div className="flex justify-content-center" style={{ marginTop: "50px", padding: '50px' }}>
+      <div
+        className="flex justify-content-center"
+        style={{ marginTop: "50px", padding: "50px" }}
+      >
         <ContainerCard>
-          <div className={`${styles["gallery-setting"]} flex justify-content-between align-items-center`}></div>
+          <div
+            className={`${styles["gallery-setting"]} flex justify-content-between align-items-center`}
+          ></div>
           <MasonryLayout images={categoryImage} />
         </ContainerCard>
       </div>
