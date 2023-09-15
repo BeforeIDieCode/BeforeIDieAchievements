@@ -305,5 +305,17 @@
   </a>
 </td>
 <!-- End of column-4 -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/RydKrm">
+    <img
+      src="https://avatars.githubusercontent.com/u/124508907?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>YOUR_NAME</sub>
+  </a>
+</td>
+<!-- End of column -->
  </tr>
 </table>
