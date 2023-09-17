@@ -356,4 +356,16 @@
 </td>
 <!-- End of column-1 -->
  </tr>
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/Sahilkaler">
+    <img
+      src="https://avatars.githubusercontent.com/u/119391867?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Sahil Kaler</sub>
+  </a>
+</td>
+<!-- End of column --> 
 </table>
