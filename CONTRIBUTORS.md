@@ -83,18 +83,6 @@
     <!-- End of column-7 -->
   </tr>
   <tr>
-  <!-- Start of column-8 -->
-<td align="center">
-  <a href="https://github.com/CBID2">
-    <img
-      src="https://github.com/CBID2"
-      width="100px"
-    />
-    <br />
-    <sub>Chrissy Codes</sub>
-  </a>
-</td>
-<!-- End of column-8 -->
     <!-- Start of column-1 -->
     <td align="center">
       <a href="https://github.com/addielb">
@@ -259,7 +247,7 @@
   </a>
 </td>
 <!-- End of column-6 -->
-<!-- Start of column -->
+<!-- Start of column-7 -->
 <td align="center">
   <a href="https://github.com/itzmidinesh">
     <img
@@ -353,5 +341,19 @@
   </a>
 </td>
 <!-- End of column-7 -->
+</tr>
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/CBID2">
+    <img
+      src="https://avatars.githubusercontent.com/u/105683440?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Chrissy Codes</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
  </tr>
 </table>
