@@ -355,8 +355,7 @@
   </a>
 </td>
 <!-- End of column-1 -->
- </tr>
-<!-- Start of column -->
+<!-- Start of column-2 -->
 <td align="center">
   <a href="https://github.com/Sahilkaler">
     <img
@@ -367,5 +366,6 @@
     <sub>Sahil Kaler</sub>
   </a>
 </td>
-<!-- End of column --> 
+<!-- End of column-2 -->
+</tr>
 </table>
