@@ -3,7 +3,6 @@ name: 'Documentation 📋'
 description: 'Use this form to present your suggestions on how to improve our docs'
 title: '[DOCS] <write your suggestion here>'
 labels: ['documenation', 'goal: enhancement']
----
 body:
   - type: textarea
     id: docs_description
