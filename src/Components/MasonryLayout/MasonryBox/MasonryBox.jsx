@@ -5,7 +5,8 @@ import i18next from "i18next";
 import { useTranslation } from "react-i18next";
 import languages from "../../../translation/languages.json";
 import useIPInfo from "../../../hooks/useIPInfo";
-
+import LocationMap from "../../LocationMap/LocationMap.jsx";
+import contributors from "../../../Jsons/Contributors.json";
 
 const MasonryBox = ({
   wallSrc,
@@ -81,7 +82,7 @@ const MasonryBox = ({
               className={styles.enlargedPhotoText}
               onClick={toggleText}
               // Adds 100% width if users text is 50 or less characters.
-              style={userText.length <= 50 ? { width: "100%" } : null}
+              style={userText.length <= 100 ? { width: "100%" } : null}
             >
               <h3>{presetText}</h3>
               <div style={{ position: "relative" }}>
@@ -109,6 +110,7 @@ const MasonryBox = ({
                     <h3>{userJob}</h3>
                   </div>
                 </div>
+                <LocationMap contributors={contributors} />
             </div>{" "}
           </div>
           {/* Add preset text here */}
@@ -119,6 +121,7 @@ const MasonryBox = ({
               </p>{" "}
               {/* Add preset text here */}
             </div>
+
           )}
         </div>
       )}
@@ -145,6 +148,7 @@ const MasonryBox = ({
             </div>
           </div>
         </div>
+
       )}
     </div>
   );
