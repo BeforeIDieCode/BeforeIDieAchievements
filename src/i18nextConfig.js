@@ -131,6 +131,45 @@ i18n
       is: {
         translation: require("./locales/is/translation.json"),
       },
+      bn: {
+        translation: require("./locales/bn/translation.json"),
+      },
+      ne: {
+        translation: require("./locales/ne/translation.json"),
+      },
+      si: {
+        translation: require("./locales/si/translation.json"),
+      },
+      my: {
+        translation: require("./locales/my/translation.json"),
+      },
+      km: {
+        translation: require("./locales/km/translation.json"),
+      },
+      lo: {
+        translation: require("./locales/lo/translation.json"),
+      },
+      mn: {
+        translation: require("./locales/mn/translation.json"),
+      },
+      dz: {
+        translation: require("./locales/dz/translation.json"),
+      },
+      kk: {
+        translation: require("./locales/kk/translation.json"),
+      },
+      uz: {
+        translation: require("./locales/uz/translation.json"),
+      },
+      ky: {
+        translation: require("./locales/ky/translation.json"),
+      },
+      tg: {
+        translation: require("./locales/tg/translation.json"),
+      },
+      tk: {
+        translation: require("./locales/tk/translation.json"),
+      },
 
     },
     lng: "en", // Set the default language
