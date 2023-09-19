@@ -1,9 +1,8 @@
 ---
 name: Feature Request 💡
 description: Have an idea for our project? Share it with us!
-title: "[Feature Request] <write your suggestion here>"
-labels: ["Type: enhancement", "Status: Needs Triage"]
----
+title: "[Feature Request] <Write your suggestion here>"
+labels: ["Type: enhancement, Status: Needs Triage"]
 body:
   - type: textarea
     id: description
@@ -22,15 +21,14 @@ body:
   - type: checkboxes
     id: no-duplicate-issues
     attributes:
-      label: "Checklist"
+      label: Checklist
       options:
-       - label: 'I have checked the existing [issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues)'
+        - label: "I have checked the existing issues"
           required: true
-        - label: 'I have read the [Contribution Guidelines](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md)'
+        - label: "I have read the Contribution Guidelines"
           required: true
-        - label: 'I am willing to work on this issue (optional)'
+        - label: "I am willing to work on this issue (optional)"
           required: false
   - type: markdown
     attributes:
-      value: 'Thank you for taking the time to raise this issue! Your input is greatly appreciated.'
-
+      value: "Thank you for taking the time to raise this issue! Your input is greatly appreciated."
