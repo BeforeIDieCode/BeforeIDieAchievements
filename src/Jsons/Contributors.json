@@ -304,5 +304,14 @@
     "location": "Punjab, India 🇮🇳",
     "GitHub": "https://github.com/Sahilkaler",
     "text": "I want to do skydiving and travel the world."
+},
+{
+  "id": "Daniel Barker",
+  "image": "img/bid_image/daniel_barker.jpeg",
+  "avatar": "img/avatar/daniel_barker.jpeg",
+  "name": "Daniel Barker",
+  "location": "Arlington, Virginia, USA 🇺🇸",
+  "GitHub": "https://github.com/daniel-barker",
+  "text": "I want to travel the states with my dog and bring him to every dog park and trail we can find until his time comes to an end. He's been my best friend for 8 years and I want to make sure he has the best life possible."
 }
 ]
