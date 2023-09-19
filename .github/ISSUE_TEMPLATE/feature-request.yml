@@ -22,6 +22,7 @@ body:
     id: no-duplicate-issues
     attributes:
       label: Checklist
+      description: "By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CODE_OF_CONDUCT.md)."
       options:
         - label: "I have checked the existing issues"
           required: true

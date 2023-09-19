@@ -2,7 +2,7 @@
 name: Bug 🐞
 description: Report an issue to help us improve the project.
 title: "[BUG] <Write a small description here>"
-labels: [bug, goal:fix]
+labels: ["bug, goal:fix"]
 body:
   - type: textarea
     id: description
@@ -39,10 +39,11 @@ body:
     id: no-duplicate-issues
     attributes:
       label: Checklist
+      description: "By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CODE_OF_CONDUCT.md)."
       options:
-        - label: "I have checked the existing issues"
+        - label: "I have checked for duplicate issues"
           required: true
-        - label: "I have read the Contribution Guidelines"
+        - label: "I have read the [Contribution Guidelines](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md)"
           required: true
         - label: "I am willing to work on this issue (optional)"
           required: false
