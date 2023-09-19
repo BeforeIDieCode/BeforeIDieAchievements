@@ -1,34 +1,34 @@
 ---
 name: ​🐞 Bug
-description: Report an issue to help us improve the project.
+description: "Report an issue to help us improve the project."
 title: "[BUG] <write a small description here>"
 labels: ["bug", "goal: fix"]
 body:
   - type: textarea
     attributes:
-      label: Description
+      label: "Description"
       id: description
-      description: A brief description of the issue or bug you are facing, also include what you tried and what didn't work.
+      description: "A brief description of the issue or bug you are facing, also include what you tried and what didn't work."
     validations:
       required: "false"
   - type: textarea
     attributes:
-      label: Screenshots
+      label: "Screenshots"
       id: screenshots
-      description: Please add screenshots if applicable
+      description: "Please add screenshots if applicable"
     validations:
       required: "false"
   - type: textarea
     attributes:
-      label: Any additional information?
+      label: "Any additional information?"
       id: extrainfo
-      description: Any additional information or Is there anything we should know about this bug?
+      description: "Any additional information or is there anything we should know about this bug?"
     validations:
       required: "false"
   - type: dropdown
     id: browsers
     attributes:
-      label: What browser are you seeing the problem on?
+      label: "What browser are you seeing the problem on?"
       multiple: "true"
       options:
         - Firefox
