@@ -35,7 +35,7 @@ body:
       label: "Checklist"
       description: "By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CODE_OF_CONDUCT.md)"
       options:
-        - label: "I have checked the existing [issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues)"
+        - label: "I have checked for duplicate [issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues)"
           required: true
         - label: "I have read the [Contribution Guidelines](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md)"
           required: true
