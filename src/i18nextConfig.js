@@ -74,6 +74,63 @@ i18n
       el: {
         translation: require("./locales/el/translation.json"),
       },
+      af: {
+        translation: require("./locales/af/translation.json"),
+      },
+      sw: {
+        translation: require("./locales/sw/translation.json"),
+      },
+      pl: {
+        translation: require("./locales/pl/translation.json"),
+      },
+      ro: {
+        translation: require("./locales/ro/translation.json"),
+      },
+      bg: {
+        translation: require("./locales/bg/translation.json"),
+      },
+      uk: {
+        translation: require("./locales/uk/translation.json"),
+      },
+      cs: {
+        translation: require("./locales/cs/translation.json"),
+      },
+      sk: {
+        translation: require("./locales/sk/translation.json"),
+      },
+      hu: {
+        translation: require("./locales/hu/translation.json"),
+      },
+      sl: {
+        translation: require("./locales/sl/translation.json"),
+      },
+      hr: {
+        translation: require("./locales/hr/translation.json"),
+      },
+      sr: {
+        translation: require("./locales/sr/translation.json"),
+      },
+      bs: {
+        translation: require("./locales/bs/translation.json"),
+      },
+      mk: {
+        translation: require("./locales/mk/translation.json"),
+      },
+      sq: {
+        translation: require("./locales/sq/translation.json"),
+      },
+      lt: {
+        translation: require("./locales/lt/translation.json"),
+      },
+      lv: {
+        translation: require("./locales/lv/translation.json"),
+      },
+      et: {
+        translation: require("./locales/et/translation.json"),
+      },
+      is: {
+        translation: require("./locales/is/translation.json"),
+      },
 
     },
     lng: "en", // Set the default language
