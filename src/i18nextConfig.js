@@ -23,6 +23,36 @@ i18n
       de: {
         translation: require("./locales/de/translation.json"),
       },
+      nl: {
+        translation: require("./locales/nl/translation.json"),
+      },
+      sv: {
+        translation: require("./locales/sv/translation.json"),
+      },
+      no: {
+        translation: require("./locales/no/translation.json"),
+      },
+      da: {
+        translation: require("./locales/da/translation.json"),
+      },
+      fi: {
+        translation: require("./locales/fi/translation.json"),
+      },
+      ru: {
+        translation: require("./locales/ru/translation.json"),
+      },
+      zh: {
+        translation: require("./locales/zh/translation.json"),
+      },
+      ja: {
+        translation: require("./locales/ja/translation.json"),
+      },
+      hi: {
+        translation: require("./locales/hi/translation.json"),
+      },
+      ko: {
+        translation: require("./locales/ko/translation.json"),
+      },
     },
     lng: "en", // Set the default language
     fallbackLng: "en", // Fallback language if a translation is missing
