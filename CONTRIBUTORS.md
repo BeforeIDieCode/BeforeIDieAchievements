@@ -367,5 +367,17 @@
   </a>
 </td>
 <!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/daniel-barker">
+    <img
+      src="https://avatars.githubusercontent.com/u/124937996?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Daniel Barker</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
 </tr>
 </table>
