@@ -53,6 +53,28 @@ i18n
       ko: {
         translation: require("./locales/ko/translation.json"),
       },
+      ms: {
+        translation: require("./locales/ms/translation.json"),
+      },
+      id: {
+        translation: require("./locales/id/translation.json"),
+      },
+      tl: {
+        translation: require("./locales/tl/translation.json"),
+      },
+      th: {
+        translation: require("./locales/th/translation.json"),
+      },
+      vi: {
+        translation: require("./locales/vi/translation.json"),
+      },
+      tr: {
+        translation: require("./locales/tr/translation.json"),
+      },
+      el: {
+        translation: require("./locales/el/translation.json"),
+      },
+
     },
     lng: "en", // Set the default language
     fallbackLng: "en", // Fallback language if a translation is missing
