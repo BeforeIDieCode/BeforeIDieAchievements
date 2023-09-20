@@ -379,5 +379,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column 4 -->
+<td align="center">
+  <a href="https://github.com/sherikovic">
+    <img
+      src="https://avatars.githubusercontent.com/u/130923568?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Sherif Amer</sub>
+  </a>
+</td>
+<!-- End of column 4 -->
 </tr>
 </table>
