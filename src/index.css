@@ -15,6 +15,13 @@
      url("./fonts/Chalk/Chalk-3.ttf") format("truetype");
 
 }
+@font-face {
+
+    font-family: "Mefika";
+    src: local("Mefika"),
+     url("./fonts/Mefika/Mefikademo.ttf") format("truetype");
+
+}
 body {
     background: var(--dark-900);
 }
