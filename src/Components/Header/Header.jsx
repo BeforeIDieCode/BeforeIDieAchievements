@@ -1,19 +1,16 @@
-import React, {useState, useEffect} from "react";
+import React, { useState, useEffect } from "react";
 // import styles of this component
-import styles from "./Header.module.css"
+import "./Header.scss";
 
 // import other components
-import ContainerCard from '../ContainerCard/ContainerCard';
-import Nav from "../Nav/Nav"
+import ContainerCard from "../ContainerCard/ContainerCard";
+import Nav from "../Nav/Nav";
 import BrickLayout from "../BrickLayout/BrickLayout";
-import { Typewriter } from 'react-simple-typewriter'
-
-
-
+import { Typewriter } from "react-simple-typewriter";
 
 // Header component
 const Header = () => {
-  const [isMobile, setIsMobile] = useState(window.innerWidth > 640)
+  const [isMobile, setIsMobile] = useState(window.innerWidth > 640);
 
   useEffect(() => {
     function handleSize() {
@@ -23,54 +20,71 @@ const Header = () => {
 
     return () => {
       window.removeEventListener("resize", handleSize);
-    }
-  }, [])
+    };
+  }, []);
   return (
-    <header className={`${styles.header} flex justify-content-center`}>
-      <ContainerCard className="flex flex-column">
-        <div className={styles["blur-circle-shape"]}></div>
-        <Nav />
-        {isMobile && <BrickLayout />}
-        <div className={styles["blur-circle-shape-two"]}></div>
-        <div className={`${styles["headings-header"]} flex justify-content-center flex-column`}>
-          <h1 className={styles["heading-header-second-title"]}>
-            <p className={styles["text_open-source-project"]} >
-              <span
-                className={styles["span_open-source-project"]}
-                style={{ color: "#006dff"}}
+    <header className={` flex justify-content-center`}>
+      <div className={"untitled"}>
+        <div class="untitled__slides">
+          <div class="untitled__slide">
+            <div class="untitled__slideBg"></div>
+            <div class="untitled__slideContent">
+              <span>Before I die.... </span>
+            </div>
+          </div>
+          <div class="untitled__slide">
+            <div class="untitled__slideBg"></div>
+            <div class="untitled__slideContent">
+              <span>It is an </span>
+              <span>Open Source </span>
+              <span>Project</span>
+            </div>
+          </div>
+          <div class="untitled__slide">
+            <div class="untitled__slideBg"></div>
+            <div class="untitled__slideContent">
+              <span>Join Us</span>
+              <span>And Share</span>
+              <span>Your Wish</span>
+            </div>
+          </div>
+          <div class="untitled__slide">
+            <div class="untitled__slideBg"></div>
+            <div class="untitled__slideContent">
+              <a
+                class="button"
+                href="https://github.com/BeforeIDieCode/"
+                target="/black"
               >
-                An Open
-                <br />
-                <br />
-                Source
-                <br />
-                <br />
-                Project
-              </span>{" "}
-              <br />
-              <br />
-              <span style={{ color: '#FFE439', fontWeight: 'bold' }}>
-                <Typewriter
-                  words={[
-                    'to plant seeds 🌱 of inspiration.',
-                    'to codify 💻 your purpose.',
-                    'to compile your bucket 🪣 list.',
-                    'to learn how to contribute 📚.'
-                  ]}
-                  loop={true}
-                  cursor
-                  cursorStyle="_"
-                  typeSpeed={50}
-                  deleteSpeed={50}
-                  delaySpeed={1500}
-                />
-              </span>
-            </p>
-          </h1>
+                GitHub Repo
+              </a>
+            </div>
+          </div>
+          <div class="untitled__slide">
+            <div class="untitled__slideBg"></div>
+            <div class="untitled__slideContent"></div>
+          </div>
+          <div class="untitled__slide">
+            <div class="untitled__slideBg"></div>
+            <div class="untitled__slideContent"></div>
+          </div>
+          <div class="untitled__slide">
+            <div class="untitled__slideBg"></div>
+            <div class="untitled__slideContent"></div>
+          </div>
+          <div class="untitled__slide">
+            <div class="untitled__slideBg"></div>
+            <div class="untitled__slideContent"></div>
+          </div>
+          <div class="untitled__slide">
+            <div class="untitled__slideBg"></div>
+            <div class="untitled__slideContent"></div>
+          </div>
         </div>
-      </ContainerCard>
+        <div class="untitled__shutters"></div>
+      </div>
     </header>
   );
-}
+};
 
 export default Header;
