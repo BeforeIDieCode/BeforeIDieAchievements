@@ -391,5 +391,17 @@
   </a>
 </td>
 <!-- End of column 4 -->
+<!-- Start of column 5-->
+<td align="center">
+  <a href="https://github.com/gauribahl">
+    <img
+      src="https://avatars.githubusercontent.com/u/116316581?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Gauri Bahl</sub>
+  </a>
+</td>
+<!-- End of column 5-->
 </tr>
 </table>
