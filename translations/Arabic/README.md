@@ -56,7 +56,9 @@ BeforeIDieAchievements هي منصة لمساعدة المطورين على ال
 
 ## 🎉<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cool%20Button.png" alt="Cool Button" width="25" height="25" /> رخصة
 
-BeforeIDieAchievements مرخص بموجب رخصة MIT. يمكنك الاطلاع على المزيد من المعلومات في ملف [الترخيص (LICENSE)](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/LICENSE).
+<div style="text-align: right">
+  BeforeIDieAchievements مرخص بموجب رخصة MIT. يمكنك الاطلاع على المزيد من المعلومات في ملف <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/LICENSE">الترخيص (LICENSE)</a>.
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Open%20Hands.png" alt="Open Hands" width="25" height="25" /> المساهمون <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Mechanic.png" alt="Man Mechanic" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Superhero.png" alt="Woman Superhero" width="25" height="25" />
 
