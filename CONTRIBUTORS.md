@@ -393,3 +393,15 @@
 <!-- End of column 4 -->
 </tr>
 </table>
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/perryzjc">
+    <img
+      src="https://avatars.githubusercontent.com/u/92573736?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Jingchao Zhong</sub>
+  </a>
+</td>
+<!-- End of column -->
