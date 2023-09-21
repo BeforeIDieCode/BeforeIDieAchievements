@@ -128,6 +128,30 @@ It can be helpful to find high-quality images on websites like [UnSplash](https:
 
 ## Step 8. ADD to the CONTRIBUTORS.md file
 
+When adding a new contributor to the `CONTRIBUTORS.md` file, please note that there should be a maximum of seven contributors per column. If you see that a column is already full, you should close the column and create a new one.
+### And jump to [A few things to change](#step8_thing_to_change)
+Here's how you can do it:
+
+```html
+<!-- Start of column -->
+<tr>
+<td align="center">
+  <a href="https://github.com/GITHUB_ACCOUNT">
+    <img
+      src="YOUR_GITHUB_AVATAR_LINK"
+      width="100px"
+    />
+    <br />
+    <sub>YOUR_NAME</sub>
+  </a>
+</td>
+
+</tr>
+<!-- End of column -->
+```
+
+### If you see that the column isn't full follow these steps
+
 Copy the code below, then paste it into the <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md">CONTRIBUTORS</a> file of this repo. Be sure to paste it below another contributors end column. And then proceed to edit with your own information.
 
 ```html
@@ -147,7 +171,7 @@ Copy the code below, then paste it into the <a href="https://github.com/BeforeID
 
 <br>
 
-### A few things to change:
+## <a id="step8_thing_to_change"></a> A few things to change:
 
 - Replace the link with your own profile link
   `<a href="your GitHub profile link here"></a>`
