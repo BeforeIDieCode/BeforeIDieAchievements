@@ -391,5 +391,17 @@
   </a>
 </td>
 <!-- End of column 4 -->
+<!-- Start of column 5 -->
+<td align="center">
+  <a href="https://github.com/daniel_tsan">
+    <img
+      src="https://avatars.githubusercontent.com/u/98058968?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Daniel Tsan</sub>
+  </a>
+</td>
+<!-- End of column -->
 </tr>
 </table>

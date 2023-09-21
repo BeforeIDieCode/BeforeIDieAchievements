@@ -322,5 +322,14 @@
     "location": "Brooklyn, New York, USA 🇺🇸",
     "GitHub": "https://github.com/sherikovic",
     "text": "I want to get a van and travel across the states."
-  }
+  },
+  {
+    "id": "Daniel Tsan",
+    "image": "img/bid_image/daniel_tsan.jpg",
+    "avatar": "img/avatar/daniel_tsan.jpg",
+    "name": "Daniel Tsan",
+    "location": "Berkeley, California, USA 🇺🇸",
+    "GitHub": "https://github.com/danieltsan",
+    "text": "I want to live in Seoul, South Korea for an entire year."
+}
 ]
