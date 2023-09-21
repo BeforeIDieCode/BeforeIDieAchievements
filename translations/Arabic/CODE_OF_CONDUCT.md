@@ -1,130 +1,83 @@
-# Contributor Covenant Code of Conduct
+# ميثاق سلوك مساهمي المشروع
 
-## Our Pledge <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" alt="Maracas" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
+## التعهد الخاص بنا <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" alt="Maracas" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+نحن كأعضاء ومساهمين وقادة، نلتزم بجعل المشاركة في مجتمعنا تجربة خالية من التحرش للجميع، بغض النظر عن العمر، أو حجم الجسم، أو الإعاقة المرئية أو غير المرئية، أو العرق، أو الخصائص الجنسية، أو هويتهم وتعبيرهم الجنسي، أو مستوى الخبرة، أو التعليم، أو الوضع الاقتصادي الاجتماعي، أو الجنسية، أو المظهر الشخصي، أو العرق، أو الديانة، أو الهوية والتوجه الجنسي.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+نحن نلتزم بالتصرف والتفاعل بطرق تسهم في جعل المجتمع مفتوحًا ومرحبًا ومتنوعًا وشاملًا وصحيًا.
 
-## Our Standards <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" />
+## معاييرنا <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" />
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+<div style="text-align: right">
+  أمثلة على السلوك الذي يسهم في بيئة إيجابية لمجتمعنا تشمل:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
-
-Examples of unacceptable behavior include:
-
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+  * التجسيد للتعاطف واللطف تجاه الآخرين
+  * احترام وجهات النظر والآراء والتجارب المختلفة
+  * تقديم وقبول التغذية الراجعة البناءة بأسلوب لائق
+  * قبول المسؤولية والاعتذار للأشخاص المتأثرين بأخطائنا، واستفادة من الخبرة
+  * التركيز على ما هو أفضل ليس فقط بالنسبة لنا كأفراد، ولكن للمجتمع ككل
+  
+  أمثلة على السلوك غير المقبول يشمل:
+  
+  * استخدام لغة أو صور جنسية، والانتباه الجنسي أو التقدم بأي نوع من التقديمات الجنسية
+  * التنمر، والتعليقات المهينة أو المهاجمة، والهجمات الشخصية أو السياسية
+  * التحرش العام أو الخاص
+  * نشر معلومات خاصة بالآخرين، مثل العنوان الجسدي أو البريد الإلكتروني، دون إذن صريح منهم
+  * سلوك آخر يمكن اعتباره غير مناسب في البيئة المهنية
+</div>
 
 
 
-## Enforcement Responsibilities <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Hamsa.png" alt="Hamsa" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />
+## مسؤوليات التنفيذ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Hamsa.png" alt="Hamsa" width="30" height="30" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+قادة المجتمع مسؤولون عن توضيح وفرض معايير السلوك المقبولة لدينا، وسيتخذون إجراءات تصحيحية مناسبة وعادلة في استجابتهم لأي سلوك يرونه غير مناسب، أو مهدد، أو مسيء، أو ضار.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+قادة المجتمع لديهم الحق والمسؤولية لإزالة أو تعديل أو رفض التعليقات، والتعهدات، والشيفرة، والتحريرات على الويكي، والمسائل، والمساهمات الأخرى التي لا تتوافق مع هذا الميثاق، وسيقومون بتوضيح أسباب قرارات التنظيم عند الضرورة.
 
-## Scope <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe-Africa" width="25" height="25" />
+## النطاق <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe-Africa" width="25" height="25" />
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+هذا الميثاق ينطبق في جميع الأماكن المجتمعية، وينطبق أيضًا عندما يكون الفرد يمثل المجتمع رسميًا في الأماكن العامة. أمثلة على تمثيل مجتمعنا تشمل استخدام عنوان البريد الإلكتروني الرسمي، أو نشر من خلال حساب وسائل التواصل الاجتماعي الرسمي، أو العمل كممثل معين في حدث على الإنترنت أو حدث في الواقع.
 
-## Enforcement <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Oncoming%20Police%20Car.png" alt="Oncoming Police Car" width="25" height="25" />
+## تنفيذ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Oncoming%20Police%20Car.png" alt="Oncoming Police Car" width="25" height="25" />
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-.
-All complaints will be reviewed and investigated promptly and fairly.
+يمكن الإبلاغ عن حالات السلوك السيء أو التحرش أو أي سلوك غير مقبول إلى قادة المجتمع المسؤولين عن التنفيذ على العنوان التالي.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+سيتم مراجعة وتحقيق جميع الشكاوى بسرعة وعدالة.
 
-## Enforcement Guidelines <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Police%20Officer.png" alt="Man Police Officer" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eye.png" alt="Eye" width="25" height="25" />
+جميع قادة المجتمع ملزمون بأحترام خصوصية وأمان الشخص الذي قام بالإبلاغ عن أي حادثة.
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+## إرشادات التنفيذ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Police%20Officer.png" alt="Man Police Officer" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eye.png" alt="Eye" width="25" height="25" />
 
-### 1. Correction <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cross%20Mark.png" alt="Cross Mark" width="25" height="25" />
+سيتبع قادة المجتمع هذه الإرشادات المتعلقة بتأثير المجتمع في تحديد العواقب لأي إجراء يرونه مخالفًا لهذا الميثاق.
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+### 1. تصحيح <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cross%20Mark.png" alt="Cross Mark" width="25" height="25" />
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+**تأثير المجتمع**: استخدام لغة غير مناسبة أو سلوك آخر يعتبر غير احترافي أو غير مرحب في المجتمع.
 
-### 2. Warning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Warning.png" alt="Warning" width="25" height="25" />
+**العواقب**: تحذير خطي خاص من قادة المجتمع، يقدم توضيحًا حول طبيعة الانتهاك وشرحًا لسبب عدم ملاءمة السلوك. قد يُطلب طلب اعتذار عام.
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+### 2. تحذير <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Warning.png" alt="Warning" width="25" height="25" />
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+**تأثير المجتمع**: انتهاك من خلال حادثة واحدة أو سلسلة من الأفعال.
 
-### 3. Temporary Ban <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" />
+**العواقب**: تحذير بعواقب للسلوك المستمر. عدم التفاعل مع الأشخاص المعنيين، بما في ذلك التفاعل غير المطلوب مع أولئك الذين ينفذون ميثاق السلوك، لفترة زمنية محددة. ويشمل ذلك تجنب التفاعل في الأماكن المجتمعية بالإضافة إلى القنوات الخارجية مثل وسائل التواصل الاجتماعي. قد يؤدي انتهاك هذه الشروط إلى حظر مؤقت أو دائم.
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+### 3. حظر مؤقت <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" />
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**تأثير المجتمع**: انتهاك جاد لمعايير المجتمع، بما في ذلك سلوك غير مناسب مستدام.
 
-### 4. Permanent Ban <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Down.png" alt="Thumbs Down" width="25" height="25" />
+**العواقب**: حظر مؤقت عن أي نوع من التفاعل أو التواصل العام مع المجتمع لفترة زمنية محددة. غير مسموح بالتفاعل العام أو الخاص مع الأشخاص المعنيين، بما في ذلك التفاعل غير المطلوب مع أولئك الذين ينفذون ميثاق السلوك، خلال هذه الفترة. قد يؤدي انتهاك هذه الشروط إلى حظر دائم.
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+### 4. حظر دائم <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Down.png" alt="Thumbs Down" width="25" height="25" />
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+**تأثير المجتمع**: إظهار نمط من انتهاك معايير المجتمع، بما في ذلك سلوك غير مناسب مستدام، وتحرش بفرد معين، أو عدوانية أو ازدراء لفئات من الأفراد.
 
-## Attribution <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
+**العواقب**: حظر دائم عن أي نوع من التفاعل العام داخل المجتمع.
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+## نسبة <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+هذا الميثاق مستلهم من [Pledge](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html) ، الإصدار 2.0.
 
-[homepage]: https://www.contributor-covenant.org
+أُلهمت إرشادات تأثير المجتمع من [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+للإجابة على الأسئلة الشائعة حول هذا الميثاق، يمكنك زيارة الصفحة الشائعة في https://www.contributor-covenant.org/faq. تتوفر ترجمات على https://www.contributor-covenant.org/translations.
