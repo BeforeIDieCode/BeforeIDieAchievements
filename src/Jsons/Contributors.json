@@ -322,5 +322,14 @@
     "location": "Brooklyn, New York, USA 🇺🇸",
     "GitHub": "https://github.com/sherikovic",
     "text": "I want to get a van and travel across the states."
+  },
+  {
+    "id": "Kenny Zhang",
+    "image": "img/bid_image/Kenny_Zhang.jpg",
+    "avatar": "img/avatar/Kenny_Zhang.jpg",
+    "name": "Kenny Zhang",
+    "location": "Berkeley, California, USA 🇺🇸",
+    "GitHub": "https://github.com/kennyzhang0819",
+    "text": "I want to be rich and happy"
   }
 ]
