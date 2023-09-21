@@ -322,5 +322,14 @@
     "location": "Brooklyn, New York, USA 🇺🇸",
     "GitHub": "https://github.com/sherikovic",
     "text": "I want to get a van and travel across the states."
-  }
+  },
+  {
+    "id": "Alex Zhu",
+    "image": "img/bid_image/Before_I_Die.jpg",
+    "avatar": "img/avatar/Alex_Zhu.jpg",
+    "name": "Alex Zhu",
+    "location": "Cupertino, USA",
+    "GitHub": "https://github.com/alexzhuu",
+    "text": "Travel the world and backpack"
+  } 
 ]
