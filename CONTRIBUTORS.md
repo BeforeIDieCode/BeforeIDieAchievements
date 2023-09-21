@@ -393,3 +393,15 @@
 <!-- End of column 4 -->
 </tr>
 </table>
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/octav">
+    <img
+      src="YOUR_GITHUB_AVATAR_LINK"
+      width="100px"
+    />
+    <br />
+    <sub>Octavio Lomeli</sub>
+  </a>
+</td>
+<!-- End of column -->
