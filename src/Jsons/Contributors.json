@@ -322,5 +322,14 @@
     "location": "Brooklyn, New York, USA 🇺🇸",
     "GitHub": "https://github.com/sherikovic",
     "text": "I want to get a van and travel across the states."
-  }
+  },
+  {
+    "id": "Francisco Martinez Iniguez",
+    "image": "img/bid_image/Francisco_Martinez_Iniguez.jpg",
+    "avatar": "img/avatar/Francisco_Martinez-Iniguez.jpg",
+    "name": "Francisco Martinez Iniguez",
+    "location": "South San Francisco, California, USA 🇺🇸",
+    "GitHub": "https://github.com/franmartiniguez",
+    "text": "I want to own a chicken farm"
+}
 ]
