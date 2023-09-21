@@ -391,5 +391,17 @@
   </a>
 </td>
 <!-- End of column 4 -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/jerliang">
+    <img
+      src="https://avatars.githubusercontent.com/u/37273788?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Jerry Liang</sub>
+  </a>
+</td>
+<!-- End of column -->
 </tr>
 </table>

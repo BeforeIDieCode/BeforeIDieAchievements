@@ -322,5 +322,14 @@
     "location": "Brooklyn, New York, USA 🇺🇸",
     "GitHub": "https://github.com/sherikovic",
     "text": "I want to get a van and travel across the states."
-  }
+  },
+  {
+    "id": "Jerry Liang",
+    "image": "img/bid_image/Jerry_Liang.jpg",
+    "avatar": "img/avatar/Jerry_Liang.jpg",
+    "name": "Jerry Liang",
+    "location": "Berkeley, California, USA 🇺🇸",
+    "GitHub": "https://github.com/jerliang",
+    "text": "I want to travel around the world."
+}
 ]
