@@ -16,12 +16,6 @@ const MasonryBox = ({
   ipObj
 }) => {
 
-  const handleUserProfClick = () => {
-    if (githubUrl) {
-      window.open(githubUrl, "_blank");
-    }
-  };
-
   const [randomColor, setRandomColor] = useState();
   const [isEnlarged, setIsEnlarged] = useState(false);
   const [isUserTextVisible, setIsUserTextVisible] = useState(true);
@@ -73,12 +67,7 @@ const MasonryBox = ({
 
   return (
     <div className={styles["masonry-card"]}>
-      <img
-        src={wallSrc}
-        style={{ width: "100%" }}
-        alt=""
-        onClick={toggleEnlarged}
-      />
+      <img src={wallSrc} style={{ width: "100%" }} alt="" onClick={toggleEnlarged} />
       {isEnlarged && (
         <div className={styles.enlargedPhoto} onClick={toggleEnlarged}>
           <div className={styles.enlargedPhotoContainer}>
@@ -93,58 +82,44 @@ const MasonryBox = ({
               <div style={{ position: "relative" }}>
                 <p style={{ color: randomColor }}>{userText}</p>
               </div>
-              <div style={{ display: "flex", flexDirection: "row", marginTop: "10px", justifyContent: "center", alignItems: "center", padding: "10px", gap: "15px" }}>
+              <div style={{
+                display: "flex",
+                flexDirection: "row",
+                marginTop: "10px",
+                justifyContent: "center",
+                alignItems: "center",
+                padding: "10px",
+                gap: "15px"
+              }}>
                 <div className={styles["masonry-card-user-prof"]}>
-                  <a
-                    href={githubUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    onClick={handleUserProfClick}
-                  >
-                    <img
-                      src={userProf}
-                      alt=""
-                      className={styles["clickable"]}
-                    />
+                  <a href={githubUrl ? githubUrl : ''} target="_blank" rel="noopener noreferrer">
+                    <img src={userProf} alt="" className={styles["clickable"]} />
                   </a>
                 </div>
                 <div className={`${styles["masonry-card-user-prof-desc"]} flex flex-column`}>
-                  <h1>{userName}</h1> {/* Add preset text here */}
+                  <h1>{userName}</h1>
                   <h3>{userJob}</h3>
                 </div>
               </div>
-            </div>{" "}
+            </div>
           </div>
-          {/* Add preset text here */}
           {isTextVisible && (
             <div className={styles.enlargedPhotoTextBox}>
-              <p>
-                {presetText} {userText}
-              </p>{" "}
-              {/* Add preset text here */}
+              <p>{presetText} {userText}</p>
             </div>
           )}
         </div>
       )}
       {isUserTextVisible && (
         <div className={`${styles["masonry-card-description"]} flex`}>
-          <div
-            className={`${styles["masonry-card-user-box"]} flex align-items-center`}
-          >
+          <div className={`${styles["masonry-card-user-box"]} flex align-items-center`}>
             <div className={styles["masonry-card-user-prof"]}>
-              <a
-                href={githubUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                onClick={handleUserProfClick}
-              >
+              <a href={githubUrl ? githubUrl : ''} target="_blank" rel="noopener noreferrer">
                 <img src={userProf} alt="" className={styles["clickable"]} />
               </a>
             </div>
-            <div
-              className={`${styles["masonry-card-user-prof-desc"]} flex flex-column`}
-            >
-              <h1>{userName}</h1> {/* Add preset text here */}
+            <div className={`${styles["masonry-card-user-prof-desc"]} flex flex-column`}>
+              <h1>{userName}</h1>
               <h3>{userJob}</h3>
             </div>
           </div>
