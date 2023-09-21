@@ -322,5 +322,14 @@
     "location": "Brooklyn, New York, USA 🇺🇸",
     "GitHub": "https://github.com/sherikovic",
     "text": "I want to get a van and travel across the states."
-  }
+  },
+  {
+    "id": "Eli Littman",
+    "image": "img/bid_image/Eli Littman.jpg",
+    "avatar": "img/avatar/Eli Littman.jpg",
+    "name": "Eli Littman",
+    "location": "Berkeley, CA, USA 🇺🇸",
+    "GitHub": "https://github.com/elittman27",
+    "text": "I'd like to have a positive impact on the world"
+}
 ]
