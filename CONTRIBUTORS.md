@@ -391,5 +391,17 @@
   </a>
 </td>
 <!-- End of column 4 -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/greegro">
+    <img
+      src="https://avatars.githubusercontent.com/u/111393835?s=4"
+      width="100px"
+    />
+    <br />
+    <sub>Maryna Terentieva</sub>
+  </a>
+</td>
+<!-- End of column -->
 </tr>
 </table>

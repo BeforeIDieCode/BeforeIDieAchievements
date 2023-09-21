@@ -323,4 +323,14 @@
     "GitHub": "https://github.com/sherikovic",
     "text": "I want to get a van and travel across the states."
   }
+  
+  {
+    "id": "Maryna Terentieva",
+    "image": "img/bid_image/Maryna_Terentieva.jpg",
+    "avatar": "img/avatar/Maryna_Terentieva.jpg",
+    "name": "Maryna Terentieva",
+    "location": "Brooklyn, New York, USA 🇺🇸",
+    "GitHub": "https://github.com/greegro",
+    "text": "I want to spend a week on the rural island."
+  }
 ]
