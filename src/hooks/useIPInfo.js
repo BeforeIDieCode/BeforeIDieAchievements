@@ -19,6 +19,7 @@ function useIPInfo() {
         setLoading(false);
       });
   }, []);
+
   return { ipInfo, loading, error };
 }
 

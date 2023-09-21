@@ -4,7 +4,6 @@ import { PropTypes } from "prop-types";
 import i18next from "i18next";
 import { useTranslation } from "react-i18next";
 import languages from "../../../translation/languages.json";
-import useIPInfo from "../../../hooks/useIPInfo";
 
 
 const MasonryBox = ({
@@ -14,18 +13,15 @@ const MasonryBox = ({
   userJob,
   githubUrl,
   userText,
+  ipObj
 }) => {
-  const handleUserProfClick = () => {
-    if (githubUrl) {
-      window.open(githubUrl, "_blank");
-    }
-  };
+
   const [randomColor, setRandomColor] = useState();
   const [isEnlarged, setIsEnlarged] = useState(false);
   const [isUserTextVisible, setIsUserTextVisible] = useState(true);
   const [isTextVisible, setIsTextVisible] = useState(false);
-  const { ipInfo, loading, error } = useIPInfo();
   const { t } = useTranslation();
+
   const toggleEnlarged = () => {
     setIsEnlarged(!isEnlarged);
     setIsUserTextVisible(!isUserTextVisible);
@@ -34,6 +30,7 @@ const MasonryBox = ({
   const toggleText = () => {
     setIsTextVisible(!isTextVisible);
   };
+
   useEffect(() => {
     setRandomColor(() => {
       const minBrightness = 80;
@@ -47,32 +44,30 @@ const MasonryBox = ({
       } while (red + green + blue < minBrightness * 3);
 
       // Convert RGB values to a hexadecimal color
-      const color = `#${red.toString(16)}${green.toString(16)}${blue.toString(
-        16
-      )}`;
+      const color = `#${red.toString(16)}${green.toString(16)}${blue.toString(16)}`;
 
       return color;
     });
   }, [isEnlarged]);
+
   const presetText = (
     <span className={styles.boldText}>
-      {t("BEFORE-I-DIE")}... <br />
+      {languages[ipObj.ipInfo?.country_code] === "ar" ?
+        <div> ...{t("BEFORE-I-DIE")}  </div> :
+        <div> {t("BEFORE-I-DIE")}... </div>
+      }
       <br />
     </span>
   );
+
   useEffect(() => {
     // Change the language when the component mounts based on ipInfo
-    i18next.changeLanguage(languages[ipInfo?.country_code]);
-  }, [ipInfo]); // Empty dependency array to run this effect only once when the component mounts
+    i18next.changeLanguage(languages[ipObj.ipInfo?.country_code]);
+  }, [ipObj.loading]);
 
   return (
-    <div className={styles["my-masonry"]}>
-      <img
-        src={wallSrc}
-        style={{ width: "100%" }}
-        alt=""
-        onClick={toggleEnlarged}
-      />
+    <div className={styles["masonry-card"]}>
+      <img src={wallSrc} style={{ width: "100%" }} alt="" onClick={toggleEnlarged} />
       {isEnlarged && (
         <div className={styles.enlargedPhoto} onClick={toggleEnlarged}>
           <div className={styles.enlargedPhotoContainer}>
@@ -87,60 +82,44 @@ const MasonryBox = ({
               <div style={{ position: "relative" }}>
                 <p style={{ color: randomColor }}>{userText}</p>
               </div>
-                <div style={{ display: "flex", flexDirection: "row", marginTop: "10px", justifyContent: "center", alignItems: "center", padding: "10px", gap: "15px"}}>
-                  <div className={styles["my-masnry-user-prof"]}>
-                    <a
-                      href={githubUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      onClick={handleUserProfClick}
-                    >
-                      <img
-                        src={userProf}
-                        alt=""
-                        className={styles["clickable"]}
-                      />
-                    </a>
-                  </div>
-                  <div
-                    className={`${styles["my-masnry-user-prof-desc"]} flex flex-column`}
-                  >
-                    <h1>{userName}</h1> {/* Add preset text here */}
-                    <h3>{userJob}</h3>
-                  </div>
+              <div style={{
+                display: "flex",
+                flexDirection: "row",
+                marginTop: "10px",
+                justifyContent: "center",
+                alignItems: "center",
+                padding: "10px",
+                gap: "15px"
+              }}>
+                <div className={styles["masonry-card-user-prof"]}>
+                  <a href={githubUrl ? githubUrl : ''} target="_blank" rel="noopener noreferrer">
+                    <img src={userProf} alt="" className={styles["clickable"]} />
+                  </a>
                 </div>
-            </div>{" "}
+                <div className={`${styles["masonry-card-user-prof-desc"]} flex flex-column`}>
+                  <h1>{userName}</h1>
+                  <h3>{userJob}</h3>
+                </div>
+              </div>
+            </div>
           </div>
-          {/* Add preset text here */}
           {isTextVisible && (
             <div className={styles.enlargedPhotoTextBox}>
-              <p>
-                {presetText} {userText}
-              </p>{" "}
-              {/* Add preset text here */}
+              <p>{presetText} {userText}</p>
             </div>
           )}
         </div>
       )}
       {isUserTextVisible && (
-        <div className={`${styles["my-masnry-description"]} flex`}>
-          <div
-            className={`${styles["my-masnry-user-box"]} flex align-items-center`}
-          >
-            <div className={styles["my-masnry-user-prof"]}>
-              <a
-                href={githubUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                onClick={handleUserProfClick}
-              >
+        <div className={`${styles["masonry-card-description"]} flex`}>
+          <div className={`${styles["masonry-card-user-box"]} flex align-items-center`}>
+            <div className={styles["masonry-card-user-prof"]}>
+              <a href={githubUrl ? githubUrl : ''} target="_blank" rel="noopener noreferrer">
                 <img src={userProf} alt="" className={styles["clickable"]} />
               </a>
             </div>
-            <div
-              className={`${styles["my-masnry-user-prof-desc"]} flex flex-column`}
-            >
-              <h1>{userName}</h1> {/* Add preset text here */}
+            <div className={`${styles["masonry-card-user-prof-desc"]} flex flex-column`}>
+              <h1>{userName}</h1>
               <h3>{userJob}</h3>
             </div>
           </div>

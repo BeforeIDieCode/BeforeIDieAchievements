@@ -6,7 +6,7 @@ import PropTypes from 'prop-types'
 
 // ContainerCard component
 const ContainerCard = ({ children, className }) => (
-    <div className={`${styles.container} ${className}`}>{ children }</div>
+    <div className={`${styles.container} ${className}`}>{children}</div>
 )
 
 ContainerCard.propTypes = {
