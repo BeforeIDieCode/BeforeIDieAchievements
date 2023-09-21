@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import styles from "./App.module.css";
 import Header from './Components/Header/Header';
 import MasonryLayout from './Components/MasonryLayout/MasonryLayout';
@@ -14,7 +14,7 @@ const App = () => {
   };
 
   return (
-    <>
+    <React.Fragment>
       <Header onCategoryChange={handleCategoryChange} />
       <div className="flex justify-content-center" style={{ marginTop: "50px", padding: '50px' }}>
         <ContainerCard>
@@ -23,7 +23,7 @@ const App = () => {
         </ContainerCard>
       </div>
       <Footer />
-    </>
+    </React.Fragment>
   );
 };
 
