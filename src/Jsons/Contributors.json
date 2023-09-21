@@ -322,5 +322,14 @@
     "location": "Brooklyn, New York, USA 🇺🇸",
     "GitHub": "https://github.com/sherikovic",
     "text": "I want to get a van and travel across the states."
-  }
+  },
+  {
+    "id": "Adnan Ashraf",
+    "image": "img/bid_image/YOUR_NAME.jpg",
+    "avatar": "img/avatar/YOUR_NAME.jpg",
+    "name": "Adnan Ashraf",
+    "location": "Berkeley, California, USA",
+    "GitHub": "GITHUB_PROFILE_URL",
+    "text": "I want to have kids"
+}
 ]
