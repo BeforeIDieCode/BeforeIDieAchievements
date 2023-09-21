@@ -10,7 +10,7 @@ import MasonryBox from "./MasonryBox/MasonryBox";
 import useIPInfo from "../../hooks/useIPInfo";
 
 // MasonryLayout Component
-const MasonryLayout = ({ images }) => {
+const MasonryLayout = ({ users }) => {
   const breakpointColumnsObj = {
     default: 3,
     1100: 2,
@@ -19,8 +19,8 @@ const MasonryLayout = ({ images }) => {
 
   const ipObj = useIPInfo();
 
-  // Shuffle the images array
-  const shuffledImages = images.sort(() => Math.random() - 0.5);
+  // Shuffle the users array
+  const shuffledUsers = users.sort(() => Math.random() - 0.5);
 
   return (
     <Masonry
@@ -28,7 +28,7 @@ const MasonryLayout = ({ images }) => {
       className={styles["masonry-grid"]}
       columnClassName={styles["masonry-grid_column"]}
     >
-      {shuffledImages.map((item) => (
+      {shuffledUsers.map((item) => (
         <MasonryBox
           key={item.id}
           wallSrc={item.image}
