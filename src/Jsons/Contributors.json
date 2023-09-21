@@ -322,5 +322,14 @@
     "location": "Brooklyn, New York, USA 🇺🇸",
     "GitHub": "https://github.com/sherikovic",
     "text": "I want to get a van and travel across the states."
-  }
+  },
+  {
+    "id": "Taiga_Kitao",
+    "image": "img/bid_image/Taiga_Kitao.jpg",
+    "avatar": "img/avatar/skydiving.jpg",
+    "name": "Taiga_Kitao",
+    "location": "🇯🇵",
+    "GitHub": "taiga2002",
+    "text": "Skydiving"
+}
 ]

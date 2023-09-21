@@ -391,5 +391,18 @@
   </a>
 </td>
 <!-- End of column 4 -->
+
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/taiga2002">
+    <img
+      src="https://avatars.githubusercontent.com/u/84259456?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Taiga Kitao</sub>
+  </a>
+</td>
+<!-- End of column -->
 </tr>
 </table>
