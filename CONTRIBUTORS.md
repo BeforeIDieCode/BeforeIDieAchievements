@@ -391,5 +391,17 @@
   </a>
 </td>
 <!-- End of column 4 -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/chrisrq">
+    <img
+      src="https://avatars.githubusercontent.com/u/121143305?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Christian Roque</sub>
+  </a>
+</td>
+<!-- End of column -->
 </tr>
 </table>

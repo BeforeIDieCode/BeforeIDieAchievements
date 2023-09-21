@@ -322,5 +322,14 @@
     "location": "Brooklyn, New York, USA 🇺🇸",
     "GitHub": "https://github.com/sherikovic",
     "text": "I want to get a van and travel across the states."
+  },
+  {
+    "id": "Christian Roque",
+    "image": "img/bid_image/Christian_Roque.jpg",
+    "avatar": "img/avatar/Christian_Roque.jpg",
+    "name": "Christian Roque",
+    "location": "Los Angeles, California, USA 🇺🇸",
+    "GitHub": "https://github.com/chrisrq",
+    "text": "I want to play in a (good) band."
   }
-]
+]  
