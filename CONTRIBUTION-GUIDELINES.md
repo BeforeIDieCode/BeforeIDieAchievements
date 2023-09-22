@@ -89,10 +89,10 @@ To fill out the given JSON code, follow these instructions:
 3. Replace "GITHUB_PROFILE_URL" with the URL of your GitHub profile.
 4. Replace "PASTE_WHAT_YOU_WANT_TO_DO_BEFORE_YOU_DIE" with a text describing what you want to do before you die.
 * This is your time to think <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> and reflect on what YOU want to do before you die. Perhaps you want to run a 2K marathon, travel the world, or do a wacky food challenge at a restaurant in your hometown or country. Now, here are some things to keep in mind when writing your goal:
-- **Character Length**: Please limit your text to a max 500 characters 
-- **Be Thoughtful**: Craft your message to convey the significance and value of your aspirations. 
+- **Character Length**: Please limit your text to a max 500 characters
+- **Be Thoughtful**: Craft your message to convey the significance and value of your aspirations.
 - **Consider Your Audience**: Keep in mind that your text and images will be shared publicly, so be respectful with your images and words. Also, avoid imposing with your goals. We want this project to be a place where people feel safe and comfortable with being authentic.
-- **Regularly Reflect**: Like life, goals constantly change so regularly review your progress and make adjustments as needed. Also, share and celebrate the milestones you reach. You'll never know who you can inspire by sharing them. 
+- **Regularly Reflect**: Like life, goals constantly change so regularly review your progress and make adjustments as needed. Also, share and celebrate the milestones you reach. You'll never know who you can inspire by sharing them.
 ```
 {
   "id": "Juan Perez",
@@ -128,13 +128,16 @@ It can be helpful to find high-quality images on websites like [UnSplash](https:
 
 ## Step 8. ADD to the CONTRIBUTORS.md file
 
-When adding a new contributor to the `CONTRIBUTORS.md` file, please note that there should be a maximum of seven contributors per column. If you see that a column is already full, you should close the column and create a new one.
-### And jump to [A few things to change](#step8_thing_to_change)
-Here's how you can do it:
+When adding a new contributor to the `CONTRIBUTORS.md` file, please note that there should be a maximum of seven contributors per column. If you see that a column is already full, you should close the column and create a new one. See the below example image of this instance <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />  If the column is less than seven contributors go ahead and jump to [here](#If_it_is_less_than_seven_contributors).
+
+<img width="415" alt="Screenshot 2023-09-22 at 23 31 18" src="https://github.com/Nawarajkarki/BeforeIDieAchievements/assets/120526253/05a0f723-12d3-40c6-82c7-11b28acfcede">
+
+### What to copy to start column number one:
 
 ```html
-<!-- Start of column -->
-<tr>
+</tr>
+  <tr>
+<!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/GITHUB_ACCOUNT">
     <img
@@ -145,12 +148,13 @@ Here's how you can do it:
     <sub>YOUR_NAME</sub>
   </a>
 </td>
-
+<!-- End of column-1 -->
 </tr>
-<!-- End of column -->
+</table>
 ```
+### Then jump to [A few things to change](#step8_thing_to_change)
 
-### If you see that the column isn't full follow these steps
+## <a id="If_it_is_less_than_seven_contributors"></a> If you see that the column isn't full follow these steps:
 
 Copy the code below, then paste it into the <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md">CONTRIBUTORS</a> file of this repo. Be sure to paste it below another contributors end column. And then proceed to edit with your own information.
 
