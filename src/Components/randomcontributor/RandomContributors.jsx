@@ -18,13 +18,17 @@ const RandomContributors = () => {
   }, []);
 
   const currentUser = contributorsData[currentIndex];
-  console.log(currentUser);
+  // console.log(currentUser);
   return (
     <div className={styles["card-container"]}>
-      <h1 className={styles.heading}>Thanks for contributions ! </h1>
+      <h1 className={styles.heading}>Thanks for contributions!</h1>
       <a href={`${currentUser.GitHub}`}>
         <div className={styles.cards}>
-          <img src={currentUser.avatar} className={styles.image} />
+          <img
+            src={currentUser.avatar}
+            className={styles.image}
+            alt={`${currentUser.name}'s avatar`}
+          />
           <p className={styles.name}>{currentUser.name}</p>
         </div>
       </a>
