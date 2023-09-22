@@ -1,3 +1,4 @@
+import React, { useState, useEffect } from "react";
 // import styles of this component
 import styles from "./Header.module.css"
 
@@ -8,28 +9,34 @@ import BrickLayout from "../BrickLayout/BrickLayout";
 import { Typewriter } from 'react-simple-typewriter'
 
 
-
-
 // Header component
 const Header = () => {
+  const [isMobile, setIsMobile] = useState(window.innerWidth > 640)
+
+  useEffect(() => {
+    function handleSize() {
+      setIsMobile(window.innerWidth > 640);
+    }
+    window.addEventListener("resize", handleSize);
+
+    return () => {
+      window.removeEventListener("resize", handleSize);
+    }
+  }, [])
+
   return (
     <header className={`${styles.header} flex justify-content-center`}>
       <ContainerCard className="flex flex-column">
         <div className={styles["blur-circle-shape"]}></div>
         <Nav />
-        <BrickLayout />
+        {isMobile && <BrickLayout />}
         <div className={styles["blur-circle-shape-two"]}></div>
         <div className={`${styles["headings-header"]} flex justify-content-center flex-column`}>
           <h1 className={styles["heading-header-second-title"]}>
-            <p className="text_open-source-project" style={{ fontSize: '55px' }}>
+            <p className={styles["text_open-source-project"]} >
               <span
-                style={{
-                  color: '#006DFF',
-                  fontWeight: 'bolder',
-                  textDecoration: 'underline',
-                  textDecorationColor: '#FEEA3A',
-                  fontSize: '125px',
-                }}
+                className={styles["span_open-source-project"]}
+                style={{ color: "#006dff" }}
               >
                 An Open
                 <br />
@@ -41,7 +48,7 @@ const Header = () => {
               </span>{" "}
               <br />
               <br />
-              <span style={{ color: '#006DFF', fontWeight: 'bold' }}>
+              <span style={{ color: '#FFE439', fontWeight: 'bold' }}>
                 <Typewriter
                   words={[
                     'to plant seeds 🌱 of inspiration.',

@@ -11,7 +11,25 @@ https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/69f2ca
 
 [![Hits](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements.svg?style=flat&label=Visitors&color=014BAD&labelColor=FCE93B)](https://hits.sh/github.com/BeforeIDieCode/BeforeIDieAchievements/)
 
+[![issues closed](https://img.shields.io/github/issues-closed/BeforeIDieCode/BeforeIDieAchievements)](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues)
+[![PRs closed](https://img.shields.io/github/issues-pr-closed/BeforeIDieCode/BeforeIDieAchievements)](https://github.com/BeforeIDieCode/BeforeIDieAchievements/pulls)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
+→ come look at our [good first issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
 </center>
+
+_Read this in [other languages](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Translations.md)_
+
+<p align="center">
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Hindi/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/French/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Spanish/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Mandarin_Chinese/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Arabic/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/sa.svg" width="40"></a>
+<a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Arabic/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/ae.svg" width="40"></a>
+</p>
+
 # BeforeIDieAchievements
 
 🌟 Welcome to BeforeIDieAchievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, an open source project that helps developers make their first pull request and contribute to open source projects. View the [live Link](https://before-i-die-achievements.vercel.app/).
@@ -42,7 +60,7 @@ BeforeIDieAchievements is licensed under the MIT License. See the [LICENSE](http
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Open%20Hands.png" alt="Open Hands" width="25" height="25" /> Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Mechanic.png" alt="Man Mechanic" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Superhero.png" alt="Woman Superhero" width="25" height="25" />
 
-We would like to thank all the contributors who have helped make BeforeIDieAchievements possible. Check out the [CONTRIBUTORS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md) file to see a list of all the amazing people who have contributed to this project.
+We would like to thank all the contributors who have helped make BeforeIDieAchievements possible. Check out the [CONTRIBUTORS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md) file to see a list of all the amazing people who have contributed to this project. Additionally, view the [THANK_YOU](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/THANK_YOU.md) videos for each one of our contributor's work being recognized. 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> Contact
 

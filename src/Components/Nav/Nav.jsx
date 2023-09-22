@@ -11,7 +11,7 @@ const Nav = () => {
       <img
         src="./img/Logo.gif"
         alt="Before I Die Logo"
-        className="img-fluid"
+        className={styles.imgfluid}
       />
 
       <div className={styles['navbar-buttons']}>

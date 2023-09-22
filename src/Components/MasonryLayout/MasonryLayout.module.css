@@ -1,10 +1,13 @@
-.my-masonry-grid {
+.masonry-grid {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    margin-left: -30px;
+    /* margin-left: -30px; */
     width: auto;
 }
-.my-masonry-grid_column {
+.masonry-grid_column {
     padding-left: 30px;
 }
+.masonry-grid_column:first-child {
+    padding-left: 0;
+  }
