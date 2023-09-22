@@ -7,24 +7,28 @@ import Masonry from "react-masonry-css";
 // import other component to use
 import MasonryBox from "./MasonryBox/MasonryBox";
 
+import useIPInfo from "../../hooks/useIPInfo";
+
 // MasonryLayout Component
-const MasonryLayout = ({ images }) => {
+const MasonryLayout = ({ users }) => {
   const breakpointColumnsObj = {
     default: 3,
     1100: 2,
     700: 1,
   };
 
-  // Shuffle the images array
-  const shuffledImages = images.sort(() => Math.random() - 0.5);
+  const ipObj = useIPInfo();
+
+  // Shuffle the users array
+  const shuffledUsers = users.sort(() => Math.random() - 0.5);
 
   return (
     <Masonry
       breakpointCols={breakpointColumnsObj}
-      className={styles["my-masonry-grid"]}
-      columnClassName={styles["my-masonry-grid_column"]}
+      className={styles["masonry-grid"]}
+      columnClassName={styles["masonry-grid_column"]}
     >
-      {shuffledImages.map((item) => (
+      {shuffledUsers.map((item) => (
         <MasonryBox
           key={item.id}
           wallSrc={item.image}
@@ -33,6 +37,7 @@ const MasonryLayout = ({ images }) => {
           userJob={item.location}
           githubUrl={item.GitHub}
           userText={item.text}
+          ipObj={ipObj}
         />
       ))}
     </Masonry>

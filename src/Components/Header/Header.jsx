@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from "react";
+import React, { useState, useEffect } from "react";
 // import styles of this component
 import styles from "./Header.module.css"
 
@@ -7,8 +7,6 @@ import ContainerCard from '../ContainerCard/ContainerCard';
 import Nav from "../Nav/Nav"
 import BrickLayout from "../BrickLayout/BrickLayout";
 import { Typewriter } from 'react-simple-typewriter'
-
-
 
 
 // Header component
@@ -25,6 +23,7 @@ const Header = () => {
       window.removeEventListener("resize", handleSize);
     }
   }, [])
+
   return (
     <header className={`${styles.header} flex justify-content-center`}>
       <ContainerCard className="flex flex-column">
@@ -37,7 +36,7 @@ const Header = () => {
             <p className={styles["text_open-source-project"]} >
               <span
                 className={styles["span_open-source-project"]}
-                style={{ color: "#006dff"}}
+                style={{ color: "#006dff" }}
               >
                 An Open
                 <br />

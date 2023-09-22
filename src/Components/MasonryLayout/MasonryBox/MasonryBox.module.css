@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,700&display=swap");
 
-.my-masonry {
+.masonry-card {
   position: relative;
   margin-bottom: 30px;
   display: flex;
@@ -10,7 +10,7 @@
   overflow: hidden;
 }
 
-.my-masonry img:hover {
+.masonry-card img:hover {
   border: 7px solid #004aad;
 }
 
@@ -129,7 +129,7 @@
   cursor: pointer;
 }
 
-.my-masnry-description {
+.masonry-card-description {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -144,7 +144,7 @@
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-.my-masnry-user-box {
+.masonry-card-user-box {
   width: 100%;
   padding: 0 20px;
   margin-bottom: 20px;
@@ -153,61 +153,61 @@
   transition: 0.5s;
 }
 
-.my-masnry-user-prof {
+.masonry-card-user-prof {
   width: 150px;
   height: 150px;
 }
 
-.my-masnry-user-prof img {
+.masonry-card-user-prof img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   border-radius: 10px;
 }
 
-.my-masnry-user-prof img:hover {
+.masonry-card-user-prof img:hover {
   border: 5px solid rgb(254, 234, 58);
 }
 
-.my-masnry-user-prof-desc {
+.masonry-card-user-prof-desc {
   row-gap: 10px;
   font-size: 1.5rem;
   text-transform: capitalize;
   font-weight: bold;
 }
 
-.my-masnry-user-prof-desc h1 {
+.masonry-card-user-prof-desc h1 {
   color: var(--green-400);
   text-shadow: -1px -1px 5px #feea3a, 1px -1px 5px #feea3a, -1px 1px 5px #feea3a,
     1px 1px 5px #feea3a;
 }
 
-.my-masnry-user-prof-desc h3 {
+.masonry-card-user-prof-desc h3 {
   color: #feea3a;
   text-shadow: -1px -1px 5px #004aad, 1px -1px 5px #004aad, -1px 1px 5px #004aad,
     1px 1px 5px #004aad;
 }
 
-.my-masonry:hover .my-masnry-description {
+.masonry-card:hover .masonry-card-description {
   visibility: visible;
   opacity: 1;
 }
 
-.my-masonry:hover .my-masnry-user-box {
+.masonry-card:hover .masonry-card-user-box {
   margin-bottom: 15px;
 }
 
 @media (max-width: 640px) {
-  .my-masnry-description {
+  .masonry-card-description {
     height: auto;
   }
 
-  .my-masnry-user-prof {
+  .masonry-card-user-prof {
     width: 100px;
     height: 100px;
   }
 
-  .my-masnry-user-prof-desc {
+  .masonry-card-user-prof-desc {
     font-size: 1rem;
   }
 }

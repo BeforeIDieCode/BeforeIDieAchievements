@@ -1,0 +1,35 @@
+---
+name: Feature Request 💡
+description: Have an idea for our project? Share it with us!
+title: "[Feature Request] <Write your suggestion here>"
+labels: ["Type: enhancement, Status: Needs Triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A clear and concise description of any alternative solution or features you've considered.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Please add screenshots if applicable
+    validations:
+      required: false
+  - type: checkboxes
+    id: no-duplicate-issues
+    attributes:
+      label: Checklist
+      description: "By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CODE_OF_CONDUCT.md)."
+      options:
+        - label: "I have checked for duplicate [issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues)"
+          required: true
+        - label: "I have read the [Contribution Guidelines]((https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md))"
+          required: true
+        - label: "I am willing to work on this issue (optional)"
+          required: false
+  - type: markdown
+    attributes:
+      value: "Thank you for taking the time to raise this issue! Your input is greatly appreciated."

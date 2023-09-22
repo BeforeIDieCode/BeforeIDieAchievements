@@ -247,7 +247,7 @@
   </a>
 </td>
 <!-- End of column-6 -->
-<!-- Start of column -->
+<!-- Start of column-7 -->
 <td align="center">
   <a href="https://github.com/itzmidinesh">
     <img
@@ -341,5 +341,55 @@
   </a>
 </td>
 <!-- End of column-7 -->
- </tr>
+</tr>
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/CBID2">
+    <img
+      src="https://avatars.githubusercontent.com/u/105683440?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Chrissy Codes</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+<!-- Start of column-2 -->
+<td align="center">
+  <a href="https://github.com/Sahilkaler">
+    <img
+      src="https://avatars.githubusercontent.com/u/119391867?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Sahil Kaler</sub>
+  </a>
+</td>
+<!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/daniel-barker">
+    <img
+      src="https://avatars.githubusercontent.com/u/124937996?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Daniel Barker</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
+<!-- Start of column 4 -->
+<td align="center">
+  <a href="https://github.com/sherikovic">
+    <img
+      src="https://avatars.githubusercontent.com/u/130923568?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Sherif Amer</sub>
+  </a>
+</td>
+<!-- End of column 4 -->
+</tr>
 </table>
