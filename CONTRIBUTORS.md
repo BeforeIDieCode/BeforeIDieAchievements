@@ -367,5 +367,15 @@
   </a>
 </td>
 <!-- End of column-2 -->
+<td align="center">
+  <a href="https://github.com/Mominarez">
+    <img
+      src="https://avatars.githubusercontent.com/u/94253448?s=400&u=baf0b4b835b085aecc4e805bafa9e77f5b276015&v=4t"
+      width="100px"
+    />
+    <br />
+    <sub>Momina Rezai</sub>
+  </a>
+</td>
 </tr>
 </table>

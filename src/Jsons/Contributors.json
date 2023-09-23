@@ -304,5 +304,14 @@
     "location": "Punjab, India 🇮🇳",
     "GitHub": "https://github.com/Sahilkaler",
     "text": "I want to do skydiving and travel the world."
-}
+  },
+  {
+  "id": "Momina Rezai",
+  "image": "img/bid_image/Momina_Rezai.jpg",
+  "avatar": "img/avatar/Momina_Rezai.jpg",
+  "name": "Momina Rezai",
+  "location": "Baku, Azerbaijan 🇦🇿",
+  "GitHub": "https://github.com/Mominarez",
+  "text": "One of my life goals is to ensure that, before I die, is to open a coffee shop with a tech-related theme."
+  }
 ]
