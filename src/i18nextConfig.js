@@ -172,8 +172,7 @@ i18n
       },
       ar: {
         translation: require("./locales/ar/translation.json"),
-      }
-    },
+      },
     lng: "en", // Set the default language
     fallbackLng: "en", // Fallback language if a translation is missing
     interpolation: {
