@@ -342,7 +342,7 @@
 </td>
 <!-- End of column-7 -->
 </tr>
-<tr>
+<>
 <!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/CBID2">
@@ -379,7 +379,7 @@
   </a>
 </td>
 <!-- End of column-3 -->
-<!-- Start of column 4 -->
+<!-- Start of column-4 -->
 <td align="center">
   <a href="https://github.com/sherikovic">
     <img
@@ -390,6 +390,18 @@
     <sub>Sherif Amer</sub>
   </a>
 </td>
-<!-- End of column 4 -->
+<!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/Mominarez">
+    <img
+      src="https://avatars.githubusercontent.com/u/94253448?s=400&u=baf0b4b835b085aecc4e805bafa9e77f5b276015&v=4t"
+      width="100px"
+    />
+    <br />
+    <sub>Momina Rezai</sub>
+  </a>
+</td>
+<!-- end of column-5 -->
 </tr>
 </table>
