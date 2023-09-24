@@ -1,19 +1,15 @@
-import React, {useState, useEffect} from "react";
+import React, { useState, useEffect } from "react";
 // import styles of this component
-import styles from "./Header.module.css"
-
+import "./Header.scss";
 // import other components
-import ContainerCard from '../ContainerCard/ContainerCard';
-import Nav from "../Nav/Nav"
-import BrickLayout from "../BrickLayout/BrickLayout";
-import { Typewriter } from 'react-simple-typewriter'
-
-
-
+// import ContainerCard from "../ContainerCard/ContainerCard";
+// import Nav from "../Nav/Nav";
+// import BrickLayout from "../BrickLayout/BrickLayout";
+// import { Typewriter } from "react-simple-typewriter";
 
 // Header component
 const Header = () => {
-  const [isMobile, setIsMobile] = useState(window.innerWidth > 640)
+  const [isMobile, setIsMobile] = useState(window.innerWidth > 640);
 
   useEffect(() => {
     function handleSize() {
@@ -23,54 +19,93 @@ const Header = () => {
 
     return () => {
       window.removeEventListener("resize", handleSize);
-    }
-  }, [])
+    };
+  }, []);
   return (
-    <header className={`${styles.header} flex justify-content-center`}>
-      <ContainerCard className="flex flex-column">
-        <div className={styles["blur-circle-shape"]}></div>
-        <Nav />
-        {isMobile && <BrickLayout />}
-        <div className={styles["blur-circle-shape-two"]}></div>
-        <div className={`${styles["headings-header"]} flex justify-content-center flex-column`}>
-          <h1 className={styles["heading-header-second-title"]}>
-            <p className={styles["text_open-source-project"]} >
-              <span
-                className={styles["span_open-source-project"]}
-                style={{ color: "#006dff"}}
-              >
-                An Open
-                <br />
-                <br />
-                Source
-                <br />
-                <br />
-                Project
-              </span>{" "}
-              <br />
-              <br />
-              <span style={{ color: '#006DFF', fontWeight: 'bold' }}>
-                <Typewriter
-                  words={[
-                    'to plant seeds 🌱 of inspiration.',
-                    'to codify 💻 your purpose.',
-                    'to compile your bucket 🪣 list.',
-                    'to learn how to contribute 📚.'
-                  ]}
-                  loop={true}
-                  cursor
-                  cursorStyle="_"
-                  typeSpeed={50}
-                  deleteSpeed={50}
-                  delaySpeed={1500}
-                />
-              </span>
-            </p>
-          </h1>
+    <header className={`flex`}>
+      <div className="text__container">
+        <div className="opensource__title">
+          <span>
+            An Open<br></br> Source<br></br> Project
+          </span>
         </div>
-      </ContainerCard>
+
+        <div className="github__section">
+          <div>
+            <span>
+              {" "}
+              Join us and <br></br>share your wish
+            </span>
+          </div>
+          <a
+            class="button"
+            href="https://github.com/BeforeIDieCode/"
+            target="/black"
+          >
+            GitHub Repo
+          </a>
+        </div>
+      </div>
+      <div className={"animation__container flex justify-content-center"}>
+        <div className={"untitled"}>
+          <div class="untitled__slides">
+            <div class="untitled__slide">
+              <div class="untitled__slideBg"></div>
+              <div class="untitled__slideContent">
+                <span>
+                  plant seeds🌱<br></br>of inspiration{" "}
+                </span>
+              </div>
+            </div>
+            <div class="untitled__slide">
+              <div class="untitled__slideBg"></div>
+              <div class="untitled__slideContent">
+                <span>
+                  to codify 💻<br></br> your purpose{" "}
+                </span>
+              </div>
+            </div>
+            <div class="untitled__slide">
+              <div class="untitled__slideBg"></div>
+              <div class="untitled__slideContent">
+                <span>
+                  to compile your<br></br> bucket 🪣<br></br> list
+                </span>
+              </div>
+            </div>
+
+            <div class="untitled__slide">
+              <div class="untitled__slideBg"></div>
+              <div class="untitled__slideContent">
+                <span>to learn how to contribute 📚</span>
+              </div>
+            </div>
+            <div class="untitled__slide">
+              <div class="untitled__slideBg"></div>
+              <div class="untitled__slideContent">
+                <span>
+                  to learn <br></br>new skills🎯
+                </span>
+              </div>
+            </div>
+            <div class="untitled__slide">
+              <div class="untitled__slideBg"></div>
+              <div class="untitled__slideContent">
+                <span>
+                  to advance <br></br>your career💼
+                </span>
+              </div>
+            </div>
+            <div class="untitled__slide">
+              <div class="untitled__slideBg"></div>
+              <div class="untitled__slideContent"></div>
+            </div>
+          </div>
+          <div class="untitled__shutters"></div>
+        </div>
+      </div>
     </header>
   );
-}
+};
 
 export default Header;
