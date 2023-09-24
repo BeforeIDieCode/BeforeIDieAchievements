@@ -1,0 +1,124 @@
+$t: 2s;
+$slides: 9;
+$color: hsl(15, 75%, 40%);
+
+.svg-draw {
+  width: 15vmax;
+  height: 20vmax;
+  stroke: $color;
+  animation: rotateHue infinite $t * $slides * 2 linear;
+  @keyframes rotateHue {
+    0% {
+      filter: hue-rotate(0deg);
+    }
+    20% {
+      filter: hue-rotate(45deg);
+    }
+    25% {
+      filter: hue-rotate(90deg);
+    }
+    45% {
+      filter: hue-rotate(135deg);
+    }
+    50% {
+      filter: hue-rotate(180deg);
+    }
+    70% {
+      filter: hue-rotate(225deg);
+    }
+    75% {
+      filter: hue-rotate(270deg);
+    }
+    95% {
+      filter: hue-rotate(315deg);
+    }
+    100% {
+      filter: hue-rotate(360deg);
+    }
+  }
+  animation-delay: calc($t / 21);
+}
+@keyframes strokeOffset {
+  to {
+    stroke-dashoffset: 0px;
+  }
+}
+
+#mask-a-1 {
+  animation: strokeOffset 1s linear forwards;
+}
+#mask-a-2 {
+  animation: strokeOffset 1s linear forwards 1s;
+}
+#mask-n {
+  animation: strokeOffset 0.5s linear forwards 2s;
+}
+#mask-o {
+  animation: strokeOffset 0.5s linear forwards 2.5s;
+}
+#mask-p-1 {
+  animation: strokeOffset 0.5s linear forwards 3s;
+}
+
+#mask-p-2 {
+  animation: strokeOffset 0.5s linear forwards 3.5s;
+}
+
+#mask-n-2 {
+  animation: strokeOffset 0.5s linear forwards 4s;
+}
+#mask-e {
+  animation: strokeOffset 0.5s linear forwards 4.5s;
+}
+#mask-s {
+  animation: strokeOffset 0.5s linear forwards 5s;
+}
+
+#mask-o-2 {
+  animation: strokeOffset 0.5s linear forwards 5.5s;
+}
+#mask-u {
+  animation: strokeOffset 0.5s linear forwards 6s;
+}
+#mask-r {
+  animation: strokeOffset 0.5s linear forwards 6.5s;
+}
+
+#mask-c {
+  animation: strokeOffset 0.5s linear forwards 7s;
+}
+#mask-e-2 {
+  animation: strokeOffset 0.5s linear forwards 7.5s;
+}
+
+#mask-p-2-1 {
+  animation: strokeOffset 0.5s linear forwards 8s;
+}
+#mask-p-2-2 {
+  animation: strokeOffset 0.5s linear forwards 8.5s;
+}
+#mask-r-2 {
+  animation: strokeOffset 0.5s linear forwards 9s;
+}
+#mask-o-3 {
+  animation: strokeOffset 0.5s linear forwards 9.5s;
+}
+#mask-j-1 {
+  animation: strokeOffset 0.5s linear forwards 10s;
+}
+
+#mask-j-2 {
+  animation: strokeOffset 0.5s linear forwards 10.5s;
+}
+#mask-j-3 {
+  animation: strokeOffset 0.5s linear forwards 11s;
+}
+#mask-e-3 {
+  animation: strokeOffset 0.5s linear forwards 11.5s;
+}
+#mask-c-t-1 {
+  animation: strokeOffset 0.5s linear forwards 12s;
+}
+#mask-c-t-2 {
+  animation: strokeOffset 0.5s linear forwards 12.5s;
+}
