@@ -3,30 +3,87 @@ $e1: cubic-bezier(0.8, 0, 0.1, 1);
 $e2: cubic-bezier(0.6, 0.04, 0.98, 0.335);
 $er: linear;
 $color: hsl(15, 75%, 40%);
-$slides: 9;
+$slides: 7;
 $images: url("../../../public/img/dummy_image/1.jpg")
   url("../../../public/img/dummy_image/2.jpg")
   url("../../../public/img/dummy_image/3.jpg")
   url("../../../public/img/dummy_image/4.jpg")
-  url("../../../public/img/dummy_image/5.jpg")
   url("../../../public/img/dummy_image/6.jpg")
   url("../../../public/img/dummy_image/7.jpg")
-  url("../../../public/img/dummy_image/8.jpg")
   url("../../../public/img/dummy_image/9.jpg");
 
 header {
-  position: relative;
+  background-color: #09090a;
   height: 100vh;
-  width: 100vw;
-  overflow: hidden;
+  flex-direction: row-reverse;
 }
+.text__container {
+  flex-basis: 30%;
+  display: flex;
+  flex-direction: column;
+  gap: 10vmax;
+  padding: 5vmin;
+  .opensource__title {
+    span {
+      color: $color;
+      font-family: "Mefika", sans-serif;
+      font-size: 5vmax;
+      animation: rotateHue infinite $t * $slides * 2 linear;
+      animation-delay: calc($t / 17);
+    }
+  }
+  .github__section {
+    font-family: "Roboto Mono", sans-serif;
+    font-size: 3vmin;
+    font-weight: 800;
+    color: #efe4e4;
+    span {
+      line-height: 2vmax;
+      letter-spacing: 0.5vmax;
+    }
+
+    .button {
+      text-decoration: none;
+      text-transform: uppercase;
+      display: inline-block;
+      position: relative;
+      border: 3px solid white;
+      box-shadow: -0.5vmin 0.5vmin 0 rgba(white, 0.5);
+      background: transparent;
+      margin-top: 5vmin;
+      mix-blend-mode: lighten;
+      color: white;
+      padding: 3vmin 3vmin 2.4vmin 3vmin;
+      letter-spacing: 0.2em;
+      text-shadow: none;
+      line-height: 1;
+      transform: translate3d(0.5vmin, -0.5vmin, 0);
+      transition: all 100ms linear;
+      &:hover {
+        transform: translate3d(1vmin, -1vmin, 0);
+        box-shadow: -1vmin 1vmin 0 rgba(white, 0.5);
+        background: white;
+        color: black;
+      }
+      &:active {
+        transform: translate3d(0px, 0px, 0);
+        box-shadow: -0px 0px 0 rgba(white, 0.5);
+      }
+    }
+  }
+}
+.animation__container {
+  position: relative;
+  flex-basis: 70%;
+}
+
 .untitled {
   position: absolute;
   height: 100%;
   width: 100%;
-
   animation: rotateHue infinite $t * $slides * 2 linear;
-  animation-delay: calc($t / 9);
+  animation-delay: calc($t / 7);
+  overflow: hidden;
 
   &__shutters {
     position: absolute;
@@ -66,7 +123,6 @@ header {
     width: 100%;
     top: 0;
     left: 0;
-
     background-color: $color;
   }
 
@@ -113,44 +169,11 @@ header {
     z-index: 2;
     opacity: 1;
     text-shadow: 0 0 0.5em rgba($color, 0.25);
-    mix-blend-mode: lighten;
     span {
       display: block;
       font-size: 12vmin;
       font-family: "Mefika", sans-serif;
     }
-  }
-}
-.button {
-  font-family: "Roboto Mono", sans-serif;
-  text-decoration: none;
-
-  font-weight: 800;
-  text-transform: uppercase;
-  font-size: 3vmin;
-  display: inline-block;
-  position: relative;
-  border: 3px solid white;
-  box-shadow: -0.5vmin 0.5vmin 0 rgba(white, 0.5);
-  background: transparent;
-  margin-top: 5vmin;
-  mix-blend-mode: lighten;
-  color: white;
-  padding: 4.5vmin 4.5vmin 4.1vmin 4.5vmin;
-  letter-spacing: 0.2em;
-  text-shadow: none;
-  line-height: 1;
-  transform: translate3d(0.5vmin, -0.5vmin, 0);
-  transition: all 100ms linear;
-  &:hover {
-    transform: translate3d(1vmin, -1vmin, 0);
-    box-shadow: -1vmin 1vmin 0 rgba(white, 0.5);
-    background: white;
-    color: black;
-  }
-  &:active {
-    transform: translate3d(0px, 0px, 0);
-    box-shadow: -0px 0px 0 rgba(white, 0.5);
   }
 }
 
