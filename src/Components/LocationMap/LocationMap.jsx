@@ -1,62 +1,55 @@
 import React, { useEffect, useState } from 'react';
 import { GoogleMap, Marker, useJsApiLoader } from '@react-google-maps/api';
-import contributors from "../../Jsons/Contributors.json";
 
-const containerStyle = {
-    width: '100%',
-    height: '400px',
-};
-
-const LocationMap = ({ contributors }) => {
-    const [locations, setLocations] = useState([]);
+const LocationMap = ({ userLocation }) => {
+    const [userPosition, setUserPosition] = useState({ lat: 0, lng: 0 });
+    const [geoCodingStatus, setGeoCodingStatus] = useState(false);
     const { isLoaded } = useJsApiLoader({
         id: 'google-map-script',
         googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAPS_API_KEY,
     });
 
     useEffect(() => {
-        const fetchLocations = async () => {
+        const getPosition = async () => {
             try {
-                const newLocations = await Promise.all(
-                    contributors.map(async (contributor) => {
-                        const response = await fetch(
-                            `https://api.api-ninjas.com/v1/geocoding?city=${encodeURIComponent(
-                                contributor.location
-                            )}`,
-                            {
-                                headers: {
-                                    'X-Api-Key': process.env.REACT_APP_API_NINJAS_KEY,
-                                },
-                            }
-                        );
-                        const data = await response.json();
-                        console.log(data);
-                        return {
-                            ...contributor,
-                            coordinates: {
-                                lat: data[0].latitude,
-                                lng: data[0].longitude,
-                            },
-                        };
-                    })
+                const geoParams = {
+                    format: 'json',
+                    address: `address=${encodeURIComponent(userLocation)}`,
+                    key: `key=${process.env.REACT_APP_GOOGLE_MAPS_API_KEY}`
+                }
+                const response = await fetch(
+                    `https://maps.googleapis.com/maps/api/geocode/${geoParams.format}?${geoParams.address}&${geoParams.key}`
                 );
-                setLocations(newLocations);
-            } catch (error) {
-                console.log(error);
+                const { results, status } = await response.json();
+                if (status == 'OK') {
+                    setGeoCodingStatus(true);
+                    const coordinates = {
+                        lat: results[0].geometry.location.lat,
+                        lng: results[0].geometry.location.lng
+                    };
+                    setUserPosition(coordinates);
+                } else {
+                    setGeoCodingStatus(false);
+                }
+            } catch (e) {
+                console.log(e.message);
             }
-        };
-        fetchLocations();
-    }, [contributors]);
+        }
+        getPosition();
+    }, [userLocation]);
 
-    return isLoaded ? (
-        <GoogleMap mapContainerStyle={containerStyle} zoom={2} center={{ lat: 0, lng: 0 }}>
-            {locations.map((location) => (
-                <Marker key={location.id} position={location.coordinates} />
-            ))}
-        </GoogleMap>
-    ) : (
-        <div>Loading...</div>
-    );
+    return geoCodingStatus ?
+        isLoaded && (userPosition.lat !== 0 || userPosition.lng !== 0) ?
+            (<GoogleMap
+                mapContainerStyle={{ width: '400px', height: '200px' }}
+                zoom={5}
+                center={userPosition}
+                mapTypeId='roadmap'
+            >
+                <Marker position={userPosition} />
+            </GoogleMap >) :
+            (<div>Loading...</div>) :
+        <h6>Couldn't display map for the given location!</h6>;
 };
 
 export default LocationMap;
