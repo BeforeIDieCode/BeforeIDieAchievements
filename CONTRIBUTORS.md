@@ -342,7 +342,6 @@
 </td>
 <!-- End of column-7 -->
 </tr>
-<>
 <!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/CBID2">
