@@ -6,6 +6,11 @@ import "./Header.scss";
 // import Nav from "../Nav/Nav";
 // import BrickLayout from "../BrickLayout/BrickLayout";
 // import { Typewriter } from "react-simple-typewriter";
+import ContainerCard from '../ContainerCard/ContainerCard';
+import Nav from "../Nav/Nav"
+import BrickLayout from "../BrickLayout/BrickLayout";
+import { Typewriter } from 'react-simple-typewriter'
+
 
 // Header component
 const Header = () => {

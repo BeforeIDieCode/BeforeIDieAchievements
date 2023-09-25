@@ -1,0 +1,49 @@
+---
+name: Bug 🐞
+description: Report an issue to help us improve the project.
+title: "[BUG] <Write a small description here>"
+labels: ["bug, goal:fix"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A brief description of the issue or bug you are facing, including what you tried and what didn't work.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Please add screenshots if applicable
+    validations:
+      required: false
+  - type: textarea
+    id: extrainfo
+    attributes:
+      label: Any additional information?
+      description: Any additional information or is there anything we should know about this bug?
+    validations:
+      required: false
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browser are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+  - type: checkboxes
+    id: no-duplicate-issues
+    attributes:
+      label: Checklist
+      description: "By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CODE_OF_CONDUCT.md)."
+      options:
+        - label: "I have checked for duplicate [issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues)"
+          required: true
+        - label: "I have read the [Contribution Guidelines](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md)"
+          required: true
+        - label: "I am willing to work on this issue (optional)"
+          required: false

@@ -1,5 +1,7 @@
 # This file documents weekly video updates and thank you messages to contributors who have participated in the development of Before I Die Code.
 
+### Week 5 Contributions - September 20, 2023
+[![YouTube Video](https://img.youtube.com/vi/0e--d2Hub2s/maxresdefault.jpg)](https://www.youtube.com/watch?v=0e--d2Hub2s_channel=XanderClemens)
 ### Week 4 Contributions - September 12, 2023
 
 [![YouTube Video](https://img.youtube.com/vi/6JWHFjLkDIk/maxresdefault.jpg)](https://www.youtube.com/watch?v=6JWHFjLkDIk&ab_channel=XanderClemens)
