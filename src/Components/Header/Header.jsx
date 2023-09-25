@@ -44,7 +44,7 @@ const Header = () => {
           </div>
           <a
             class="button"
-            href="https://github.com/BeforeIDieCode/"
+            href="https://github.com/BeforeIDieCode/BeforeIDieAchievements"
             target="/black"
           >
             GitHub Repo
@@ -58,7 +58,7 @@ const Header = () => {
               <div class="untitled__slideBg"></div>
               <div class="untitled__slideContent">
                 <span>
-                  plant seeds🌱<br></br>of inspiration{" "}
+                  Plant seeds🌱<br></br>of inspiration{" "}
                 </span>
               </div>
             </div>
@@ -66,7 +66,7 @@ const Header = () => {
               <div class="untitled__slideBg"></div>
               <div class="untitled__slideContent">
                 <span>
-                  to codify 💻<br></br> your purpose{" "}
+                  To codify 💻<br></br> your purpose{" "}
                 </span>
               </div>
             </div>
@@ -74,7 +74,7 @@ const Header = () => {
               <div class="untitled__slideBg"></div>
               <div class="untitled__slideContent">
                 <span>
-                  to compile your<br></br> bucket 🪣<br></br> list
+                  To compile your<br></br> bucket 🪣 list
                 </span>
               </div>
             </div>
@@ -82,14 +82,7 @@ const Header = () => {
             <div class="untitled__slide">
               <div class="untitled__slideBg"></div>
               <div class="untitled__slideContent">
-                <span>to learn how to contribute 📚</span>
-              </div>
-            </div>
-            <div class="untitled__slide">
-              <div class="untitled__slideBg"></div>
-              <div class="untitled__slideContent">
-                <span>
-                  to learn <br></br>new skills🎯
+                <span>To learn how to contribute 📚
                 </span>
               </div>
             </div>
@@ -97,7 +90,15 @@ const Header = () => {
               <div class="untitled__slideBg"></div>
               <div class="untitled__slideContent">
                 <span>
-                  to advance <br></br>your career💼
+                  To learn <br></br>new skills 🎯
+                </span>
+              </div>
+            </div>
+            <div class="untitled__slide">
+              <div class="untitled__slideBg"></div>
+              <div class="untitled__slideContent">
+                <span>
+                  To advance <br></br>your career 💼
                 </span>
               </div>
             </div>

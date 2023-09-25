@@ -2,7 +2,7 @@ $t: 2s;
 $e1: cubic-bezier(0.8, 0, 0.1, 1);
 $e2: cubic-bezier(0.6, 0.04, 0.98, 0.335);
 $er: linear;
-$color: hsl(15, 75%, 40%);
+$color: hsl(198, 96%, 49%);
 $slides: 7;
 $images: url("../../../public/img/dummy_image/1.jpg")
   url("../../../public/img/dummy_image/2.jpg")
@@ -10,7 +10,7 @@ $images: url("../../../public/img/dummy_image/1.jpg")
   url("../../../public/img/dummy_image/4.jpg")
   url("../../../public/img/dummy_image/6.jpg")
   url("../../../public/img/dummy_image/7.jpg")
-  url("../../../public/img/dummy_image/9.jpg");
+  url("../../../public/img/dummy_image/5.jpg");
 
 header {
   background-color: #09090a;
@@ -163,12 +163,12 @@ header {
     top: 50%;
     left: 50%;
     transform: translate3d(-50%, -50%, 0);
-    color: white;
+    color: rgb(248, 252, 252);
     line-height: 1;
     letter-spacing: -0.025em;
     z-index: 2;
     opacity: 1;
-    text-shadow: 0 0 0.5em rgba($color, 0.25);
+    text-shadow: #FEEA3A 5px 10px 10px;
     span {
       display: block;
       font-size: 12vmin;
