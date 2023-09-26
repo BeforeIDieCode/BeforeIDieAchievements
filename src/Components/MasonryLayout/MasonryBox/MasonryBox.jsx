@@ -26,16 +26,6 @@ const MasonryBox = ({
     setIsUserTextVisible(!isUserTextVisible);
   };
 
-  const showCard = () => {
-    setIsEnlarged(true);
-    setIsUserTextVisible(true);
-  }
-
-  const hideCard = () => {
-    setIsEnlarged(false);
-    setIsUserTextVisible(false);
-  }
-
   useEffect(() => {
     setRandomColor(() => {
       const minBrightness = 80;
@@ -72,9 +62,9 @@ const MasonryBox = ({
 
   return (
     <div className={styles["masonry-card"]}>
-      <img src={wallSrc} style={{ width: "100%" }} alt="" onClick={showCard} />
+      <img src={wallSrc} style={{ width: "100%" }} alt="" onClick={toggleEnlarged} />
       {isEnlarged &&
-        <Modal onClose={hideCard}>
+        <Modal onClose={toggleEnlarged}>
           <div className={styles.enlargedCardContainer}>
             <img src={wallSrc} alt="" className={styles.enlargedCardImage} />
             <div className={styles.enlargedCardText} style={userText.length <= 50 ? { width: "100%" } : null}>
