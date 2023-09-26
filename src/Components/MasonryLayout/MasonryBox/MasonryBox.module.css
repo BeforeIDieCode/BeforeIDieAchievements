@@ -18,28 +18,20 @@
   border: 7px solid #004aad;
 }
 
-.enlargedCardBackdrop {
+.enlargedCardContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: fixed;
+  margin: auto;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.8);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 999;
-  padding: 0 30px;
-  height: 100%;
-}
-
-.enlargedCardContainer {
-  display: flex;
   background: url(https://raw.github.com/mmoustafa/Chalkboard/master/img/bg.png);
-  max-height: 500px;
-  max-width: 1000px;
-  width: 100%;
-  height: 100%;
+  max-height: 510px;
+  max-width: 1100px;
   border-radius: 10px;
 }
 
@@ -55,11 +47,9 @@
   overflow-y: scroll;
   color: azure;
   font-size: 18px;
-  font-family: "Fira Code", monospace;
   height: 100%;
   padding: 20px;
   max-width: 50%;
-  /* width: 100%; */
   scrollbar-width: thin;
   scrollbar-color: #888 #2f2e2e;
   display: flex;
@@ -74,6 +64,10 @@
   margin: 10px;
 }
 
+.enlargedCardMap p {
+  font-size: 15px;
+}
+
 .enlargedCardText::-webkit-scrollbar {
   width: 5px;
 }
@@ -86,7 +80,7 @@
   background-color: #555;
 }
 
-.enlargedCardText p {
+.enlargedCardText p:not(.enlargedCardMap){
   line-height: normal;
   max-height: 70%;
   font-family: "Chalk_3", sans-serif;

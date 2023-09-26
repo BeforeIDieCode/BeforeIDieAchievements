@@ -4,9 +4,8 @@ import { PropTypes } from "prop-types";
 import i18next from "i18next";
 import { useTranslation } from "react-i18next";
 import languages from "../../../translation/languages.json";
-import contributors from "../../../Jsons/Contributors.json";
 import LocationMap from "../../LocationMap/LocationMap";
-import { Hierarchy } from "iconsax-react";
+import Modal from "../../../UI/Modal";
 
 const MasonryBox = ({
   wallSrc,
@@ -26,6 +25,16 @@ const MasonryBox = ({
     setIsEnlarged(!isEnlarged);
     setIsUserTextVisible(!isUserTextVisible);
   };
+
+  const showCard = () => {
+    setIsEnlarged(true);
+    setIsUserTextVisible(true);
+  }
+
+  const hideCard = () => {
+    setIsEnlarged(false);
+    setIsUserTextVisible(false);
+  }
 
   useEffect(() => {
     setRandomColor(() => {
@@ -63,11 +72,11 @@ const MasonryBox = ({
 
   return (
     <div className={styles["masonry-card"]}>
-      <img src={wallSrc} style={{ width: "100%" }} alt="" onClick={toggleEnlarged} />
-      {isEnlarged && (
-        <div className={styles.enlargedCardBackdrop}>
+      <img src={wallSrc} style={{ width: "100%" }} alt="" onClick={showCard} />
+      {isEnlarged &&
+        <Modal onClose={hideCard}>
           <div className={styles.enlargedCardContainer}>
-            <img src={wallSrc} alt="" className={styles.enlargedCardImage} onClick={toggleEnlarged} />
+            <img src={wallSrc} alt="" className={styles.enlargedCardImage} />
             <div className={styles.enlargedCardText} style={userText.length <= 50 ? { width: "100%" } : null}>
               <h3>{BIDText}</h3>
               <div style={{ position: "relative" }}>
@@ -96,8 +105,8 @@ const MasonryBox = ({
               </div>
             </div>
           </div>
-        </div>
-      )}
+        </Modal>
+      }
       {isUserTextVisible && (
         <div className={`${styles["masonry-card-description"]} flex`}>
           <div className={`${styles["masonry-card-user-box"]} flex align-items-center`}>

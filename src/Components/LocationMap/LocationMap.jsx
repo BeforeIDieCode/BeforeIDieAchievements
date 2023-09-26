@@ -38,6 +38,15 @@ const LocationMap = ({ userLocation }) => {
         getPosition();
     }, [userLocation]);
 
+    const mapOptions = {
+        zoomControl: true,
+        mapTypeControl: false,
+        minZoom: 2,
+        maxZoom: 15,
+        fullscreenControl: false,
+        streetViewControl: false
+    };
+
     return geoCodingStatus ?
         isLoaded && (userPosition.lat !== 0 || userPosition.lng !== 0) ?
             (<GoogleMap
@@ -45,6 +54,7 @@ const LocationMap = ({ userLocation }) => {
                 zoom={5}
                 center={userPosition}
                 mapTypeId='roadmap'
+                options={mapOptions}
             >
                 <Marker position={userPosition} />
             </GoogleMap >) :
