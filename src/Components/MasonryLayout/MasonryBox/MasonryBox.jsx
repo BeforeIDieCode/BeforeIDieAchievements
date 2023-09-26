@@ -4,31 +4,26 @@ import { PropTypes } from "prop-types";
 import i18next from "i18next";
 import { useTranslation } from "react-i18next";
 import languages from "../../../translation/languages.json";
-
+import LocationMap from "../../LocationMap/LocationMap";
+import Modal from "../../../UI/Modal";
 
 const MasonryBox = ({
   wallSrc,
   userProf,
   userName,
-  userJob,
+  userLocation,
   githubUrl,
   userText,
   ipObj
 }) => {
-
   const [randomColor, setRandomColor] = useState();
   const [isEnlarged, setIsEnlarged] = useState(false);
   const [isUserTextVisible, setIsUserTextVisible] = useState(true);
-  const [isTextVisible, setIsTextVisible] = useState(false);
   const { t } = useTranslation();
 
   const toggleEnlarged = () => {
     setIsEnlarged(!isEnlarged);
     setIsUserTextVisible(!isUserTextVisible);
-  };
-
-  const toggleText = () => {
-    setIsTextVisible(!isTextVisible);
   };
 
   useEffect(() => {
@@ -50,10 +45,10 @@ const MasonryBox = ({
     });
   }, [isEnlarged]);
 
-  const presetText = (
+  const BIDText = (
     <span className={styles.boldText}>
       {languages[ipObj.ipInfo?.country_code] === "ar" ?
-        <div> ...{t("BEFORE-I-DIE")}  </div> :
+        <div className={styles["bid-text"]}> ...{t("BEFORE-I-DIE")}  </div> :
         <div> {t("BEFORE-I-DIE")}... </div>
       }
       <br />
@@ -68,27 +63,21 @@ const MasonryBox = ({
   return (
     <div className={styles["masonry-card"]}>
       <img src={wallSrc} style={{ width: "100%" }} alt="" onClick={toggleEnlarged} />
-      {isEnlarged && (
-        <div className={styles.enlargedPhoto} onClick={toggleEnlarged}>
-          <div className={styles.enlargedPhotoContainer}>
-            <img src={wallSrc} alt="" className={styles.enlargedPhotoImage} />
-            <div
-              className={styles.enlargedPhotoText}
-              onClick={toggleText}
-              // Adds 100% width if users text is 50 or less characters.
-              style={userText.length <= 100 ? { width: "100%" } : null}
-            >
-              <h3>{presetText}</h3>
+      {isEnlarged &&
+        <Modal onClose={toggleEnlarged}>
+          <div className={styles.enlargedCardContainer}>
+            <img src={wallSrc} alt="" className={styles.enlargedCardImage} />
+            <div className={styles.enlargedCardText} style={userText.length <= 50 ? { width: "100%" } : null}>
+              <h3>{BIDText}</h3>
               <div style={{ position: "relative" }}>
                 <p style={{ color: randomColor }}>{userText}</p>
               </div>
               <div style={{
                 display: "flex",
                 flexDirection: "row",
-                marginTop: "10px",
-                justifyContent: "center",
+                margin: "10px",
+                justifyContent: "space-evenly",
                 alignItems: "center",
-                padding: "10px",
                 gap: "15px"
               }}>
                 <div className={styles["masonry-card-user-prof"]}>
@@ -98,18 +87,16 @@ const MasonryBox = ({
                 </div>
                 <div className={`${styles["masonry-card-user-prof-desc"]} flex flex-column`}>
                   <h1>{userName}</h1>
-                  <h3>{userJob}</h3>
+                  <h3>{userLocation}</h3>
                 </div>
+              </div>
+              <div className={styles["enlargedCardMap"]}>
+                <LocationMap userLocation={userLocation} />
               </div>
             </div>
           </div>
-          {isTextVisible && (
-            <div className={styles.enlargedPhotoTextBox}>
-              <p>{presetText} {userText}</p>
-            </div>
-          )}
-        </div>
-      )}
+        </Modal>
+      }
       {isUserTextVisible && (
         <div className={`${styles["masonry-card-description"]} flex`}>
           <div className={`${styles["masonry-card-user-box"]} flex align-items-center`}>
@@ -120,20 +107,20 @@ const MasonryBox = ({
             </div>
             <div className={`${styles["masonry-card-user-prof-desc"]} flex flex-column`}>
               <h1>{userName}</h1>
-              <h3>{userJob}</h3>
+              <h3>{userLocation}</h3>
             </div>
           </div>
         </div>
       )}
-    </div>
-  );
+    </div >
+  )
 };
 
 MasonryBox.propTypes = {
   wallSrc: PropTypes.string.isRequired,
   userProf: PropTypes.string.isRequired,
   userName: PropTypes.string.isRequired,
-  userJob: PropTypes.string.isRequired,
+  userLocation: PropTypes.string.isRequired,
   githubUrl: PropTypes.string,
   userText: PropTypes.string,
 };
