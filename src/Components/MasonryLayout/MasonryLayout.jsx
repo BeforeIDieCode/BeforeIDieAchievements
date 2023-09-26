@@ -34,7 +34,7 @@ const MasonryLayout = ({ users }) => {
           wallSrc={item.image}
           userProf={item.avatar}
           userName={item.name}
-          userJob={item.location}
+          userLocation={item.location}
           githubUrl={item.GitHub}
           userText={item.text}
           ipObj={ipObj}
