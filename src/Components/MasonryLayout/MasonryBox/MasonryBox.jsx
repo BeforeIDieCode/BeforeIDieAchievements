@@ -76,7 +76,7 @@ const MasonryBox = ({
               className={styles.enlargedPhotoText}
               onClick={toggleText}
               // Adds 100% width if users text is 50 or less characters.
-              style={userText.length <= 50 ? { width: "100%" } : null}
+              style={userText.length <= 100 ? { width: "100%" } : null}
             >
               <h3>{presetText}</h3>
               <div style={{ position: "relative" }}>

@@ -10,6 +10,7 @@ import ContainerCard from '../ContainerCard/ContainerCard';
 import Nav from "../Nav/Nav"
 import BrickLayout from "../BrickLayout/BrickLayout";
 import { Typewriter } from 'react-simple-typewriter'
+import RandomContributors from "../randomcontributor/RandomContributors";
 
 
 // Header component
@@ -43,7 +44,7 @@ const Header = () => {
             </span>
           </div>
           <a
-            class="button"
+            className="button"
             href="https://github.com/BeforeIDieCode/BeforeIDieAchievements"
             target="/black"
           >
@@ -53,64 +54,65 @@ const Header = () => {
       </div>
       <div className={"animation__container flex justify-content-center"}>
         <div className={"untitled"}>
-          <div class="untitled__slides">
-            <div class="untitled__slide">
-              <div class="untitled__slideBg"></div>
-              <div class="untitled__slideContent">
+          <div className="untitled__slides">
+            <div className="untitled__slide">
+              <div className="untitled__slideBg"></div>
+              <div className="untitled__slideContent">
                 <span>
                   Plant seeds🌱<br></br>of inspiration{" "}
                 </span>
               </div>
             </div>
-            <div class="untitled__slide">
-              <div class="untitled__slideBg"></div>
-              <div class="untitled__slideContent">
+            <div className="untitled__slide">
+              <div className="untitled__slideBg"></div>
+              <div className="untitled__slideContent">
                 <span>
                   To codify 💻<br></br> your purpose{" "}
                 </span>
               </div>
             </div>
-            <div class="untitled__slide">
-              <div class="untitled__slideBg"></div>
-              <div class="untitled__slideContent">
+            <div className="untitled__slide">
+              <div className="untitled__slideBg"></div>
+              <div className="untitled__slideContent">
                 <span>
                   To compile your<br></br> bucket 🪣 list
                 </span>
               </div>
             </div>
 
-            <div class="untitled__slide">
-              <div class="untitled__slideBg"></div>
-              <div class="untitled__slideContent">
+            <div className="untitled__slide">
+              <div className="untitled__slideBg"></div>
+              <div className="untitled__slideContent">
                 <span>To learn how to contribute 📚
                 </span>
               </div>
             </div>
-            <div class="untitled__slide">
-              <div class="untitled__slideBg"></div>
-              <div class="untitled__slideContent">
+            <div className="untitled__slide">
+              <div className="untitled__slideBg"></div>
+              <div className="untitled__slideContent">
                 <span>
                   To learn <br></br>new skills 🎯
                 </span>
               </div>
             </div>
-            <div class="untitled__slide">
-              <div class="untitled__slideBg"></div>
-              <div class="untitled__slideContent">
+            <div className="untitled__slide">
+              <div className="untitled__slideBg"></div>
+              <div className="untitled__slideContent">
                 <span>
                   To advance <br></br>your career 💼
                 </span>
               </div>
             </div>
-            <div class="untitled__slide">
-              <div class="untitled__slideBg"></div>
-              <div class="untitled__slideContent"></div>
+            <div className="untitled__slide">
+              <div className="untitled__slideBg"></div>
+              <div className="untitled__slideContent"></div>
             </div>
           </div>
-          <div class="untitled__shutters"></div>
+          <div className="untitled__shutters"></div>
         </div>
       </div>
     </header>
+
   );
 };
 

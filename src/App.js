@@ -9,7 +9,7 @@ import RandomContributors from "./Components/randomcontributor/RandomContributor
 const App = () => {
   return (
     <React.Fragment>
-   
+      <RandomContributors />
       <Header />
       <div
         className="flex justify-content-center"
