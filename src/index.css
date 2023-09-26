@@ -1,41 +1,44 @@
 @import "./css-reset.css";
 
 :root {
-    --white-100: #FFFFFF;
-    --dark-900: #09090A;
-    --dark-600: #808090;
-    --green-400: #0033ff;
-    --green-white-100: #C3EFC0;
+  --white-100: #ffffff;
+  --dark-900: #09090a;
+  --dark-600: #808090;
+  --green-400: #0033ff;
+  --green-white-100: #c3efc0;
 }
 
 @font-face {
+  font-family: "Chalk_3";
+  src: local("Chalk_3"), url("./fonts/Chalk/Chalk-3.ttf") format("truetype");
+}
+@font-face {
 
-    font-family: "Chalk_3";
-    src: local("Chalk_3"),
-     url("./fonts/Chalk/Chalk-3.ttf") format("truetype");
+    font-family: "Mefika";
+    src: local("Mefika"),
+     url("./fonts/Mefika/Mefikademo.ttf") format("truetype");
 
 }
 body {
-    background: var(--dark-900);
+  background: var(--dark-900);
 }
 
 /* my own classes */
 .flex {
-    display: flex;
+  display: flex;
 }
 .flex-column {
-    flex-direction: column;
+  flex-direction: column;
 }
 .flex-row {
-    flex-direction: row;
+  flex-direction: row;
 }
 .justify-content-center {
-    justify-content: center;
+  justify-content: center;
 }
 .align-items-center {
-    align-items: center;
+  align-items: center;
 }
 .justify-content-between {
-    justify-content: space-between;
+  justify-content: space-between;
 }
-
