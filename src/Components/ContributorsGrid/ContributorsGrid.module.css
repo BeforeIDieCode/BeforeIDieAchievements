@@ -1,0 +1,38 @@
+.contributor-title{
+  text-align: center;
+  margin: 20px 0px 10px 0px;
+  font-size: 500%;
+  font-family: "Mefika", sans-serif;
+}
+
+.contributor-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 30px;
+  margin: 0px 10px 10px 10px;
+}
+
+.contributor-card {
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  transition: transform 0.3s ease;
+}
+
+.contributor-card:hover{
+  transform: scale(1.1); 
+  
+}
+
+.contributor-card img {
+  min-height: 190px;
+  min-width: 190px;
+  max-width: 190px;
+  max-height: 190px;
+}
+
+.contributor-card p {
+  margin-top: 10px;
+  color: wheat;
+  font-family: "Roboto", sans-serif;
+}
