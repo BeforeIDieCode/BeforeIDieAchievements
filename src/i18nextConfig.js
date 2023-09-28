@@ -172,7 +172,30 @@ i18n
       },
       ar: {
         translation: require("./locales/ar/translation.json"),
-      }
+      },
+      az: {
+        translation: require("./locales/az/translation.json"),
+      },
+      fa: {
+        translation: require("./locales/fa/translation.json"),
+      },
+      he: {
+        translation: require("./locales/he/translation.json"),
+      },
+      hy: {
+        translation: require("./locales/hy/translation.json"),
+      },
+      ka: {
+        translation: require("./locales/ka/translation.json"),
+      },
+      ps: {
+        translation: require("./locales/ps/translation.json"),
+      },
+      ur: {
+        translation: require("./locales/ur/translation.json"),
+      },
+
+
     },
     lng: "en", // Set the default language
     fallbackLng: "en", // Fallback language if a translation is missing
