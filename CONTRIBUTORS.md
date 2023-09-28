@@ -367,5 +367,17 @@
   </a>
 </td>
 <!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/VoidyCodes">
+    <img
+      src="https://avatars.githubusercontent.com/u/99238677?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Meet Thakur</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
 </tr>
 </table>
