@@ -331,5 +331,14 @@
     "location": "Brooklyn, New York, USA 🇺🇸",
     "GitHub": "https://github.com/sherikovic",
     "text": "I want to get a van and travel across the states."
+  },
+  {
+    "id": "Meet Thakur",
+    "image": "img/bid_image/Meet_Thakur.jpg",
+    "avatar": "img/avatar/Meet_Thakur.jpg",
+    "name": "Meet Thakur",
+    "location": "Greater Noida, India 🇮🇳",
+    "GitHub": "https://github.com/VoidyCodes",
+    "text": "Give my parents the things they deserve"
   }
 ]
