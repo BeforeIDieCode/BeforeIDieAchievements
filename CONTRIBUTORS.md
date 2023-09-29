@@ -414,5 +414,17 @@
   </a>
 </td>
 <!-- End of column-6 -->
+<!-- Start of column-7 -->
+<td align="center">
+  <a href="https://github.com/WilbertXMD">
+    <img
+      src="https://avatars.githubusercontent.com/u/126113464?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Wilbert Machuca</sub>
+  </a>
+</td>
+<!-- End of column-7 -->
 </tr>
 </table>
