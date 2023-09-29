@@ -1,12 +1,12 @@
 .card-container {
-  position: absolute;
+  position: relative;
   display: flex;
   flex-direction: column;
-  top: 0;
+  bottom: 0;
   right: 0;
   background-color: #006dff;
   z-index: 9999;
-  margin: 200px 40px 0 0;
+  margin: 1rem;
   border-radius: 16px;
   padding: 1rem;
   transition: 0.5s;
@@ -56,8 +56,14 @@
   transition: 0.5s;
 }
 
-@media screen and (max-width: 1200px) {
-  .card-container {
-    display: none;
-  }
+.hide {
+  position: absolute;
+  background-color: yellow;
+  right: 0;
+  margin: -1rem 2rem 0 0;
+  padding: 10px;
+}
+
+.hide:hover {
+  cursor: pointer;
 }
