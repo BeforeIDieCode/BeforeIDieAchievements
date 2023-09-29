@@ -414,7 +414,21 @@
   </a>
 </td>
 <!-- End of column-6 -->
-<!-- Start of column-7 -->
+<!-- Start of column 7-->
+<td align="center">
+  <a href="https://github.com/zigelnik">
+    <img
+      src="https://avatars.githubusercontent.com/u/113368830?s=400&u=10920261d50151059227516f18c2247975d4fa2f&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tal Zigelnik</sub>
+  </a>
+</td>
+<!-- End of column 7-->
+</tr>
+  <tr>
+<!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/WilbertXMD">
     <img
@@ -425,6 +439,6 @@
     <sub>Wilbert Machuca</sub>
   </a>
 </td>
-<!-- End of column-7 -->
-</tr>
+<!-- End of column-1 -->
+<tr/>
 </table>
