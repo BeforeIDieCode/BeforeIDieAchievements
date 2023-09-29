@@ -340,5 +340,14 @@
     "location": "Greater Noida, India 🇮🇳",
     "GitHub": "https://github.com/VoidyCodes",
     "text": "Give my parents the things they deserve."
+  },
+  {
+    "id": "Tal Zigelnik",
+    "image": "img/bid_image/YOUR_NAME.jpg",
+    "avatar": "img/avatar/YOUR_NAME.jpg",
+    "name": "Tal Zigelnik",
+    "location": "Yehud, Israel 🇮🇱",
+    "GitHub": "https://github.com/zigelnik",
+    "text": "Scuba diving with a whale shark"
   }
 ]
