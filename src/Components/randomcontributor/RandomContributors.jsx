@@ -15,12 +15,12 @@ const RandomContributors = () => {
   };
 
   const handleIsShown = () => {
-    if (isShown) { // If currently shown and we're hiding it
+    if (isShown) { 
       const newIndex = pickRandomContributor();
       setIsShown(false);
-      setTimeout(() => setCurrentIndex(newIndex), 750); // Pick new contributor after 0.5 seconds
+      setTimeout(() => setCurrentIndex(newIndex), 750); // Pick new contributor after 0.75 seconds
     } else {
-      setIsShown(true); // Simply show the new contributor
+      setIsShown(true); 
     }
   };
 
