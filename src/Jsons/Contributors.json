@@ -349,5 +349,23 @@
     "location": "Nicosia, Cyprus 🇨🇾",
     "GitHub": "https://github.com/bellsofaba",
     "text": "Inspire and provide free tech related education to knowledge-starved individuals globally."
-}
+  },
+  {
+    "id": "Wilbert Machuca",
+    "image": "img/bid_image/Wilbert_Machuca.jpg",
+    "avatar": "img/avatar/Wilbert_Machuca.jpg",
+    "name": "Wilbert Machuca",
+    "location": "Orlando, Florida, USA 🇺🇸",
+    "GitHub": "https://github.com/WilbertXMD",
+    "text": "I want to move back to Puerto Rico and have a little farm that produces Coffee and has a Shop Before I die."
+  },
+  {
+    "id": "Tal Zigelnik",
+    "image": "img/bid_image/Tal_Zigelnik.jpg",
+    "avatar": "img/avatar/Tal_Zigelnik.jpeg",
+    "name": "Tal Zigelnik",
+    "location": "Yehud, Israel 🇮🇱",
+    "GitHub": "https://github.com/zigelnik",
+    "text": "Scuba diving with a whale shark."
+  }
 ]
