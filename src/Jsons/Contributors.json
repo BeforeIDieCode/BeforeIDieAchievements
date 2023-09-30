@@ -340,5 +340,14 @@
     "location": "Greater Noida, India 🇮🇳",
     "GitHub": "https://github.com/VoidyCodes",
     "text": "Give my parents the things they deserve."
-  }
+  },
+  {
+    "id": "Jack Aba",
+    "image": "img/bid_image/Jack_Aba_Unsplash.jpg",
+    "avatar": "img/avatar/Jack_Aba.jpg",
+    "name": "Jack Aba",
+    "location": "Nicosia, Cyprus 🇨🇾",
+    "GitHub": "https://github.com/bellsofaba",
+    "text": "Inspire and provide free tech related education to knowledge-starved individuals globally"
+}
 ]
