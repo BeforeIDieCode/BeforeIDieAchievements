@@ -1,29 +1,31 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import contributorsData from "../../Jsons/Contributors.json";
 import styles from "./RandomContributor.module.css";
+
 const RandomContributors = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isShown, setIsShown] = useState(false);
 
-  const handleIsShown = () => {
-    setIsShown((prev) => !prev);
+  const pickRandomContributor = () => {
+    let randomIndex;
+    do {
+      randomIndex = Math.floor(Math.random() * contributorsData.length);
+    } while (randomIndex === currentIndex);
+    return randomIndex;
   };
 
-  useEffect(() => {
-    const randomIndex = Math.floor(Math.random() * contributorsData.length);
-    setCurrentIndex(randomIndex);
-
-    const interval = setInterval(() => {
-      setCurrentIndex((prevIndex) => (prevIndex + 1) % contributorsData.length);
-    }, 30000);
-
-    return () => {
-      clearInterval(interval);
-    };
-  }, []);
+  const handleIsShown = () => {
+    if (isShown) { 
+      const newIndex = pickRandomContributor();
+      setIsShown(false);
+      setTimeout(() => setCurrentIndex(newIndex), 750); // Pick new contributor after 0.75 seconds
+    } else {
+      setIsShown(true); 
+    }
+  };
 
   const currentUser = contributorsData[currentIndex];
-  // console.log(currentUser);
+
   return (
     <>
       <div
