@@ -45,10 +45,11 @@ const MasonryBox = ({
     });
   }, [isEnlarged]);
 
+  const RTL_LANGUAGES = ["ar", "he", "az", "dv", "ku", "fa", "ur"];
   const BIDText = (
     <span className={styles.boldText}>
-      {languages[ipObj.ipInfo?.country_code] === "ar" ?
-        <div className={styles["bid-text"]}> ...{t("BEFORE-I-DIE")}  </div> :
+      {RTL_LANGUAGES.includes(languages[ipObj.ipInfo?.country_code]) ?
+        <div className={styles["bid-text"]}> ...{t("BEFORE-I-DIE")} </div> :
         <div> {t("BEFORE-I-DIE")}... </div>
       }
       <br />
