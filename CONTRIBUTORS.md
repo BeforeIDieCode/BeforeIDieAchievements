@@ -452,5 +452,16 @@
   </a>
 </td>
 <!-- End of column-2 -->
-<tr/>
+<td align="center">
+  <a href="https://github.com/AbbasZaidi11">
+    <img
+      src="https://avatars.githubusercontent.com/u/105381187?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Abbas Zaidi</sub>
+  </a>
+</td>
+</tr>
+
 </table>
