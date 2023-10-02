@@ -465,6 +465,7 @@
 </td>
 <!-- End of column-3 -->
 <!-- Start of column-4 -->
+<td align="center">
   <a href="https://github.com/Adi-2505">
     <img
       src="https://avatars.githubusercontent.com/u/89784775?s=400&u=d9d3dcbc58bb9c337f5a967902115063a1b7783d&v=4"
@@ -498,6 +499,6 @@
     <sub>Koleaje Olayinka</sub>
   </a>
 </td>
-<!-- End of column-5 -->
+<!-- End of column-6 -->
 </tr>
 </table>
