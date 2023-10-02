@@ -342,6 +342,15 @@
     "text": "Give my parents the things they deserve."
   },
   {
+    "id": "Jack Aba",
+    "image": "img/bid_image/Jack_Aba_Unsplash.jpg",
+    "avatar": "img/avatar/Jack_Aba.jpg",
+    "name": "Jack Aba",
+    "location": "Nicosia, Cyprus 🇨🇾",
+    "GitHub": "https://github.com/bellsofaba",
+    "text": "Inspire and provide free tech related education to knowledge-starved individuals globally."
+  },
+  {
     "id": "Wilbert Machuca",
     "image": "img/bid_image/Wilbert_Machuca.jpg",
     "avatar": "img/avatar/Wilbert_Machuca.jpg",
@@ -358,5 +367,14 @@
     "location": "Yehud, Israel 🇮🇱",
     "GitHub": "https://github.com/zigelnik",
     "text": "Scuba diving with a whale shark."
+  },
+  {
+    "id": "Abbas Raza Zaidi",
+    "image": "img/bid_image/Abbas_Zaidi.jpg",
+    "avatar": "img/avatar/Abbas_Zaidi.jpeg",
+    "name": "Abbas Zaidi",
+    "location": "Lucknow, India 🇮🇳",
+    "GitHub": "https://github.com/AbbasZaidi11",
+    "text": "I want to visit New York."
   }
 ]
