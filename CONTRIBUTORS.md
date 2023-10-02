@@ -463,8 +463,20 @@
     <sub>Abbas Zaidi</sub>
   </a>
 </td>
-<!-- End of column 3 -->
+<!-- End of column-3 -->
 <!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/Adi-2505">
+    <img
+      src="https://avatars.githubusercontent.com/u/89784775?s=400&u=d9d3dcbc58bb9c337f5a967902115063a1b7783d&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Aditya Nagalwade</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
+<!-- Start of column-5 -->
 <td align="center">
   <a href="https://github.com/MuhammadTatma">
     <img
@@ -475,7 +487,6 @@
     <sub>Muhammad Tatma</sub>
   </a>
 </td>
-<!-- End of column 4 -->
+<!-- End of column-5 -->
 </tr>
-
 </table>
