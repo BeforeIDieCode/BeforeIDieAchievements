@@ -382,8 +382,17 @@
     "image": "img/bid_image/Muhammad_Tatma.jpg",
     "avatar": "img/avatar/Muhammad_Tatma.jpg",
     "name": "Muhammad Tatma",
-    "location": "Yogyakarta, Indonesia 🇮🇩 ",
+    "location": "Yogyakarta, Indonesia 🇮🇩",
     "GitHub": "https://github.com/MuhammadTatma",
     "text": "Before I die, I want to have a house in the countryside that has beautiful views and is far from the hustle and bustle of the city."
+  },
+  {
+    "id": "Aditya Nagalwade",
+    "image": "img/bid_image/Aditya_Nagalwade.jpg",
+    "avatar": "img/avatar/Aditya_Nagalwade.jpeg",
+    "name": "Aditya Nagalwade",
+    "location": "Nagpur, India 🇮🇳",
+    "GitHub": "https://github.com/Adi-2505",
+    "text": "I want to travel the whole world on a big ship before I die."
   }
 ]
