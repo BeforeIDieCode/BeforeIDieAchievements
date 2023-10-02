@@ -476,5 +476,17 @@
   </a>
 </td>
 <!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/MuhammadTatma">
+    <img
+      src="https://avatars.githubusercontent.com/u/90306866?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Muhammad Tatma</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
 </tr>
 </table>
