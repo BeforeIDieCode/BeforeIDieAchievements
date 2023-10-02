@@ -81,15 +81,6 @@
     "text": "I want to hike to the top of Yushan before I die."
   },
   {
-    "id": "Artis Lotko",
-    "image": "img/bid_image/Artis_Lotko.jpg",
-    "avatar": "img/avatar/Artis_Lotko.jpg",
-    "name": "Artis Lotko",
-    "location": "Riga, Latvia 🇱🇻",
-    "GitHub": "https://github.com/69966969",
-    "text": "To emigrate to New Zealand."
-  },
-  {
     "id": "George Halterman",
     "image": "img/bid_image/George_Halterman.jpg",
     "avatar": "img/avatar/George_Halterman.jpg",
@@ -160,6 +151,15 @@
     "location": "Puebla, Mexico 🇲🇽",
     "GitHub": "https://github.com/luc881",
     "text": "I want to visit as many countries as possible before I die."
+  },
+  {
+    "id": "Artis Lotko",
+    "image": "img/bid_image/Artis_Lotko.jpg",
+    "avatar": "img/avatar/Artis_Lotko.jpg",
+    "name": "Artis Lotko",
+    "location": "Riga, Latvia 🇱🇻",
+    "GitHub": "https://github.com/69966969",
+    "text": "To emigrate to New Zealand."
   },
   {
     "id": "Tyler Celestin",
