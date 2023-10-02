@@ -452,6 +452,7 @@
   </a>
 </td>
 <!-- End of column-2 -->
+<!-- Start of column-3 -->
 <td align="center">
   <a href="https://github.com/AbbasZaidi11">
     <img
@@ -462,6 +463,19 @@
     <sub>Abbas Zaidi</sub>
   </a>
 </td>
+<!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/koleajeolayinka">
+    <img
+      src="https://avatars.githubusercontent.com/u/100846558?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Koleaje Olayinka</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
 </tr>
 
 </table>
