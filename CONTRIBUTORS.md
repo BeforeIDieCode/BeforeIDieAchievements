@@ -452,6 +452,7 @@
   </a>
 </td>
 <!-- End of column-2 -->
+<!-- Start of column-3 -->
 <td align="center">
   <a href="https://github.com/AbbasZaidi11">
     <img
@@ -462,8 +463,8 @@
     <sub>Abbas Zaidi</sub>
   </a>
 </td>
-
-<!-- Start of column -->
+<!-- End of column-3 -->
+<!-- Start of column-4 -->
 <td align="center">
   <a href="https://github.com/Adi-2505">
     <img
@@ -474,8 +475,6 @@
     <sub>Aditya Nagalwade</sub>
   </a>
 </td>
-<!-- End of column -->
-
+<!-- End of column-4 -->
 </tr>
-
 </table>
