@@ -462,6 +462,20 @@
     <sub>Abbas Zaidi</sub>
   </a>
 </td>
+
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/Adi-2505">
+    <img
+      src="https://avatars.githubusercontent.com/u/89784775?s=400&u=d9d3dcbc58bb9c337f5a967902115063a1b7783d&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Aditya Nagalwade</sub>
+  </a>
+</td>
+<!-- End of column -->
+
 </tr>
 
 </table>
