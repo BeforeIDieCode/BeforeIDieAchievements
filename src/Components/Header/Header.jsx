@@ -50,6 +50,13 @@ const Header = () => {
           >
             GitHub Repo
           </a>
+          <a
+            className="button"
+            href="https://before-i-die-achievements.vercel.app/Contributors"
+            target="/black"
+          >
+            Contributors
+          </a>
         </div>
       </div>
       <div className={"animation__container flex justify-content-center"}>
