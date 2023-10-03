@@ -407,9 +407,9 @@
   {
     "id": "Samejima",
     "image": "img/bid_image/samejima.jpg",
-    "avatar": "img/avatar/samejima.jpg",
+    "avatar": "img/avatar/samejima.jpeg",
     "name": "Samejima",
-    "location": "Pennsylavania, USA 🇺🇸",
+    "location": "Philadelphia, Pennsylavania, USA 🇺🇸",
     "GitHub": "https://github.com/samejima-san",
     "text": "Improve my community through computer science."
 }
