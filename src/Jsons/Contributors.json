@@ -412,5 +412,14 @@
     "location": "Philadelphia, Pennsylavania, USA 🇺🇸",
     "GitHub": "https://github.com/samejima-san",
     "text": "Improve my community through computer science."
-}
+  },
+  {
+    "id": "Tom",
+    "image": "img/bid_image/Tom_Nijhof.jpg",
+    "avatar": "img/avatar/Tom_Nijhof.jpg",
+    "name": "Tom",
+    "location": "Eindhoven, Netherlands 🇳🇱",
+    "GitHub": "https://github.com/wagenrace",
+    "text": "Become the crazy old man with the best stories"
+  }
 ]
