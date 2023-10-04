@@ -9,6 +9,9 @@ import MasonryBox from "./MasonryBox/MasonryBox";
 
 import useIPInfo from "../../hooks/useIPInfo";
 
+// Import a function utils to shuffle an array
+import { shuffleArray } from "../../utils/shuffle";
+
 // MasonryLayout Component
 const MasonryLayout = ({ users }) => {
   const breakpointColumnsObj = {
@@ -20,7 +23,8 @@ const MasonryLayout = ({ users }) => {
   const ipObj = useIPInfo();
 
   // Shuffle the users array
-  const shuffledUsers = users.sort(() => Math.random() - 0.5);
+  let shuffledUsers = users
+  shuffleArray(shuffledUsers)
 
   return (
     <Masonry
