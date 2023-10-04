@@ -1,12 +1,17 @@
 import React, { useState, useEffect } from "react";
 import useSound from 'use-sound';
 import heartBeat from './heart-beat.wav';
+import typingSound from './typing-sound.wav';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCode } from '@fortawesome/free-solid-svg-icons';
 
 import styles from "./Footer.module.css";
 
 const Footer = () => {
   const [isMobile, setIsMobile] = useState(window.innerWidth < 640);
   const [playHeartBeat, { stop }] = useSound(heartBeat);
+  const [playTypingSound, { stopTyping}] = useSound(typingSound);
 
   useEffect(() => {
     function handleSize() {
@@ -22,7 +27,12 @@ const Footer = () => {
   return (
     <footer className={styles["footer"]}>
       <p className={styles["footer-message"]}>
-        Made with{" "}
+      <span
+      onMouseEnter={playTypingSound}
+      onMouseLeave={() => stopTyping()}
+      >
+        <FontAwesomeIcon icon={faCode} style={{color: "#feea3a"}} />
+      </span> with{" "}
         <span
           className={styles["emoji"]}
           role='img'
