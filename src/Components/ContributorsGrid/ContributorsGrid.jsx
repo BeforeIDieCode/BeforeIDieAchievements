@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './ContributorsGrid.module.css';
+import {shuffleArray} from '../../utils/shuffle'
 
 const getDifferentColors = () => {
   const r = Math.floor(Math.random() * 256);
@@ -10,7 +11,8 @@ const getDifferentColors = () => {
 
 const ContributorsGrid = ({ contributors }) => {
 
-  const randomContributors = contributors.sort(() => Math.random() - 0.5 )  
+  let randomContributors = contributors
+  shuffleArray(randomContributors)
   
   return (
     <div>
