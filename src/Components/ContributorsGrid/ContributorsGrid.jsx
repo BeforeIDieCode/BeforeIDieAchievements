@@ -10,7 +10,7 @@ const getDifferentColors = () => {
 
 const ContributorsGrid = ({ contributors }) => {
 
-  const randomContributors = contributors.sort(() => Math.random - 0.5 )  
+  const randomContributors = contributors.sort(() => Math.random() - 0.5 )  
   
   return (
     <div>
