@@ -4,6 +4,7 @@ Fisher-Yates is a fair and fast way to shuffle an array
 Fair because every element has an equal change to be on every position
 Fast because we only need one action per element, making is O(n)
 
+Shuffle algorithm added by contributor Tom Nijhof: https://github.com/wagenrace
 More details are here: https://medium.com/p/d5e6293c1f0c
 */
 
