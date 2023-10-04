@@ -9,11 +9,14 @@ const getDifferentColors = () => {
 };
 
 const ContributorsGrid = ({ contributors }) => {
+
+  const randomContributors = contributors.sort(() => Math.random() - 0.5 )  
+  
   return (
     <div>
     <h1 className={styles["contributor-title"]} style={{color:`${getDifferentColors()}`}}>Contributors</h1>
     <div className={styles["contributor-grid"]}>
-      {contributors.map(contributor => (
+      {randomContributors.map(contributor => (
         <a key={contributor.id} href={contributor.GitHub} target="_blank" className={styles["contributor-card"]} style={{ boxShadow: `inset 0 0 10px ${getDifferentColors()}, inset 0 0 20px ${getDifferentColors()}`} }>
           <div>
             <img src={contributor.avatar} alt={contributor.name} />
