@@ -133,12 +133,12 @@ a {
   position: fixed;
   right: 0;
   bottom: 0;
-  width: 5rem;
-  height: 5rem;
+  width: 3rem;
+  height: 3rem;
   margin: 20px;
-  border: 3px solid white;
+  border: 2.5px solid white;
   border-radius: 100%;
-  background-color: black;
+  background-color: rgba(0,0,0,0.4);
   color: white;
   z-index: 9999;
   transition: 1s ease;
@@ -146,7 +146,7 @@ a {
 }
 .scroll-to-top-btn:hover {
   cursor: pointer;
-  transition: 1s ease;
+  transition: 0.3s ease-in-out;
   transform: scale(1.1);
 }
 .scroll-to-top-arrow {
@@ -154,7 +154,7 @@ a {
   justify-content: center;
   align-items: center;
   height: 100%;
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 .hideBtn {
   display: none;
