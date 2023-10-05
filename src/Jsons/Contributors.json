@@ -209,7 +209,7 @@
   {
     "id": "Ben Tracy",
     "image": "img/bid_image/Ben_Tracy.jpg",
-    "avatar": "img/avatar/Ben_Tracy.jpeg",
+    "avatar": "img/avatar/Ben_Tracy.jpg",
     "name": "Ben Tracy",
     "location": "Charlottesville, Virginia, USA 🇺🇸",
     "GitHub": "https://github.com/BenTracyDotCom",
@@ -244,8 +244,8 @@
   },
   {
     "id": "Zhang Zhao",
-    "image": "img/bid_image/Zhang_Zhao.jpeg",
-    "avatar": "img/avatar/Zhang_Zhao.jpeg",
+    "image": "img/bid_image/Zhang_Zhao.jpg",
+    "avatar": "img/avatar/Zhang_Zhao.jpg",
     "name": "Zhang Zhao",
     "location": "Beijing, China 🇨🇳",
     "GitHub": "https://github.com/EniacTNB",
@@ -280,8 +280,8 @@
   },
   {
     "id": "Shivam Gupta",
-    "image": "img/bid_image/Shivam_Gupta.JPG",
-    "avatar": "img/avatar/Shivam_Gupta.png",
+    "image": "img/bid_image/Shivam_Gupta.jpg",
+    "avatar": "img/avatar/Shivam_Gupta.jpg",
     "name": "Shivam Gupta",
     "location": "New Delhi, India 🇮🇳",
     "GitHub": "https://github.com/Guptaverse",
@@ -290,7 +290,7 @@
   {
     "id": "Riyad karim",
     "image": "img/bid_image/Riyad_Karim.jpg",
-    "avatar": "img/avatar/Riyad_Karim.png",
+    "avatar": "img/avatar/Riyad_Karim.jpg",
     "name": "Riyad Karim",
     "location": "Rajshahi, Bangladesh 🇧🇩",
     "GitHub": "https://github.com/RydKRM",
@@ -316,8 +316,8 @@
   },
   {
     "id": "Daniel Barker",
-    "image": "img/bid_image/daniel_barker.jpeg",
-    "avatar": "img/avatar/daniel_barker.jpeg",
+    "image": "img/bid_image/daniel_barker.jpg",
+    "avatar": "img/avatar/daniel_barker.jpg",
     "name": "Daniel Barker",
     "location": "Arlington, Virginia, USA 🇺🇸",
     "GitHub": "https://github.com/daniel-barker",
@@ -371,7 +371,7 @@
   {
     "id": "Abbas Raza Zaidi",
     "image": "img/bid_image/Abbas_Zaidi.jpg",
-    "avatar": "img/avatar/Abbas_Zaidi.jpeg",
+    "avatar": "img/avatar/Abbas_Zaidi.jpg",
     "name": "Abbas Zaidi",
     "location": "Lucknow, India 🇮🇳",
     "GitHub": "https://github.com/AbbasZaidi11",
@@ -389,7 +389,7 @@
   {
     "id": "Aditya Nagalwade",
     "image": "img/bid_image/Aditya_Nagalwade.jpg",
-    "avatar": "img/avatar/Aditya_Nagalwade.jpeg",
+    "avatar": "img/avatar/Aditya_Nagalwade.jpg",
     "name": "Aditya Nagalwade",
     "location": "Nagpur, India 🇮🇳",
     "GitHub": "https://github.com/Adi-2505",
@@ -398,7 +398,7 @@
   {
     "id": "Koleaje Olayinka",
     "image": "img/bid_image/koleaje_olayinka.jpg",
-    "avatar": "img/avatar/koleaje_olayinka.png",
+    "avatar": "img/avatar/koleaje_olayinka.jpg",
     "name": "Koleaje Olayinka",
     "location": "Lagos, Nigeria 🇳🇬",
     "GitHub": "https://github.com/koleajeolayinka",
@@ -407,7 +407,7 @@
   {
     "id": "Samejima",
     "image": "img/bid_image/samejima.jpg",
-    "avatar": "img/avatar/samejima.jpeg",
+    "avatar": "img/avatar/samejima.jpg",
     "name": "Samejima",
     "location": "Philadelphia, Pennsylavania, USA 🇺🇸",
     "GitHub": "https://github.com/samejima-san",
