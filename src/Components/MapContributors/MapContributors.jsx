@@ -34,7 +34,7 @@ const MapWithMarkers = () => {
       />
 
       {locations.map((location, index) => (
-        <GeocodeMarker 
+        <GeocodeMarker
           key={index}
           location={location.location}
           name={location.name}
@@ -52,7 +52,7 @@ function GeocodeMarker({ location, name, text, avatar, image }) {
   const [coordinates, setCoordinates] = useState([0, 0]);
 
   useEffect(() => {
-    const apiKey = '5292d01397964373a08073f536f799ef';
+    const apiKey = REACT_APP_OPENCAGE_API_KEY;
     fetch(
       `https://api.opencagedata.com/geocode/v1/json?q=${encodeURIComponent(
         location
@@ -65,11 +65,11 @@ function GeocodeMarker({ location, name, text, avatar, image }) {
           const lon = data.results[0].geometry.lng;
           setCoordinates([lat, lon]);
         } else {
-          console.error('Falha na geocodificação');
+          console.error('Error fetching location');
         }
       })
       .catch((error) => {
-        console.error('Erro:', error);
+        console.error('Error:', error);
       });
   }, [location]);
 
