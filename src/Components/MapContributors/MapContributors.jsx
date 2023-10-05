@@ -52,7 +52,7 @@ function GeocodeMarker({ location, name, text, avatar, image }) {
   const [coordinates, setCoordinates] = useState([0, 0]);
 
   useEffect(() => {
-    const apiKey = REACT_APP_OPENCAGE_API_KEY;
+    const apiKey = process.env.REACT_APP_OPENCAGE_API_KEY;
     fetch(
       `https://api.opencagedata.com/geocode/v1/json?q=${encodeURIComponent(
         location
