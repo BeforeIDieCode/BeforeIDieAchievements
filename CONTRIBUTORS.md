@@ -404,7 +404,7 @@
 <!-- end of column-5 -->
 <!-- Start of column-6 -->
 <td align="center">
-  <a href="https://github.com/VoidyCodes">
+  <a href="https://github.com/MeetThakur">
     <img
       src="https://avatars.githubusercontent.com/u/99238677?v=4"
       width="100px"
