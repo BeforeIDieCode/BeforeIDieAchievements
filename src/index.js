@@ -2,6 +2,7 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 import App from './App';
 import Contributors from './pages/Contributors';
+import LocationContributorsMap from './pages/LocationContributorsMap';
 import "./index.css"
 import "./fonts/Chalk/Chalk-3.ttf";
 import "./i18nextConfig.js";
@@ -22,6 +23,10 @@ const router = createBrowserRouter([
   {
     path: "/Contributors",
     element: <Contributors/>,
+  },
+  {
+    path: "/contributors-map",
+    element: <LocationContributorsMap/>,
   },
 ]);
 root.render(
