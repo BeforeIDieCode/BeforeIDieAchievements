@@ -421,5 +421,14 @@
     "location": "Eindhoven, Netherlands 🇳🇱",
     "GitHub": "https://github.com/wagenrace",
     "text": "Become the crazy old man with the best stories."
+  },
+  {
+    "id": "Chris Zambito",
+    "image": "img/bid_image/Chris_Zambito.jpg",
+    "avatar": "img/avatar/Chris_Zambito.jpg",
+    "name": "Chris Zambito",
+    "location": "Buffalo, New York, USA 🇺🇸",
+    "GitHub": "https://github.com/chriszmx",
+    "text": "Travel the world!"
   }
 ]

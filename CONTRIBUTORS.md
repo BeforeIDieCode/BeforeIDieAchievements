@@ -513,4 +513,18 @@
 </td>
 <!-- End of column-7 -->
 </tr>
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/chriszmx">
+    <img
+      src="https://avatars.githubusercontent.com/u/116219778?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Chris Zambito</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+</tr>
 </table>
