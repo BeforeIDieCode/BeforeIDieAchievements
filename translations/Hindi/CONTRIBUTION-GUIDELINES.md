@@ -111,6 +111,168 @@ git checkout -b add-Xander-Clemens
 
 ![Saving Your GitHub Avatar](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/03b1c574-9dc9-452c-97c6-0987e0440697)
 
+## चरण 7. अपनी 'Before I Die' छवि जोड़ें <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" />
+- वह छवि खोजें या बनाएं जो आप अपनी मृत्यु से पहले क्या करना चाहते हैं का प्रतिष्ठान रखती है। यह एक कोलाज या एकल वस्तु हो सकती है। विचार करने का समय लें और इसे स्वयं के लिए महत्वपूर्ण और अर्थपूर्ण बनाएं, क्योंकि आप इस ओपन-सोर्स परियोजना में योगदान कर रहे हैं और यह निश्चित कर रहे हैं कि आपके लिए क्या महत्वपूर्ण और महत्वपूर्ण है।
+- यह छवि कम से कम `500*500` पिक्सल्स के फ़ॉर्मेट में होनी चाहिए।
+- अपनी छवि को `public/img/bid_image`फ़ोल्डर' में जोड़ें।
+- आप अपनी छवि का आकार फोटो गैलरी पर कैसे प्रभावित करते हैं, इसमें थोड़ी सी खेलना मददगार हो सकता है और उसे अनुसार समायोजित करना सही हो सकता है।
+वेबसाइटों पर उच्च गुणवत्ता की छवियां खोजने के लिए यह सहायक हो सकता है: [UnSplash](https://unsplash.com/) या AI सार्गात्मिक छवि उपकरण का उपयोग करें। इसके अलावा, आप इस प्रकार के उपकरणों पर छवियों का संपादन कर सकते हैं, जैसे कि [Canva](https://www.canva.com/) आपकी छवियों को महान और आपके लिए महत्वपूर्ण बना सकता है।
+
+![Adding the BID Image](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/aaa18f26-cd3a-41f3-92c0-a90d7c5dd274)
+
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> एक बार जब सहेज लिया गया हो, तो अपनी छवि को `public/img/avatar folder` फ़ोल्डर' में खींचें।. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
 
 ![Uploading Your Avatar img](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a0c08dcd-3a8b-4e87-96d0-06b277308499)
+
+## चरण 8. CONTRIBUTORS.md फ़ाइल में जोड़ें
+
+जब आप `CONTRIBUTORS.md` फ़ाइल में एक नए योगदानकर्ता को जोड़ते हैं, तो कृपया ध्यान दें कि प्रति स्तंभ में अधिकतम सात योगदानकर्ताओं का होना चाहिए। यदि आप देखते हैं कि स्तंभ पहले से पूरा है, तो आपको उस स्तंभ को बंद करना चाहिए और एक नया स्तंभ बनाना चाहिए। इस मामले का निम्नलिखित उदाहरण छवि देखें: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />  यदि स्तंभ में सात से कम योगदानकर्ताएँ हैं, तो आगे बढ़ें और नया स्तंभ नहीं बनाने के लिए जाएं [यहाँ](#If_it_is_less_than_seven_contributors).
+
+<img width="415" alt="Screenshot 2023-09-22 at 23 31 18" src="https://github.com/Nawarajkarki/BeforeIDieAchievements/assets/120526253/05a0f723-12d3-40c6-82c7-11b28acfcede">
+
+### पहले स्तंभ शुरू करने के लिए क्या प्रतिलिपि बनाएं:
+
+```html
+</tr>
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/GITHUB_ACCOUNT">
+    <img
+      src="YOUR_GITHUB_AVATAR_LINK"
+      width="100px"
+    />
+    <br />
+    <sub>YOUR_NAME</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+</tr>
+</table>
+```
+### फिर [कुछ बदलने के लिए] (#step8_thing_to_change)
+
+## <a id="If_it_is_less_than_seven_contributors"></a> यदि आप देखते हैं कि स्तंभ पूरा नहीं है, तो निम्नलिखित चरणों का पालन करें:
+
+कृपया निम्नलिखित कोड की प्रतिलिपि बनाएं और फिर इसे <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md">CONTRIBUTORS</a>फ़ाइल में पेस्ट करें। सुनिश्चित करें कि आप इसे किसी अन्य योगदानकर्ता के आखिरी स्तंभ के नीचे पेस्ट करते हैं। फिर अपनी जानकारी के साथ संपादित करें:
+
+```html
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/GITHUB_ACCOUNT">
+    <img
+      src="YOUR_GITHUB_AVATAR_LINK"
+      width="100px"
+    />
+    <br />
+    <sub>YOUR_NAME</sub>
+  </a>
+</td>
+<!-- End of column -->
+```
+
+<br>
+
+## <a id="step8_thing_to_change"></a> कुछ बदलने के लिए:
+
+- अपने खुद के प्रोफ़ाइल लिंक से लिंक बदलें
+  `<a href="your GitHub profile link here"></a>`
+
+- अपनी GitHub प्रोफ़ाइल छवि पर दाएं क्लिक करें और छवि लिंक कॉपी करें और इसे `img` टैग के अंदर पेस्ट करें। `width="100px"` गुण छोड़ दें
+
+```html
+<img src="YOUR_GITHUB_AVATAR_LINK" width="100px" />
+```
+
+अपनी GitHub प्रोफ़ाइल पृष्ठ पर जाएं और अपनी प्रोफ़ाइल छवि और लिंक प्राप्त करने के लिए वहाँ जाएं।
+
+<img src="https://user-images.githubusercontent.com/62628408/147896530-f94c17f7-f064-4e8d-8bc1-af2c1f63559d.png" width="100%" alt="profile_page">
+
+- अपने नाम से sub टैग को बदलें
+
+```html
+<sub>Your Name</sub>
+```
+
+फिर अपने परिवर्तनों को सहेजें।
+
+<br>
+
+## चरण 9. Git Add, Commit और Push <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />
+नई परिवर्तनों को उस शाखा में जो आपने बनाई है उसे `git add` command:
+
+```javascript
+git add .
+```
+
+Now commit those changes using the `git commit`  कमांड का उपयोग करके जोड़ें:
+
+```javascript
+git commit -m "Add your-name to Before I Die"
+```
+
+`your-name`  को अपने नाम से बदलें।
+
+
+अपने परिवर्तनों को `git push` कमांड का उपयोग करके पुश करें:
+
+```javascript
+git push origin your-branch-name
+```
+
+`your-branch-name` को आपने पहले बनाई गई शाखा के नाम से बदलें।
+
+<ol>
+   <li>इन कदमों को आगे बढ़ने से पहले, सुनिश्चित करें कि आपके परिवर्तन पिछले कदमों के आवश्यकताओं को पूरा करते हैं।<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Walking%20Light%20Skin%20Tone.png" alt="Man Walking Light Skin Tone" width="25" height="25" /></a></li>
+   <li>सुनिश्चित करें कि आपने अवतार छवि, 'Before I Die' छवि और अपने JSON पाठ को सही रूप से जोड़ा है और यह सही ढंग से आपके React विकास सर्वर पर प्रदर्शित हो रहा है। <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /></li>
+   <li>अपने परिवर्तनों को "add prompt your prompt here" संदेश के साथ कमिट करें। <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /></li>
+   <li>अपने परिवर्तनों को उस शाखा पर पुश करें जिसे आपने पहले बनाया था जब आपने `git checkout` कमांड का उपयोग किया था।<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Box%20with%20Check.png" alt="Check Box with Check" width="25" height="25" /></li>
+   <li>एक उदाहरण के लिए नीचे देखें:<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /></li>
+</ol>
+
+### उदाहारण जोड़ने/कमिट/पुश वर्कफ़्लो:
+
+  यदि आप टर्मिनल में BeforeIDieAchievements निर्देशिका में हैं:
+  ```javascript
+    git add .
+    git commit -m "Add Xander Clemens to Before I Die"
+    git push -u origin add-Xander-Clemens
+  ```
+
+
+चरण 10. अपने परिवर्तनों को समीक्षा के लिए प्रस्तुत करें <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" />
+
+यदि आप GitHub पर अपने रिपोजिटरी पर जाते हैं, तो आपको एक `Compare & pull request` बटन दिखाई देगा। उस बटन पर क्लिक करें।
+
+![Create A Pull Request](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/060a039b-8710-47e4-b875-2aad2091516b)
+
+अब `Create pull request` बटन पर क्लिक करके पुल अनुरोध सबमिट करें। सुनिश्चित करें कि आप पुल अनुरोध में जो भी जोड़ रहे हैं, उसका विवरण जोड़ रहे हैं।
+
+![Submit A Pull Request](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/e1cbee74-e2e2-4904-948f-77e6b0c73a8e)
+
+
+यदि डिप्लॉयमेंट सफल है, तो नीचे दी गई स्क्रीन पर आपको देखने का विकल्प मिलेगा "preview" का। यह आपके योगदान को प्रोडक्शन जाने से पहले देखने का विकल्प होगा!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
+
+![Uploading After Creating Pull Request](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/271bda42-25d8-416d-ad81-9b4fbd9fa545)
+इस स्क्रीन को देखने के बाद, या तो आपका योगदान स्वीकार और मुख्य शाखा में मर्ज हो जाएगा, या आपका योगदान प्रतिपुष्टि प्राप्त करेगा और परिवर्तन के लिए अनुरोध किया जाएगा।
+मैं इस प्रोजेक्ट की मुख्य शाखा में आपके सभी परिवर्तनों को मर्ज कर रहा हूँ। जब परिवर्तन मर्ज हो जाएंगे, तो आपको एक सूचना ईमेल प्राप्त होगी।<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="25" height="25" />
+
+<ol>
+  <li> यदि परिवर्तन के लिए अनुरोध किया जाता है, तो पुनः पुल अनुरोध करने और अपडेट करने के लिए एक ही वर्कफ़्लो का पालन करें।</li>
+  <li> यदि कोई परिवर्तन का अनुरोध नहीं किया गया है, तो यह प्रोडक्शन शाखा में मर्ज कर दी जाएगी।<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /></li>
+</ol>
+
+## और मदद चाहिए? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Facepalming.png" alt="Person Facepalming" width="25" height="25" />
+आपको किसी भी समस्या के लिए अतिरिक्त मदद की आवश्यकता हो तो, [LinkedIn](https://www.linkedin.com/in/alexanderclemens/) पर मुझसे संपर्क करें या मेरी [website](https://www.xanderclemens.com/) पर मेरा संपर्क विवरण देखें।
+
+## योगदान के लिए धन्यवाद! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Right-Facing%20Fist.png" alt="Right-Facing Fist" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Left-Facing%20Fist.png" alt="Left-Facing Fist" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
+- बधाई हो! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Bottle%20with%20Popping%20Cork.png" alt="Bottle with Popping Cork" width="25" height="25" /> आपने अभियानकर्ता के रूप में आपके अक्सर संपर्क करने वाले मानक फोर्क -> क्लोन -> संपादित -> पुल अनुरोध वर्कफ़्लो को पूरा किया है!
+
+- कृपया इस रिपोजिटरी को स्टार <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />  करें और इसे किसी ऐसे व्यक्ति के साथ साझा करें जिसे आप जानते हैं जो योगदान करना पसंद कर सकता है!
+
+मैं आशा करता हूँ कि आप इस परियोजना में योगदान करते समय बहुत मज़ा करेंगे। यदि आपने अपने जीवन में जो कुछ करना चाहते हैं उसमें अपने अनुसंधान से प्रेरणा ली, तो कृपया इस रिपो नों को स्टार <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> करें और इसे दूसरों के साथ साझा करें ताकि वे योगदान करने के लिए प्रोत्साहित हों और यह निश्चित करें कि वे अपने जीवन में क्या करना चाहते हैं जोने में भागीदारी करें।
+
+
+# योगदान<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Factory%20Worker.png" alt="Woman Factory Worker" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Factory%20Worker.png" alt="Factory Worker" width="25" height="25" />
+
+हम सभी से पुल अनुरोध प्रेम <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Heart%20Suit.png" alt="Heart Suit" width="25" height="25" /> करते हैं। इस परियोजना में भाग लेकर, आप [संबंधित नियमों](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CODE_OF_CONDUCT.md) का पालन करने के लिए सहमति दे रहे हैं। कृपया इस परियोजना को बढ़ाने के लिए [रोडमैप](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/ROADMAP.md) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" />देखते हुए इसमें योगदान करना जारी रखें, साथ ही इसे विशेषताओं के साथ और भी बेहतर बनाने के लिए [मुद्दों](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues) को बनाने या योगदान करने में जुटें।
