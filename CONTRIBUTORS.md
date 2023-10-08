@@ -513,4 +513,19 @@
 </td>
 <!-- End of column-7 -->
 </tr>
+  <tr>
+<!-- Start of column-1 -->
+  <td align="center">
+    <a href="https://github.com/redkathh">
+      <img
+        src="https://avatars.githubusercontent.com/u/47875009?v=4"
+        width="100px"
+      />
+      <br />
+      <sub>Kathleen Jogno</sub>
+    </a>
+  </td>
+<!-- End of column-1 -->
+</tr>
+</table>
 </table>
