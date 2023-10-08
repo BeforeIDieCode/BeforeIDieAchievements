@@ -528,4 +528,3 @@
 <!-- End of column-1 -->
 </tr>
 </table>
-</table>
