@@ -405,16 +405,6 @@
     "text": "I want to improve myself each day and help others do the same in a positive way."
   },
   {
-
-    "id": "Christopher Henderson",
-    "image": "img/bid_image/Chris_Henderson.jpeg",
-    "avatar": "img/avatar/Chris_Henderson.jpg",
-    "name": "Christopher Henderson",
-    "location": "Rio de Janeiro, Brazil 🇧🇷",
-    "GitHub": "https://github.com/chrishenderson07",
-    "text": "I want to travel to Germany, hired as a Developer by a good company."
-  },
-  {
     "id": "Samejima",
     "image": "img/bid_image/samejima.jpg",
     "avatar": "img/avatar/samejima.jpg",
@@ -431,5 +421,41 @@
     "location": "Eindhoven, Netherlands 🇳🇱",
     "GitHub": "https://github.com/wagenrace",
     "text": "Become the crazy old man with the best stories."
+  },
+  {
+    "id": "Bereket Lemma",
+    "image": "img/bid_image/bereket_lemma.jpg",
+    "avatar": "img/avatar/bereket_lemma.jpg",
+    "name": "Bereket Lemma",
+    "location": "Addis Ababa, Ethiopia 🇪🇹",
+    "GitHub": "https://github.com/Bereky",
+    "text": "I want to find and cherish the most beautiful and kind-hearted wife, building a loving family with beautiful children, creating a lifetime of happiness and fulfillment."
+  },
+  {
+    "id": "Kathleen Jogno",
+    "image": "img/bid_image/Kathleen_Jogno.jpg",
+    "avatar": "img/avatar/Kathleen_Jogno.jpg",
+    "name": "Kathleen Jogno",
+    "location": "Calapan, Philippines 🇵🇭",
+    "GitHub": "https://github.com/redKath",
+    "text": "Before I die, I want to be the best version of myself and inspire people around me to find the best version of themselves too."
+  },
+  {
+    "id": "Chris Zambito",
+    "image": "img/bid_image/Chris_Zambito.jpg",
+    "avatar": "img/avatar/Chris_Zambito.jpg",
+    "name": "Chris Zambito",
+    "location": "Buffalo, New York, USA 🇺🇸",
+    "GitHub": "https://github.com/chriszmx",
+    "text": "Travel the world!"
+  },
+  {
+    "id": "Christopher Henderson",
+    "image": "img/bid_image/Chris_Henderson.jpeg",
+    "avatar": "img/avatar/Chris_Henderson.jpg",
+    "name": "Christopher Henderson",
+    "location": "Rio de Janeiro, Brazil 🇧🇷",
+    "GitHub": "https://github.com/chrishenderson07",
+    "text": "I want to travel to Germany, hired as a Developer by a good company."
   }
 ]
