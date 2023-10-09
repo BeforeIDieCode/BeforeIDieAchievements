@@ -502,14 +502,6 @@
 <!-- End of column-6 -->
 <!-- Start of column-7 -->
 <td align="center">
-  <a href="https://github.com/chrishenderson07">
-    <img
-      src="https://avatars.githubusercontent.com/u/67372720?v=4"
-      width="100px"
-    />
-    <br />
-    <sub>Christopher Henderson</sub>
-  </a>
   <a href="https://github.com/wagenrace">
     <img
       src="https://avatars.githubusercontent.com/u/15228140?v=4"
@@ -520,5 +512,54 @@
   </a>
 </td>
 <!-- End of column-7 -->
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/bereky">
+    <img
+      src="https://avatars.githubusercontent.com/u/50754357?v=44"
+      width="100px"
+    />
+    <br />
+    <sub>Bereket Lemma</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+<!-- Start of column-2 -->
+  <td align="center">
+    <a href="https://github.com/redKath">
+      <img
+        src="https://avatars.githubusercontent.com/u/47875009?v=4"
+        width="100px"
+      />
+      <br />
+      <sub>Kathleen Jogno</sub>
+    </a>
+  </td>
+<!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/chriszmx">
+    <img
+      src="https://avatars.githubusercontent.com/u/116219778?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Chris Zambito</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/chrishenderson07">
+    <img
+      src="https://avatars.githubusercontent.com/u/67372720?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Christopher Henderson</sub>
+  </a>
+  </td>
+<!-- End of column-4 -->
 </tr>
 </table>
