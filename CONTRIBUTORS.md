@@ -512,9 +512,32 @@
   </a>
 </td>
 <!-- End of column-7 -->
-</tr>
   <tr>
 <!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/bereky">
+    <img
+      src="https://avatars.githubusercontent.com/u/50754357?v=44"
+      width="100px"
+    />
+    <br />
+    <sub>Bereket Lemma</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+<!-- Start of column-2 -->
+  <td align="center">
+    <a href="https://github.com/redKath">
+      <img
+        src="https://avatars.githubusercontent.com/u/47875009?v=4"
+        width="100px"
+      />
+      <br />
+      <sub>Kathleen Jogno</sub>
+    </a>
+  </td>
+<!-- End of column-2 -->
+<!-- Start of column-3 -->
 <td align="center">
   <a href="https://github.com/chriszmx">
     <img
@@ -525,6 +548,6 @@
     <sub>Chris Zambito</sub>
   </a>
 </td>
-<!-- End of column-1 -->
+<!-- End of column-3 -->
 </tr>
 </table>
