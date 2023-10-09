@@ -525,5 +525,17 @@
   </a>
 </td>
 <!-- End of column-1 -->
+<!-- Start of column-2 -->
+  <td align="center">
+    <a href="https://github.com/redKath">
+      <img
+        src="https://avatars.githubusercontent.com/u/47875009?v=4"
+        width="100px"
+      />
+      <br />
+      <sub>Kathleen Jogno</sub>
+    </a>
+  </td>
+<!-- End of column-2 -->
 </tr>
 </table>
