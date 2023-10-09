@@ -404,7 +404,7 @@
 <!-- end of column-5 -->
 <!-- Start of column-6 -->
 <td align="center">
-  <a href="https://github.com/VoidyCodes">
+  <a href="https://github.com/MeetThakur">
     <img
       src="https://avatars.githubusercontent.com/u/99238677?v=4"
       width="100px"
@@ -509,6 +509,14 @@
     />
     <br />
     <sub>Christopher Henderson</sub>
+  </a>
+  <a href="https://github.com/wagenrace">
+    <img
+      src="https://avatars.githubusercontent.com/u/15228140?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tom Nijhof</sub>
   </a>
 </td>
 <!-- End of column-7 -->

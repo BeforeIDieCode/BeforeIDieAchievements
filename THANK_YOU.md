@@ -1,5 +1,7 @@
 # This file documents weekly video updates and thank you messages to contributors who have participated in the development of Before I Die Code.
 
+### Week 6 Contributions - September 20, 2023 [LinkedIn Post](https://www.linkedin.com/posts/before-i-die-code_hacktoberfest2023-activity-7112855114565967872-YLjS?utm_source=share&utm_medium=member_desktop)
+[![YouTube Video](https://img.youtube.com/vi/HRpd35XW3UI/maxresdefault.jpg)](https://www.youtube.com/watch?v=HRpd35XW3UI_channel=XanderClemens)
 ### Week 5 Contributions - September 20, 2023
 [![YouTube Video](https://img.youtube.com/vi/0e--d2Hub2s/maxresdefault.jpg)](https://www.youtube.com/watch?v=0e--d2Hub2s_channel=XanderClemens)
 ### Week 4 Contributions - September 12, 2023
