@@ -500,5 +500,17 @@
   </a>
 </td>
 <!-- End of column-6 -->
+<!-- Start of column-7 -->
+<td align="center">
+  <a href="https://github.com/chrishenderson07">
+    <img
+      src="https://avatars.githubusercontent.com/u/67372720?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Christopher Henderson</sub>
+  </a>
+</td>
+<!-- End of column-7 -->
 </tr>
 </table>
