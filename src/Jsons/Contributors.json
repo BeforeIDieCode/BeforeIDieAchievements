@@ -448,7 +448,16 @@
     "location": "Buffalo, New York, USA 🇺🇸",
     "GitHub": "https://github.com/chriszmx",
     "text": "Travel the world!"
-  }
+  },
+  {
+    "id": "Christopher Henderson",
+    "image": "img/bid_image/Chris_Henderson.jpeg",
+    "avatar": "img/avatar/Chris_Henderson.jpg",
+    "name": "Christopher Henderson",
+    "location": "Rio de Janeiro, Brazil 🇧🇷",
+    "GitHub": "https://github.com/chrishenderson07",
+    "text": "I want to travel to Germany, hired as a Developer by a good company."
+  },
   {
     "id": "Gabriel França",
     "image": "img/bid_image/Gabriel_Franca.jpg",
@@ -456,6 +465,6 @@
     "name": "Gabriel França",
     "location": "Natal, Rio Grande do Norte, Brasil 🇧🇷",
     "GitHub": "https://github.com/staiton",
-    "text": "I wanna have what it takes to provide for my family"
+    "text": "I wanna have what it takes to provide for my family."
   }
 ]
