@@ -466,5 +466,14 @@
     "location": "Natal, Rio Grande do Norte, Brasil 🇧🇷",
     "GitHub": "https://github.com/staiton",
     "text": "I wanna have what it takes to provide for my family."
-  }
+  },
+  {
+    "id": "Rock-Lee",
+    "image": "img/bid_image/ma'aruf_muhd.jpg",
+    "avatar": "img/avatar/ma'aruf_muhd.jpg",
+    "name": "Ma'aruf muhammad",
+    "location": "Kano, Nigeria 🇳🇬",
+    "GitHub": "https://github.com/Rockleemode",
+    "text": "i want to be a well renowned Full-Stack Developer in this life-time"
+}
 ]
