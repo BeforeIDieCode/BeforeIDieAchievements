@@ -342,8 +342,238 @@
 </td>
 <!-- End of column-7 -->
 </tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/CBID2">
+    <img
+      src="https://avatars.githubusercontent.com/u/105683440?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Chrissy Codes</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+<!-- Start of column-2 -->
+<td align="center">
+  <a href="https://github.com/Sahilkaler">
+    <img
+      src="https://avatars.githubusercontent.com/u/119391867?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Sahil Kaler</sub>
+  </a>
+</td>
+<!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/daniel-barker">
+    <img
+      src="https://avatars.githubusercontent.com/u/124937996?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Daniel Barker</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/sherikovic">
+    <img
+      src="https://avatars.githubusercontent.com/u/130923568?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Sherif Amer</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/Mominarez">
+    <img
+      src="https://avatars.githubusercontent.com/u/94253448?s=400&u=baf0b4b835b085aecc4e805bafa9e77f5b276015&v=4t"
+      width="100px"
+    />
+    <br />
+    <sub>Momina Rezai</sub>
+  </a>
+</td>
+<!-- end of column-5 -->
+<!-- Start of column-6 -->
+<td align="center">
+  <a href="https://github.com/MeetThakur">
+    <img
+      src="https://avatars.githubusercontent.com/u/99238677?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Meet Thakur</sub>
+  </a>
+</td>
+<!-- End of column-6 -->
+<!-- Start of column 7-->
+<td align="center">
+  <a href="https://github.com/zigelnik">
+    <img
+      src="https://avatars.githubusercontent.com/u/113368830?s=400&u=10920261d50151059227516f18c2247975d4fa2f&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tal Zigelnik</sub>
+  </a>
+</td>
+<!-- End of column 7-->
+</tr>
   <tr>
-  <!-- Start of column-1 -->
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/WilbertXMD">
+    <img
+      src="https://avatars.githubusercontent.com/u/126113464?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Wilbert Machuca</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+<!-- Start of column-2 -->
+<td align="center">
+  <a href="https://github.com/bellsofaba">
+    <img
+      src="https://avatars.githubusercontent.com/u/95832028?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Jack Aba</sub>
+  </a>
+</td>
+<!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/AbbasZaidi11">
+    <img
+      src="https://avatars.githubusercontent.com/u/105381187?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Abbas Zaidi</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/Adi-2505">
+    <img
+      src="https://avatars.githubusercontent.com/u/89784775?s=400&u=d9d3dcbc58bb9c337f5a967902115063a1b7783d&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Aditya Nagalwade</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/MuhammadTatma">
+    <img
+      src="https://avatars.githubusercontent.com/u/90306866?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Muhammad Tatma</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
+<!-- Start of column-6 -->
+<td align="center">
+  <a href="https://github.com/koleajeolayinka">
+    <img
+      src="https://avatars.githubusercontent.com/u/100846558?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Koleaje Olayinka</sub>
+  </a>
+</td>
+<!-- End of column-6 -->
+<!-- Start of column-7 -->
+<td align="center">
+  <a href="https://github.com/wagenrace">
+    <img
+      src="https://avatars.githubusercontent.com/u/15228140?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tom Nijhof</sub>
+  </a>
+</td>
+<!-- End of column-7 -->
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/bereky">
+    <img
+      src="https://avatars.githubusercontent.com/u/50754357?v=44"
+      width="100px"
+    />
+    <br />
+    <sub>Bereket Lemma</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+<!-- Start of column-2 -->
+  <td align="center">
+    <a href="https://github.com/redKath">
+      <img
+        src="https://avatars.githubusercontent.com/u/47875009?v=4"
+        width="100px"
+      />
+      <br />
+      <sub>Kathleen Jogno</sub>
+    </a>
+  </td>
+<!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/chriszmx">
+    <img
+      src="https://avatars.githubusercontent.com/u/116219778?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Chris Zambito</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/chrishenderson07">
+    <img
+      src="https://avatars.githubusercontent.com/u/67372720?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Christopher Henderson</sub>
+  </a>
+  </td>
+<!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/staiton">
+    <img
+      src="https://avatars.githubusercontent.com/u/55883166?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Gabriel Franca</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
+<!-- Start of column-6 -->
     <td align="center">
   <a href="https://github.com/hritvikgupta">
     <img
@@ -354,6 +584,6 @@
     <sub>Hritvik Gupta</sub>
   </a>
 </td>
-    <!-- End of column-1 -->
- </tr>
+<!-- End of column-6 -->
+</tr>
 </table>
