@@ -60,7 +60,7 @@ BeforeIDieAchievements is licensed under the MIT License. See the [LICENSE](http
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Open%20Hands.png" alt="Open Hands" width="25" height="25" /> Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Mechanic.png" alt="Man Mechanic" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Superhero.png" alt="Woman Superhero" width="25" height="25" />
 
-We would like to thank all the contributors who have helped make BeforeIDieAchievements possible. Check out the [CONTRIBUTORS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md) file to see a list of all the amazing people who have contributed to this project. Additionally, view the [THANK_YOU](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/THANK_YOU.md) videos for each one of our contributor's work being recognized. 
+We would like to thank all the contributors who have helped make BeforeIDieAchievements possible. Check out the [CONTRIBUTORS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md) file to see a list of all the amazing people who have contributed to this project. Additionally, view the [THANK_YOU](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/THANK_YOU.md) videos for each one of our contributor's work being recognized.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> Contact
 
@@ -77,10 +77,4 @@ The project is built using the following technologies and framework:
 | ![React](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/b681fe95-b7e3-47cd-8a41-20db2f79a66a) | ![HTML](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/8f07a06b-4077-4a17-8e48-5947d3563d9c) | ![CSS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/6f0b848d-3a51-448c-b064-a66befeda493) | ![Javascript](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/9ae42a50-e3b9-4a64-b6a0-9727754f9ba6) | ![Vercel Logo](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/ede31c78-f092-4ffd-946b-4f6fda32885e) |
 
 Addtionally the emjois used for the Markdown files for this repo were created by [Tarikul Islam Anik](https://github.com/Tarikul-Islam-Anik) who created the repository <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />[Animated Fluent Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" /> to assist with using the Microsoft animated fluent emojis being available in one place and ready to use in your next project or README file. The [link](https://animated-fluent-emoji.vercel.app/) to the website.
-
-
-## Stargazers over time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" />
-
-
-[![Stargazers over time](https://starchart.cc/BeforeIDieCode/BeforeIDieAchievements.svg)](https://starchart.cc/BeforeIDieCode/BeforeIDieAchievements)
 
