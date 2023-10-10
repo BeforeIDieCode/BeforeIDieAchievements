@@ -561,5 +561,17 @@
   </a>
   </td>
 <!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/staiton">
+    <img
+      src="https://avatars.githubusercontent.com/u/55883166?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Gabriel Franca</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
 </tr>
 </table>
