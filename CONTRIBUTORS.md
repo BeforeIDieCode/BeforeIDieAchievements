@@ -573,5 +573,17 @@
   </a>
 </td>
 <!-- End of column-5 -->
+<!-- Start of column 6 -->
+<td align="center">
+  <a href="https://github.com/jothishwar">
+    <img
+      src="https://avatars.githubusercontent.com/u/84170801?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Jothishwar S</sub>
+  </a>
+</td>
+<!-- End of column 6-->
 </tr>
 </table>
