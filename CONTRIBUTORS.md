@@ -575,6 +575,18 @@
 <!-- End of column-5 -->
 <!-- Start of column 6 -->
 <td align="center">
+  <a href="https://github.com/jothishwar">
+    <img
+      src="https://avatars.githubusercontent.com/u/84170801?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Jothishwar S</sub>
+  </a>
+</td>
+<!-- End of column 6-->
+<!-- Start of column-7 -->
+<td align="center">
   <a href="https://github.com/Rockleemode">
     <img
       src="https://avatars.githubusercontent.com/u/96262404?v=4"
@@ -584,6 +596,6 @@
     <sub>Ma'aruf Muhammad</sub>
   </a>
 </td>
-<!-- End of column 6-->
+<!-- End of column-7 -->
 </tr>
 </table>
