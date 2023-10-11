@@ -585,5 +585,17 @@
   </a>
 </td>
 <!-- End of column 6-->
+<!-- Start of column-7 -->
+<td align="center">
+  <a href="https://github.com/Rockleemode">
+    <img
+      src="https://avatars.githubusercontent.com/u/96262404?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ma'aruf Muhammad</sub>
+  </a>
+</td>
+<!-- End of column-7 -->
 </tr>
 </table>
