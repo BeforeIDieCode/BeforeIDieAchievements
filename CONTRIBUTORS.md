@@ -525,5 +525,65 @@
   </a>
 </td>
 <!-- End of column-1 -->
+<!-- Start of column-2 -->
+  <td align="center">
+    <a href="https://github.com/redKath">
+      <img
+        src="https://avatars.githubusercontent.com/u/47875009?v=4"
+        width="100px"
+      />
+      <br />
+      <sub>Kathleen Jogno</sub>
+    </a>
+  </td>
+<!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/chriszmx">
+    <img
+      src="https://avatars.githubusercontent.com/u/116219778?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Chris Zambito</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/chrishenderson07">
+    <img
+      src="https://avatars.githubusercontent.com/u/67372720?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Christopher Henderson</sub>
+  </a>
+  </td>
+<!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/staiton">
+    <img
+      src="https://avatars.githubusercontent.com/u/55883166?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Gabriel Franca</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
+<!-- Start of column 6 -->
+<td align="center">
+  <a href="https://github.com/jothishwar">
+    <img
+      src="https://avatars.githubusercontent.com/u/84170801?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Jothishwar S</sub>
+  </a>
+</td>
+<!-- End of column 6-->
 </tr>
 </table>

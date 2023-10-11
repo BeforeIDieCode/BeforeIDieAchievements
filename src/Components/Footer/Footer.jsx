@@ -10,8 +10,8 @@ import styles from "./Footer.module.css";
 
 const Footer = () => {
   const [isMobile, setIsMobile] = useState(window.innerWidth < 640);
-  const [playHeartBeat, { stop }] = useSound(heartBeat);
-  const [playTypingSound, { stopTyping}] = useSound(typingSound);
+  const [playHeartBeat, { stop: stopHeartBeat }] = useSound(heartBeat);
+  const [playTypingSound, { stop: stopTypingSound }] = useSound(typingSound);
 
   useEffect(() => {
     function handleSize() {
@@ -29,7 +29,7 @@ const Footer = () => {
       <p className={styles["footer-message"]}>
       <span
       onMouseEnter={playTypingSound}
-      onMouseLeave={() => stopTyping()}
+      onMouseLeave={stopTypingSound}
       >
         <FontAwesomeIcon icon={faCode} style={{color: "#feea3a"}} />
       </span> with{" "}
@@ -38,7 +38,7 @@ const Footer = () => {
           role='img'
           aria-label='heart'
           onMouseEnter={playHeartBeat}
-          onMouseLeave={() => stop()}
+          onMouseLeave={stopHeartBeat}
         >
           💙
         </span>{" "}
@@ -46,7 +46,7 @@ const Footer = () => {
         by the{" "}
         <a
           className={styles["footer-message-link"]}
-          href='https://github.com/BeforeIDieCode/BeforeIDieAchievements.git'>
+          href='https://github.com/BeforeIDieCode'>
           Before I Die Community
         </a>
       </p>
