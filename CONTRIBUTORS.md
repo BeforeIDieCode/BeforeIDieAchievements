@@ -665,5 +665,17 @@
   </a>
   </td>
   <!-- End of column-2 -->
+  <!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/ben-dh3">
+    <img
+      src="https://avatars.githubusercontent.com/u/105418802?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ben Duffield-Harding</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
   </tr>
 </table>
