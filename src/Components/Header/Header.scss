@@ -37,6 +37,8 @@ header {
     font-size: 3vmin;
     font-weight: 800;
     color: #efe4e4;
+    position: relative;
+    top: -80px;
     span {
       line-height: 2vmax;
       letter-spacing: 0.5vmax;
@@ -168,7 +170,7 @@ header {
     letter-spacing: -0.025em;
     z-index: 2;
     opacity: 1;
-    text-shadow: #FEEA3A 5px 10px 10px;
+    text-shadow: #feea3a 5px 10px 10px;
     span {
       display: block;
       font-size: 12vmin;
