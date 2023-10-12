@@ -49,7 +49,7 @@ const MasonryBox = ({
   const BIDText = (
     <span className={styles.boldText}>
       <div className={styles["bid-text"]}>
-       {RTL_LANGUAGES.includes(languages[ipObj.ipInfo?.country_code])
+        {RTL_LANGUAGES.includes(languages[ipObj.ipInfo?.country_code])
           ? `...${t("BEFORE-I-DIE")}`
           : `${t("BEFORE-I-DIE")}...`}
       </div>
