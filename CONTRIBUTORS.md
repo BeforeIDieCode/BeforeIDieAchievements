@@ -597,5 +597,18 @@
   </a>
 </td>
 <!-- End of column-7 -->
+<tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/LynxSumit">
+    <img
+      src="https://avatars.githubusercontent.com/u/114245865?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Sumit Upadhyay</sub>
+  </a>
+  </td>
+  <!-- End of column-1 -->
 </tr>
 </table>
