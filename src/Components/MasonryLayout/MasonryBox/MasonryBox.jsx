@@ -48,9 +48,11 @@ const MasonryBox = ({
   const RTL_LANGUAGES = ["ar", "he", "az", "dv", "ku", "fa", "ur"];
   const BIDText = (
     <span className={styles.boldText}>
+      <div className={styles["bid-text"]}>
        {RTL_LANGUAGES.includes(languages[ipObj.ipInfo?.country_code])
           ? `...${t("BEFORE-I-DIE")}`
           : `${t("BEFORE-I-DIE")}...`}
+      </div>
       <br />
     </span>
   );
