@@ -6,12 +6,11 @@ import "./Header.scss";
 // import Nav from "../Nav/Nav";
 // import BrickLayout from "../BrickLayout/BrickLayout";
 // import { Typewriter } from "react-simple-typewriter";
-import ContainerCard from '../ContainerCard/ContainerCard';
-import Nav from "../Nav/Nav"
+import ContainerCard from "../ContainerCard/ContainerCard";
+import Nav from "../Nav/Nav";
 import BrickLayout from "../BrickLayout/BrickLayout";
-import { Typewriter } from 'react-simple-typewriter'
+import { Typewriter } from "react-simple-typewriter";
 import RandomContributors from "../randomcontributor/RandomContributors";
-
 
 // Header component
 const Header = () => {
@@ -55,7 +54,14 @@ const Header = () => {
             href="https://before-i-die-achievements.vercel.app/Contributors"
             target="/black"
           >
-            Contributors
+            Contributors List
+          </a>
+          <a
+            className="button"
+            href="https://before-i-die-achievements.vercel.app/contributors-map"
+            target="/black"
+          >
+            Contributors Map
           </a>
         </div>
       </div>
@@ -90,8 +96,7 @@ const Header = () => {
             <div className="untitled__slide">
               <div className="untitled__slideBg"></div>
               <div className="untitled__slideContent">
-                <span>To learn how to contribute 📚
-                </span>
+                <span>To learn how to contribute 📚</span>
               </div>
             </div>
             <div className="untitled__slide">
@@ -119,7 +124,6 @@ const Header = () => {
         </div>
       </div>
     </header>
-
   );
 };
 
