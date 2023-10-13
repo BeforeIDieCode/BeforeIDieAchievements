@@ -502,5 +502,14 @@
     "location": "London, England 🇬🇧",
     "GitHub": "https://github.com/ben-dh3",
     "text": "I want to create a body of work I can be proud of... works of art - books and paintings. I want to be able to say - I've made the most of my gifts. I have done what I was put on this earth to do."
+  },
+  {
+    "id": "Muhammad Maaz",
+    "image": "img/bid_image/maaz.jpg",
+    "avatar": "img/avatar/maaz.jpg",
+    "name": "Muhammad Maaz",
+    "location": "Punjab, Pakistan 🇵🇰",
+    "GitHub": "https://github.com/maazshakeel",
+    "text": "Leave an impact on this Earth with my skills!"
   }
 ]
