@@ -1,5 +1,14 @@
 [
   {
+    "id": "Muhammad Maaz",
+    "image": "img/bid_image/maaz.jpg",
+    "avatar": "img/avatar/maaz.jpg",
+    "name": "Maaz",
+    "location": "Punjab, Pakistan 🇵🇰",
+    "GitHub": "https://github.com/maazshakeel",
+    "text": "Leave an impact on this Earth with my skills!"
+  },
+  {
     "id": "Alexander Clemens",
     "image": "img/bid_image/Alexander_Clemens.jpg",
     "avatar": "img/avatar/Alexander_Clemens.jpg",
