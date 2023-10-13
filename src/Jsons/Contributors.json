@@ -1,14 +1,5 @@
 [
   {
-    "id": "Muhammad Maaz",
-    "image": "img/bid_image/maaz.jpg",
-    "avatar": "img/avatar/maaz.jpg",
-    "name": "Maaz",
-    "location": "Punjab, Pakistan 🇵🇰",
-    "GitHub": "https://github.com/maazshakeel",
-    "text": "Leave an impact on this Earth with my skills!"
-  },
-  {
     "id": "Alexander Clemens",
     "image": "img/bid_image/Alexander_Clemens.jpg",
     "avatar": "img/avatar/Alexander_Clemens.jpg",
@@ -493,5 +484,32 @@
     "location": "Kano, Nigeria 🇳🇬",
     "GitHub": "https://github.com/Rockleemode",
     "text": "i want to be a well renowned Full-Stack Developer in this life-time."
+  },
+  {
+    "id": "Sumit Upadhyay",
+    "image": "img/bid_image/Sumit_Upadhyay.jpg",
+    "avatar": "img/avatar/Sumit_Upadhyay.jpg",
+    "name": "Sumit Upadhyay",
+    "location": "New Delhi, India 🇮🇳",
+    "GitHub": "https://github.com/LynxSumit",
+    "text": "I want to find myself."
+  },
+  {
+    "id": "Ben Duffield-Harding",
+    "image": "img/bid_image/Ben_Duffield-Harding.jpg",
+    "avatar": "img/avatar/Ben_Duffield-Harding.jpg",
+    "name": "Ben Duffield-Harding",
+    "location": "London, England 🇬🇧",
+    "GitHub": "https://github.com/ben-dh3",
+    "text": "I want to create a body of work I can be proud of... works of art - books and paintings. I want to be able to say - I've made the most of my gifts. I have done what I was put on this earth to do."
+  },
+  {
+    "id": "Muhammad Maaz",
+    "image": "img/bid_image/maaz.jpg",
+    "avatar": "img/avatar/maaz.jpg",
+    "name": "Muhammad Maaz",
+    "location": "Punjab, Pakistan 🇵🇰",
+    "GitHub": "https://github.com/maazshakeel",
+    "text": "Leave an impact on this Earth with my skills!"
   }
 ]
