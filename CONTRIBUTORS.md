@@ -689,5 +689,17 @@
   </a>
 </td>
 <!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/the-dg04">
+    <img
+      src="https://avatars.githubusercontent.com/u/69722491?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Dev Gupta</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
   </tr>
 </table>
