@@ -1,10 +1,9 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import contributorsData from "../../Jsons/Contributors.json";
 import styles from "./RandomContributor.module.css";
 
 const RandomContributors = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [isShown, setIsShown] = useState(false);
 
   const pickRandomContributor = () => {
     let randomIndex;
@@ -14,31 +13,27 @@ const RandomContributors = () => {
     return randomIndex;
   };
 
-  const handleIsShown = () => {
-    if (isShown) { 
-      const newIndex = pickRandomContributor();
-      setIsShown(false);
-      setTimeout(() => setCurrentIndex(newIndex), 750); // Pick new contributor after 0.75 seconds
-    } else {
-      setIsShown(true); 
-    }
-  };
+ useEffect(() => {
+  
+  setTimeout(() => {
+    setCurrentIndex(pickRandomContributor())
+  }, 5000);
+ }, [currentIndex]);
 
   const currentUser = contributorsData[currentIndex];
 
   return (
     <>
+ 
       <div
-        className={styles["card-container"]}
+        className={`${styles["card-container"]}  ` }
         style={
-          isShown
-            ? { marginTop: "1rem" }
-            : { marginTop: "-12.3rem", marginBottom: "0" }
+            { display : "flex"  , opacity : 1 ,marginTop : "2rem",  transition:' all 0.3s ease-in-out'  }
         }
       >
-        <h1 className={styles.heading}>Thanks for contributions!</h1>
+        <h1 className={styles.heading}>Thanking Our Before I Die Contributors</h1>
         <a href={`${currentUser.GitHub}`}>
-          <div className={styles.cards}>
+          <div className={`${styles.cards} `}>
             <img
               src={currentUser.avatar}
               className={styles.image}
@@ -48,15 +43,7 @@ const RandomContributors = () => {
           </div>
         </a>
       </div>
-      <div
-        className={styles.hide}
-        onClick={handleIsShown}
-        style={
-          isShown ? { margin: "-1rem 2rem 0 0" } : { margin: ".2rem 2rem 0 0" }
-        }
-      >
-        {isShown ? "Hide" : "Show"}
-      </div>
+      
     </>
   );
 };
