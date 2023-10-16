@@ -6,10 +6,11 @@
 ---
 
 ## Step 1. Fork this repository <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Fork%20and%20Knife%20with%20Plate.png" alt="Fork and Knife with Plate" width="25" height="25" />
-
 Visit the [repository](https://github.com/BeforeIDieCode/BeforeIDieAchievements) on Github and click on the Fork button. This will create a copy in your account.
 
+
 https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a8425d90-5f3e-4ee6-8499-2cf50643573c
+
 
 ## Step 2. Clone, open, install and start <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
 
@@ -39,6 +40,7 @@ Now open a web browser and go to localhost: 3000 if not directed there from runn
 
 ![localhost3000](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/b4d739ce-d89d-4383-8faf-883625951182)
 
+
 ## Step 3. Create a new branch <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Christmas%20Tree.png" alt="Christmas Tree" width="25" height="25" />
 
 Open the cloned repository in a code editor tool such as Visual Studio Code, or any other code editor of your choice. The following steps demonstrate the process using Visual Studio Code, but the same workflow applies to other code editors or using GitHub Codespaces.
@@ -60,11 +62,10 @@ For example:
 ```
 git checkout -b add-Xander-Clemens
 ```
-
 ## Step 4. PASTE your JSON file <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Roller%20Coaster.png" alt="Roller Coaster" width="25" height="25" />
 
-- Paste the following JSON Code in src/Jsons/Contributors.json
-- Scroll to the bottom of the list and add a "," to the last JSON contributor before pasting your JSON code
+* Paste the following JSON Code in src/Jsons/Contributors.json
+* Scroll to the bottom of the list and add a "," to the last JSON contributor before pasting your JSON code
 
 ```
 {
@@ -77,27 +78,21 @@ git checkout -b add-Xander-Clemens
     "text": "PASTE_WHAT_YOU_WANT_TO_DO_BEFORE_YOU_DIE"
 }
 ```
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />PASTE YOUR CODE ABOVE AND BE SURE TO ADD "," BEFORE TO THE PREVIOUS CONTRIBUTORS JSON CODE<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
 ![Adding the JSON Template](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/65557bcb-a46e-4d1b-b458-2d6efd6743ad)
 
 ## Step 5. FILL OUT your JSON info <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="25" height="25" />
-
 To fill out the given JSON code, follow these instructions:
-
 1. Replace "YOUR_NAME" with your actual name in all occurrences.
 2. Replace "YOUR_CITY_COUNTRY_AND_FLAG" with your city, country, and country flag <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Flag.png" alt="White Flag" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Flag.png" alt="Black Flag" width="25" height="25" />emoji.
 3. Replace "GITHUB_PROFILE_URL" with the URL of your GitHub profile.
 4. Replace "PASTE_WHAT_YOU_WANT_TO_DO_BEFORE_YOU_DIE" with a text describing what you want to do before you die.
-
-- This is your time to think <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> and reflect on what YOU want to do before you die. Perhaps you want to run a 2K marathon, travel the world, or do a wacky food challenge at a restaurant in your hometown or country. Now, here are some things to keep in mind when writing your goal:
-
-* **Character Length**: Please limit your text to a max 500 characters
-* **Be Thoughtful**: Craft your message to convey the significance and value of your aspirations.
-* **Consider Your Audience**: Keep in mind that your text and images will be shared publicly, so be respectful with your images and words. Also, avoid imposing with your goals. We want this project to be a place where people feel safe and comfortable with being authentic.
-* **Regularly Reflect**: Like life, goals constantly change so regularly review your progress and make adjustments as needed. Also, share and celebrate the milestones you reach. You'll never know who you can inspire by sharing them.
-
+* This is your time to think <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> and reflect on what YOU want to do before you die. Perhaps you want to run a 2K marathon, travel the world, or do a wacky food challenge at a restaurant in your hometown or country. Now, here are some things to keep in mind when writing your goal:
+- **Character Length**: Please limit your text to a max 500 characters
+- **Be Thoughtful**: Craft your message to convey the significance and value of your aspirations.
+- **Consider Your Audience**: Keep in mind that your text and images will be shared publicly, so be respectful with your images and words. Also, avoid imposing with your goals. We want this project to be a place where people feel safe and comfortable with being authentic.
+- **Regularly Reflect**: Like life, goals constantly change so regularly review your progress and make adjustments as needed. Also, share and celebrate the milestones you reach. You'll never know who you can inspire by sharing them.
 ```
 {
   "id": "Juan Perez",
@@ -111,7 +106,6 @@ To fill out the given JSON code, follow these instructions:
 ```
 
 ## Step 6. ADD YOUR GitHub Profile Image <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" />
-
 - Go to your GitHub profile and then save the image of your avatar by formatting it <YOUR_NAME>.jpg. Please replace `<YOUR_NAME>` with your name.
 
 - You can add a different image if you like but make sure it is a jpeg image and that it is `450*450` pixels and following the name structure above.
@@ -122,19 +116,19 @@ To fill out the given JSON code, follow these instructions:
 
 ![Uploading Your Avatar img](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/a0c08dcd-3a8b-4e87-96d0-06b277308499)
 
-## Step 7. ADD YOUR BID (Before I Die) Image <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" />
 
+## Step 7. ADD YOUR BID (Before I Die) Image <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" />
 - Find or create an image that represents what you want to do before you die. It can be a collage or a single item. Take time to reflect and make it meaningful to yourself as you are investing in yourself by contributing to this open-source project and defining what is meaningful and important to you.
 - The image should be formatted at least `500*500` pixels.
 - Add your image to the folder `public/img/bid_image`.
 - You can play around with how your image size affects the photo gallery and adjust accordingly.
-  It can be helpful to find high-quality images on websites like [UnSplash](https://unsplash.com/) or use AI Generative Images tools. Additionally, editing your images on tools like [Canva](https://www.canva.com/) can make your imagery great and meaningful to you.
+It can be helpful to find high-quality images on websites like [UnSplash](https://unsplash.com/) or use AI Generative Images tools. Additionally, editing your images on tools like [Canva](https://www.canva.com/) can make your imagery great and meaningful to you.
 
 ![Adding the BID Image](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/aaa18f26-cd3a-41f3-92c0-a90d7c5dd274)
 
 ## Step 8. ADD to the CONTRIBUTORS.md file
 
-When adding a new contributor to the `CONTRIBUTORS.md` file, please note that there should be a maximum of seven contributors per column. If you see that a column is already full, you should close the column and create a new one. See the below example image of this instance <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /> If the column is less than seven contributors go ahead and jump to [here](#If_it_is_less_than_seven_contributors).
+When adding a new contributor to the `CONTRIBUTORS.md` file, please note that there should be a maximum of seven contributors per column. If you see that a column is already full, you should close the column and create a new one. See the below example image of this instance <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />  If the column is less than seven contributors go ahead and jump to [here](#If_it_is_less_than_seven_contributors).
 
 <img width="415" alt="Screenshot 2023-09-22 at 23 31 18" src="https://github.com/Nawarajkarki/BeforeIDieAchievements/assets/120526253/05a0f723-12d3-40c6-82c7-11b28acfcede">
 
@@ -158,7 +152,6 @@ When adding a new contributor to the `CONTRIBUTORS.md` file, please note that th
 </tr>
 </table>
 ```
-
 ### Then jump to [A few things to change](#step8_thing_to_change)
 
 ## <a id="If_it_is_less_than_seven_contributors"></a> If you see that the column isn't full follow these steps:
@@ -169,7 +162,10 @@ Copy the code below, then paste it into the <a href="https://github.com/BeforeID
 <!-- Start of column -->
 <td align="center">
   <a href="https://github.com/GITHUB_ACCOUNT">
-    <img src="YOUR_GITHUB_AVATAR_LINK" width="100px" />
+    <img
+      src="YOUR_GITHUB_AVATAR_LINK"
+      width="100px"
+    />
     <br />
     <sub>YOUR_NAME</sub>
   </a>
@@ -205,7 +201,6 @@ Then save your changes.
 <br>
 
 ## Step 9. Git Add, Commit and Push <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />
-
 Add your new changes to the branch you created using the `git add` command:
 
 ```javascript
@@ -219,6 +214,7 @@ git commit -m "Add your-name to Before I Die"
 ```
 
 Replacing `your-name` with your name.
+
 
 Push your changes using the command `git push`:
 
@@ -238,13 +234,13 @@ Replacing `your-branch-name` with the name of the branch you created earlier.
 
 ### Example add/commit/push workflow:
 
-If you're in the BeforeIDieAchievements directory in your terminal:
+  If you're in the BeforeIDieAchievements directory in your terminal:
+  ```javascript
+    git add .
+    git commit -m "Add Xander Clemens to Before I Die"
+    git push -u origin add-Xander-Clemens
+  ```
 
-```javascript
-  git add .
-  git commit -m "Add Xander Clemens to Before I Die"
-  git push -u origin add-Xander-Clemens
-```
 
 ## Step 10. Submit your changes for review <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" />
 
@@ -255,6 +251,7 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 Now submit the pull request by clicking on the `Create pull request` button. Be sure to add details of what you are adding to the pull request.
 
 ![Submit A Pull Request](https://github.com/BeforeIDieCode/BeforeIDieAchievements/assets/120526253/e1cbee74-e2e2-4904-948f-77e6b0c73a8e)
+
 
 If the deployment is successful, there will be an option on the screen below to view a "preview" of your contribution before it goes to production!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
 
@@ -268,16 +265,15 @@ I'll be merging all your changes into the main branch of this project. You will 
 </ol>
 
 ## Need more help? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Facepalming.png" alt="Person Facepalming" width="25" height="25" />
-
 If you need any additional help with any issues, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alexanderclemens/) or find my contact details on my [website](https://www.xanderclemens.com/).
 
 ## Thank you for contributing! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Right-Facing%20Fist.png" alt="Right-Facing Fist" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Left-Facing%20Fist.png" alt="Left-Facing Fist" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
-
 - Congrats! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Bottle%20with%20Popping%20Cork.png" alt="Bottle with Popping Cork" width="25" height="25" /> You just completed the standard fork -> clone -> edit -> pull request workflow that you'll often encounter as a contributor!
 
 - Please star <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> this repository and share with someone you know who might enjoy contributing!
 
 I hope you have a lot of fun while contributing to this project. If you drew inspiration from your own research on what you want to do before you die, please star <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> this repo and share it with others to encourage them to contribute and identify what they want to do before they die.
+
 
 # Contributing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Factory%20Worker.png" alt="Woman Factory Worker" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Factory%20Worker.png" alt="Factory Worker" width="25" height="25" />
 
