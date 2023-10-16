@@ -286,7 +286,7 @@
     <!-- End of column-7 -->
   </tr>
 
-  <!-- Start of Row-3 -->
+  <!-- Start of Row-4 -->
   <tr>
     <!-- Start of column-1 -->
     <td align="center">
@@ -375,7 +375,7 @@
     <!-- End of column-7 -->
   </tr>
 
-  <!-- Start of Row-4 -->
+  <!-- Start of Row-5 -->
   <tr>
     <!-- Start of column-1 -->
     <td align="center">
@@ -463,7 +463,7 @@
     <!-- End of column 7-->
   </tr>
 
-  <!-- Start of Row-5 -->
+  <!-- Start of Row-6 -->
   <tr>
     <!-- Start of column-1 -->
     <td align="center">
@@ -551,7 +551,7 @@
     <!-- End of column-7 -->
   </tr>
 
-  <!-- Start of Row-6 -->
+  <!-- Start of Row-7 -->
   <tr>
     <!-- Start of column-1 -->
     <td align="center">
@@ -639,7 +639,7 @@
     <!-- End of column-7 -->
   </tr>
 
-  <!-- Start of Row-7 -->
+  <!-- Start of Row-8 -->
   <tr>
     <!-- Start of column-1 -->
     <td align="center">
@@ -700,18 +700,82 @@
     <sub>Jay Prakash N Reddy</sub>
   </a>
 </td>
-<!-- End of column-6 -->
-<!-- Start of column -->
+<!-- End of column-5 -->
+<!-- Start of column-6 -->
 <td align="center">
-  <a href="https://github.com/dheerajydv19">
+  <a href="https://github.com/yashj09">
     <img
-      src="https://avatars.githubusercontent.com/u/104244227"
+      src="https://avatars.githubusercontent.com/u/118172073?v=4"
       width="100px"
     />
     <br />
-    <sub>YOUR_NAME</sub>
+    <sub>Yash Jain</sub>
   </a>
 </td>
 <!-- End of column-6 -->
+<!-- Start of column-7 -->
+<td align="center">
+  <a href="https://github.com/imankush10/">
+    <img
+      src="https://avatars.githubusercontent.com/u/111183336?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ankush Kumar</sub>
+  </a>
+</td>
+<!-- End of column-7 -->
+
+
+ <!-- Start of Row-9 -->
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/tajpuriya27">
+    <img
+      src="https://avatars.githubusercontent.com/u/86508931?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Sunil Tajpuriya</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+<!-- Start of column-2 -->
+<td align="center">
+  <a href="https://github.com/ignoreintuition">
+    <img
+      src="https://avatars.githubusercontent.com/u/5210420?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Brian Greig</sub>
+  </a>
+</td>
+<!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/Dunni0">
+    <img
+      src="https://avatars.githubusercontent.com/u/88965882?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Awonuga Oluwapelumi</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/dheerajydv19">
+    <img
+      src="https://avatars.githubusercontent.com/u/104244227?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Dheeraj Yadav</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
