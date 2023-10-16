@@ -1,19 +1,23 @@
 .card-container {
   position: relative;
   display: flex;
-  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
   bottom: 0;
   right: 0;
-  background-color: #006dff;
+  background-color: #dad1d1;
+  width: 70%;
   z-index: 9999;
   margin: 1rem;
   border-radius: 16px;
   padding: 1rem;
   transition: 0.5s;
+  transform: translateX(20%);
 }
 
+
 .card-container:hover {
-  background-color: yellow;
+  background-color: rgb(255, 255, 255);
   transition: 0.5s;
 }
 
@@ -27,15 +31,18 @@
 }
 .heading {
   color: var(--dark-900);
-  font-size: 18px;
-  font-weight: 600;
+  width: 20rem;
+  font-family:  Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+  line-height: 45px;
+  font-size: 3vmax;
+  font-weight: 720;
   text-align: center;
   transition: 0.5s;
 }
 .image {
-  width: 75px;
-  height: 75px;
-  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  border-radius: 12px;
   object-fit: contain;
 }
 .name {
@@ -56,14 +63,23 @@
   transition: 0.5s;
 }
 
-.hide {
-  position: absolute;
-  background-color: yellow;
-  right: 0;
-  margin: -1rem 2rem 0 0;
-  padding: 10px;
-}
 
-.hide:hover {
-  cursor: pointer;
+
+@media (max-width: 768px) {
+  .card-container{
+    flex-direction: column;
+    background: #fff;
+    margin: 0 1vmax; 
+   width: 90%; 
+   transform: translateX(3%);
+  }
+ 
+  .image{
+    height: 150px;
+    width: 150px;
+  }
+  .heading{
+    font-weight:800;
+
+  }
 }
