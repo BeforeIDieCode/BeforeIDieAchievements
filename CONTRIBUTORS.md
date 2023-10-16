@@ -713,5 +713,17 @@
   </a>
 </td>
 <!-- End of column-6 -->
+<!-- Start of column-7 -->
+<td align="center">
+  <a href="https://github.com/imankush10/">
+    <img
+      src="https://avatars.githubusercontent.com/u/111183336?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ankush Kumar</sub>
+  </a>
+</td>
+<!-- End of column-7 -->
   </tr>
 </table>
