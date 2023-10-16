@@ -691,6 +691,30 @@
 <!-- End of column-4 -->
 <!-- Start of column-5 -->
 <td align="center">
+  <a href="https://github.com/jayprakash25">
+    <img
+      src="https://avatars.githubusercontent.com/u/110524709?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Jay Prakash N Reddy</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
+<!-- Start of column-6 -->
+<td align="center">
+  <a href="https://github.com/yashj09">
+    <img
+      src="https://avatars.githubusercontent.com/u/118172073?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Yash Jain</sub>
+  </a>
+</td>
+<!-- End of column-6 -->
+<!-- Start of column-7 -->
+<td align="center">
   <a href="https://github.com/imankush10/">
     <img
       src="https://avatars.githubusercontent.com/u/111183336?v=4"
@@ -700,6 +724,6 @@
     <sub>Ankush Kumar</sub>
   </a>
 </td>
-<!-- End of column-5 -->
+<!-- End of column-7 -->
   </tr>
 </table>
