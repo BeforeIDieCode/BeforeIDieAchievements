@@ -700,6 +700,18 @@
     <sub>Jay Prakash N Reddy</sub>
   </a>
 </td>
-<!-- End of column-5 -->
+<!-- End of column-6 -->
+<!-- Start of column -->
+<td align="center">
+  <a href="https://github.com/dheerajydv19">
+    <img
+      src="https://avatars.githubusercontent.com/u/104244227"
+      width="100px"
+    />
+    <br />
+    <sub>YOUR_NAME</sub>
+  </a>
+</td>
+<!-- End of column-6 -->
   </tr>
 </table>
