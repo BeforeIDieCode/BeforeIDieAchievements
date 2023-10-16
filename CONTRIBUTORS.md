@@ -701,5 +701,17 @@
   </a>
 </td>
 <!-- End of column-5 -->
+<!-- Start of column-6 -->
+<td align="center">
+  <a href="https://github.com/yashj09">
+    <img
+      src="https://avatars.githubusercontent.com/u/118172073?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Yash Jain</sub>
+  </a>
+</td>
+<!-- End of column-6 -->
   </tr>
 </table>
