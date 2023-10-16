@@ -689,5 +689,17 @@
   </a>
 </td>
 <!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/Dunni0">
+    <img
+      src="https://avatars.githubusercontent.com/u/88965882?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Awonuga Oluwapelumi</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
   </tr>
 </table>
