@@ -725,5 +725,20 @@
   </a>
 </td>
 <!-- End of column-7 -->
+
+ <!-- Start of Row-8 -->
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/tajpuriya27">
+    <img
+      src="https://avatars.githubusercontent.com/u/86508931?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Sunil Tajpuriya</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
   </tr>
 </table>
