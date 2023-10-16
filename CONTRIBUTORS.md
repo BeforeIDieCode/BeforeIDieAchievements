@@ -286,7 +286,7 @@
     <!-- End of column-7 -->
   </tr>
 
-  <!-- Start of Row-3 -->
+  <!-- Start of Row-4 -->
   <tr>
     <!-- Start of column-1 -->
     <td align="center">
@@ -375,7 +375,7 @@
     <!-- End of column-7 -->
   </tr>
 
-  <!-- Start of Row-4 -->
+  <!-- Start of Row-5 -->
   <tr>
     <!-- Start of column-1 -->
     <td align="center">
@@ -463,7 +463,7 @@
     <!-- End of column 7-->
   </tr>
 
-  <!-- Start of Row-5 -->
+  <!-- Start of Row-6 -->
   <tr>
     <!-- Start of column-1 -->
     <td align="center">
@@ -551,7 +551,7 @@
     <!-- End of column-7 -->
   </tr>
 
-  <!-- Start of Row-6 -->
+  <!-- Start of Row-7 -->
   <tr>
     <!-- Start of column-1 -->
     <td align="center">
@@ -639,7 +639,7 @@
     <!-- End of column-7 -->
   </tr>
 
-  <!-- Start of Row-7 -->
+  <!-- Start of Row-8 -->
   <tr>
     <!-- Start of column-1 -->
     <td align="center">
@@ -726,7 +726,8 @@
 </td>
 <!-- End of column-7 -->
 
- <!-- Start of Row-8 -->
+
+ <!-- Start of Row-9 -->
   <tr>
 <!-- Start of column-1 -->
 <td align="center">
@@ -740,5 +741,17 @@
   </a>
 </td>
 <!-- End of column-1 -->
+<!-- Start of column-2 -->
+<td align="center">
+  <a href="https://github.com/ignoreintuition">
+    <img
+      src="https://avatars.githubusercontent.com/u/5210420?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Brian Greig</sub>
+  </a>
+</td>
+<!-- End of column-2 -->
   </tr>
 </table>
