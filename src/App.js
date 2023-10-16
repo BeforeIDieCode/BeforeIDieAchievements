@@ -39,8 +39,8 @@ const App = () => {
   return (
     <React.Fragment>
       {scrollToTopBtn()}
-      <RandomContributors />
       <Header />
+      <RandomContributors />
       <div
         className="flex justify-content-center"
         style={{ marginTop: "50px", padding: "50px" }}
