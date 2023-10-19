@@ -765,7 +765,19 @@
   </a>
 </td>
 <!-- End of column-3 -->
-<!-- Start of column-4-->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/dheerajydv19">
+    <img
+      src="https://avatars.githubusercontent.com/u/104244227?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Dheeraj Yadav</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
+<!-- Start of column-5-->
 <td align="center">
   <a href="https://github.com/harmit17">
     <img
@@ -776,6 +788,6 @@
     <sub>Harmit Chauhan</sub>
   </a>
 </td>
-<!-- End of column-4-->
+<!-- End of column-5-->
   </tr>
 </table>
