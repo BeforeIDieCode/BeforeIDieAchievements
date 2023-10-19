@@ -513,15 +513,6 @@
     "text": "Leave an impact on this Earth with my skills!"
   },
   {
-    "id": "Awonuga Oluwapelumi",
-    "image": "img/bid_image/Awonuga_Oluwapelumi .JPG",
-    "avatar": "img/avatar/Awonuga_Oluwapelumi .JPG",
-    "name": "Awonuga Oluwapelumi",
-    "location": "Lagos, Nigeria 🇳🇬",
-    "GitHub": "https://github.com/DunniO",
-    "text": "I want to feel fulfilled."
-  },
-  {
     "id": "Ankush Kumar",
     "image": "img/bid_image/Ankush_Kumar.jpg",
     "avatar": "img/avatar/Ankush_Kumar.jpeg",
@@ -583,5 +574,14 @@
     "location": "Toronto, Canada, 🇨🇦",
     "GitHub": "https://github.com/harmit17",
     "text": "I aspire to live a life without regrets, fulfilling my dreams and making my parents proud. With the limited time I have, I want to pursue numerous passions and make the most of the opportunities."
+  },
+  {
+    "id": "Dheeraj Yadav",
+    "image": "img/bid_image/dheeraj.jpg",
+    "avatar": "img/avatar/dheeraj.jpg",
+    "name": "Dheeraj Yadav",
+    "location": "Delhi, India 🇮🇳",
+    "GitHub": "https://github.com/dheerajydv19",
+    "text": "I want to donate 10M$ in charity by my own earnings."
   }
 ]
