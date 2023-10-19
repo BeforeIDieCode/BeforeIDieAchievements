@@ -777,5 +777,17 @@
   </a>
 </td>
 <!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/Blossomeze">
+    <img
+      src="https://avatars.githubusercontent.com/u/134979887?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Blossom Eze</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
   </tr>
 </table>
