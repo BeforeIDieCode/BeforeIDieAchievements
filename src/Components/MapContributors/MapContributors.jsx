@@ -6,6 +6,13 @@ import icon from 'leaflet/dist/images/marker-icon.png';
 import iconShadow from 'leaflet/dist/images/marker-shadow.png';
 import styles from './MapContributors.module.css';
 
+const getDifferentColors = () => {
+  const r = Math.floor(Math.random() * 256);
+  const g = Math.floor(Math.random() * 256);
+  const b = Math.floor(Math.random() * 256);
+  return `rgba(${r},${g},${b},0.8)`;
+};
+
 let DefaultIcon = L.icon({
     iconUrl: icon,
     shadowUrl: iconShadow
@@ -22,7 +29,7 @@ const MapWithMarkers = () => {
 
   return (
     <>
-    <p className={styles["contributor-title"]}>Location of Contributors</p>
+    <p className={styles["contributor-title"]} style={{color:`${getDifferentColors()}`}}>Location of Contributors</p>
     <MapContainer
       center={[0, 0]}
       zoom={2}
