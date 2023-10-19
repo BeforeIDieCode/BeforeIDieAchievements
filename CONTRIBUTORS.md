@@ -765,5 +765,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4-->
+<td align="center">
+  <a href="https://github.com/harmit17">
+    <img
+      src="https://avatars.githubusercontent.com/u/46776916?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Harmit Chauhan</sub>
+  </a>
+</td>
+<!-- End of column-4-->
   </tr>
 </table>
