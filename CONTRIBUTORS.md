@@ -726,6 +726,7 @@
 </td>
 <!-- End of column-7 -->
 
+
  <!-- Start of Row-9 -->
   <tr>
 <!-- Start of column-1 -->
@@ -776,46 +777,7 @@
   </a>
 </td>
 <!-- End of column-4 -->
-<!-- Start of column-5-->
-<td align="center">
-  <a href="https://github.com/harmit17">
-    <img
-      src="https://avatars.githubusercontent.com/u/46776916?v=4"
-      width="100px"
-    />
-    <br />
-    <sub>Harmit Chauhan</sub>
-  </a>
-</td>
-<!-- End of column-5-->
-<!-- Start of column-6-->
-<td align="center">
-  <a href="https://github.com/Blossomeze">
-    <img
-      src="https://avatars.githubusercontent.com/u/134979887?v=4"
-      width="100px"
-    />
-    <br />
-    <sub>Blossom Eze</sub>
-  </a>
-</td>
-<!-- End of column-6-->
-<!-- Start of column-7-->
-<td align="center">
-  <a href="https://github.com/VaibhavGagneja">
-    <img
-      src="https://avatars.githubusercontent.com/u/48119240?v=4"
-      width="100px"
-    />
-    <br />
-    <sub>Vaibhav Gagneja</sub>
-  </a>
-</td>
-<!-- End of column-7-->
-
-<!-- Start of Row-9 -->
-<tr>
-<!-- Start of column-1 -->
+<!-- Start of column-5 -->
 <td align="center">
   <a href="https://github.com/Luwa-Tech">
     <img
@@ -826,6 +788,6 @@
     <sub>Yusuf Umar Faruq</sub>
   </a>
 </td>
-<!-- End of column-1 -->
+<!-- End of column-5 -->
   </tr>
 </table>
