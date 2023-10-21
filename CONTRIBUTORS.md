@@ -814,4 +814,18 @@
 </td>
 <!-- End of column-7-->
   </tr>
+    <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/Luwa-Tech">
+    <img
+      src="https://avatars.githubusercontent.com/u/111466842?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Yusuf Umar Faruq</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+</tr>
 </table>
