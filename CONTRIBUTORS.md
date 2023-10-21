@@ -777,5 +777,17 @@
   </a>
 </td>
 <!-- End of column-4 -->
+<!-- Start of column-5 -->
+<td align="center">
+  <a href="https://github.com/Luwa-Tech">
+    <img
+      src="https://avatars.githubusercontent.com/u/111466842?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Yusuf Umar Faruq</sub>
+  </a>
+</td>
+<!-- End of column-5 -->
   </tr>
 </table>
