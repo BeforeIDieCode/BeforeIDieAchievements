@@ -4,6 +4,7 @@ $e2: cubic-bezier(0.6, 0.04, 0.98, 0.335);
 $er: linear;
 $color: hsl(250, 96%, 49%);
 $slides: 7;
+$width:450px;
 $images: url("../../../public/img/dummy_image/1.jpg")
   url("../../../public/img/dummy_image/2.jpg")
   url("../../../public/img/dummy_image/3.jpg")
@@ -23,6 +24,11 @@ header {
   flex-direction: column;
   gap: 10vmax;
   padding: 5vmin;
+  @media (max-width: $width) {
+    align-items: center;
+    justify-content: center;
+    // height: 100vh; // Optionally, set the height to 100vh to take up the full viewport height.
+  }
   .opensource__title {
     span {
       color: $color;
