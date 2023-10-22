@@ -815,3 +815,20 @@
 <!-- End of column-7-->
   </tr>
 </table>
+
+</tr>
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/itsayopapi">
+    <img
+      src="![Alt text](image.png)"
+      width="100px"
+    />
+    <br />
+    <sub>Ayomide Hassan</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+</tr>
+</table>
