@@ -689,5 +689,17 @@
   </a>
 </td>
 <!-- End of column-4 -->
+<!-- Start of column 5 -->
+<td align="center">
+  <a href="https://github.com/architO21">
+    <img
+      src="https://avatars.githubusercontent.com/u/97817943?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>YOUR_NAME</sub>
+  </a>
+</td>
+<!-- End of column-5-->
   </tr>
 </table>
