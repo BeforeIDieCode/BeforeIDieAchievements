@@ -601,14 +601,14 @@
     "location": "Zirakpur, Punjab, India 🇮🇳",
     "GitHub": "https://github.com/VaibhavGagneja",
     "text": "I want to become fashion influencer, Music artist before I die."
-  }
-  {
-    "id": "Shubhal Gupta",
-    "image": "img/bid_image/SHUBHAL_GUPTA.jpg",
-    "avatar": "img/avatar/SHUBHAL_GUPTA.jpg",
-    "name": "Shubhal Gupta",
-    "location": "Indore, Madhya Pradesh, India 🇮🇳",
-    "GitHub": "https://github.com/shubhalgupta",
-    "text": "Before I die, I want to be the best version of myself and inspire people around me to find the best version of themselves too."
-}
+  },
+   {
+      "id": "Shubhal Gupta",
+      "image": "img/bid_image/Shubhal_Gupta.jpg",
+      "avatar": "img/avatar/Shubhal_Gupta.jpg",
+      "name": "Shubhal Gupta",
+      "location": "Mumbai, India 🇮🇳 ",
+      "GitHub": "https://github.com/shubhalgupta",
+      "text": "I want to contribute to society."
+  }  
 ]

@@ -813,7 +813,9 @@
   </a>
 </td>
 <!-- End of column-7-->
-<!-- Start of column-8-->
+</tr>
+  <tr>
+<!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/shubhalgupta">
     <img
@@ -824,6 +826,6 @@
     <sub>Shubhal Gupta</sub>
   </a>
 </td>
-<!-- End of column-8 -->
+<!-- End of column-1 -->
 </tr>
 </table>
