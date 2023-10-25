@@ -7,7 +7,7 @@
   right: 0;
   background-color: #dad1d1;
   width: 70%;
-  z-index: 9999;
+  /* z-index: 9999; */
   margin: 1rem;
   border-radius: 16px;
   padding: 1rem;
