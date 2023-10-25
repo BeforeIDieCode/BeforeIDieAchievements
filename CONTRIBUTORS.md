@@ -726,7 +726,6 @@
 </td>
 <!-- End of column-7 -->
 
-
  <!-- Start of Row-9 -->
   <tr>
 <!-- Start of column-1 -->
@@ -815,7 +814,6 @@
 <!-- End of column-7-->
   </tr>
 
-
 <!-- Start of Row-10 -->
   <tr>
     <!-- Start of column-1 -->
@@ -830,5 +828,17 @@
       </a>
     </td>
     <!-- End of column-1 -->
+    <!-- Start of column-2 -->
+<td align="center">
+  <a href="https://github.com/Luwa-Tech">
+    <img
+      src="https://avatars.githubusercontent.com/u/111466842?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Yusuf Umar Faruq</sub>
+  </a>
+</td>
+<!-- End of column-2 -->
   </tr>
 </table>
