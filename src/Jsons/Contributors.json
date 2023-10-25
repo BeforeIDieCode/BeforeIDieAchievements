@@ -603,6 +603,7 @@
     "text": "I want to become fashion influencer, Music artist before I die."
   },
   {
+
     "id": "Ayomide Hassan",
     "image": "img/bid_image/Ayomide_Hassan.jpg",
     "avatar": "img/avatar/Ayomide_Hassan.jpg",
@@ -611,4 +612,23 @@
     "GitHub": "https://github.com/itsayopapi",
     "text": "As a 19-year-old frontend developer, I want to use my skills to create user-friendly and innovative web applications that positively impact people's lives. I aim to continuously learn and adapt to evolving technologies, collaborating with creative teams and making the internet a more engaging and accessible place."
 }
+
+    "id": "Elsha",
+    "image": "img/bid_image/elsha.JPG",
+    "avatar": "img/avatar/elsha.jpg",
+    "name": "Elsha",
+    "location": "Jakarta, Indonesia 🇮🇩",
+    "GitHub": "https://github.com/elshaek",
+    "text": "Make lives better"
+  },
+  {
+    "id": "Yusuf Umar Faruq",
+    "image": "img/bid_image/umar-faruq.jpg",
+    "avatar": "img/avatar/umar-faruq.jpg",
+    "name": "Yusuf Umar Faruq",
+    "location": "Kaduna, Nigeria 🇳🇬",
+    "GitHub": "https://github.com/Luwa-Tech",
+    "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
+  }
+ main
 ]
