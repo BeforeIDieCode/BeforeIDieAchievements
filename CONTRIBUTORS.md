@@ -725,6 +725,18 @@
   </a>
 </td>
 <!-- End of column-7 -->
+<!-- Start of column-8 -->
+<td align="center">
+  <a href="https://github.com/Akash-Jambulkar">
+    <img
+      src="public/img/avatar/AkashJambulkar.jpg"
+      width="100px"
+    />
+    <br />
+    <sub>Akash Jambulkar</sub>
+  </a>
+</td>
+<!-- End of column-8 -->
 
  <!-- Start of Row-9 -->
   <tr>
