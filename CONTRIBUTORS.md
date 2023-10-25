@@ -840,5 +840,17 @@
   </a>
 </td>
 <!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/nayakswadhin">
+    <img
+      src="https://avatars.githubusercontent.com/u/114871538?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Swadhin Kumar Nayak</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
   </tr>
 </table>
