@@ -19,6 +19,7 @@
 }
 
 .enlargedCardContainer {
+  padding: 0.5em;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -112,6 +113,7 @@
   .enlargedCardImage {
     width: auto;
     height: 50%;
+    margin: 0.5em;
     border-radius: 10px 10px 0 0;
   }
 
