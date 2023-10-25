@@ -822,7 +822,7 @@ Dev-ayo
 <td align="center">
   <a href="https://github.com/itsayopapi">
     <img
-      src="![Alt text](image.png)"
+      src="(https://avatars.githubusercontent.com/u/111683116?v=4)"
       width="100px"
     />
     <br />
