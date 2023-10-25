@@ -813,6 +813,25 @@
 </td>
 <!-- End of column-7-->
   </tr>
+Dev-ayo
+</table>
+
+</tr>
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/itsayopapi">
+    <img
+      src="(https://avatars.githubusercontent.com/u/111683116?v=4)"
+      width="100px"
+    />
+    <br />
+    <sub>Ayomide Hassan</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+</tr>
+</table>
 
 <!-- Start of Row-10 -->
   <tr>
@@ -842,3 +861,4 @@
 <!-- End of column-2 -->
   </tr>
 </table>
+ main
