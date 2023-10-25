@@ -619,5 +619,14 @@
     "location": "Kaduna, Nigeria 🇳🇬",
     "GitHub": "https://github.com/Luwa-Tech",
     "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
+  },
+  {
+    "id": "Swadhin",
+    "image": "img/bid_image/swadhin_nayak.jpeg",
+    "avatar": "img/avatar/swadhin_nayak.jpeg",
+    "name": "Swadhin",
+    "location": "Paradeep, Odisha, India 🇮🇳",
+    "GitHub": "https://github.com/nayakswadhin",
+    "text": "I want to see the tree that have been planted during hacktober fest in Africa"
   }
 ]
