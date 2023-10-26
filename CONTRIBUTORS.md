@@ -840,5 +840,17 @@
   </a>
 </td>
 <!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/Moniii333">
+    <img
+      src="https://avatars.githubusercontent.com/u/122705027?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Monique Avila</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
   </tr>
 </table>
