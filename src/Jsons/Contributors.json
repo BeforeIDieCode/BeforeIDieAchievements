@@ -610,5 +610,23 @@
     "location": "Indore, Madhya Pradesh, India 🇮🇳",
     "GitHub": "https://github.com/shubhalgupta",
     "text": "Before I die, I want to be the best version of myself and inspire people around me to find the best version of themselves too."
-}
+  },
+  {
+    "id": "Elsha",
+    "image": "img/bid_image/elsha.JPG",
+    "avatar": "img/avatar/elsha.jpg",
+    "name": "Elsha",
+    "location": "Jakarta, Indonesia 🇮🇩",
+    "GitHub": "https://github.com/elshaek",
+    "text": "Make lives better"
+  },
+  {
+    "id": "Yusuf Umar Faruq",
+    "image": "img/bid_image/umar-faruq.jpg",
+    "avatar": "img/avatar/umar-faruq.jpg",
+    "name": "Yusuf Umar Faruq",
+    "location": "Kaduna, Nigeria 🇳🇬",
+    "GitHub": "https://github.com/Luwa-Tech",
+    "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
+  }
 ]

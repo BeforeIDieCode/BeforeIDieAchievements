@@ -840,7 +840,7 @@
   </a>
 </td>
 <!-- End of column-2 -->
-<!-- Start of column-3-->
+<!-- Start of column-3 -->
 <td align="center">
   <a href="https://github.com/shubhalgupta">
     <img
