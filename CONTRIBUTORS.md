@@ -726,7 +726,6 @@
 </td>
 <!-- End of column-7 -->
 
-
  <!-- Start of Row-9 -->
   <tr>
 <!-- Start of column-1 -->
@@ -813,7 +812,35 @@
   </a>
 </td>
 <!-- End of column-7-->
-<!-- Start of column-8-->
+  </tr>
+
+<!-- Start of Row-10 -->
+  <tr>
+    <!-- Start of column-1 -->
+    <td align="center">
+      <a href="https://github.com/elshaek">
+        <img
+          src="https://github.com/elshaek.png"
+          width="100px"
+        />
+        <br />
+        <sub>Elsha</sub>
+      </a>
+    </td>
+    <!-- End of column-1 -->
+    <!-- Start of column-2 -->
+<td align="center">
+  <a href="https://github.com/Luwa-Tech">
+    <img
+      src="https://avatars.githubusercontent.com/u/111466842?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Yusuf Umar Faruq</sub>
+  </a>
+</td>
+<!-- End of column-2 -->
+<!-- Start of column-3-->
 <td align="center">
   <a href="https://github.com/shubhalgupta">
     <img
@@ -824,6 +851,6 @@
     <sub>Shubhal Gupta</sub>
   </a>
 </td>
-<!-- End of column-8 -->
-</tr>
+<!-- End of column-3 -->
+  </tr>
 </table>
