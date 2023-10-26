@@ -409,7 +409,7 @@
     "image": "img/bid_image/samejima.jpg",
     "avatar": "img/avatar/samejima.jpg",
     "name": "Samejima",
-    "location": "Philadelphia, Pennsylavania, USA 🇺🇸",
+    "location": "Philadelphia, Pennsylvania, USA 🇺🇸",
     "GitHub": "https://github.com/samejima-san",
     "text": "Improve my community through computer science."
   },
@@ -511,5 +511,113 @@
     "location": "Punjab, Pakistan 🇵🇰",
     "GitHub": "https://github.com/maazshakeel",
     "text": "Leave an impact on this Earth with my skills!"
+  },
+  {
+    "id": "Ankush Kumar",
+    "image": "img/bid_image/Ankush_Kumar.jpg",
+    "avatar": "img/avatar/Ankush_Kumar.jpeg",
+    "name": "Ankush Kumar",
+    "location": "Punjab, India 🇮🇳",
+    "GitHub": "https://github.com/imankush10/",
+    "text": "Make my parents proud."
+  },
+  {
+    "id": "Jay Prakash N Reddy",
+    "image": "img/bid_image/jay_prakash.jpg",
+    "avatar": "img/avatar/Jay_Prakash_N_Reddy.jpeg",
+    "name": "Jay Prakash N Reddy",
+    "location": "Hyderabad, India 🇮🇳",
+    "GitHub": "https://github.com/jayprakash25",
+    "text": "LIVE!!"
+  },
+  {
+    "id": "Yash_Jain",
+    "image": "img/bid_image/YASH_JAIN.jpg",
+    "avatar": "img/avatar/yashjain.jpg",
+    "name": "Yash Jain",
+    "location": "Uttar Pradesh, India 🇮🇳",
+    "GitHub": "https://github.com/yashj09",
+    "text": "I want to contribute to society."
+  },
+  {
+    "id": "Sunil Tajpuriya",
+    "image": "img/bid_image/Sunil_Tajpuriya.jpg",
+    "avatar": "img/avatar/Sunil_Tajpuriya.jpg",
+    "name": "Sunil Tajpuriya",
+    "location": "Jhapa, Nepal 🇳🇵",
+    "GitHub": "https://github.com/tajpuriya27",
+    "text": "I want to be a billionaire and make my parents proud!"
+  },
+  {
+    "id": "Brian Greig",
+    "image": "img/bid_image/Brian_Greig.jpg",
+    "avatar": "img/avatar/Brian_Greig.jpg",
+    "name": "Brian Greig",
+    "location": "Charlotte, North Carolina, USA 🇺🇸",
+    "GitHub": "https://github.com/ignoreintuition",
+    "text": "There comes a point in your life where you are no longer just looking to get ahead. At some point you examine your life and think about your legacy. I want my legacy to be that I did something worthwhile and impactful to the world for my children, for my friends and family, and for all the future generations."
+  },
+  {
+    "id": "Awonuga Oluwapelumi",
+    "image": "img/bid_image/Awonuga_Oluwapelumi.JPG",
+    "avatar": "img/avatar/Awonuga_Oluwapelumi.JPG",
+    "name": "Awonuga Oluwapelumi",
+    "location": "Lagos, Nigeria 🇳🇬",
+    "GitHub": "https://github.com/Dunni0",
+    "text": "I want to have lived before I die. I don't want to have just existed."
+  },
+  {
+    "id": "Harmit Chauhan",
+    "image": "img/bid_image/Harmit_Chauhan.jpg",
+    "avatar": "img/avatar/Harmit_Chauhan.jpg",
+    "name": "Harmit Chauhan",
+    "location": "Toronto, Canada, 🇨🇦",
+    "GitHub": "https://github.com/harmit17",
+    "text": "I aspire to live a life without regrets, fulfilling my dreams and making my parents proud. With the limited time I have, I want to pursue numerous passions and make the most of the opportunities."
+  },
+  {
+    "id": "Dheeraj Yadav",
+    "image": "img/bid_image/dheeraj.jpg",
+    "avatar": "img/avatar/dheeraj.jpg",
+    "name": "Dheeraj Yadav",
+    "location": "Delhi, India 🇮🇳",
+    "GitHub": "https://github.com/dheerajydv19",
+    "text": "I want to donate 10M$ in charity by my own earnings."
+  },
+  {
+    "id": "Blossom Eze",
+    "image": "img/bid_image/Blossomeze.jpg",
+    "avatar": "img/avatar/Blossomeze.jpg",
+    "name": "Blossom Eze",
+    "location": "Uyo, Akwa-Ibom, Nigeria 🇳🇬",
+    "GitHub": "https://github.com/Blossomeze",
+    "text": "I want to become the best version of myself and to become a voice in my generation."
+  },
+  {
+    "id": "Vaibhav Gagneja",
+    "image": "img/bid_image/Vaibhav_Gagneja.jpg",
+    "avatar": "img/avatar/Vaibhav_Gagneja.jpg",
+    "name": "Vaibhav Gagneja",
+    "location": "Zirakpur, Punjab, India 🇮🇳",
+    "GitHub": "https://github.com/VaibhavGagneja",
+    "text": "I want to become fashion influencer, Music artist before I die."
+  },
+  {
+    "id": "Elsha",
+    "image": "img/bid_image/elsha.JPG",
+    "avatar": "img/avatar/elsha.jpg",
+    "name": "Elsha",
+    "location": "Jakarta, Indonesia 🇮🇩",
+    "GitHub": "https://github.com/elshaek",
+    "text": "Make lives better"
+  },
+  {
+    "id": "Yusuf Umar Faruq",
+    "image": "img/bid_image/umar-faruq.jpg",
+    "avatar": "img/avatar/umar-faruq.jpg",
+    "name": "Yusuf Umar Faruq",
+    "location": "Kaduna, Nigeria 🇳🇬",
+    "GitHub": "https://github.com/Luwa-Tech",
+    "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
   }
 ]
