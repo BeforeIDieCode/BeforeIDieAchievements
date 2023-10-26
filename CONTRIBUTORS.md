@@ -840,5 +840,17 @@
   </a>
 </td>
 <!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/codespace555">
+    <img
+      src="https://avatars.githubusercontent.com/u/123439464?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Naman Kumar</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
   </tr>
 </table>
