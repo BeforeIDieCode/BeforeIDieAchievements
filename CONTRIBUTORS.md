@@ -840,5 +840,17 @@
   </a>
 </td>
 <!-- End of column-2 -->
+<!-- Start of column-3 -->
+<td align="center">
+  <a href="https://github.com/shubhalgupta">
+    <img
+      src="https://avatars.githubusercontent.com/u/107386458?s=400&u=f15911fe08f15dc714d296ded7460311606ac91e&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Shubhal Gupta</sub>
+  </a>
+</td>
+<!-- End of column-3 -->
   </tr>
 </table>
