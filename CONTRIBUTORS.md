@@ -853,4 +853,21 @@
 </td>
 <!-- End of column-3 -->
   </tr>
+
+  </tr>
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/wasscodeur">
+    <img
+      src="https://avatars.githubusercontent.com/u/100234404?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Wachiou Bouraima</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+</tr>
+</table>
 </table>
