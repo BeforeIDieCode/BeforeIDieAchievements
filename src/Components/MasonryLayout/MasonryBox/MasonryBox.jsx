@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import styles from "./MasonryBox.module.css";
 import { PropTypes } from "prop-types";
 import i18next from "i18next";
@@ -14,7 +14,7 @@ const MasonryBox = ({
   userLocation,
   githubUrl,
   userText,
-  ipObj
+  ipObj,
 }) => {
   const [randomColor, setRandomColor] = useState();
   const [isEnlarged, setIsEnlarged] = useState(false);
@@ -39,7 +39,9 @@ const MasonryBox = ({
       } while (red + green + blue < minBrightness * 3);
 
       // Convert RGB values to a hexadecimal color
-      const color = `#${red.toString(16)}${green.toString(16)}${blue.toString(16)}`;
+      const color = `#${red.toString(16)}${green.toString(16)}${blue.toString(
+        16
+      )}`;
 
       return color;
     });
@@ -64,30 +66,54 @@ const MasonryBox = ({
 
   return (
     <div className={styles["masonry-card"]}>
-      <img src={wallSrc} style={{ width: "100%" }} alt="" onClick={toggleEnlarged} />
-      {isEnlarged &&
+      <img
+        src={wallSrc}
+        style={{ width: "100%" }}
+        alt=""
+        onClick={toggleEnlarged}
+      />
+      {isEnlarged && (
         <Modal onClose={toggleEnlarged}>
           <div className={styles.enlargedCardContainer}>
-            <img src={wallSrc} alt="" className={styles.enlargedCardImage} />
-            <div className={styles.enlargedCardText} style={userText.length <= 50 ? { width: "100%" } : null}>
+            <img
+              src={wallSrc}
+              alt=""
+              className={styles.enlargedCardImage}
+            />
+            <div
+              className={styles.enlargedCardText}
+              style={userText.length <= 50 ? { width: "100%" } : null}
+            >
               <h3>{BIDText}</h3>
               <div style={{ position: "relative" }}>
                 <p style={{ color: randomColor }}>{userText}</p>
               </div>
-              <div style={{
-                display: "flex",
-                flexDirection: "row",
-                margin: "10px",
-                justifyContent: "space-evenly",
-                alignItems: "center",
-                gap: "15px"
-              }}>
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "row",
+                  margin: "10px",
+                  justifyContent: "space-evenly",
+                  alignItems: "center",
+                  gap: "15px",
+                }}
+              >
                 <div className={styles["masonry-card-user-prof"]}>
-                  <a href={githubUrl ? githubUrl : ''} target="_blank" rel="noopener noreferrer">
-                    <img src={userProf} alt="" className={styles["clickable"]} />
+                  <a
+                    href={githubUrl ? githubUrl : ""}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src={userProf}
+                      alt=""
+                      className={styles["clickable"]}
+                    />
                   </a>
                 </div>
-                <div className={`${styles["masonry-card-user-prof-desc"]} flex flex-column`}>
+                <div
+                  className={`${styles["masonry-card-user-prof-desc"]} flex flex-column`}
+                >
                   <h1>{userName}</h1>
                   <h3>{userLocation}</h3>
                 </div>
@@ -98,24 +124,36 @@ const MasonryBox = ({
             </div>
           </div>
         </Modal>
-      }
+      )}
       {isUserTextVisible && (
         <div className={`${styles["masonry-card-description"]} flex`}>
-          <div className={`${styles["masonry-card-user-box"]} flex align-items-center`}>
+          <div
+            className={`${styles["masonry-card-user-box"]} flex align-items-center`}
+          >
             <div className={styles["masonry-card-user-prof"]}>
-              <a href={githubUrl ? githubUrl : ''} target="_blank" rel="noopener noreferrer">
-                <img src={userProf} alt="" className={styles["clickable"]} />
+              <a
+                href={githubUrl ? githubUrl : ""}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src={userProf}
+                  alt=""
+                  className={styles["clickable"]}
+                />
               </a>
             </div>
-            <div className={`${styles["masonry-card-user-prof-desc"]} flex flex-column`}>
+            <div
+              className={`${styles["masonry-card-user-prof-desc"]} flex flex-column`}
+            >
               <h1>{userName}</h1>
               <h3>{userLocation}</h3>
             </div>
           </div>
         </div>
       )}
-    </div >
-  )
+    </div>
+  );
 };
 
 MasonryBox.propTypes = {
