@@ -72,8 +72,8 @@
       </a>
     </td>
     <!-- End of column -->
-     <!-- Start of column -->
-      <td align="center">
+    <!-- Start of column -->
+    <td align="center">
       <a href="https://github.com/Sahilll15">
         <img
           src="https://avatars.githubusercontent.com/u/109215419?v=4"
@@ -83,6 +83,14 @@
         <sub>Sahil Chalke</sub>
       </a>
     </td>
-      <!-- End of column -->
+    <!-- End of column -->
+    <!-- Start of column -->
+    <td align="center">
+      <a href="https://github.com/mhz1990">
+        <img src="https://avatars.githubusercontent.com/u/125093054?v=4" width="100px"> <br/>
+        <sub>Matt Hoadley</sub>
+      </a>
+    </td>
+    <!-- End of column -->
   </tr>
 </table>
