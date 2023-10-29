@@ -36,6 +36,14 @@
       </a>
     </td>
     <!-- End of column-4 -->
+    <!-- Start of column-5 -->
+    <td align="center">
+      <a href="https://github.com/mhz1990">
+        <img src="https://avatars.githubusercontent.com/u/125093054?v=4" width="100px"> <br/>
+        <sub>Matt Hoadley</sub>
+      </a>
+    </td>
+    <!-- End of column-5 -->
     <!-- Start of column -->
     <td align="center">
       <a href="https://github.com/69966969">
@@ -81,14 +89,6 @@
         />
         <br />
         <sub>Sahil Chalke</sub>
-      </a>
-    </td>
-    <!-- End of column -->
-    <!-- Start of column -->
-    <td align="center">
-      <a href="https://github.com/mhz1990">
-        <img src="https://avatars.githubusercontent.com/u/125093054?v=4" width="100px"/> <br/>
-        <sub>Matt Hoadley</sub>
       </a>
     </td>
     <!-- End of column -->
