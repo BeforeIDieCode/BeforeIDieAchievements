@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/monsor3s">
+    <img
+      src="https://avatars.githubusercontent.com/u/64220885?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>monsor3s</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
