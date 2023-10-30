@@ -853,4 +853,18 @@
 </td>
 <!-- End of column-3 -->
   </tr>
+  <tr>
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/lordeadroid">
+    <img
+      src="https://avatars.githubusercontent.com/u/130520887?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Rishabh Rawat</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
+</tr>
 </table>
