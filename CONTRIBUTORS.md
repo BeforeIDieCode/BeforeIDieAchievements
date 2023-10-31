@@ -829,28 +829,41 @@
     </td>
     <!-- End of column-1 -->
     <!-- Start of column-2 -->
-<td align="center">
-  <a href="https://github.com/Luwa-Tech">
-    <img
-      src="https://avatars.githubusercontent.com/u/111466842?v=4"
-      width="100px"
-    />
-    <br />
-    <sub>Yusuf Umar Faruq</sub>
-  </a>
-</td>
-<!-- End of column-2 -->
-<!-- Start of column-3 -->
-<td align="center">
-  <a href="https://github.com/shubhalgupta">
-    <img
-      src="https://avatars.githubusercontent.com/u/107386458?s=400&u=f15911fe08f15dc714d296ded7460311606ac91e&v=4"
-      width="100px"
-    />
-    <br />
-    <sub>Shubhal Gupta</sub>
-  </a>
-</td>
-<!-- End of column-3 -->
+    <td align="center">
+      <a href="https://github.com/Luwa-Tech">
+        <img
+          src="https://avatars.githubusercontent.com/u/111466842?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Yusuf Umar Faruq</sub>
+      </a>
+    </td>
+    <!-- End of column-2 -->
+    <!-- Start of column-3 -->
+    <td align="center">
+      <a href="https://github.com/shubhalgupta">
+        <img
+          src="https://avatars.githubusercontent.com/u/107386458?s=400&u=f15911fe08f15dc714d296ded7460311606ac91e&v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Shubhal Gupta</sub>
+      </a>
+    </td>
+    <!-- End of column-3 -->
+    <!-- Start of column-4 -->
+    <td align="center">
+      <a href="https://github.com/MattPahuta">
+        <img
+          src="https://avatars.githubusercontent.com/u/34079276?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Matt Pahuta</sub>
+      </a>
+    </td>
+    <!-- End of column-4 -->
+
   </tr>
 </table>
