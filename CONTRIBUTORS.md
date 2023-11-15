@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/StrukovSergei">
+    <img
+      src="https://avatars.githubusercontent.com/u/135115474?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Strukov Sergei</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
