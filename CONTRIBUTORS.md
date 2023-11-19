@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/WestBeast08">
+    <img
+      src="https://avatars.githubusercontent.com/u/151108865?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Leo Brooks</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
