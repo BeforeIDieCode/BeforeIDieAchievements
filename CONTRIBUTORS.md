@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4-->
+<td align="center">
+  <a href="https://github.com/tikpeme">
+    <img
+      src="https://avatars.githubusercontent.com/u/51767503?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tete Ikpeme</sub>
+  </a>
+</td>
+<!-- End of column-4-->
   </tr>
 </table>
