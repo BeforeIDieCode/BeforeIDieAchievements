@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/dhrubaDC1">
+    <img
+      src="https://avatars.githubusercontent.com/u/45314506?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Dhruba Chakraborty</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
