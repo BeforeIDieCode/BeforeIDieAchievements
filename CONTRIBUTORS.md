@@ -862,7 +862,7 @@
       width="100px"
     />
     <br />
-    <sub>YOUR_NAME</sub>
+    <sub>Pepo Banchev</sub>
   </a>
 </td>
 <!-- End of column-1 -->
