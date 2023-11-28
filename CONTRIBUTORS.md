@@ -852,5 +852,21 @@
   </a>
 </td>
 <!-- End of column-3 -->
+</tr>
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/pepoloco">
+    <img
+      src="https://avatars.githubusercontent.com/u/56348332?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>YOUR_NAME</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+</tr>
+</table>
   </tr>
 </table>
