@@ -854,3 +854,15 @@
 <!-- End of column-3 -->
   </tr>
 </table>
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/bowen-anth">
+    <img
+      src="https://avatars.githubusercontent.com/u/55641437?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tony Bowen</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
