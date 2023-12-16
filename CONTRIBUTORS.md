@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/IoannisTachydromidis">
+    <img
+      src="https://avatars.githubusercontent.com/u/82705941?s=400&u=03eadba9a39b75984ed06657ac4b217ec3b0dd2b&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ioannis Tachydromidis</sub>
+  </a>
+</td>
+<!-- End of column -->
   </tr>
 </table>
