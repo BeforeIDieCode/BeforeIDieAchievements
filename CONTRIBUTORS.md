@@ -852,5 +852,18 @@
   </a>
 </td>
 <!-- End of column-3 -->
-  </tr>
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/TechSis01">
+    <img
+      src="https://avatars.githubusercontent.com/u/97944210?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Queendoline Akpan</sub>
+  </a>
+</td>
+<!-- End of column -->
+</tr>
+  
 </table>
