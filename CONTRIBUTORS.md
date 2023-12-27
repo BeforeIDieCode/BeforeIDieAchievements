@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/doma2k">
+    <img
+      src="https://avatars.githubusercontent.com/doma2k"
+      width="100px"
+    />
+    <br />
+    <sub>Doma Kyrylo</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
