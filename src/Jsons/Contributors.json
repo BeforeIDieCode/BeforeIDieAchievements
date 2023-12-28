@@ -628,5 +628,14 @@
     "location": "Kaduna, Nigeria 🇳🇬",
     "GitHub": "https://github.com/Luwa-Tech",
     "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
-  }
+  },
+  {
+    "id": "Zachary Johnson",
+    "image": "img/bid_image/GlacierNP.jpg",
+    "avatar": "img/avatar/Zach-Johnson.jpg",
+    "name": "Zachary Johnson",
+    "location": "Hamilton, Montana, USA 🇺🇸",
+    "GitHub": "https://github.com/42Zach",
+    "text": "I am very curious and like to figure out why and how things work. In my free time, I like to explore new technologies. I have experience with MySQL, React, Node, and more! Currently, I'm a student pursuing my Bachelor's in software engineering."
+}
 ]

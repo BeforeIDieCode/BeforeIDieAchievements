@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/42Zach">
+    <img
+      src="https://avatars.githubusercontent.com/u/147438353?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Zachary Johnson</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
