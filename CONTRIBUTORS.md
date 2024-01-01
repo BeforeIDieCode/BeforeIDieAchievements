@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+  <!-- Start of column-4 -->
+    <td align="center">
+      <a href="https://github.com/Spenderr">
+        <img
+          src="https://avatars.githubusercontent.com/u/75229686?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Ahmed Patel</sub>
+      </a>
+    </td>
+    <!-- End of column-4 -->
   </tr>
 </table>
