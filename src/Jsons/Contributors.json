@@ -628,5 +628,14 @@
     "location": "Kaduna, Nigeria 🇳🇬",
     "GitHub": "https://github.com/Luwa-Tech",
     "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
-  }
+  },
+  {
+  "id": "haruki_oy",
+  "image": "img/bid_image/haruki_oy.jpg",
+  "avatar": "img/avatar/haruki_oy.jpg",
+  "name": "Yirii Haruki",
+  "location": "Kyiv, Ukraine \uD83C\uDDFA\uD83C\uDDE6",
+  "GitHub": "https://github.com/Reecure",
+  "text": "Building a groundbreaking app, contributing to open source projects."
+}
 ]
