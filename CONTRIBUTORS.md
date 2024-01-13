@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+    <!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/DanonymousCoder">
+    <img
+      src="https://avatars.githubusercontent.com/u/128502434?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ridwanullah Baruwa DanonymousCoder</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
