@@ -852,5 +852,19 @@
   </a>
 </td>
 <!-- End of column-3 -->
-  </tr>
+</tr>
+  <tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/victuseze">
+    <img
+      src="https://avatars.githubusercontent.com/u/106381679?s=400&u=00cdf97719095129c652891f18c4d88eb5ff685d&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Victus Eze</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+</tr>
 </table>
