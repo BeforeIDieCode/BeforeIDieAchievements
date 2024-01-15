@@ -852,5 +852,15 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<td align="center">
+  <a href="https://github.com/tayobaki">
+    <img
+      src="https://avatars.githubusercontent.com/u/109907707?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Olowosale Tayo</sub>
+  </a>
+</td>
   </tr>
 </table>
