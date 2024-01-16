@@ -815,7 +815,7 @@
   </tr>
 
 <!-- Start of Row-10 -->
-  <tr>
+  <>
     <!-- Start of column-1 -->
     <td align="center">
       <a href="https://github.com/elshaek">
@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
-  </tr>
+<!-- Start of column-1 -->
+<td align="center">
+  <a href="https://github.com/victuseze">
+    <img
+      src="https://avatars.githubusercontent.com/u/106381679?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Victus Eze</sub>
+  </a>
+</td>
+<!-- End of column-1 -->
+</tr>
 </table>
