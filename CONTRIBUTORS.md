@@ -815,7 +815,7 @@
   </tr>
 
 <!-- Start of Row-10 -->
-  <tr>
+  <>
     <!-- Start of column-1 -->
     <td align="center">
       <a href="https://github.com/elshaek">
@@ -852,13 +852,11 @@
   </a>
 </td>
 <!-- End of column-3 -->
-</tr>
-  <tr>
 <!-- Start of column-1 -->
 <td align="center">
   <a href="https://github.com/victuseze">
     <img
-      src="https://avatars.githubusercontent.com/u/106381679?s=400&u=00cdf97719095129c652891f18c4d88eb5ff685d&v=4"
+      src="https://avatars.githubusercontent.com/u/106381679?v=4"
       width="100px"
     />
     <br />
