@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/jonasermert">
+    <img
+      src="https://github.com/jonasermert"
+      width="100px"
+    />
+    <br />
+    <sub>Jonas Ermert</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>

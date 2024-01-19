@@ -628,5 +628,14 @@
     "location": "Kaduna, Nigeria 🇳🇬",
     "GitHub": "https://github.com/Luwa-Tech",
     "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
+  },
+  {
+    "id": "jonasermert",
+    "image": "img/bid_image/jonas_ermert.jpg",
+    "avatar": "img/avatar/jonas_ermert.jpg",
+    "name": "Jonas Ermert",
+    "location": "Erfurt, Germany 🇩🇪",
+    "GitHub": "https://github.com/jonasermert",
+    "text": "I love developing Flutter apps"
   }
 ]
