@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+<a href="https://github.com/lyonbett">
+<img
+src="https://avatars.githubusercontent.com/u/126583109?v=4"
+width="100px"
+/>
+<br />
+<sub>Lyon Bett</sub>
+</a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
