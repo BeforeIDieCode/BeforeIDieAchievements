@@ -628,5 +628,14 @@
     "location": "Kaduna, Nigeria 🇳🇬",
     "GitHub": "https://github.com/Luwa-Tech",
     "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
-  }
+  },
+  {
+    "id": "Mohmmad Ayesh",
+    "image": "img/bid_image/Mohmmad_Ayesh.jpg",
+    "avatar": "img/avatar/Mohmmad_Ayesh.jpg",
+    "name": "Mohmmad Ayesh",
+    "location": "Palestine, Gaza 🇵🇸",
+    "GitHub": "https://github.com/mohmmadAyesh",
+    "text": "I want to travel all over the world"
+}
 ]
