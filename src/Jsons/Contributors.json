@@ -628,5 +628,14 @@
     "location": "Kaduna, Nigeria 🇳🇬",
     "GitHub": "https://github.com/Luwa-Tech",
     "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
-  }
+  },
+  {
+    "id": "Benjamin Elliott",
+    "image": "img/bid_image/Benjamin_Elliott.jpg",
+    "avatar": "img/avatar/Benjamin_Elliott.jpg",
+    "name": "Benjamin Elliott",
+    "location": "Berlin, Germany 🇩🇪",
+    "GitHub": "https://github.com/benjamindotdev",
+    "text": "Use my skills to build tools for a new generation of developers."
+}
 ]
