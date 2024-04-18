@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/Gitstar-Om">
+    <img
+      src="https://avatars.githubusercontent.com/u/152989429?s=400&u=5de6087ed18e3e121476130f33dce7104c14c3cd&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Om Chandankar</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
