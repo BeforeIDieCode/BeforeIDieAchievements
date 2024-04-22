@@ -628,5 +628,14 @@
     "location": "Kaduna, Nigeria 🇳🇬",
     "GitHub": "https://github.com/Luwa-Tech",
     "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
+  },
+  {
+    "id": "Rogério",
+    "image": "img/bid_image/rj-dev.jpg",
+    "avatar": "img/avatar/rj-dev.jpg",
+    "name": "Rogério Jr",
+    "location": "Sanclerlândia, Brazil 🇧🇷",
+    "GitHub": "https://github.com/rogeriojr",
+    "text": "Conquer the universe with my command lines"
   }
 ]

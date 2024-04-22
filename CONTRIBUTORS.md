@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/rogeriojr">
+    <img
+      src="https://avatars.githubusercontent.com/u/12942310?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Rogério Júnior</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
