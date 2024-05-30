@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/mhmad-nr">
+    <img
+      src="https://avatars.githubusercontent.com/u/83580680?s=400&u=77c391b6fafeb08a9556a5c2ee62227c81fd0372&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Mohammd Norouzi</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
