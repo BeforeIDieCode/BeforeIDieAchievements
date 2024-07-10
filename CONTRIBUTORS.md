@@ -852,5 +852,15 @@
   </a>
 </td>
 <!-- End of column-3 -->
-  </tr>
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/chaitanya985">
+    <img
+      src="https://avatars.githubusercontent.com/chaitanya985"
+      width="100px"
+    />
+    <br />
+    <sub>Chaitanya</sub>
+  </a>
+</td>
 </table>
