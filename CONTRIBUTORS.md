@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/RamonSerrano1848">
+    <img
+      src="https://avatars.githubusercontent.com/u/161138333?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Ramon Javier Serrano</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
