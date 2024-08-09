@@ -39,3 +39,11 @@ body {
 .justify-content-between {
   justify-content: space-between;
 }
+
+.bg-light-mode{
+  background-color: rgb(241, 241, 241) !important;
+}
+
+.text-light-mode{
+  color: rgb(0, 0, 0) !important;
+}

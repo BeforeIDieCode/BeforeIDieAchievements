@@ -1,5 +1,7 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
+import { Provider } from 'react-redux'
+import store from './Redux/Store/Store.js'
 import App from './App';
 import Contributors from './pages/Contributors';
 import LocationContributorsMap from './pages/LocationContributorsMap';
@@ -23,15 +25,17 @@ const router = createBrowserRouter([
   },
   {
     path: "/Contributors",
-    element: <Contributors/>,
+    element: <Contributors />,
   },
   {
     path: "/contributors-map",
-    element: <LocationContributorsMap/>,
+    element: <LocationContributorsMap />,
   },
 ]);
 root.render(
-<React.StrictMode>
-<RouterProvider router={router} />
-</React.StrictMode>
+  <React.StrictMode>
+    <Provider store={store}>
+      <RouterProvider router={router} />
+    </Provider>
+  </React.StrictMode>
 );

@@ -5,9 +5,13 @@ import ContainerCard from "./Components/ContainerCard/ContainerCard";
 import Contributors from "./Jsons/Contributors.json";
 import Footer from "./Components/Footer/Footer";
 import RandomContributors from "./Components/randomcontributor/RandomContributors";
+import { useSelector } from "react-redux";
+import { getToggle } from "./Redux/Slices/ModeToggle";
 
 const App = () => {
   const [showButton, setShowButton] = useState(false);
+  const mode = useSelector(getToggle);
+
   const handleScrollToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
@@ -43,7 +47,7 @@ const App = () => {
       <RandomContributors />
       <div
         className="flex justify-content-center"
-        style={{ marginTop: "50px", padding: "50px" }}
+        style={{ marginTop: "50px", padding: "50px", backgroundColor: mode ? "white" : "" }}
       >
         <ContainerCard>
           <MasonryLayout users={Contributors} />

@@ -1,18 +1,18 @@
 .button {
-    padding: 14px 21px;
-    border-radius: 16px;
-    cursor: pointer;
-  }
+  padding: 14px 21px;
+  border-radius: 16px;
+  cursor: pointer;
+}
 
-  .button.matrix {
-    background-color: #006DFF;
-    transition: .5s;
-  }
+.button.matrix {
+  background-color: #006DFF;
+  transition: .5s;
+}
 
-  .button.matrix:hover {
-    filter: brightness(1);
-  }
+.button.matrix:hover {
+  filter: brightness(1);
+}
 
-  .button:hover {
-    background-color: #FEEA3A;
-  }
+.button:hover {
+  background-color: #FEEA3A;
+}

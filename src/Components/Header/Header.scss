@@ -4,31 +4,28 @@ $e2: cubic-bezier(0.6, 0.04, 0.98, 0.335);
 $er: linear;
 $color: hsl(250, 96%, 49%);
 $slides: 7;
-$width:450px;
-$images: url("../../../public/img/dummy_image/1.jpg")
-  url("../../../public/img/dummy_image/2.jpg")
-  url("../../../public/img/dummy_image/3.jpg")
-  url("../../../public/img/dummy_image/4.jpg")
-  url("../../../public/img/dummy_image/6.jpg")
-  url("../../../public/img/dummy_image/7.jpg")
-  url("../../../public/img/dummy_image/5.jpg");
+$width: 450px;
+$images: url("../../../public/img/dummy_image/1.jpg") url("../../../public/img/dummy_image/2.jpg") url("../../../public/img/dummy_image/3.jpg") url("../../../public/img/dummy_image/4.jpg") url("../../../public/img/dummy_image/6.jpg") url("../../../public/img/dummy_image/7.jpg") url("../../../public/img/dummy_image/5.jpg");
 
 header {
   background-color: #09090a;
   height: 100vh;
   flex-direction: row-reverse;
 }
+
 .text__container {
   flex-basis: 30%;
   display: flex;
   flex-direction: column;
   gap: 10vmax;
   padding: 5vmin;
+
   @media (max-width: $width) {
     align-items: center;
     justify-content: center;
     // height: 100vh; // Optionally, set the height to 100vh to take up the full viewport height.
   }
+
   .opensource__title {
     span {
       color: $color;
@@ -38,6 +35,7 @@ header {
       animation-delay: calc($t / 17);
     }
   }
+
   .github__section {
     font-family: "Roboto Mono", sans-serif;
     font-size: 3vmin;
@@ -45,6 +43,7 @@ header {
     color: #efe4e4;
     position: relative;
     top: -80px;
+
     span {
       line-height: 2vmax;
       letter-spacing: 0.5vmax;
@@ -67,12 +66,44 @@ header {
       line-height: 1;
       transform: translate3d(0.5vmin, -0.5vmin, 0);
       transition: all 100ms linear;
+
       &:hover {
         transform: translate3d(1vmin, -1vmin, 0);
         box-shadow: -1vmin 1vmin 0 rgba(white, 0.5);
         background: white;
         color: black;
       }
+
+      &:active {
+        transform: translate3d(0px, 0px, 0);
+        box-shadow: -0px 0px 0 rgba(white, 0.5);
+      }
+    }
+
+    .light-button {
+      text-decoration: none;
+      text-transform: uppercase;
+      display: inline-block;
+      position: relative;
+      border: 3px solid black;
+      box-shadow: -0.5vmin 0.5vmin 0 rgba(black, 0.5);
+      background: transparent;
+      margin-top: 5vmin;
+      color: black;
+      padding: 3vmin 3vmin 2.4vmin 3vmin;
+      letter-spacing: 0.2em;
+      text-shadow: none;
+      line-height: 1;
+      transform: translate3d(0.5vmin, -0.5vmin, 0);
+      transition: all 100ms linear;
+
+      &:hover {
+        transform: translate3d(1vmin, -1vmin, 0);
+        box-shadow: -1vmin 1vmin 0 rgba(white, 0.5);
+        background: white;
+        color: black;
+      }
+
       &:active {
         transform: translate3d(0px, 0px, 0);
         box-shadow: -0px 0px 0 rgba(white, 0.5);
@@ -80,9 +111,20 @@ header {
     }
   }
 }
+
 .animation__container {
   position: relative;
   flex-basis: 70%;
+}
+
+.mode-toggle {
+  background-color: white;
+  padding: 5px;
+  border-radius: 50%;
+  position: fixed;
+  margin: 15px;
+  z-index: 999;
+  cursor: pointer;
 }
 
 .untitled {
@@ -115,10 +157,12 @@ header {
 
       pointer-events: auto;
     }
+
     &:before {
       bottom: 50%;
       animation: openTop $t * 2 infinite;
     }
+
     &:after {
       top: 50%;
       animation: openBottom $t * 2 infinite;
@@ -140,10 +184,12 @@ header {
     width: 100%;
     opacity: 0;
     animation: showHideSlide infinite $t * $slides * 2 steps(1);
+
     @for $i from 1 through $slides {
       &:nth-child(#{$i}) {
         animation-delay: $t * ($i - 1) * 2;
         object-fit: cover;
+
         .untitled__slideBg {
           background-image: nth($images, $i);
         }
@@ -166,6 +212,7 @@ header {
     z-index: -1;
     animation: bgInOut 4s -4s infinite;
   }
+
   &__slideContent {
     position: absolute;
     top: 50%;
@@ -177,6 +224,7 @@ header {
     z-index: 2;
     opacity: 1;
     text-shadow: #feea3a 5px 10px 10px;
+
     span {
       display: block;
       font-size: 12vmin;
@@ -190,44 +238,56 @@ header {
     transform: translate3d(-50%, 0, 0);
     animation-timing-function: $e1;
   }
+
   40% {
     transform: translate3d(-50%, -65vmax, 0);
     animation-timing-functon: $e2;
   }
+
   70% {
     transform: translate3d(-50%, -65vmax, 0);
     animation-timing-functon: $e2;
   }
+
   100% {
     transform: translate3d(-50%, 0, 0);
     animation-timing-function: $e2;
   }
 }
+
 @keyframes rotateHue {
   0% {
     filter: hue-rotate(0deg);
   }
+
   20% {
     filter: hue-rotate(45deg);
   }
+
   25% {
     filter: hue-rotate(90deg);
   }
+
   45% {
     filter: hue-rotate(135deg);
   }
+
   50% {
     filter: hue-rotate(180deg);
   }
+
   70% {
     filter: hue-rotate(225deg);
   }
+
   75% {
     filter: hue-rotate(270deg);
   }
+
   95% {
     filter: hue-rotate(315deg);
   }
+
   100% {
     filter: hue-rotate(360deg);
   }
@@ -237,23 +297,28 @@ header {
   0% {
     transform: rotate(0deg);
   }
+
   100% {
     transform: rotate(180deg);
   }
 }
+
 @keyframes openBottom {
   0% {
     transform: translate3d(-50%, 0, 0);
     animation-timing-function: $e1;
   }
+
   40% {
     transform: translate3d(-50%, 65vmax, 0);
     animation-timing-functon: $e2;
   }
+
   70% {
     transform: translate3d(-50%, 65vmax, 0);
     animation-timing-functon: $e2;
   }
+
   100% {
     transform: translate3d(-50%, 0, 0);
     animation-timing-function: $e2;
@@ -266,11 +331,13 @@ header {
     pointer-events: auto;
     z-index: 1;
   }
+
   #{ calc(100% / $slides)} {
     opacity: 0;
     pointer-events: none;
     z-index: -1;
   }
+
   100% {
     opacity: 0;
     pointer-events: none;
@@ -283,16 +350,20 @@ header {
     transform: rotate(-45deg) scale(1.1);
     animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
   }
+
   33% {
     transform: rotate(0deg);
   }
+
   50% {
     transform: rotate(0deg);
   }
+
   66% {
     transform: rotate(0deg);
     animation-timing-function: cubic-bezier(0.895, 0.03, 0.685, 0.22);
   }
+
   100% {
     transform: rotate(45deg) scale(0.9);
   }
