@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/JYoungeun">
+    <img
+      src="https://avatars.githubusercontent.com/u/37464219?s=400&u=1efcfb3158829eafbb1c9754b5814d54c0a0ed5a&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Peter Chin</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
