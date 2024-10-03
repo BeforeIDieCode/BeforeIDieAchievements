@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/hagenderouen">
+    <img
+      src="https://avatars.githubusercontent.com/u/15806513?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Hagen DeRouen</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
