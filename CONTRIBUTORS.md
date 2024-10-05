@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+  <!-- Start of column-4 -->
+<td align="center">
+  <a href="hhttps://github.com/NanFangDieDao">
+    <img
+      src="https://raw.githubusercontent.com/NanFangDieDao/picc/refs/heads/main/Guo_Shuai.jpg"
+      width="100px"
+    />
+    <br />
+    <sub>Shuai Guo</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
