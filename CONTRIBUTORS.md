@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/omkarkhot0500">
+    <img
+      src="https://avatars.githubusercontent.com/u/123792999?s=400&u=9d25d3658098eed3789bf22e7ecab37131e3830b&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Omkar Khot</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
