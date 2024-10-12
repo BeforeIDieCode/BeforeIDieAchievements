@@ -16,35 +16,48 @@ $images: url("../../../public/img/dummy_image/1.jpg")
 header {
   background-color: #09090a;
   height: 100vh;
+  width: 100%;
+  display: flex;
   flex-direction: row-reverse;
+
+  @media (max-width: 900px) {
+    flex-direction: row;
+  }
 }
+
 .text__container {
   flex-basis: 30%;
   display: flex;
   flex-direction: column;
-  gap: 10vmax;
+  gap: 5vmax;
   padding: 5vmin;
+
   @media (max-width: $width) {
     align-items: center;
     justify-content: center;
-    // height: 100vh; // Optionally, set the height to 100vh to take up the full viewport height.
   }
+
+  @media (max-width: 900px) {
+    display: none;
+  }
+
   .opensource__title {
     span {
       color: $color;
       font-family: "Mefika", sans-serif;
-      font-size: 5vmax;
+      font-size: 4vmax;
       animation: rotateHue infinite $t * $slides * 2 linear;
       animation-delay: calc($t / 17);
     }
   }
+
   .github__section {
     font-family: "Roboto Mono", sans-serif;
     font-size: 3vmin;
     font-weight: 800;
     color: #efe4e4;
-    position: relative;
     top: -80px;
+  
     span {
       line-height: 2vmax;
       letter-spacing: 0.5vmax;
@@ -67,6 +80,7 @@ header {
       line-height: 1;
       transform: translate3d(0.5vmin, -0.5vmin, 0);
       transition: all 100ms linear;
+
       &:hover {
         transform: translate3d(1vmin, -1vmin, 0);
         box-shadow: -1vmin 1vmin 0 rgba(white, 0.5);
@@ -80,9 +94,89 @@ header {
     }
   }
 }
+
+.navbar {
+  display: none; 
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  width: 100%;
+  background-color: #09090a;
+  position: absolute; 
+  top: 0; 
+  z-index: 10; 
+
+  @media (max-width: 900px) {
+    display: flex; 
+    width: 100%; 
+  }
+
+  .opensource__title {
+    span {
+      color: $color;
+      font-family: "Mefika", sans-serif;
+      font-size: 4vmax;
+      animation: rotateHue infinite $t * $slides * 2 linear;
+      animation-delay: calc($t / 17);
+    }
+  }
+
+  .hamburger {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+    .bar {
+      width: 25px;
+      height: 3px;
+      background-color: white;
+      transition: 0.3s;
+    }
+
+    .bar.open:nth-child(1) {
+      transform: rotate(45deg) translate(5px, 5px);
+    }
+    
+    .bar.open:nth-child(2) {
+      opacity: 0;
+    }
+    
+    .bar.open:nth-child(3) {
+      transform: rotate(-45deg) translate(5px, -5px);
+    }
+  }
+
+  .menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: #09090a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    a {
+      color: white;
+      padding: 1rem;
+      text-decoration: none;
+      width: 100%; 
+      text-align: center; 
+      
+      &:hover {
+        color: $color;
+      }
+    }
+  }
+}
+
+//Animations part of the header
 .animation__container {
   position: relative;
-  flex-basis: 70%;
+  flex-basis: 100%;
+  width: 100%;
 }
 
 .untitled {
@@ -183,8 +277,13 @@ header {
       font-family: "Mefika", sans-serif;
     }
   }
+
+  @media (max-width: 900px) {
+    flex-basis: 100%; 
+  }
 }
 
+//Animations
 @keyframes openTop {
   0% {
     transform: translate3d(-50%, 0, 0);

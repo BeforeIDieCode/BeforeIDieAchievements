@@ -14,57 +14,81 @@ import RandomContributors from "../randomcontributor/RandomContributors";
 
 // Header component
 const Header = () => {
-  const [isMobile, setIsMobile] = useState(window.innerWidth > 640);
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= 900);
+  const [menuOpen, setMenuOpen] = useState(false);
 
   useEffect(() => {
-    function handleSize() {
-      setIsMobile(window.innerWidth > 640);
+    function handleResize() {
+      setIsMobile(window.innerWidth <= 900);
     }
-    window.addEventListener("resize", handleSize);
-
+    window.addEventListener("resize", handleResize);
     return () => {
-      window.removeEventListener("resize", handleSize);
+      window.removeEventListener("resize", handleResize);
     };
   }, []);
-  return (
-    <header className={`flex`}>
-      <div className="text__container">
-        <div className="opensource__title">
-          <span>
-            An Open<br></br> Source<br></br> Project
-          </span>
-        </div>
 
-        <div className="github__section">
-          <div>
+  const toggleMenu = () => {
+    setMenuOpen(!menuOpen);
+  };
+
+  return (
+    <header className={`header flex ${menuOpen ? 'menu-open' : ''}`}>
+      {isMobile ? (
+        <>
+          <div className="navbar">
+            <div className="opensource__title">
+              <span>
+                An Open Source Project
+              </span>
+            </div>
+            <div className="hamburger" onClick={toggleMenu}>
+              <div className={`bar ${menuOpen ? "open" : ""}`}></div>
+              <div className={`bar ${menuOpen ? "open" : ""}`}></div>
+              <div className={`bar ${menuOpen ? "open" : ""}`}></div>
+            </div>
+            {menuOpen && (
+              <div className="menu">
+                <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+                <a href="https://before-i-die-achievements.vercel.app/Contributors" target="_blank" rel="noopener noreferrer">Contributors List</a>
+                <a href="https://before-i-die-achievements.vercel.app/contributors-map" target="_blank" rel="noopener noreferrer">Contributors Map</a>
+              </div>
+            )}
+          </div>
+        </>
+      ) : (
+        <div className="text__container">
+          <div className="opensource__title">
             <span>
-              {" "}
-              Join us and <br></br>share your wish
+              An Open<br></br> Source<br></br> Project
             </span>
           </div>
-          <a
-            className="button"
-            href="https://github.com/BeforeIDieCode/BeforeIDieAchievements"
-            target="/black"
-          >
-            GitHub Repo
-          </a>
-          <a
-            className="button"
-            href="https://before-i-die-achievements.vercel.app/Contributors"
-            target="/black"
-          >
-            Contributors List
-          </a>
-          <a
-            className="button"
-            href="https://before-i-die-achievements.vercel.app/contributors-map"
-            target="/black"
-          >
-            Contributors Map
-          </a>
+
+          <div className="github__section">
+            <span>Join us and <br></br>share your wish</span>
+            <a
+              className="button"
+              href="https://github.com/BeforeIDieCode/BeforeIDieAchievements"
+              target="/black"
+            >
+              GitHub Repo
+            </a>
+            <a
+              className="button"
+              href="https://before-i-die-achievements.vercel.app/Contributors"
+              target="/black"
+            >
+              Contributors List
+            </a>
+            <a
+              className="button"
+              href="https://before-i-die-achievements.vercel.app/contributors-map"
+              target="/black"
+            >
+              Contributors Map
+            </a>
+          </div>
         </div>
-      </div>
+      )}
       <div className={"animation__container flex justify-content-center"}>
         <div className={"untitled"}>
           <div className="untitled__slides">

@@ -64,14 +64,13 @@
 }
 
 
-
+/* Media Query */
 @media (max-width: 768px) {
   .card-container{
     flex-direction: column;
     background: #fff;
-    margin: 0 1vmax; 
-   width: 90%; 
-   transform: translateX(3%);
+    width: 90%; 
+    transform: translateX(3%);
   }
  
   .image{
@@ -81,5 +80,27 @@
   .heading{
     font-weight:800;
 
+  }
+}
+
+@media (max-width: 400px) {
+  .card-container {
+    width: 85%; 
+    margin: auto;
+    transform: translateX(0);
+  }
+
+  .image {
+    height: 120px;
+    width: 120px;
+  }
+
+  .heading {
+    font-size: 2.5vmax; 
+    font-weight: 800;
+  }
+  
+  .name {
+    font-size: 12px; 
   }
 }
