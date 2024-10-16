@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+  <td align="center">
+    <a href="https://github.com/fachryluid">
+      <img
+        src="https://github.com/fachryluid.png"
+        width="100px"
+      />
+      <br />
+      <sub>Fachry Luid</sub>
+    </a>
+  </td>
+<!-- End of column-4 -->
   </tr>
 </table>
