@@ -851,6 +851,17 @@
     <sub>Shubhal Gupta</sub>
   </a>
 </td>
+    <td align="center">
+  <a href="https://github.com/Mwesigwa12">
+    <img
+      src="https://avatars.githubusercontent.com/u/112547375?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Mwesigwa Gloria</sub>
+  </a>
+</td>
 <!-- End of column-3 -->
   </tr>
+  
 </table>
