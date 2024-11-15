@@ -30,41 +30,46 @@ _使用 [其他语言阅读](https://github.com/BeforeIDieCode/BeforeIDieAchieve
 <a href="https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/translations/Arabic/README.md"><img src="https://hatscripts.github.io/circle-flags/flags/ae.svg" width="40"></a>
 </p>
 
-# 落日余愿BeforeIDieAchievements
+# 落日余愿 BeforeIDieAchievements
 
-🌟 欢迎来到 BeforeIDieAchievements 项目 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, 这是一给开源项目，希望能够帮助开发者完成他们的第一个Pull Request 和第一个开源贡献。了解详情请查看 [线上链接](https://before-i-die-achievements.vercel.app/).
+🌟 欢迎来到 BeforeIDieAchievements 项目 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />，这是一个开源项目，旨在帮助开发者完成他们的第一个 Pull Request 和第一个开源贡献。了解详情请查看 [线上链接](https://before-i-die-achievements.vercel.app/)。
 
-## 🚀🎯  BeforeIDieAchievements是什么?
+## 🚀🎯 BeforeIDieAchievements 是什么？
 
-BeforeIDieAchievements是一个平台，旨在帮助开发者参与开源项目并记录他们的人生目标<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />. 开发者可以通过图片分享他们的梦想 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> 也可以通过文字 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pen.png" alt="Pen" width="25" height="25" /> 描述他们在离世前最想要完成的事情。与他人分享你的人生目标和愿望，思考生活中真正重要的事情，并与志同道合的人建立联系。利用社区的力量来实现你的梦想。<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />. Before I Die Code 是一个记录你人生目标、学习如何为开源项目做出贡献的平台，也是一个非常适合`初学者的项目`。你可以从这篇 [MEDIUM](https://xanderclemens.medium.com/discover-your-life-goals-and-make-your-first-open-source-contribution-with-before-i-die-code-aea8e1130d96) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> 文章或者通过[about.md](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/about.md) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="25" height="25" /> 文件了解更多关于这个项目的信息。
+BeforeIDieAchievements 是一个平台，帮助开发者参与开源项目并记录人生目标<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" />。开发者可以通过图片 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> 和文字 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pen.png" alt="Pen" width="25" height="25" />，分享他们希望在人生离世前最想要完成的目标。这个平台不仅可以帮助你与他人分享愿望和梦想，还能引导你思考生命中真正重要的事情，与志同道合的人建立联系。通过社区的力量，一起实现梦想<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />。BeforeIDieAchievements 同时也是一个 **初学者友好型项目**，为新手开发者提供学习如何为开源项目贡献的机会。更多信息可以参考这篇 [Medium 文章](https://xanderclemens.medium.com/discover-your-life-goals-and-make-your-first-open-source-contribution-with-before-i-die-code-aea8e1130d96) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> 或查看 [about.md](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/about.md)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="25" height="25" /> 。
 
-## 💡🔗 如何贡献
+## 💡🔗 如何贡献？
 
-感谢你对我们的开源项目感兴趣！我们欢迎像您这样的软件工程师做出贡献。以下是你贡献的步骤：
+感谢你对我们开源项目的兴趣！我们欢迎所有开发者参与。以下是具体步骤：
 
-1. 查看[CONTRIBUTION_GUIDELINES](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md): 这个文件包含了如何为项目做出贡献的说明。它详细介绍了将你的"Before I Die"图片和文本添加到我们的照片库<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist Palette.png" alt="Artist Palette" width="25" height="25" />的具体要求。请确保遵循这些准则，以确保你的贡献被接受<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="25" height="25" />.
-2. 改进项目: 查看项目的[open issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues) 和 [ROADMAP](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/ROADMAP.md) 。这些是你可以贡献和产生影响的领域。选择一个与你的技能和兴趣相符的问题或任务。你可以通过评论问题来表达你对参与该问题的兴趣。 
-3. 创建issue: 如果你有你自己的饿想法 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" /> 能够促进本项目的发展, 请不要犹豫的提出issue。请在其中描述你的想法和你想要达到的效果。这样其他人就可以与你合作，并提供反馈。我们可以一起不断提升和改进我们的技能。
-4. 提交贡献: 当你做出修改和完善的后，请按照[贡献指南](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md)的提示提交修改完成贡献.
+1. **查看[贡献指南](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md)**：
+   贡献指南包含了如何为项目做出贡献的说明，它详细介绍了如何将你的“Before I Die”图片和文字添加到我们的图库<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist Palette.png" alt="Artist Palette" width="25" height="25" />。请务必遵守这些规则，以确保你的贡献可以顺利被接受<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred Points.png" alt="Hundred Points" width="25" height="25" />。
 
-记住，在开源项目中，沟通和合作是关键。随时提问、澄清问题或寻求项目维护者或其他贡献者的帮助。我们非常重视你的贡献，并期待与你一起改进这个项目。 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" alt="Sun with Face" width="25" height="25" />.
-欢迎加入! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Smiling Face with Halo" width="25" height="25" />.
+2. **改进项目**：
+   查看项目的 [open issues](https://github.com/BeforeIDieCode/BeforeIDieAchievements/issues) 和 [ROADMAP](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/ROADMAP.md)。这些是你可以贡献和产生影响的领域。选择与你的技能和兴趣相关的任务，并在 Issue 下方评论以表达你的参与意向。
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" alt="Racing Car" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Square.png" alt="Green Square" width="25" height="25" />开始
+3. **创建自己的 Issue**：
+   如果你有新的想法或改进建议 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" />能够促进本项目的发展 ，请不要犹豫来创建提出一个新的 Issue，详细描述你的想法和计划。这样其他人可以与你合作，并提供反馈。我们可以一起不断提升改进自己的能力。
 
-要开始使用BeforeIDieAchievements，只需fork<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Fork%20and%20Knife.png" alt="Fork and Knife" width="25" height="25" /> 这个仓库并开始贡献！我们欢迎所有初次贡献者，并乐意帮助你完成第一个拉取请求。请查看[贡献指南](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md).
+4. **提交你的贡献**：
+   完成修改后，按照 [贡献指南](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md) 的步骤提交你的贡献。
+
+记住，开源项目中最重要的是 **沟通与协作**。如果有任何疑问，请随时向项目维护者或其他贡献者寻求帮助。我们非常重视你的贡献，并期待与你一起改进这个项目！<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" alt="Sun with Face" width="25" height="25" />。欢迎你的加入! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Smiling Face with Halo" width="25" height="25" />.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" alt="Racing Car" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Square.png" alt="Green Square" width="25" height="25" /> 如何开始？
+
+要开始使用 BeforeIDieAchievements，只需 Fork <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Fork and Knife.png" alt="Fork and Knife" width="25" height="25" /> 这个仓库，并按照 [贡献指南](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md) 完成修改。我们欢迎所有新手贡献者，并乐意帮助你完成第一个 PR。
 
 ## 🎉<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cool%20Button.png" alt="Cool Button" width="25" height="25" /> 开源协议
 
-BeforeIDieAchievements采用MIT许可证。有关更多信息，请参阅 [LICENSE](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/LICENSE) 。
+BeforeIDieAchievements 采用 MIT 许可证。详细信息请参阅 [LICENSE](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/LICENSE)。
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Open%20Hands.png" alt="Open Hands" width="25" height="25" /> 贡献者 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Mechanic.png" alt="Man Mechanic" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Superhero.png" alt="Woman Superhero" width="25" height="25" />
-
-我们要感谢所有帮助实现BeforeIDieAchievements的贡献者。请查看 [CONTRIBUTORS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md) 文件看看所有为这个项目做出贡献的了不起的人们。
+感谢所有为 BeforeIDieAchievements 项目做出贡献的开发者们！查看 [CONTRIBUTORS](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTORS.md) 文件，了解每一位了不起的贡献者的名字和成就。
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> 联系方式
 
-如果你对BeforeIDieAchievements有任何问题或反馈，请随时联系我们。我们非常乐意收到你的来信！目前你可以在[LinkedIn](https://www.linkedin.com/in/alexanderclemens/)上联系我或者在[我的网站上](https://www.xanderclemens.com/)找到更多关于我的信息.
+如果你对 BeforeIDieAchievements 有任何问题或建议，请通过 [LinkedIn](https://www.linkedin.com/in/alexanderclemens/) 联系我们，或者访问[我的个人网站](https://www.xanderclemens.com/)。我们期待与你交流！
 
 感谢您对 BeforeIDieAchievements项目的关注.们希望你享受为这个项目做贡献的过程，记录你的人生目标，并为这个 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="Shooting Star" width="25" height="25" /> 仓库 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 点赞!
 
