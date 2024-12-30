@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/met97">
+    <img
+      src="https://avatars.githubusercontent.com/u/69080312?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Mattia Bellardi</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
