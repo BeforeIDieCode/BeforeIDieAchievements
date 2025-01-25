@@ -628,5 +628,14 @@
     "location": "Kaduna, Nigeria 🇳🇬",
     "GitHub": "https://github.com/Luwa-Tech",
     "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
-  }
+  },
+  {
+    "id": "Will_VW",
+    "image": "img/bid_image/coding.jpg",
+    "avatar": "img/avatar/will-vw-iv.jpg",
+    "name": "Will_VW",
+    "location": "Tokyo, Japan",
+    "GitHub": "https://github.com/lostonpurpose",
+    "text": "I want to code a video game as a solo developer"
+}
 ]
