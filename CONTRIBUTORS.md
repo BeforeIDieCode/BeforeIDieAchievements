@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/lostonpurpose">
+    <img
+      src="https://github.com/account"
+      width="100px"
+    />
+    <br />
+    <sub>Will VW</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
