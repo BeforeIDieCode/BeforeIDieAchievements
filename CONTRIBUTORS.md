@@ -851,6 +851,16 @@
     <sub>Shubhal Gupta</sub>
   </a>
 </td>
+<td align="center">
+  <a href="https://github.com/Denyme24">
+    <img
+      src="https://avatars.githubusercontent.com/u/159605546?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Naman Raj</sub>
+  </a>
+</td>
 <!-- End of column-3 -->
   </tr>
 </table>
