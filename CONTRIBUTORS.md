@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column 4-->
+<td align="center">
+  <a href="https://github.com/Valeria-D-23">
+    <img
+      src="https://avatars.githubusercontent.com/u/142251725?s=400&u=be8ec8daca078232c5233328f4cc8eeb4204d79d&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Valeria</sub>
+  </a>
+</td>
+<!-- End of column 4-->
   </tr>
 </table>
