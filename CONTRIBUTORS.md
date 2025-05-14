@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/pineapple-anon">
+    <img
+      src="https://avatars.githubusercontent.com/u/179411482?s=400&u=41f6ac1141bc1ab34673b3273af687290143c630&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Pineapple Anon</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
