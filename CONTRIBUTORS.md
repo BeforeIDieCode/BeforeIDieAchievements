@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/Anas-7860">
+    <img
+      src="https://avatars.githubusercontent.com/u/117845140?s=400&u=be3da3a6339075b716c35b9b4aa86479dbb528d3&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Md Anas Khan</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
