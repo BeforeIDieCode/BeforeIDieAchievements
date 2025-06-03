@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/ngotheodore">
+    <img
+      src="https://avatars.githubusercontent.com/u/83106444?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Theodore Ngo</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
