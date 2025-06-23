@@ -44,10 +44,12 @@ const Footer = () => {
           onMouseEnter={playTypingSound}
           onMouseLeave={stopTypingSound}
         >
-          <FontAwesomeIcon
-            icon={faCode}
-            style={{ color: "#feea3a" }}
-          />
+        <FontAwesomeIcon
+  icon={faCode}
+  style={{ color: "#feea3a" }}
+  title="Click me!"
+/>
+
         </span>{" "}
         with{" "}
         <span
