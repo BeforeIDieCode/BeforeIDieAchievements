@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/Nawal-Shahid">
+    <img
+      src="https://avatars.githubusercontent.com/u/156416326?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Nawal Shahid</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>

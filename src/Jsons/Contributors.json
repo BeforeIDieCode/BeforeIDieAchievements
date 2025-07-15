@@ -628,5 +628,16 @@
     "location": "Kaduna, Nigeria 🇳🇬",
     "GitHub": "https://github.com/Luwa-Tech",
     "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
+  },
+  {
+    "id": "Nawal",
+    "image": "img/bid_image/Nawal.jpg",
+    "avatar": "img/avatar/Nawal.jpg",
+    "name": "Nawal Shahid",
+    "location": "Karachi, Pakistan 🇵🇰", 
+    "GitHub": "https://github.com/Nawal-Shahid",
+    "text": "Build an inclusive tech platform that empowers girls to learn, create, and lead."
   }
 ]
+
+
