@@ -628,5 +628,14 @@
     "location": "Kaduna, Nigeria 🇳🇬",
     "GitHub": "https://github.com/Luwa-Tech",
     "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
-  }
+  },
+  {
+    "id": "Petr Movse",
+    "image": "img/bid_image/Petr_Mov.jpg",
+    "avatar": "img/avatar/Petr_Mov.jpeg",
+    "name": "Petr Movse",
+    "location": "Praha, Czech Republic cz",
+    "GitHub": "https://github.com/petimov",
+    "text": "I want to learn how to code in my limited spare time. Try to enjoy life to the fullest potential"
+}
 ]

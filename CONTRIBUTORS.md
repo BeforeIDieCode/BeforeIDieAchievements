@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/petimov">
+    <img
+      src="https://avatars.githubusercontent.com/petimov"
+      width="100px"
+    />
+    <br />
+    <sub>Shubhal Gupta</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
