@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+    <td align="center">
+      <a href="https://github.com/dev-namra">
+        <img
+          src="https://avatars.githubusercontent.com/u/152513904?v=4"
+          width="100px"
+        />
+        <br />
+        <sub>Namra Mahak</sub>
+      </a>
+    </td>
+    <!-- End of column-4 -->
   </tr>
 </table>
