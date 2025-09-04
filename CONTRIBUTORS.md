@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/Wdboyes13">
+    <img
+      src="https://github.com/Wdboyes13.png"
+      width="100px"
+    />
+    <br />
+    <sub>William B</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
