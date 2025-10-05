@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
-  </tr>
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/DivInstance">
+    <img
+      src="https://github.com/DivInstance.png"
+      width="100px"
+    />
+    <br />
+    <sub>Divyaranjan Sahoo</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
+</tr>
 </table>
