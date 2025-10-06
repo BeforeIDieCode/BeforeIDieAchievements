@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import heartBeat from "./heart-beat.wav";
 import typingSound from "./typing-sound.wav";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -8,9 +8,17 @@ import styles from "./Footer.module.css";
 
 const Footer = () => {
   const [isMobile, setIsMobile] = useState(window.innerWidth < 640);
-  const heartAudio = new Audio(heartBeat);
-  const typingAudio = new Audio(typingSound);
+  const heartAudioRef = useRef(null);
+  const typingAudioRef = useRef(null);
+
   useEffect(() => {
+    // create audio objects once
+    heartAudioRef.current = new Audio(heartBeat);
+    typingAudioRef.current = new Audio(typingSound);
+    // make typing audio loop while hovered/focused and set comfortable volume
+    typingAudioRef.current.loop = true;
+    typingAudioRef.current.volume = 0.5;
+
     function handleSize() {
       setIsMobile(window.innerWidth < 640);
     }
@@ -18,36 +26,69 @@ const Footer = () => {
 
     return () => {
       window.removeEventListener("resize", handleSize);
+      // cleanup audio
+      if (heartAudioRef.current) {
+        heartAudioRef.current.pause();
+        heartAudioRef.current = null;
+      }
+      if (typingAudioRef.current) {
+        typingAudioRef.current.pause();
+        typingAudioRef.current = null;
+      }
     };
   }, []);
 
   const playHeartbeat = () => {
-    heartAudio.play();
+    try {
+      if (heartAudioRef.current) {
+        heartAudioRef.current.currentTime = 0;
+        heartAudioRef.current.volume = 0.9;
+        void heartAudioRef.current.play();
+      }
+    } catch (e) {
+      // ignore play errors
+    }
   };
   const stopHeartbeat = () => {
-    if (heartAudio) {
-      heartAudio.pause();
-    }
+    try {
+      if (heartAudioRef.current) {
+        heartAudioRef.current.pause();
+        heartAudioRef.current.currentTime = 0;
+      }
+    } catch (e) {}
   };
+
   const playTypingSound = () => {
-    typingAudio.play();
+    try {
+      if (typingAudioRef.current) {
+        typingAudioRef.current.currentTime = 0;
+        void typingAudioRef.current.play();
+      }
+    } catch (e) {}
   };
   const stopTypingSound = () => {
-    if (typingAudio) {
-      typingAudio.pause();
-    }
+    try {
+      if (typingAudioRef.current) {
+        typingAudioRef.current.pause();
+        typingAudioRef.current.currentTime = 0;
+      }
+    } catch (e) {}
   };
+
   return (
     <footer className={styles["footer"]}>
       <p className={styles["footer-message"]}>
         <span
+          className={styles.codeIcon}
+          role="img"
+          aria-label="Made"
+          tabIndex={0}
           onMouseEnter={playTypingSound}
           onMouseLeave={stopTypingSound}
+          onFocus={playTypingSound}
+          onBlur={stopTypingSound}
         >
-          <FontAwesomeIcon
-            icon={faCode}
-            style={{ color: "#feea3a" }}
-          />
+          Made
         </span>{" "}
         with{" "}
         <span
@@ -56,6 +97,9 @@ const Footer = () => {
           aria-label="heart"
           onMouseEnter={playHeartbeat}
           onMouseLeave={stopHeartbeat}
+          onFocus={playHeartbeat}
+          onBlur={stopHeartbeat}
+          tabIndex={0}
         >
           💙
         </span>{" "}
@@ -64,8 +108,10 @@ const Footer = () => {
         <a
           className={styles["footer-message-link"]}
           href="https://github.com/BeforeIDieCode"
+          target="_blank"
+          rel="noopener noreferrer"
         >
-          Before I Die Community
+          Before I Die (GitHub org)
         </a>
       </p>
     </footer>
