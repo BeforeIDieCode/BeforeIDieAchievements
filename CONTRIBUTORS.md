@@ -852,5 +852,21 @@
   </a>
 </td>
 <!-- End of column-3 -->
+</tr>
+  <tr>
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/HarshaSai1234">
+    <img
+      src="https://avatars.githubusercontent.com/u/165051853?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Harsha Sai Polnati</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
+</tr>
+</table>
   </tr>
 </table>
