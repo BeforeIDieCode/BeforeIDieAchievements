@@ -851,6 +851,16 @@
     <sub>Shubhal Gupta</sub>
   </a>
 </td>
+<td align="center">
+  <a href="https://github.com/twi-exe">
+    <img
+      src="https://avatars.githubusercontent.com/u/74037527?s=400&u=217307f1a9f14bc02561321731241eadd030277f&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Twisha Patel</sub>
+  </a>
+</td>
 <!-- End of column-3 -->
   </tr>
 </table>
