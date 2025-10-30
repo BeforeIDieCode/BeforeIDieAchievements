@@ -854,3 +854,15 @@
 <!-- End of column-3 -->
   </tr>
 </table>
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/badcoder69-boop">
+    <img
+      src="https://avatars.githubusercontent.com/u/156483879?v=4NK"
+      width="100px"
+    />
+    <br />
+    <sub>Jasno FuE</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
