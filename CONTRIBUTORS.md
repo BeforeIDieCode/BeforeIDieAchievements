@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column- -->
+<td align="center">
+  <a href="https://github.com/RachappaB">
+    <img
+      src="https://avatars.githubusercontent.com/u/97609401?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Rachappa Biradar</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
