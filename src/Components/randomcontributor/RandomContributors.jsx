@@ -32,7 +32,7 @@ const RandomContributors = () => {
         }
       >
         <h1 className={styles.heading}>Thanking Our Before I Die Contributors</h1>
-        <a href={`${currentUser.GitHub}`}>
+        <a href={`${currentUser.GitHub}` target="_blank"}>
           <div className={`${styles.cards} `}>
             <img
               src={currentUser.avatar}
