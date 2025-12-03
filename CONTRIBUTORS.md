@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/Karoly-Git">
+    <img
+      src="https://avatars.githubusercontent.com/u/70485534?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Karoly Hornyak</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
