@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/andresmodev">
+    <img
+      src="https://avatars.githubusercontent.com/u/70929749?s=400&u=a85379ab6e5018fc7e4d40b89b56e732131003dd&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Andrés Montoya</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
