@@ -854,3 +854,19 @@
 <!-- End of column-3 -->
   </tr>
 </table>
+</tr>
+  <tr>
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/karushna">
+    <img
+      src="https://avatars.githubusercontent.com/u/115612833?s=400&u=c7d70ca3a2de7b5f4101e1550008c418101f8f73&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Karushna Jeyakumar</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
+</tr>
+</table>
