@@ -628,5 +628,14 @@
     "location": "Kaduna, Nigeria 🇳🇬",
     "GitHub": "https://github.com/Luwa-Tech",
     "text": "I want to contribute massively to my nation. For my friends, family, and future generations. I want to acheive my dreams."
-  }
+  },
+  {
+    "id": "Vitória Risério",
+    "image": "img/bid_image/vitoria_riserio.jpg",
+    "avatar": "img/avatar/vitoria_riserio.jpg",
+    "name": "Vitória Risério",
+    "location": "Bahia, Brasil 🇧🇷",
+    "GitHub": "https://github.com/vitoriariserio",
+    "text": "I want to somehow help make the world a better place through knowledge. I want to use technology to bring knowledge to those who lack access to it due to economic or social inequalities."
+}
 ]

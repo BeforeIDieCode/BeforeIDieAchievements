@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/vitoriariserio">
+    <img
+      src="https://github.com/vitoriariserio.png"
+      width="100px"
+    />
+    <br />
+    <sub>Vitória Risério</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
